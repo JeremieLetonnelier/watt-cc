@@ -93,6 +93,8 @@ def transform_data(raw_data):
 
     # Création du format exact attendu par RaceResult
     results_list = []
+    riders_dict = {}
+
     for index, row in df.iterrows():
         rider_id = slugify(row['riderName'])
         race_id = slugify(f"{row['raceName']}-{row['date']}-{rider_id}")
@@ -105,16 +107,49 @@ def transform_data(raw_data):
             "position": int(row['position']),
             "points": int(row['points'])
         })
-    
-    return results_list
 
-def load_data(results_list, output_file="data/ffcResults.json"):
-    os.makedirs(os.path.dirname(output_file), exist_ok=True)
-    with open(output_file, 'w', encoding='utf-8') as f:
-        # On sauvegarde directement la liste, pas un objet global
+        if rider_id not in riders_dict:
+            cat = row.get('category', 'Open 1')
+            cat_lower = str(cat).lower()
+            if 'access' in cat_lower:
+                if '1' in cat_lower: cat = 'Access 1'
+                elif '2' in cat_lower: cat = 'Access 2'
+                elif '3' in cat_lower: cat = 'Access 3'
+                elif '4' in cat_lower: cat = 'Access 4'
+                else: cat = 'Access 1'
+            elif 'open' in cat_lower:
+                if '1' in cat_lower: cat = 'Open 1'
+                elif '2' in cat_lower: cat = 'Open 2'
+                elif '3' in cat_lower: cat = 'Open 3'
+                else: cat = 'Open 1'
+            else:
+                cat = 'Access 1' # Default fallback
+            
+            riders_dict[rider_id] = {
+                "id": rider_id,
+                "name": row['riderName'],
+                "club": row.get('club', 'Indépendant'),
+                "category": cat
+            }
+    
+    return results_list, list(riders_dict.values())
+
+def load_data(results_list, riders_list):
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    data_dir = os.path.join(script_dir, "data")
+    os.makedirs(data_dir, exist_ok=True)
+    
+    with open(os.path.join(data_dir, 'ffcResults.json'), 'w', encoding='utf-8') as f:
         json.dump(results_list, f, ensure_ascii=False, indent=2)
+
+    with open(os.path.join(data_dir, 'ffcRiders.json'), 'w', encoding='utf-8') as f:
+        json.dump(riders_list, f, ensure_ascii=False, indent=2)
 
 if __name__ == "__main__":
     data = extract_data()
-    df_transformed = transform_data(data)
-    load_data(df_transformed)
+    if data:
+        results, riders = transform_data(data)
+        load_data(results, riders)
+        print(f"Exported {len(results)} results and {len(riders)} riders to JSON files.")
+    else:
+        print("No data extracted.")

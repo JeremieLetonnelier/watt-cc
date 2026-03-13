@@ -10,7 +10,7 @@ interface FfcResult {
 
 // Import the JSON file with a type assertion
 const ffcScrapedData: FfcResult[] =
-  require("../scripts/data/ffcResults.json").default;
+  require("../scripts/data/ffcResults.json");
 
 // Export the imported data
 export default ffcScrapedData;
@@ -43,74 +43,8 @@ export interface RaceResult {
 
 export const WATT_CLUB_NAME = "WATT.CC";
 
-export const riders: Rider[] = [
-  {
-    id: "ilian-ferguenis",
-    name: "Ilian Ferguenis",
-    club: WATT_CLUB_NAME,
-    category: "Access 1",
-    avatarUrl: "https://picsum.photos/seed/camille/150/150",
-  },
-  {
-    id: "sarah-martin",
-    name: "Sarah Martin",
-    club: WATT_CLUB_NAME,
-    category: "Open 2",
-    avatarUrl: "https://picsum.photos/seed/sarah/150/150",
-  },
-  {
-    id: "3",
-    name: "Léa Bernard",
-    club: WATT_CLUB_NAME,
-    category: "Access 3",
-    avatarUrl: "https://picsum.photos/seed/lea/150/150",
-  },
-  {
-    id: "4",
-    name: "Emma Thomas",
-    club: WATT_CLUB_NAME,
-    category: "Open 1",
-    avatarUrl: "https://picsum.photos/seed/emma/150/150",
-  },
-  {
-    id: "5",
-    name: "Chloé Petit",
-    club: WATT_CLUB_NAME,
-    category: "Access 2",
-    avatarUrl: "https://picsum.photos/seed/chloe/150/150",
-  },
-  {
-    id: "6",
-    name: "Manon Robert",
-    club: "Paris Cycliste Olympique",
-    category: "Open 1",
-  },
-  {
-    id: "7",
-    name: "Julie Richard",
-    club: "Argenteuil Val de Seine",
-    category: "Access 1",
-  },
-  {
-    id: "8",
-    name: "Alice Dubois",
-    club: "Team 94 Cycling",
-    category: "Open 2",
-  },
-  {
-    id: "9",
-    name: "Sophie Moreau",
-    club: WATT_CLUB_NAME,
-    category: "Access 4",
-    avatarUrl: "https://picsum.photos/seed/sophie/150/150",
-  },
-  {
-    id: "10",
-    name: "Laura Laurent",
-    club: "US Métro Transports",
-    category: "Open 3",
-  },
-];
+const ffcRidersData: any[] = require("../scripts/data/ffcRiders.json");
+export const riders: Rider[] = ffcRidersData as Rider[];
 
 export const ffcResults: RaceResult[] = ffcScrapedData as RaceResult[];
 
@@ -178,11 +112,16 @@ export const getLeaderboard = (
   }
 
   const leaderboard = filteredRiders
-    .map((rider) => ({
-      ...rider,
-      totalPoints: calculateTotalPoints(rider.id, results),
-    }))
-    .filter((r) => r.totalPoints > 0);
+    .map((rider) => {
+      const riderResults = results.filter((res) => res.riderId === rider.id);
+      return {
+        ...rider,
+        totalPoints: riderResults.reduce((total, res) => total + res.points, 0),
+        totalWins: riderResults.filter((res) => res.position === 1).length,
+        hasResults: riderResults.length > 0,
+      };
+    })
+    .filter((r) => r.totalPoints > 0 || r.hasResults);
 
   return leaderboard.sort((a, b) => {
   // Si les catégories sont différentes, on trie alphabétiquement (Access 1 -> Access 2 -> Open 1...)
@@ -191,7 +130,8 @@ export const getLeaderboard = (
     }
   // Si même catégorie, on trie par les points
   return b.totalPoints - a.totalPoints;
-});
+  });
+};
 
 export const calculateTotalWins = (riderId: string, results: RaceResult[]) => {
   if (!results || !Array.isArray(results)) return 0;
