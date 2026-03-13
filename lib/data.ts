@@ -10,7 +10,7 @@ interface FfcResult {
 
 // Import the JSON file with a type assertion
 const ffcScrapedData: FfcResult[] =
-  require("../../scripts/data/ffcResults.json").default;
+  require("../scripts/data/ffcResults.json").default;
 
 // Export the imported data
 export default ffcScrapedData;
