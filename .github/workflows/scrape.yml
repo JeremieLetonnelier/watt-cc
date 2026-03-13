@@ -1,0 +1,38 @@
+name: Scrape FFC Results
+
+on:
+  schedule:
+    - cron: "0 8 * * 1" # Tous les lundis à 08:00 UTC
+  workflow_dispatch: # Permet de lancer manuellement depuis l'interface GitHub
+
+jobs:
+  scrape-and-commit:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Nécessaire pour pouvoir commiter
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.10"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4 pandas lxml
+
+      - name: Run scraper
+        run: python scripts/scrape_ffc.py # Remplacez par le chemin de votre script
+
+      - name: Commit and push if changed
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add data/ffcResults.json
+          git commit -m "chore: update FFC race results [skip ci]" || exit 0
+          git push
+          # Retirez [skip ci] si vous voulez que GitHub actions lance d'autres CI, 
+          # mais Vercel déploiera tout de même.
