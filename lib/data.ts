@@ -41,7 +41,7 @@ export interface RaceResult {
   points: number;
 }
 
-export const WATT_CLUB_NAME = "WATT.CC";
+export const WATT_CLUB_NAME = "WATT CYCLING CLUB";
 
 const ffcRidersData: any[] = require("../scripts/data/ffcRiders.json");
 export const riders: Rider[] = ffcRidersData as Rider[];
