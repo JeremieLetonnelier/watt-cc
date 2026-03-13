@@ -184,5 +184,17 @@ export const getLeaderboard = (
     }))
     .filter((r) => r.totalPoints > 0);
 
-  return leaderboard.sort((a, b) => b.totalPoints - a.totalPoints);
+  return leaderboard.sort((a, b) => {
+  // Si les catégories sont différentes, on trie alphabétiquement (Access 1 -> Access 2 -> Open 1...)
+    if (a.category !== b.category) {
+      return a.category.localeCompare(b.category);
+    }
+  // Si même catégorie, on trie par les points
+  return b.totalPoints - a.totalPoints;
+});
+
+export const calculateTotalWins = (riderId: string, results: RaceResult[]) => {
+  if (!results || !Array.isArray(results)) return 0;
+  return results.filter((r) => r.riderId === riderId && r.position === 1)
+    .length;
 };

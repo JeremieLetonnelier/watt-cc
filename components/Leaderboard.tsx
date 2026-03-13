@@ -1,23 +1,39 @@
-'use client';
+"use client";
 
-import { useState } from 'react';
-import { motion, AnimatePresence } from 'motion/react';
-import { ffcResults, getLeaderboard, Category, WATT_CLUB_NAME } from '@/lib/data';
-import Image from 'next/image';
-import { Trophy, Filter, Medal } from 'lucide-react';
+import { useState } from "react";
+import { motion, AnimatePresence } from "motion/react";
+import {
+  ffcResults,
+  getLeaderboard,
+  Category,
+  WATT_CLUB_NAME,
+} from "@/lib/data";
+import Image from "next/image";
+import { Trophy, Filter, Medal } from "lucide-react";
 
-type Tab = 'general' | 'watt';
+type Tab = "general" | "watt";
 
 export default function Leaderboard() {
-  const [activeTab, setActiveTab] = useState<Tab>('watt');
-  const [selectedCategory, setSelectedCategory] = useState<Category | 'All'>('All');
+  const [activeTab, setActiveTab] = useState<Tab>("watt");
+  const [selectedCategory, setSelectedCategory] = useState<Category | "All">(
+    "All",
+  );
 
-  const categories: (Category | 'All')[] = ['All', 'Access 1', 'Access 2', 'Access 3', 'Access 4', 'Open 1', 'Open 2', 'Open 3'];
+  const categories: (Category | "All")[] = [
+    "All",
+    "Access 1",
+    "Access 2",
+    "Access 3",
+    "Access 4",
+    "Open 1",
+    "Open 2",
+    "Open 3",
+  ];
 
   const leaderboardData = getLeaderboard(
     ffcResults,
-    activeTab === 'watt' ? WATT_CLUB_NAME : undefined,
-    selectedCategory === 'All' ? undefined : selectedCategory
+    activeTab === "watt" ? WATT_CLUB_NAME : undefined,
+    selectedCategory === "All" ? undefined : selectedCategory,
   );
 
   return (
@@ -28,27 +44,29 @@ export default function Leaderboard() {
             <Trophy className="w-10 h-10 text-[#ff007f]" />
             Classement FFC
           </h2>
-          <p className="text-gray-400 mt-2 text-lg">Comité d'Ile de France (CIF)</p>
+          <p className="text-gray-400 mt-2 text-lg">
+            Comité d'Ile de France (CIF)
+          </p>
         </div>
 
         {/* Tabs */}
         <div className="flex bg-white/5 p-1 rounded-full border border-white/10">
           <button
-            onClick={() => setActiveTab('watt')}
+            onClick={() => setActiveTab("watt")}
             className={`px-6 py-2 rounded-full font-bold uppercase tracking-wider text-sm transition-all ${
-              activeTab === 'watt'
-                ? 'bg-gradient-to-r from-[#4a00e0] to-[#ff007f] text-white shadow-lg'
-                : 'text-gray-400 hover:text-white'
+              activeTab === "watt"
+                ? "bg-gradient-to-r from-[#4a00e0] to-[#ff007f] text-white shadow-lg"
+                : "text-gray-400 hover:text-white"
             }`}
           >
             WATT.CC
           </button>
           <button
-            onClick={() => setActiveTab('general')}
+            onClick={() => setActiveTab("general")}
             className={`px-6 py-2 rounded-full font-bold uppercase tracking-wider text-sm transition-all ${
-              activeTab === 'general'
-                ? 'bg-gradient-to-r from-[#4a00e0] to-[#ff007f] text-white shadow-lg'
-                : 'text-gray-400 hover:text-white'
+              activeTab === "general"
+                ? "bg-gradient-to-r from-[#4a00e0] to-[#ff007f] text-white shadow-lg"
+                : "text-gray-400 hover:text-white"
             }`}
           >
             Général
@@ -68,11 +86,11 @@ export default function Leaderboard() {
             onClick={() => setSelectedCategory(cat)}
             className={`whitespace-nowrap px-4 py-2 rounded-lg font-semibold text-sm transition-colors border ${
               selectedCategory === cat
-                ? 'bg-[#ff007f]/20 border-[#ff007f] text-white'
-                : 'bg-transparent border-white/10 text-gray-400 hover:border-white/30 hover:text-white'
+                ? "bg-[#ff007f]/20 border-[#ff007f] text-white"
+                : "bg-transparent border-white/10 text-gray-400 hover:border-white/30 hover:text-white"
             }`}
           >
-            {cat === 'All' ? 'Toutes' : cat}
+            {cat === "All" ? "Toutes" : cat}
           </button>
         ))}
       </div>
@@ -86,19 +104,26 @@ export default function Leaderboard() {
                 <th className="p-4 font-semibold w-16 text-center">Pos</th>
                 <th className="p-4 font-semibold">Coureur</th>
                 <th className="p-4 font-semibold hidden sm:table-cell">Club</th>
-                <th className="p-4 font-semibold hidden md:table-cell">Catégorie</th>
+                <th className="p-4 font-semibold hidden md:table-cell">
+                  Catégorie
+                </th>
                 <th className="p-4 font-semibold text-right">Points</th>
+                <th className="p-4 font-semibold text-center">Victoires</th>
               </tr>
             </thead>
             <tbody>
               <AnimatePresence mode="popLayout">
                 {leaderboardData.length === 0 ? (
                   <motion.tr
+                    key="empty-state"
                     initial={{ opacity: 0 }}
                     animate={{ opacity: 1 }}
                     exit={{ opacity: 0 }}
                   >
-                    <td colSpan={5} className="p-8 text-center text-gray-500 italic">
+                    <td
+                      colSpan={5}
+                      className="p-8 text-center text-gray-500 italic"
+                    >
                       Aucun résultat trouvé pour ces filtres.
                     </td>
                   </motion.tr>
@@ -121,7 +146,9 @@ export default function Leaderboard() {
                         ) : index === 2 ? (
                           <Medal className="w-6 h-6 text-amber-600 mx-auto" />
                         ) : (
-                          <span className="text-gray-500 font-bold">{index + 1}</span>
+                          <span className="text-gray-500 font-bold">
+                            {index + 1}
+                          </span>
                         )}
                       </td>
                       <td className="p-4">
@@ -142,8 +169,12 @@ export default function Leaderboard() {
                             )}
                           </div>
                           <div>
-                            <div className="font-bold text-white">{rider.name}</div>
-                            <div className="text-xs text-gray-500 sm:hidden">{rider.club}</div>
+                            <div className="font-bold text-white">
+                              {rider.name}
+                            </div>
+                            <div className="text-xs text-gray-500 sm:hidden">
+                              {rider.club}
+                            </div>
                           </div>
                         </div>
                       </td>
@@ -165,7 +196,18 @@ export default function Leaderboard() {
                         <span className="text-2xl font-black text-white">
                           {rider.totalPoints}
                         </span>
-                        <span className="text-xs text-gray-500 ml-1 uppercase font-bold">pts</span>
+                        <span className="text-xs text-gray-500 ml-1 uppercase font-bold">
+                          pts
+                        </span>
+                      </td>
+                      <td className="p-4 text-center">
+                        {rider.totalWins > 0 ? (
+                          <span className="flex items-center justify-center gap-1 text-yellow-400 font-bold">
+                            {rider.totalWins} <Trophy className="w-3 h-3" />
+                          </span>
+                        ) : (
+                          <span className="text-gray-600">-</span>
+                        )}
                       </td>
                     </motion.tr>
                   ))
