@@ -111,7 +111,7 @@ def transform_data(raw_data):
         if rider_id not in riders_dict:
             cat = row.get('category', 'Open 1')
             cat_lower = str(cat).lower()
-            if 'access' in cat_lower:
+            if 'acc' in cat_lower:
                 if '1' in cat_lower: cat = 'Access 1'
                 elif '2' in cat_lower: cat = 'Access 2'
                 elif '3' in cat_lower: cat = 'Access 3'

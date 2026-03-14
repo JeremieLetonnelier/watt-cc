@@ -112,7 +112,7 @@ export default function Leaderboard() {
               </tr>
             </thead>
             <tbody>
-              <AnimatePresence mode="popLayout">
+              <AnimatePresence mode="wait">
                 {leaderboardData.length === 0 ? (
                   <motion.tr
                     key="empty-state"
