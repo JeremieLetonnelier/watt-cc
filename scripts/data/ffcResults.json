@@ -4350,5 +4350,733 @@
     "riderId": "nolan-patron",
     "position": 37,
     "points": 0
+  },
+  {
+    "id": "fontainebleau---open-2-3-2026-03-08-antton-landois-waliszewski",
+    "raceName": "FONTAINEBLEAU - OPEN 2-3",
+    "date": "2026-03-08",
+    "riderId": "antton-landois-waliszewski",
+    "position": 1,
+    "points": 50
+  },
+  {
+    "id": "fontainebleau---open-2-3-2026-03-08-yan-rolland",
+    "raceName": "FONTAINEBLEAU - OPEN 2-3",
+    "date": "2026-03-08",
+    "riderId": "yan-rolland",
+    "position": 2,
+    "points": 25
+  },
+  {
+    "id": "fontainebleau---open-2-3-2026-03-08-paul-luez",
+    "raceName": "FONTAINEBLEAU - OPEN 2-3",
+    "date": "2026-03-08",
+    "riderId": "paul-luez",
+    "position": 3,
+    "points": 22
+  },
+  {
+    "id": "fontainebleau---open-2-3-2026-03-08-gervais-castres",
+    "raceName": "FONTAINEBLEAU - OPEN 2-3",
+    "date": "2026-03-08",
+    "riderId": "gervais-castres",
+    "position": 4,
+    "points": 19
+  },
+  {
+    "id": "fontainebleau---open-2-3-2026-03-08-gregory-fors",
+    "raceName": "FONTAINEBLEAU - OPEN 2-3",
+    "date": "2026-03-08",
+    "riderId": "gregory-fors",
+    "position": 5,
+    "points": 17
+  },
+  {
+    "id": "fontainebleau---open-2-3-2026-03-08-enzo-panor",
+    "raceName": "FONTAINEBLEAU - OPEN 2-3",
+    "date": "2026-03-08",
+    "riderId": "enzo-panor",
+    "position": 6,
+    "points": 15
+  },
+  {
+    "id": "fontainebleau---open-2-3-2026-03-08-pierre-mavier",
+    "raceName": "FONTAINEBLEAU - OPEN 2-3",
+    "date": "2026-03-08",
+    "riderId": "pierre-mavier",
+    "position": 7,
+    "points": 14
+  },
+  {
+    "id": "fontainebleau---open-2-3-2026-03-08-axel-bansard",
+    "raceName": "FONTAINEBLEAU - OPEN 2-3",
+    "date": "2026-03-08",
+    "riderId": "axel-bansard",
+    "position": 8,
+    "points": 13
+  },
+  {
+    "id": "fontainebleau---open-2-3-2026-03-08-clovis-rottement",
+    "raceName": "FONTAINEBLEAU - OPEN 2-3",
+    "date": "2026-03-08",
+    "riderId": "clovis-rottement",
+    "position": 9,
+    "points": 12
+  },
+  {
+    "id": "fontainebleau---open-2-3-2026-03-08-benjamin-verrier",
+    "raceName": "FONTAINEBLEAU - OPEN 2-3",
+    "date": "2026-03-08",
+    "riderId": "benjamin-verrier",
+    "position": 10,
+    "points": 11
+  },
+  {
+    "id": "fontainebleau---open-2-3-2026-03-08-pierre-quere",
+    "raceName": "FONTAINEBLEAU - OPEN 2-3",
+    "date": "2026-03-08",
+    "riderId": "pierre-quere",
+    "position": 11,
+    "points": 10
+  },
+  {
+    "id": "fontainebleau---open-2-3-2026-03-08-david-remond",
+    "raceName": "FONTAINEBLEAU - OPEN 2-3",
+    "date": "2026-03-08",
+    "riderId": "david-remond",
+    "position": 12,
+    "points": 9
+  },
+  {
+    "id": "fontainebleau---open-2-3-2026-03-08-baptiste-larcher",
+    "raceName": "FONTAINEBLEAU - OPEN 2-3",
+    "date": "2026-03-08",
+    "riderId": "baptiste-larcher",
+    "position": 13,
+    "points": 8
+  },
+  {
+    "id": "fontainebleau---open-2-3-2026-03-08-matheo-coolsaet",
+    "raceName": "FONTAINEBLEAU - OPEN 2-3",
+    "date": "2026-03-08",
+    "riderId": "matheo-coolsaet",
+    "position": 14,
+    "points": 7
+  },
+  {
+    "id": "fontainebleau---open-2-3-2026-03-08-mathys-bacq",
+    "raceName": "FONTAINEBLEAU - OPEN 2-3",
+    "date": "2026-03-08",
+    "riderId": "mathys-bacq",
+    "position": 15,
+    "points": 6
+  },
+  {
+    "id": "fontainebleau---open-2-3-2026-03-08-timote-graziani",
+    "raceName": "FONTAINEBLEAU - OPEN 2-3",
+    "date": "2026-03-08",
+    "riderId": "timote-graziani",
+    "position": 16,
+    "points": 5
+  },
+  {
+    "id": "fontainebleau---open-2-3-2026-03-08-maxime-belair",
+    "raceName": "FONTAINEBLEAU - OPEN 2-3",
+    "date": "2026-03-08",
+    "riderId": "maxime-belair",
+    "position": 17,
+    "points": 4
+  },
+  {
+    "id": "fontainebleau---open-2-3-2026-03-08-martin-douhet",
+    "raceName": "FONTAINEBLEAU - OPEN 2-3",
+    "date": "2026-03-08",
+    "riderId": "martin-douhet",
+    "position": 18,
+    "points": 3
+  },
+  {
+    "id": "fontainebleau---open-2-3-2026-03-08-martin-lavercier",
+    "raceName": "FONTAINEBLEAU - OPEN 2-3",
+    "date": "2026-03-08",
+    "riderId": "martin-lavercier",
+    "position": 19,
+    "points": 2
+  },
+  {
+    "id": "fontainebleau---open-2-3-2026-03-08-emmanuel-bertoldi",
+    "raceName": "FONTAINEBLEAU - OPEN 2-3",
+    "date": "2026-03-08",
+    "riderId": "emmanuel-bertoldi",
+    "position": 20,
+    "points": 1
+  },
+  {
+    "id": "fontainebleau---open-2-3-2026-03-08-richard-laporte",
+    "raceName": "FONTAINEBLEAU - OPEN 2-3",
+    "date": "2026-03-08",
+    "riderId": "richard-laporte",
+    "position": 21,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau---open-2-3-2026-03-08-ethan-cassart",
+    "raceName": "FONTAINEBLEAU - OPEN 2-3",
+    "date": "2026-03-08",
+    "riderId": "ethan-cassart",
+    "position": 22,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau---open-2-3-2026-03-08-cedric-llorca",
+    "raceName": "FONTAINEBLEAU - OPEN 2-3",
+    "date": "2026-03-08",
+    "riderId": "cedric-llorca",
+    "position": 23,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau---open-2-3-2026-03-08-mathis-duseaux",
+    "raceName": "FONTAINEBLEAU - OPEN 2-3",
+    "date": "2026-03-08",
+    "riderId": "mathis-duseaux",
+    "position": 24,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau---open-2-3-2026-03-08-timothe-michel",
+    "raceName": "FONTAINEBLEAU - OPEN 2-3",
+    "date": "2026-03-08",
+    "riderId": "timothe-michel",
+    "position": 25,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau---open-2-3-2026-03-08-bastien-de-vido",
+    "raceName": "FONTAINEBLEAU - OPEN 2-3",
+    "date": "2026-03-08",
+    "riderId": "bastien-de-vido",
+    "position": 26,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau---open-2-3-2026-03-08-thibaut-madorre",
+    "raceName": "FONTAINEBLEAU - OPEN 2-3",
+    "date": "2026-03-08",
+    "riderId": "thibaut-madorre",
+    "position": 27,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau---open-2-3-2026-03-08-denis-hoffmann",
+    "raceName": "FONTAINEBLEAU - OPEN 2-3",
+    "date": "2026-03-08",
+    "riderId": "denis-hoffmann",
+    "position": 28,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau---open-2-3-2026-03-08-vincent-loschi",
+    "raceName": "FONTAINEBLEAU - OPEN 2-3",
+    "date": "2026-03-08",
+    "riderId": "vincent-loschi",
+    "position": 29,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau---open-2-3-2026-03-08-romain-bassement",
+    "raceName": "FONTAINEBLEAU - OPEN 2-3",
+    "date": "2026-03-08",
+    "riderId": "romain-bassement",
+    "position": 31,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau---open-2-3-2026-03-08-tinui-renault",
+    "raceName": "FONTAINEBLEAU - OPEN 2-3",
+    "date": "2026-03-08",
+    "riderId": "tinui-renault",
+    "position": 32,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau---open-2-3-2026-03-08-louis-foyer",
+    "raceName": "FONTAINEBLEAU - OPEN 2-3",
+    "date": "2026-03-08",
+    "riderId": "louis-foyer",
+    "position": 33,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau---open-2-3-2026-03-08-romain-bertrand",
+    "raceName": "FONTAINEBLEAU - OPEN 2-3",
+    "date": "2026-03-08",
+    "riderId": "romain-bertrand",
+    "position": 34,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau---open-2-3-2026-03-08-emilien-mellot",
+    "raceName": "FONTAINEBLEAU - OPEN 2-3",
+    "date": "2026-03-08",
+    "riderId": "emilien-mellot",
+    "position": 35,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau---open-2-3-2026-03-08-antoine-capelle",
+    "raceName": "FONTAINEBLEAU - OPEN 2-3",
+    "date": "2026-03-08",
+    "riderId": "antoine-capelle",
+    "position": 36,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau---open-2-3-2026-03-08-domenico-tarditi",
+    "raceName": "FONTAINEBLEAU - OPEN 2-3",
+    "date": "2026-03-08",
+    "riderId": "domenico-tarditi",
+    "position": 37,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau---open-2-3-2026-03-08-thomas-paradela",
+    "raceName": "FONTAINEBLEAU - OPEN 2-3",
+    "date": "2026-03-08",
+    "riderId": "thomas-paradela",
+    "position": 38,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau---open-2-3-2026-03-08-olivier-ilongo-gomez",
+    "raceName": "FONTAINEBLEAU - OPEN 2-3",
+    "date": "2026-03-08",
+    "riderId": "olivier-ilongo-gomez",
+    "position": 40,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau---open-2-3-2026-03-08-enzo-huyghe",
+    "raceName": "FONTAINEBLEAU - OPEN 2-3",
+    "date": "2026-03-08",
+    "riderId": "enzo-huyghe",
+    "position": 41,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau---open-2-3-2026-03-08-baptiste-de-grammont",
+    "raceName": "FONTAINEBLEAU - OPEN 2-3",
+    "date": "2026-03-08",
+    "riderId": "baptiste-de-grammont",
+    "position": 42,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau---open-2-3-2026-03-08-ethane-hoffmann",
+    "raceName": "FONTAINEBLEAU - OPEN 2-3",
+    "date": "2026-03-08",
+    "riderId": "ethane-hoffmann",
+    "position": 43,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau---open-2-3-2026-03-08-mathis-saussois-ghazani",
+    "raceName": "FONTAINEBLEAU - OPEN 2-3",
+    "date": "2026-03-08",
+    "riderId": "mathis-saussois-ghazani",
+    "position": 44,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau---open-2-3-2026-03-08-lucas-marineau",
+    "raceName": "FONTAINEBLEAU - OPEN 2-3",
+    "date": "2026-03-08",
+    "riderId": "lucas-marineau",
+    "position": 45,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau---open-2-3-2026-03-08-daniel-kefer",
+    "raceName": "FONTAINEBLEAU - OPEN 2-3",
+    "date": "2026-03-08",
+    "riderId": "daniel-kefer",
+    "position": 46,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau---open-2-3-2026-03-08-julien-durand",
+    "raceName": "FONTAINEBLEAU - OPEN 2-3",
+    "date": "2026-03-08",
+    "riderId": "julien-durand",
+    "position": 47,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau---open-2-3-2026-03-08-pierrick-jamot",
+    "raceName": "FONTAINEBLEAU - OPEN 2-3",
+    "date": "2026-03-08",
+    "riderId": "pierrick-jamot",
+    "position": 48,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau---open-2-3-2026-03-08-nicolas-meunier",
+    "raceName": "FONTAINEBLEAU - OPEN 2-3",
+    "date": "2026-03-08",
+    "riderId": "nicolas-meunier",
+    "position": 49,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau---open-2-3-2026-03-08-gabin-montet",
+    "raceName": "FONTAINEBLEAU - OPEN 2-3",
+    "date": "2026-03-08",
+    "riderId": "gabin-montet",
+    "position": 50,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau---open-2-3-2026-03-08-maxence-mion",
+    "raceName": "FONTAINEBLEAU - OPEN 2-3",
+    "date": "2026-03-08",
+    "riderId": "maxence-mion",
+    "position": 51,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau---open-2-3-2026-03-08-louis-devaux",
+    "raceName": "FONTAINEBLEAU - OPEN 2-3",
+    "date": "2026-03-08",
+    "riderId": "louis-devaux",
+    "position": 52,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau---open-2-3-2026-03-08-melvin-landerneau",
+    "raceName": "FONTAINEBLEAU - OPEN 2-3",
+    "date": "2026-03-08",
+    "riderId": "melvin-landerneau",
+    "position": 53,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau---open-2-3-2026-03-08-corentin-torzewski",
+    "raceName": "FONTAINEBLEAU - OPEN 2-3",
+    "date": "2026-03-08",
+    "riderId": "corentin-torzewski",
+    "position": 54,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau---open-2-3-2026-03-08-benjamin-chaillou",
+    "raceName": "FONTAINEBLEAU - OPEN 2-3",
+    "date": "2026-03-08",
+    "riderId": "benjamin-chaillou",
+    "position": 55,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau---open-2-3-2026-03-08-killian-moutou",
+    "raceName": "FONTAINEBLEAU - OPEN 2-3",
+    "date": "2026-03-08",
+    "riderId": "killian-moutou",
+    "position": 56,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau---open-2-3-2026-03-08-jeremy-martignon",
+    "raceName": "FONTAINEBLEAU - OPEN 2-3",
+    "date": "2026-03-08",
+    "riderId": "jeremy-martignon",
+    "position": 57,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau---open-2-3-2026-03-08-ivan-dimitrijevic",
+    "raceName": "FONTAINEBLEAU - OPEN 2-3",
+    "date": "2026-03-08",
+    "riderId": "ivan-dimitrijevic",
+    "position": 58,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau---open-2-3-2026-03-08-mathieu-baglan",
+    "raceName": "FONTAINEBLEAU - OPEN 2-3",
+    "date": "2026-03-08",
+    "riderId": "mathieu-baglan",
+    "position": 59,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau---open-2-3-2026-03-08-florian-menard",
+    "raceName": "FONTAINEBLEAU - OPEN 2-3",
+    "date": "2026-03-08",
+    "riderId": "florian-menard",
+    "position": 60,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau---open-2-3-2026-03-08-timothe-dissaux",
+    "raceName": "FONTAINEBLEAU - OPEN 2-3",
+    "date": "2026-03-08",
+    "riderId": "timothe-dissaux",
+    "position": 61,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau---open-2-3-2026-03-08-maxandre-contault",
+    "raceName": "FONTAINEBLEAU - OPEN 2-3",
+    "date": "2026-03-08",
+    "riderId": "maxandre-contault",
+    "position": 62,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau---open-2-3-2026-03-08-remi-duponq",
+    "raceName": "FONTAINEBLEAU - OPEN 2-3",
+    "date": "2026-03-08",
+    "riderId": "remi-duponq",
+    "position": 63,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau---open-2-3-2026-03-08-maxime-fleury-careto",
+    "raceName": "FONTAINEBLEAU - OPEN 2-3",
+    "date": "2026-03-08",
+    "riderId": "maxime-fleury-careto",
+    "position": 64,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau---open-2-3-2026-03-08-thomas-delacour",
+    "raceName": "FONTAINEBLEAU - OPEN 2-3",
+    "date": "2026-03-08",
+    "riderId": "thomas-delacour",
+    "position": 65,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau---open-2-3-2026-03-08-ethan-le-lamer",
+    "raceName": "FONTAINEBLEAU - OPEN 2-3",
+    "date": "2026-03-08",
+    "riderId": "ethan-le-lamer",
+    "position": 66,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau---open-2-3-2026-03-08-romain-pecome",
+    "raceName": "FONTAINEBLEAU - OPEN 2-3",
+    "date": "2026-03-08",
+    "riderId": "romain-pecome",
+    "position": 67,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau---open-2-3-2026-03-08-yann-raoult",
+    "raceName": "FONTAINEBLEAU - OPEN 2-3",
+    "date": "2026-03-08",
+    "riderId": "yann-raoult",
+    "position": 68,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau---open-2-3-2026-03-08-eric-misson",
+    "raceName": "FONTAINEBLEAU - OPEN 2-3",
+    "date": "2026-03-08",
+    "riderId": "eric-misson",
+    "position": 69,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau---open-2-3-2026-03-08-augustin-mesnard",
+    "raceName": "FONTAINEBLEAU - OPEN 2-3",
+    "date": "2026-03-08",
+    "riderId": "augustin-mesnard",
+    "position": 70,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau---open-2-3-2026-03-08-joachim-kanji-nanji",
+    "raceName": "FONTAINEBLEAU - OPEN 2-3",
+    "date": "2026-03-08",
+    "riderId": "joachim-kanji-nanji",
+    "position": 71,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau---open-2-3-2026-03-08-quentin-parade",
+    "raceName": "FONTAINEBLEAU - OPEN 2-3",
+    "date": "2026-03-08",
+    "riderId": "quentin-parade",
+    "position": 73,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau---open-2-3-2026-03-08-colin-ponthonne",
+    "raceName": "FONTAINEBLEAU - OPEN 2-3",
+    "date": "2026-03-08",
+    "riderId": "colin-ponthonne",
+    "position": 74,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau---open-2-3-2026-03-08-rafael-russo",
+    "raceName": "FONTAINEBLEAU - OPEN 2-3",
+    "date": "2026-03-08",
+    "riderId": "rafael-russo",
+    "position": 76,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau---open-2-3-2026-03-08-pierre-ricci",
+    "raceName": "FONTAINEBLEAU - OPEN 2-3",
+    "date": "2026-03-08",
+    "riderId": "pierre-ricci",
+    "position": 77,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau---open-2-3-2026-03-08-cedric-herledan",
+    "raceName": "FONTAINEBLEAU - OPEN 2-3",
+    "date": "2026-03-08",
+    "riderId": "cedric-herledan",
+    "position": 78,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau---open-2-3-2026-03-08-gautier-diedler",
+    "raceName": "FONTAINEBLEAU - OPEN 2-3",
+    "date": "2026-03-08",
+    "riderId": "gautier-diedler",
+    "position": 79,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau---open-2-3-2026-03-08-thibault-gaudillat",
+    "raceName": "FONTAINEBLEAU - OPEN 2-3",
+    "date": "2026-03-08",
+    "riderId": "thibault-gaudillat",
+    "position": 81,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau---open-2-3-2026-03-08-eric-crapard",
+    "raceName": "FONTAINEBLEAU - OPEN 2-3",
+    "date": "2026-03-08",
+    "riderId": "eric-crapard",
+    "position": 82,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau---open-2-3-2026-03-08-tom-bourdier",
+    "raceName": "FONTAINEBLEAU - OPEN 2-3",
+    "date": "2026-03-08",
+    "riderId": "tom-bourdier",
+    "position": 84,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau---open-2-3-2026-03-08-romain-bona",
+    "raceName": "FONTAINEBLEAU - OPEN 2-3",
+    "date": "2026-03-08",
+    "riderId": "romain-bona",
+    "position": 85,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau---open-2-3-2026-03-08-emeric-raufflet",
+    "raceName": "FONTAINEBLEAU - OPEN 2-3",
+    "date": "2026-03-08",
+    "riderId": "emeric-raufflet",
+    "position": 86,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau---open-2-3-2026-03-08-bastien-vuillaume",
+    "raceName": "FONTAINEBLEAU - OPEN 2-3",
+    "date": "2026-03-08",
+    "riderId": "bastien-vuillaume",
+    "position": 88,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau---open-2-3-2026-03-08-vincent-martins",
+    "raceName": "FONTAINEBLEAU - OPEN 2-3",
+    "date": "2026-03-08",
+    "riderId": "vincent-martins",
+    "position": 89,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau---open-2-3-2026-03-08-eyvan-besche",
+    "raceName": "FONTAINEBLEAU - OPEN 2-3",
+    "date": "2026-03-08",
+    "riderId": "eyvan-besche",
+    "position": 90,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau---open-2-3-2026-03-08-vincent-mouquet",
+    "raceName": "FONTAINEBLEAU - OPEN 2-3",
+    "date": "2026-03-08",
+    "riderId": "vincent-mouquet",
+    "position": 91,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau---open-2-3-2026-03-08-wilfrid-noyon",
+    "raceName": "FONTAINEBLEAU - OPEN 2-3",
+    "date": "2026-03-08",
+    "riderId": "wilfrid-noyon",
+    "position": 92,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau---open-2-3-2026-03-08-giovanny-fragnoli",
+    "raceName": "FONTAINEBLEAU - OPEN 2-3",
+    "date": "2026-03-08",
+    "riderId": "giovanny-fragnoli",
+    "position": 93,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau---open-2-3-2026-03-08-alexandre-demandrille",
+    "raceName": "FONTAINEBLEAU - OPEN 2-3",
+    "date": "2026-03-08",
+    "riderId": "alexandre-demandrille",
+    "position": 95,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau---open-2-3-2026-03-08-noe-richard",
+    "raceName": "FONTAINEBLEAU - OPEN 2-3",
+    "date": "2026-03-08",
+    "riderId": "noe-richard",
+    "position": 96,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau---open-2-3-2026-03-08-ferdinand-castelnau",
+    "raceName": "FONTAINEBLEAU - OPEN 2-3",
+    "date": "2026-03-08",
+    "riderId": "ferdinand-castelnau",
+    "position": 97,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau---open-2-3-2026-03-08-olivier-baud",
+    "raceName": "FONTAINEBLEAU - OPEN 2-3",
+    "date": "2026-03-08",
+    "riderId": "olivier-baud",
+    "position": 98,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau---open-2-3-2026-03-08-raphael-bednarz-dubois",
+    "raceName": "FONTAINEBLEAU - OPEN 2-3",
+    "date": "2026-03-08",
+    "riderId": "raphael-bednarz-dubois",
+    "position": 99,
+    "points": 0
   }
 ]
