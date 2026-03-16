@@ -1,15 +1,28 @@
-name: Scrape FFC Results
+name: Import FFC Results
 
 on:
   schedule:
     - cron: "0 8 * * 1" # Tous les lundis à 08:00 UTC
-  workflow_dispatch: # Permet de lancer manuellement depuis l'interface GitHub
+  workflow_dispatch:
+    inputs:
+      pdf_url:
+        description: "URL du PDF à importer (optionnel)"
+        required: false
+        default: ""
+      race_name:
+        description: "Nom de la course (si PDF)"
+        required: false
+        default: "Course FFC"
+      race_date:
+        description: "Date de la course YYYY-MM-DD (si PDF)"
+        required: false
+        default: ""
 
 jobs:
-  scrape-and-commit:
+  import-and-commit:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # Nécessaire pour pouvoir commiter
+      contents: write
 
     steps:
       - name: Checkout repository
@@ -18,21 +31,29 @@ jobs:
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
-          python-version: "3.10"
+          python-version: "3.11"
           cache: "pip"
 
       - name: Install dependencies
-        run: pip install requests beautifulsoup4 pandas lxml
+        run: pip install -r scripts/requirements.txt
 
-      - name: Run scraper
-        run: python scripts/scrape_ffc.py # Remplacez par le chemin de votre script
+      - name: Import FFC web results
+        run: python3 scripts/import_data.py --source ffc
+
+      - name: Import PDF results (si URL fournie)
+        if: ${{ github.event.inputs.pdf_url != '' }}
+        run: |
+          python3 scripts/import_data.py \
+            --source pdf \
+            --url "${{ github.event.inputs.pdf_url }}" \
+            --race-name "${{ github.event.inputs.race_name }}" \
+            --race-date "${{ github.event.inputs.race_date || steps.date.outputs.date }}"
 
       - name: Commit and push if changed
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add data/ffcResults.json
+          git add scripts/data/ffcResults.json scripts/data/ffcRiders.json
           git commit -m "chore: update FFC race results [skip ci]" || exit 0
           git push
-          # Retirez [skip ci] si vous voulez que GitHub actions lance d'autres CI, 
-          # mais Vercel déploiera tout de même.
+

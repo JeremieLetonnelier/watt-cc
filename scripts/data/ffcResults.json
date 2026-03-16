@@ -5078,5 +5078,4357 @@
     "riderId": "raphael-bednarz-dubois",
     "position": 99,
     "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-4--prix-aggl.-de-fontainebleau-2026-03-16-david-geenen",
+    "raceName": "FONTAINEBLEAU – ACCES 4 – PRIX AGGL. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "david-geenen",
+    "position": 1,
+    "points": 50
+  },
+  {
+    "id": "fontainebleau--acces-4--prix-aggl.-de-fontainebleau-2026-03-16-vitor-da-costa-leite",
+    "raceName": "FONTAINEBLEAU – ACCES 4 – PRIX AGGL. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "vitor-da-costa-leite",
+    "position": 2,
+    "points": 25
+  },
+  {
+    "id": "fontainebleau--acces-4--prix-aggl.-de-fontainebleau-2026-03-16-olivier-belair",
+    "raceName": "FONTAINEBLEAU – ACCES 4 – PRIX AGGL. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "olivier-belair",
+    "position": 3,
+    "points": 22
+  },
+  {
+    "id": "fontainebleau--acces-4--prix-aggl.-de-fontainebleau-2026-03-16-franck-moreau",
+    "raceName": "FONTAINEBLEAU – ACCES 4 – PRIX AGGL. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "franck-moreau",
+    "position": 4,
+    "points": 19
+  },
+  {
+    "id": "fontainebleau--acces-4--prix-aggl.-de-fontainebleau-2026-03-16-loic-saunier",
+    "raceName": "FONTAINEBLEAU – ACCES 4 – PRIX AGGL. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "loic-saunier",
+    "position": 5,
+    "points": 17
+  },
+  {
+    "id": "fontainebleau--acces-4--prix-aggl.-de-fontainebleau-2026-03-16-fabrice-monteverdi",
+    "raceName": "FONTAINEBLEAU – ACCES 4 – PRIX AGGL. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "fabrice-monteverdi",
+    "position": 6,
+    "points": 15
+  },
+  {
+    "id": "fontainebleau--acces-4--prix-aggl.-de-fontainebleau-2026-03-16-sebastien-viossanges",
+    "raceName": "FONTAINEBLEAU – ACCES 4 – PRIX AGGL. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "sebastien-viossanges",
+    "position": 7,
+    "points": 14
+  },
+  {
+    "id": "fontainebleau--acces-4--prix-aggl.-de-fontainebleau-2026-03-16-sebastien-russo",
+    "raceName": "FONTAINEBLEAU – ACCES 4 – PRIX AGGL. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "sebastien-russo",
+    "position": 8,
+    "points": 13
+  },
+  {
+    "id": "fontainebleau--acces-4--prix-aggl.-de-fontainebleau-2026-03-16-eric-ropert",
+    "raceName": "FONTAINEBLEAU – ACCES 4 – PRIX AGGL. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "eric-ropert",
+    "position": 9,
+    "points": 12
+  },
+  {
+    "id": "fontainebleau--acces-4--prix-aggl.-de-fontainebleau-2026-03-16-jean-marius-vesanes",
+    "raceName": "FONTAINEBLEAU – ACCES 4 – PRIX AGGL. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "jean-marius-vesanes",
+    "position": 10,
+    "points": 11
+  },
+  {
+    "id": "fontainebleau--acces-4--prix-aggl.-de-fontainebleau-2026-03-16-frederic-nidercorne",
+    "raceName": "FONTAINEBLEAU – ACCES 4 – PRIX AGGL. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "frederic-nidercorne",
+    "position": 11,
+    "points": 10
+  },
+  {
+    "id": "fontainebleau--acces-4--prix-aggl.-de-fontainebleau-2026-03-16-christophe-gay",
+    "raceName": "FONTAINEBLEAU – ACCES 4 – PRIX AGGL. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "christophe-gay",
+    "position": 12,
+    "points": 9
+  },
+  {
+    "id": "fontainebleau--acces-4--prix-aggl.-de-fontainebleau-2026-03-16-luc-varanges",
+    "raceName": "FONTAINEBLEAU – ACCES 4 – PRIX AGGL. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "luc-varanges",
+    "position": 13,
+    "points": 8
+  },
+  {
+    "id": "fontainebleau--acces-4--prix-aggl.-de-fontainebleau-2026-03-16-henri-lepagnez",
+    "raceName": "FONTAINEBLEAU – ACCES 4 – PRIX AGGL. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "henri-lepagnez",
+    "position": 14,
+    "points": 7
+  },
+  {
+    "id": "fontainebleau--acces-4--prix-aggl.-de-fontainebleau-2026-03-16-thierry-guillemin",
+    "raceName": "FONTAINEBLEAU – ACCES 4 – PRIX AGGL. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "thierry-guillemin",
+    "position": 15,
+    "points": 6
+  },
+  {
+    "id": "fontainebleau--acces-4--prix-aggl.-de-fontainebleau-2026-03-16-alain-dubusset",
+    "raceName": "FONTAINEBLEAU – ACCES 4 – PRIX AGGL. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "alain-dubusset",
+    "position": 16,
+    "points": 5
+  },
+  {
+    "id": "fontainebleau--acces-4--prix-aggl.-de-fontainebleau-2026-03-16-michel-boutin",
+    "raceName": "FONTAINEBLEAU – ACCES 4 – PRIX AGGL. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "michel-boutin",
+    "position": 17,
+    "points": 4
+  },
+  {
+    "id": "fontainebleau--acces-4--prix-aggl.-de-fontainebleau-2026-03-16-sebastien-pavoni",
+    "raceName": "FONTAINEBLEAU – ACCES 4 – PRIX AGGL. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "sebastien-pavoni",
+    "position": 18,
+    "points": 3
+  },
+  {
+    "id": "fontainebleau--acces-4--prix-aggl.-de-fontainebleau-2026-03-16-omer-jacky-doranges",
+    "raceName": "FONTAINEBLEAU – ACCES 4 – PRIX AGGL. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "omer-jacky-doranges",
+    "position": 19,
+    "points": 2
+  },
+  {
+    "id": "fontainebleau--acces-4--prix-aggl.-de-fontainebleau-2026-03-16-franck-arnicot",
+    "raceName": "FONTAINEBLEAU – ACCES 4 – PRIX AGGL. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "franck-arnicot",
+    "position": 20,
+    "points": 1
+  },
+  {
+    "id": "fontainebleau--acces-4--prix-aggl.-de-fontainebleau-2026-03-16-pascal-doisneau",
+    "raceName": "FONTAINEBLEAU – ACCES 4 – PRIX AGGL. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "pascal-doisneau",
+    "position": 21,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-4--prix-aggl.-de-fontainebleau-2026-03-16-estelle-kocica",
+    "raceName": "FONTAINEBLEAU – ACCES 4 – PRIX AGGL. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "estelle-kocica",
+    "position": 22,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-4--prix-aggl.-de-fontainebleau-2026-03-16-michel-avale",
+    "raceName": "FONTAINEBLEAU – ACCES 4 – PRIX AGGL. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "michel-avale",
+    "position": 23,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-4--prix-aggl.-de-fontainebleau-2026-03-16-franck-seurot",
+    "raceName": "FONTAINEBLEAU – ACCES 4 – PRIX AGGL. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "franck-seurot",
+    "position": 24,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-4--prix-aggl.-de-fontainebleau-2026-03-16-vitor-da-costa-martins",
+    "raceName": "FONTAINEBLEAU – ACCES 4 – PRIX AGGL. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "vitor-da-costa-martins",
+    "position": 25,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-4--prix-aggl.-de-fontainebleau-2026-03-16-dominique-bevre",
+    "raceName": "FONTAINEBLEAU – ACCES 4 – PRIX AGGL. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "dominique-bevre",
+    "position": 26,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-4--prix-aggl.-de-fontainebleau-2026-03-16-frederic-thibault",
+    "raceName": "FONTAINEBLEAU – ACCES 4 – PRIX AGGL. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "frederic-thibault",
+    "position": 27,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-4--prix-aggl.-de-fontainebleau-2026-03-16-cecilia-amorini",
+    "raceName": "FONTAINEBLEAU – ACCES 4 – PRIX AGGL. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "cecilia-amorini",
+    "position": 28,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-4--prix-aggl.-de-fontainebleau-2026-03-16-daniel-dupouy",
+    "raceName": "FONTAINEBLEAU – ACCES 4 – PRIX AGGL. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "daniel-dupouy",
+    "position": 29,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-4--prix-aggl.-de-fontainebleau-2026-03-16-jean-philippe-gonzo",
+    "raceName": "FONTAINEBLEAU – ACCES 4 – PRIX AGGL. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "jean-philippe-gonzo",
+    "position": 30,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-4--prix-aggl.-de-fontainebleau-2026-03-16-carlos-de-oliveira",
+    "raceName": "FONTAINEBLEAU – ACCES 4 – PRIX AGGL. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "carlos-de-oliveira",
+    "position": 31,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-4--prix-aggl.-de-fontainebleau-2026-03-16-zlata-stocard",
+    "raceName": "FONTAINEBLEAU – ACCES 4 – PRIX AGGL. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "zlata-stocard",
+    "position": 32,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-4--prix-aggl.-de-fontainebleau-2026-03-16-thierry-reine",
+    "raceName": "FONTAINEBLEAU – ACCES 4 – PRIX AGGL. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "thierry-reine",
+    "position": 33,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-4--prix-aggl.-de-fontainebleau-2026-03-16-frederic-seguin",
+    "raceName": "FONTAINEBLEAU – ACCES 4 – PRIX AGGL. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "frederic-seguin",
+    "position": 34,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-4--prix-aggl.-de-fontainebleau-2026-03-16-j.-revereau",
+    "raceName": "FONTAINEBLEAU – ACCES 4 – PRIX AGGL. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "j.-revereau",
+    "position": 35,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-4--prix-aggl.-de-fontainebleau-2026-03-16-serge-legentil",
+    "raceName": "FONTAINEBLEAU – ACCES 4 – PRIX AGGL. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "serge-legentil",
+    "position": 36,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-4--prix-aggl.-de-fontainebleau-2026-03-16-rene-hubert",
+    "raceName": "FONTAINEBLEAU – ACCES 4 – PRIX AGGL. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "rene-hubert",
+    "position": 37,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-4--prix-aggl.-de-fontainebleau-2026-03-16-gilles-thiebault",
+    "raceName": "FONTAINEBLEAU – ACCES 4 – PRIX AGGL. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "gilles-thiebault",
+    "position": 38,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-4--prix-aggl.-de-fontainebleau-2026-03-16-patrice-verger",
+    "raceName": "FONTAINEBLEAU – ACCES 4 – PRIX AGGL. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "patrice-verger",
+    "position": 39,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-4--prix-aggl.-de-fontainebleau-2026-03-16-sylvain-bragantini",
+    "raceName": "FONTAINEBLEAU – ACCES 4 – PRIX AGGL. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "sylvain-bragantini",
+    "position": 40,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-4--prix-aggl.-de-fontainebleau-2026-03-16-patrick-payrat",
+    "raceName": "FONTAINEBLEAU – ACCES 4 – PRIX AGGL. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "patrick-payrat",
+    "position": 41,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-4--prix-aggl.-de-fontainebleau-2026-03-16-frederic-renon",
+    "raceName": "FONTAINEBLEAU – ACCES 4 – PRIX AGGL. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "frederic-renon",
+    "position": 42,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-4--prix-aggl.-de-fontainebleau-2026-03-16-olivier-vuillemet",
+    "raceName": "FONTAINEBLEAU – ACCES 4 – PRIX AGGL. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "olivier-vuillemet",
+    "position": 43,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-4--prix-aggl.-de-fontainebleau-2026-03-16-bertrand-houanard",
+    "raceName": "FONTAINEBLEAU – ACCES 4 – PRIX AGGL. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "bertrand-houanard",
+    "position": 44,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-4--prix-aggl.-de-fontainebleau-2026-03-16-elie-patrick-doranges",
+    "raceName": "FONTAINEBLEAU – ACCES 4 – PRIX AGGL. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "elie-patrick-doranges",
+    "position": 45,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-4--prix-aggl.-de-fontainebleau-2026-03-16-nathalie-tavernier",
+    "raceName": "FONTAINEBLEAU – ACCES 4 – PRIX AGGL. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "nathalie-tavernier",
+    "position": 46,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-4--prix-aggl.-de-fontainebleau-2026-03-16-jean-michel-marie",
+    "raceName": "FONTAINEBLEAU – ACCES 4 – PRIX AGGL. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "jean-michel-marie",
+    "position": 47,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-4--prix-aggl.-de-fontainebleau-2026-03-16-pascal-saulnier",
+    "raceName": "FONTAINEBLEAU – ACCES 4 – PRIX AGGL. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "pascal-saulnier",
+    "position": 48,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-4--prix-aggl.-de-fontainebleau-2026-03-16-didier-fabre",
+    "raceName": "FONTAINEBLEAU – ACCES 4 – PRIX AGGL. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "didier-fabre",
+    "position": 49,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-4--prix-aggl.-de-fontainebleau-2026-03-16-dominique-pougin",
+    "raceName": "FONTAINEBLEAU – ACCES 4 – PRIX AGGL. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "dominique-pougin",
+    "position": 50,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-4--prix-aggl.-de-fontainebleau-2026-03-16-laurent-nuguet",
+    "raceName": "FONTAINEBLEAU – ACCES 4 – PRIX AGGL. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "laurent-nuguet",
+    "position": 51,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-4--prix-aggl.-de-fontainebleau-2026-03-16-andre-michaeli",
+    "raceName": "FONTAINEBLEAU – ACCES 4 – PRIX AGGL. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "andre-michaeli",
+    "position": 52,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-4--prix-aggl.-de-fontainebleau-2026-03-16-amarilio-da-silva",
+    "raceName": "FONTAINEBLEAU – ACCES 4 – PRIX AGGL. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "amarilio-da-silva",
+    "position": 53,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-4--prix-aggl.-de-fontainebleau-2026-03-16-philippe-bardin",
+    "raceName": "FONTAINEBLEAU – ACCES 4 – PRIX AGGL. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "philippe-bardin",
+    "position": 54,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-4--prix-aggl.-de-fontainebleau-2026-03-16-philippe-torres",
+    "raceName": "FONTAINEBLEAU – ACCES 4 – PRIX AGGL. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "philippe-torres",
+    "position": 55,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-4--prix-aggl.-de-fontainebleau-2026-03-16-sebastien-duteau",
+    "raceName": "FONTAINEBLEAU – ACCES 4 – PRIX AGGL. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "sebastien-duteau",
+    "position": 56,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-4--prix-aggl.-de-fontainebleau-2026-03-16-jose-marujo",
+    "raceName": "FONTAINEBLEAU – ACCES 4 – PRIX AGGL. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "jose-marujo",
+    "position": 57,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-4--prix-aggl.-de-fontainebleau-2026-03-16-denis-frere",
+    "raceName": "FONTAINEBLEAU – ACCES 4 – PRIX AGGL. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "denis-frere",
+    "position": 58,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-4--prix-aggl.-de-fontainebleau-2026-03-16-michel-curron",
+    "raceName": "FONTAINEBLEAU – ACCES 4 – PRIX AGGL. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "michel-curron",
+    "position": 59,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-4--prix-aggl.-de-fontainebleau-2026-03-16-guy-albert-boubouille",
+    "raceName": "FONTAINEBLEAU – ACCES 4 – PRIX AGGL. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "guy-albert-boubouille",
+    "position": 60,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-4--prix-aggl.-de-fontainebleau-2026-03-16-vincent-joel-rosele",
+    "raceName": "FONTAINEBLEAU – ACCES 4 – PRIX AGGL. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "vincent-joel-rosele",
+    "position": 61,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-4--prix-aggl.-de-fontainebleau-2026-03-16-stephane-devillers",
+    "raceName": "FONTAINEBLEAU – ACCES 4 – PRIX AGGL. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "stephane-devillers",
+    "position": 62,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-4--prix-aggl.-de-fontainebleau-2026-03-16-philippe-martinez",
+    "raceName": "FONTAINEBLEAU – ACCES 4 – PRIX AGGL. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "philippe-martinez",
+    "position": 63,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-4--prix-aggl.-de-fontainebleau-2026-03-16-manuel-faria",
+    "raceName": "FONTAINEBLEAU – ACCES 4 – PRIX AGGL. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "manuel-faria",
+    "position": 64,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-4--prix-aggl.-de-fontainebleau-2026-03-16-jacques-dubreuil",
+    "raceName": "FONTAINEBLEAU – ACCES 4 – PRIX AGGL. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "jacques-dubreuil",
+    "position": 65,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-4--prix-aggl.-de-fontainebleau-2026-03-16-jose-chanteur",
+    "raceName": "FONTAINEBLEAU – ACCES 4 – PRIX AGGL. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "jose-chanteur",
+    "position": 66,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-4--prix-aggl.-de-fontainebleau-2026-03-16-andre-giroux",
+    "raceName": "FONTAINEBLEAU – ACCES 4 – PRIX AGGL. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "andre-giroux",
+    "position": 67,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-4--prix-aggl.-de-fontainebleau-2026-03-16-julie-baclet",
+    "raceName": "FONTAINEBLEAU – ACCES 4 – PRIX AGGL. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "julie-baclet",
+    "position": 68,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-4--prix-aggl.-de-fontainebleau-2026-03-16-thomas-chereau",
+    "raceName": "FONTAINEBLEAU – ACCES 4 – PRIX AGGL. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "thomas-chereau",
+    "position": 69,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-4--prix-aggl.-de-fontainebleau-2026-03-16-patrice-truchet",
+    "raceName": "FONTAINEBLEAU – ACCES 4 – PRIX AGGL. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "patrice-truchet",
+    "position": 70,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-3--prix-aggl.-de-fontainebleau-2026-03-16-gregory-carlin",
+    "raceName": "FONTAINEBLEAU – ACCES 3 – PRIX AGGL. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "gregory-carlin",
+    "position": 1,
+    "points": 50
+  },
+  {
+    "id": "fontainebleau--acces-3--prix-aggl.-de-fontainebleau-2026-03-16-abderraouf-ushaah",
+    "raceName": "FONTAINEBLEAU – ACCES 3 – PRIX AGGL. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "abderraouf-ushaah",
+    "position": 2,
+    "points": 25
+  },
+  {
+    "id": "fontainebleau--acces-3--prix-aggl.-de-fontainebleau-2026-03-16-r.-hymonnet",
+    "raceName": "FONTAINEBLEAU – ACCES 3 – PRIX AGGL. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "r.-hymonnet",
+    "position": 3,
+    "points": 22
+  },
+  {
+    "id": "fontainebleau--acces-3--prix-aggl.-de-fontainebleau-2026-03-16-arnaud-oreac",
+    "raceName": "FONTAINEBLEAU – ACCES 3 – PRIX AGGL. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "arnaud-oreac",
+    "position": 4,
+    "points": 19
+  },
+  {
+    "id": "fontainebleau--acces-3--prix-aggl.-de-fontainebleau-2026-03-16-jean-marie-passelande",
+    "raceName": "FONTAINEBLEAU – ACCES 3 – PRIX AGGL. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "jean-marie-passelande",
+    "position": 5,
+    "points": 17
+  },
+  {
+    "id": "fontainebleau--acces-3--prix-aggl.-de-fontainebleau-2026-03-16-eric-lemey",
+    "raceName": "FONTAINEBLEAU – ACCES 3 – PRIX AGGL. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "eric-lemey",
+    "position": 6,
+    "points": 15
+  },
+  {
+    "id": "fontainebleau--acces-3--prix-aggl.-de-fontainebleau-2026-03-16-romain-bertrand",
+    "raceName": "FONTAINEBLEAU – ACCES 3 – PRIX AGGL. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "romain-bertrand",
+    "position": 7,
+    "points": 14
+  },
+  {
+    "id": "fontainebleau--acces-3--prix-aggl.-de-fontainebleau-2026-03-16-sebastien-pruvost",
+    "raceName": "FONTAINEBLEAU – ACCES 3 – PRIX AGGL. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "sebastien-pruvost",
+    "position": 8,
+    "points": 13
+  },
+  {
+    "id": "fontainebleau--acces-3--prix-aggl.-de-fontainebleau-2026-03-16-patrice-lenoir",
+    "raceName": "FONTAINEBLEAU – ACCES 3 – PRIX AGGL. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "patrice-lenoir",
+    "position": 9,
+    "points": 12
+  },
+  {
+    "id": "fontainebleau--acces-3--prix-aggl.-de-fontainebleau-2026-03-16-nicolas-poignant",
+    "raceName": "FONTAINEBLEAU – ACCES 3 – PRIX AGGL. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "nicolas-poignant",
+    "position": 10,
+    "points": 11
+  },
+  {
+    "id": "fontainebleau--acces-3--prix-aggl.-de-fontainebleau-2026-03-16-laurent-roussel",
+    "raceName": "FONTAINEBLEAU – ACCES 3 – PRIX AGGL. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "laurent-roussel",
+    "position": 11,
+    "points": 10
+  },
+  {
+    "id": "fontainebleau--acces-3--prix-aggl.-de-fontainebleau-2026-03-16-sebastien-michel",
+    "raceName": "FONTAINEBLEAU – ACCES 3 – PRIX AGGL. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "sebastien-michel",
+    "position": 12,
+    "points": 9
+  },
+  {
+    "id": "fontainebleau--acces-3--prix-aggl.-de-fontainebleau-2026-03-16-dominique-mezzatesta",
+    "raceName": "FONTAINEBLEAU – ACCES 3 – PRIX AGGL. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "dominique-mezzatesta",
+    "position": 13,
+    "points": 8
+  },
+  {
+    "id": "fontainebleau--acces-3--prix-aggl.-de-fontainebleau-2026-03-16-stanislas-reglade",
+    "raceName": "FONTAINEBLEAU – ACCES 3 – PRIX AGGL. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "stanislas-reglade",
+    "position": 14,
+    "points": 7
+  },
+  {
+    "id": "fontainebleau--acces-3--prix-aggl.-de-fontainebleau-2026-03-16-mickael-thoumelin",
+    "raceName": "FONTAINEBLEAU – ACCES 3 – PRIX AGGL. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "mickael-thoumelin",
+    "position": 15,
+    "points": 6
+  },
+  {
+    "id": "fontainebleau--acces-3--prix-aggl.-de-fontainebleau-2026-03-16-charles-maxime-defromont",
+    "raceName": "FONTAINEBLEAU – ACCES 3 – PRIX AGGL. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "charles-maxime-defromont",
+    "position": 16,
+    "points": 5
+  },
+  {
+    "id": "fontainebleau--acces-3--prix-aggl.-de-fontainebleau-2026-03-16-christian-desroches",
+    "raceName": "FONTAINEBLEAU – ACCES 3 – PRIX AGGL. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "christian-desroches",
+    "position": 17,
+    "points": 4
+  },
+  {
+    "id": "fontainebleau--acces-3--prix-aggl.-de-fontainebleau-2026-03-16-carine-leroy",
+    "raceName": "FONTAINEBLEAU – ACCES 3 – PRIX AGGL. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "carine-leroy",
+    "position": 18,
+    "points": 3
+  },
+  {
+    "id": "fontainebleau--acces-3--prix-aggl.-de-fontainebleau-2026-03-16-cyril-caillot",
+    "raceName": "FONTAINEBLEAU – ACCES 3 – PRIX AGGL. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "cyril-caillot",
+    "position": 19,
+    "points": 2
+  },
+  {
+    "id": "fontainebleau--acces-3--prix-aggl.-de-fontainebleau-2026-03-16-nicolas-finou",
+    "raceName": "FONTAINEBLEAU – ACCES 3 – PRIX AGGL. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "nicolas-finou",
+    "position": 20,
+    "points": 1
+  },
+  {
+    "id": "fontainebleau--acces-3--prix-aggl.-de-fontainebleau-2026-03-16-laurent-sartori",
+    "raceName": "FONTAINEBLEAU – ACCES 3 – PRIX AGGL. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "laurent-sartori",
+    "position": 21,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-3--prix-aggl.-de-fontainebleau-2026-03-16-olivier-picquot",
+    "raceName": "FONTAINEBLEAU – ACCES 3 – PRIX AGGL. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "olivier-picquot",
+    "position": 22,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-3--prix-aggl.-de-fontainebleau-2026-03-16-tomasz-jeger",
+    "raceName": "FONTAINEBLEAU – ACCES 3 – PRIX AGGL. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "tomasz-jeger",
+    "position": 23,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-3--prix-aggl.-de-fontainebleau-2026-03-16-laurent-wetzstein",
+    "raceName": "FONTAINEBLEAU – ACCES 3 – PRIX AGGL. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "laurent-wetzstein",
+    "position": 24,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-3--prix-aggl.-de-fontainebleau-2026-03-16-christophe-thery",
+    "raceName": "FONTAINEBLEAU – ACCES 3 – PRIX AGGL. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "christophe-thery",
+    "position": 25,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-3--prix-aggl.-de-fontainebleau-2026-03-16-stephane-loyer",
+    "raceName": "FONTAINEBLEAU – ACCES 3 – PRIX AGGL. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "stephane-loyer",
+    "position": 26,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-3--prix-aggl.-de-fontainebleau-2026-03-16-laurent-jeuffroy",
+    "raceName": "FONTAINEBLEAU – ACCES 3 – PRIX AGGL. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "laurent-jeuffroy",
+    "position": 27,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-3--prix-aggl.-de-fontainebleau-2026-03-16-fabrice-millet",
+    "raceName": "FONTAINEBLEAU – ACCES 3 – PRIX AGGL. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "fabrice-millet",
+    "position": 28,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-3--prix-aggl.-de-fontainebleau-2026-03-16-jean-pierre-hornn",
+    "raceName": "FONTAINEBLEAU – ACCES 3 – PRIX AGGL. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "jean-pierre-hornn",
+    "position": 29,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-3--prix-aggl.-de-fontainebleau-2026-03-16-gregory-bonfand",
+    "raceName": "FONTAINEBLEAU – ACCES 3 – PRIX AGGL. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "gregory-bonfand",
+    "position": 30,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-3--prix-aggl.-de-fontainebleau-2026-03-16-brice-annaval",
+    "raceName": "FONTAINEBLEAU – ACCES 3 – PRIX AGGL. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "brice-annaval",
+    "position": 31,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-3--prix-aggl.-de-fontainebleau-2026-03-16-thierry-le-mat",
+    "raceName": "FONTAINEBLEAU – ACCES 3 – PRIX AGGL. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "thierry-le-mat",
+    "position": 32,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-3--prix-aggl.-de-fontainebleau-2026-03-16-lou-nari",
+    "raceName": "FONTAINEBLEAU – ACCES 3 – PRIX AGGL. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "lou-nari",
+    "position": 33,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-3--prix-aggl.-de-fontainebleau-2026-03-16-christophe-meunier",
+    "raceName": "FONTAINEBLEAU – ACCES 3 – PRIX AGGL. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "christophe-meunier",
+    "position": 34,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-3--prix-aggl.-de-fontainebleau-2026-03-16-sebastien-espargilhe",
+    "raceName": "FONTAINEBLEAU – ACCES 3 – PRIX AGGL. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "sebastien-espargilhe",
+    "position": 35,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-3--prix-aggl.-de-fontainebleau-2026-03-16-stephane-arnicot",
+    "raceName": "FONTAINEBLEAU – ACCES 3 – PRIX AGGL. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "stephane-arnicot",
+    "position": 36,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-3--prix-aggl.-de-fontainebleau-2026-03-16-david-libre",
+    "raceName": "FONTAINEBLEAU – ACCES 3 – PRIX AGGL. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "david-libre",
+    "position": 37,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-3--prix-aggl.-de-fontainebleau-2026-03-16-patrick-beaulieu",
+    "raceName": "FONTAINEBLEAU – ACCES 3 – PRIX AGGL. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "patrick-beaulieu",
+    "position": 38,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-3--prix-aggl.-de-fontainebleau-2026-03-16-fabien-rousselin",
+    "raceName": "FONTAINEBLEAU – ACCES 3 – PRIX AGGL. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "fabien-rousselin",
+    "position": 39,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-3--prix-aggl.-de-fontainebleau-2026-03-16-jonathan-courbet",
+    "raceName": "FONTAINEBLEAU – ACCES 3 – PRIX AGGL. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "jonathan-courbet",
+    "position": 40,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-3--prix-aggl.-de-fontainebleau-2026-03-16-charles-dupire",
+    "raceName": "FONTAINEBLEAU – ACCES 3 – PRIX AGGL. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "charles-dupire",
+    "position": 41,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-3--prix-aggl.-de-fontainebleau-2026-03-16-christophe-gurhem",
+    "raceName": "FONTAINEBLEAU – ACCES 3 – PRIX AGGL. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "christophe-gurhem",
+    "position": 42,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-3--prix-aggl.-de-fontainebleau-2026-03-16-france-orain",
+    "raceName": "FONTAINEBLEAU – ACCES 3 – PRIX AGGL. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "france-orain",
+    "position": 43,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-3--prix-aggl.-de-fontainebleau-2026-03-16-lionel-boulven",
+    "raceName": "FONTAINEBLEAU – ACCES 3 – PRIX AGGL. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "lionel-boulven",
+    "position": 44,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-3--prix-aggl.-de-fontainebleau-2026-03-16-julien-guillaume",
+    "raceName": "FONTAINEBLEAU – ACCES 3 – PRIX AGGL. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "julien-guillaume",
+    "position": 45,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-3--prix-aggl.-de-fontainebleau-2026-03-16-angele-peigue",
+    "raceName": "FONTAINEBLEAU – ACCES 3 – PRIX AGGL. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "angele-peigue",
+    "position": 46,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-3--prix-aggl.-de-fontainebleau-2026-03-16-marine-guy",
+    "raceName": "FONTAINEBLEAU – ACCES 3 – PRIX AGGL. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "marine-guy",
+    "position": 47,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-3--prix-aggl.-de-fontainebleau-2026-03-16-jose-barbosa",
+    "raceName": "FONTAINEBLEAU – ACCES 3 – PRIX AGGL. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "jose-barbosa",
+    "position": 48,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-3--prix-aggl.-de-fontainebleau-2026-03-16-denis-renaudie",
+    "raceName": "FONTAINEBLEAU – ACCES 3 – PRIX AGGL. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "denis-renaudie",
+    "position": 49,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-3--prix-aggl.-de-fontainebleau-2026-03-16-philippe-seguin",
+    "raceName": "FONTAINEBLEAU – ACCES 3 – PRIX AGGL. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "philippe-seguin",
+    "position": 50,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-3--prix-aggl.-de-fontainebleau-2026-03-16-raphael-morel-biron",
+    "raceName": "FONTAINEBLEAU – ACCES 3 – PRIX AGGL. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "raphael-morel-biron",
+    "position": 51,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-3--prix-aggl.-de-fontainebleau-2026-03-16-laurent-martorell",
+    "raceName": "FONTAINEBLEAU – ACCES 3 – PRIX AGGL. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "laurent-martorell",
+    "position": 52,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-3--prix-aggl.-de-fontainebleau-2026-03-16-julie-monot",
+    "raceName": "FONTAINEBLEAU – ACCES 3 – PRIX AGGL. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "julie-monot",
+    "position": 53,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-3--prix-aggl.-de-fontainebleau-2026-03-16-jean-philippe-meret",
+    "raceName": "FONTAINEBLEAU – ACCES 3 – PRIX AGGL. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "jean-philippe-meret",
+    "position": 54,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-3--prix-aggl.-de-fontainebleau-2026-03-16-jose-pereira-da-costa",
+    "raceName": "FONTAINEBLEAU – ACCES 3 – PRIX AGGL. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "jose-pereira-da-costa",
+    "position": 55,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-3--prix-aggl.-de-fontainebleau-2026-03-16-thierry-duval",
+    "raceName": "FONTAINEBLEAU – ACCES 3 – PRIX AGGL. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "thierry-duval",
+    "position": 56,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-3--prix-aggl.-de-fontainebleau-2026-03-16-perine-vasseur",
+    "raceName": "FONTAINEBLEAU – ACCES 3 – PRIX AGGL. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "perine-vasseur",
+    "position": 57,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-3--prix-aggl.-de-fontainebleau-2026-03-16-laure-fourey",
+    "raceName": "FONTAINEBLEAU – ACCES 3 – PRIX AGGL. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "laure-fourey",
+    "position": 58,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-2--px-agglo.-de-fontainebleau-2026-03-16-arnaud-drollee",
+    "raceName": "FONTAINEBLEAU – ACCES 2 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "arnaud-drollee",
+    "position": 1,
+    "points": 50
+  },
+  {
+    "id": "fontainebleau--acces-2--px-agglo.-de-fontainebleau-2026-03-16-jordan-geenen",
+    "raceName": "FONTAINEBLEAU – ACCES 2 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "jordan-geenen",
+    "position": 2,
+    "points": 25
+  },
+  {
+    "id": "fontainebleau--acces-2--px-agglo.-de-fontainebleau-2026-03-16-thibault-audard",
+    "raceName": "FONTAINEBLEAU – ACCES 2 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "thibault-audard",
+    "position": 3,
+    "points": 22
+  },
+  {
+    "id": "fontainebleau--acces-2--px-agglo.-de-fontainebleau-2026-03-16-marc-boscheron",
+    "raceName": "FONTAINEBLEAU – ACCES 2 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "marc-boscheron",
+    "position": 4,
+    "points": 19
+  },
+  {
+    "id": "fontainebleau--acces-2--px-agglo.-de-fontainebleau-2026-03-16-nicolas-sergeant",
+    "raceName": "FONTAINEBLEAU – ACCES 2 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "nicolas-sergeant",
+    "position": 5,
+    "points": 17
+  },
+  {
+    "id": "fontainebleau--acces-2--px-agglo.-de-fontainebleau-2026-03-16-jean-louis-ulce",
+    "raceName": "FONTAINEBLEAU – ACCES 2 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "jean-louis-ulce",
+    "position": 6,
+    "points": 15
+  },
+  {
+    "id": "fontainebleau--acces-2--px-agglo.-de-fontainebleau-2026-03-16-tifany-goupy-soret",
+    "raceName": "FONTAINEBLEAU – ACCES 2 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "tifany-goupy-soret",
+    "position": 7,
+    "points": 14
+  },
+  {
+    "id": "fontainebleau--acces-2--px-agglo.-de-fontainebleau-2026-03-16-romain-libault",
+    "raceName": "FONTAINEBLEAU – ACCES 2 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "romain-libault",
+    "position": 8,
+    "points": 13
+  },
+  {
+    "id": "fontainebleau--acces-2--px-agglo.-de-fontainebleau-2026-03-16-jerome-albert",
+    "raceName": "FONTAINEBLEAU – ACCES 2 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "jerome-albert",
+    "position": 9,
+    "points": 12
+  },
+  {
+    "id": "fontainebleau--acces-2--px-agglo.-de-fontainebleau-2026-03-16-thierry-de-verdelhan",
+    "raceName": "FONTAINEBLEAU – ACCES 2 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "thierry-de-verdelhan",
+    "position": 10,
+    "points": 11
+  },
+  {
+    "id": "fontainebleau--acces-2--px-agglo.-de-fontainebleau-2026-03-16-alexandre-delorme",
+    "raceName": "FONTAINEBLEAU – ACCES 2 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "alexandre-delorme",
+    "position": 11,
+    "points": 10
+  },
+  {
+    "id": "fontainebleau--acces-2--px-agglo.-de-fontainebleau-2026-03-16-nicolas-vinet",
+    "raceName": "FONTAINEBLEAU – ACCES 2 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "nicolas-vinet",
+    "position": 12,
+    "points": 9
+  },
+  {
+    "id": "fontainebleau--acces-2--px-agglo.-de-fontainebleau-2026-03-16-pierre-yves-chaboche",
+    "raceName": "FONTAINEBLEAU – ACCES 2 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "pierre-yves-chaboche",
+    "position": 13,
+    "points": 8
+  },
+  {
+    "id": "fontainebleau--acces-2--px-agglo.-de-fontainebleau-2026-03-16-edie-atride",
+    "raceName": "FONTAINEBLEAU – ACCES 2 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "edie-atride",
+    "position": 14,
+    "points": 7
+  },
+  {
+    "id": "fontainebleau--acces-2--px-agglo.-de-fontainebleau-2026-03-16-yannick-duranti",
+    "raceName": "FONTAINEBLEAU – ACCES 2 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "yannick-duranti",
+    "position": 15,
+    "points": 6
+  },
+  {
+    "id": "fontainebleau--acces-2--px-agglo.-de-fontainebleau-2026-03-16-jerome-pelletier",
+    "raceName": "FONTAINEBLEAU – ACCES 2 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "jerome-pelletier",
+    "position": 16,
+    "points": 5
+  },
+  {
+    "id": "fontainebleau--acces-2--px-agglo.-de-fontainebleau-2026-03-16-clement-simon",
+    "raceName": "FONTAINEBLEAU – ACCES 2 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "clement-simon",
+    "position": 17,
+    "points": 4
+  },
+  {
+    "id": "fontainebleau--acces-2--px-agglo.-de-fontainebleau-2026-03-16-lahsen-arhla",
+    "raceName": "FONTAINEBLEAU – ACCES 2 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "lahsen-arhla",
+    "position": 18,
+    "points": 3
+  },
+  {
+    "id": "fontainebleau--acces-2--px-agglo.-de-fontainebleau-2026-03-16-philippe-corvaisier",
+    "raceName": "FONTAINEBLEAU – ACCES 2 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "philippe-corvaisier",
+    "position": 19,
+    "points": 2
+  },
+  {
+    "id": "fontainebleau--acces-2--px-agglo.-de-fontainebleau-2026-03-16-fabrice-boisgibault",
+    "raceName": "FONTAINEBLEAU – ACCES 2 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "fabrice-boisgibault",
+    "position": 20,
+    "points": 1
+  },
+  {
+    "id": "fontainebleau--acces-2--px-agglo.-de-fontainebleau-2026-03-16-r.-benbouaziz",
+    "raceName": "FONTAINEBLEAU – ACCES 2 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "r.-benbouaziz",
+    "position": 21,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-2--px-agglo.-de-fontainebleau-2026-03-16-thierry-font-lapalisse",
+    "raceName": "FONTAINEBLEAU – ACCES 2 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "thierry-font-lapalisse",
+    "position": 22,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-2--px-agglo.-de-fontainebleau-2026-03-16-gregoire-bonnet",
+    "raceName": "FONTAINEBLEAU – ACCES 2 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "gregoire-bonnet",
+    "position": 23,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-2--px-agglo.-de-fontainebleau-2026-03-16-cyril-clery",
+    "raceName": "FONTAINEBLEAU – ACCES 2 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "cyril-clery",
+    "position": 24,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-2--px-agglo.-de-fontainebleau-2026-03-16-francois-herve",
+    "raceName": "FONTAINEBLEAU – ACCES 2 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "francois-herve",
+    "position": 25,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-2--px-agglo.-de-fontainebleau-2026-03-16-gabin-hervagault",
+    "raceName": "FONTAINEBLEAU – ACCES 2 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "gabin-hervagault",
+    "position": 26,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-2--px-agglo.-de-fontainebleau-2026-03-16-flavien-carcaud",
+    "raceName": "FONTAINEBLEAU – ACCES 2 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "flavien-carcaud",
+    "position": 27,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-2--px-agglo.-de-fontainebleau-2026-03-16-matthieu-oliveira",
+    "raceName": "FONTAINEBLEAU – ACCES 2 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "matthieu-oliveira",
+    "position": 28,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-2--px-agglo.-de-fontainebleau-2026-03-16-sebastien-blary",
+    "raceName": "FONTAINEBLEAU – ACCES 2 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "sebastien-blary",
+    "position": 29,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-2--px-agglo.-de-fontainebleau-2026-03-16-anais-hebinger",
+    "raceName": "FONTAINEBLEAU – ACCES 2 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "anais-hebinger",
+    "position": 30,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-2--px-agglo.-de-fontainebleau-2026-03-16-bruno-joubert",
+    "raceName": "FONTAINEBLEAU – ACCES 2 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "bruno-joubert",
+    "position": 31,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-2--px-agglo.-de-fontainebleau-2026-03-16-juan-manuel-garcia",
+    "raceName": "FONTAINEBLEAU – ACCES 2 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "juan-manuel-garcia",
+    "position": 32,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-2--px-agglo.-de-fontainebleau-2026-03-16-nelia-sahraoui",
+    "raceName": "FONTAINEBLEAU – ACCES 2 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "nelia-sahraoui",
+    "position": 33,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-2--px-agglo.-de-fontainebleau-2026-03-16-emmanuel-poisson",
+    "raceName": "FONTAINEBLEAU – ACCES 2 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "emmanuel-poisson",
+    "position": 34,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-2--px-agglo.-de-fontainebleau-2026-03-16-christophe-perricot",
+    "raceName": "FONTAINEBLEAU – ACCES 2 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "christophe-perricot",
+    "position": 35,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-2--px-agglo.-de-fontainebleau-2026-03-16-maxime-granthil",
+    "raceName": "FONTAINEBLEAU – ACCES 2 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "maxime-granthil",
+    "position": 36,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-2--px-agglo.-de-fontainebleau-2026-03-16-stephane-cruveiller",
+    "raceName": "FONTAINEBLEAU – ACCES 2 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "stephane-cruveiller",
+    "position": 37,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-2--px-agglo.-de-fontainebleau-2026-03-16-anthony-lemoine",
+    "raceName": "FONTAINEBLEAU – ACCES 2 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "anthony-lemoine",
+    "position": 38,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-2--px-agglo.-de-fontainebleau-2026-03-16-alexandre-pinon",
+    "raceName": "FONTAINEBLEAU – ACCES 2 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "alexandre-pinon",
+    "position": 39,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-2--px-agglo.-de-fontainebleau-2026-03-16-eric-boucheret",
+    "raceName": "FONTAINEBLEAU – ACCES 2 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "eric-boucheret",
+    "position": 40,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-2--px-agglo.-de-fontainebleau-2026-03-16-yannick-marous",
+    "raceName": "FONTAINEBLEAU – ACCES 2 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "yannick-marous",
+    "position": 41,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-2--px-agglo.-de-fontainebleau-2026-03-16-henri-rabot",
+    "raceName": "FONTAINEBLEAU – ACCES 2 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "henri-rabot",
+    "position": 42,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-2--px-agglo.-de-fontainebleau-2026-03-16-gilles-heraud",
+    "raceName": "FONTAINEBLEAU – ACCES 2 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "gilles-heraud",
+    "position": 43,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-2--px-agglo.-de-fontainebleau-2026-03-16-julien-lejeune",
+    "raceName": "FONTAINEBLEAU – ACCES 2 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "julien-lejeune",
+    "position": 44,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-2--px-agglo.-de-fontainebleau-2026-03-16-fabien-rommens",
+    "raceName": "FONTAINEBLEAU – ACCES 2 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "fabien-rommens",
+    "position": 45,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-2--px-agglo.-de-fontainebleau-2026-03-16-laurent-liger",
+    "raceName": "FONTAINEBLEAU – ACCES 2 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "laurent-liger",
+    "position": 46,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-2--px-agglo.-de-fontainebleau-2026-03-16-herve-lachouque",
+    "raceName": "FONTAINEBLEAU – ACCES 2 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "herve-lachouque",
+    "position": 47,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-2--px-agglo.-de-fontainebleau-2026-03-16-joycel-montero-fabelo",
+    "raceName": "FONTAINEBLEAU – ACCES 2 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "joycel-montero-fabelo",
+    "position": 48,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-2--px-agglo.-de-fontainebleau-2026-03-16-pierre-michael-villemin",
+    "raceName": "FONTAINEBLEAU – ACCES 2 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "pierre-michael-villemin",
+    "position": 49,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-2--px-agglo.-de-fontainebleau-2026-03-16-christophe-papin",
+    "raceName": "FONTAINEBLEAU – ACCES 2 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "christophe-papin",
+    "position": 50,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-2--px-agglo.-de-fontainebleau-2026-03-16-joel-naturel",
+    "raceName": "FONTAINEBLEAU – ACCES 2 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "joel-naturel",
+    "position": 51,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-2--px-agglo.-de-fontainebleau-2026-03-16-franck-bereck",
+    "raceName": "FONTAINEBLEAU – ACCES 2 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "franck-bereck",
+    "position": 52,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-2--px-agglo.-de-fontainebleau-2026-03-16-anthony-pillot",
+    "raceName": "FONTAINEBLEAU – ACCES 2 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "anthony-pillot",
+    "position": 53,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-2--px-agglo.-de-fontainebleau-2026-03-16-thomas-jiang",
+    "raceName": "FONTAINEBLEAU – ACCES 2 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "thomas-jiang",
+    "position": 54,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-2--px-agglo.-de-fontainebleau-2026-03-16-joel-geromegnace",
+    "raceName": "FONTAINEBLEAU – ACCES 2 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "joel-geromegnace",
+    "position": 55,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-2--px-agglo.-de-fontainebleau-2026-03-16-ludovic-delaplace",
+    "raceName": "FONTAINEBLEAU – ACCES 2 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "ludovic-delaplace",
+    "position": 56,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-2--px-agglo.-de-fontainebleau-2026-03-16-freddy-boire",
+    "raceName": "FONTAINEBLEAU – ACCES 2 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "freddy-boire",
+    "position": 57,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-2--px-agglo.-de-fontainebleau-2026-03-16-malik-hammouche",
+    "raceName": "FONTAINEBLEAU – ACCES 2 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "malik-hammouche",
+    "position": 58,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-1--px-agglo.-de-fontainebleau-2026-03-16-hugo-jezequel",
+    "raceName": "FONTAINEBLEAU – ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "hugo-jezequel",
+    "position": 1,
+    "points": 50
+  },
+  {
+    "id": "fontainebleau--acces-1--px-agglo.-de-fontainebleau-2026-03-16-thomas-buttiens",
+    "raceName": "FONTAINEBLEAU – ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "thomas-buttiens",
+    "position": 2,
+    "points": 25
+  },
+  {
+    "id": "fontainebleau--acces-1--px-agglo.-de-fontainebleau-2026-03-16-eric-gurgey",
+    "raceName": "FONTAINEBLEAU – ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "eric-gurgey",
+    "position": 3,
+    "points": 22
+  },
+  {
+    "id": "fontainebleau--acces-1--px-agglo.-de-fontainebleau-2026-03-16-thibault-freby",
+    "raceName": "FONTAINEBLEAU – ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "thibault-freby",
+    "position": 4,
+    "points": 19
+  },
+  {
+    "id": "fontainebleau--acces-1--px-agglo.-de-fontainebleau-2026-03-16-raphael-chevalier-duflot",
+    "raceName": "FONTAINEBLEAU – ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "raphael-chevalier-duflot",
+    "position": 5,
+    "points": 17
+  },
+  {
+    "id": "fontainebleau--acces-1--px-agglo.-de-fontainebleau-2026-03-16-stanislas-simon",
+    "raceName": "FONTAINEBLEAU – ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "stanislas-simon",
+    "position": 6,
+    "points": 15
+  },
+  {
+    "id": "fontainebleau--acces-1--px-agglo.-de-fontainebleau-2026-03-16-olivier-nari",
+    "raceName": "FONTAINEBLEAU – ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "olivier-nari",
+    "position": 7,
+    "points": 14
+  },
+  {
+    "id": "fontainebleau--acces-1--px-agglo.-de-fontainebleau-2026-03-16-hugo-papin",
+    "raceName": "FONTAINEBLEAU – ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "hugo-papin",
+    "position": 8,
+    "points": 13
+  },
+  {
+    "id": "fontainebleau--acces-1--px-agglo.-de-fontainebleau-2026-03-16-gaspard-degreve",
+    "raceName": "FONTAINEBLEAU – ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "gaspard-degreve",
+    "position": 9,
+    "points": 12
+  },
+  {
+    "id": "fontainebleau--acces-1--px-agglo.-de-fontainebleau-2026-03-16-clement-gaidamour",
+    "raceName": "FONTAINEBLEAU – ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "clement-gaidamour",
+    "position": 10,
+    "points": 11
+  },
+  {
+    "id": "fontainebleau--acces-1--px-agglo.-de-fontainebleau-2026-03-16-louis-fuhrmann",
+    "raceName": "FONTAINEBLEAU – ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "louis-fuhrmann",
+    "position": 11,
+    "points": 10
+  },
+  {
+    "id": "fontainebleau--acces-1--px-agglo.-de-fontainebleau-2026-03-16-jessy-baratiny",
+    "raceName": "FONTAINEBLEAU – ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "jessy-baratiny",
+    "position": 12,
+    "points": 9
+  },
+  {
+    "id": "fontainebleau--acces-1--px-agglo.-de-fontainebleau-2026-03-16-hicham-fettah",
+    "raceName": "FONTAINEBLEAU – ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "hicham-fettah",
+    "position": 13,
+    "points": 8
+  },
+  {
+    "id": "fontainebleau--acces-1--px-agglo.-de-fontainebleau-2026-03-16-fabrice-bichet",
+    "raceName": "FONTAINEBLEAU – ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "fabrice-bichet",
+    "position": 14,
+    "points": 7
+  },
+  {
+    "id": "fontainebleau--acces-1--px-agglo.-de-fontainebleau-2026-03-16-maxime-goic",
+    "raceName": "FONTAINEBLEAU – ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "maxime-goic",
+    "position": 15,
+    "points": 6
+  },
+  {
+    "id": "fontainebleau--acces-1--px-agglo.-de-fontainebleau-2026-03-16-carlo-berni",
+    "raceName": "FONTAINEBLEAU – ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "carlo-berni",
+    "position": 16,
+    "points": 5
+  },
+  {
+    "id": "fontainebleau--acces-1--px-agglo.-de-fontainebleau-2026-03-16-francois-souman",
+    "raceName": "FONTAINEBLEAU – ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "francois-souman",
+    "position": 17,
+    "points": 4
+  },
+  {
+    "id": "fontainebleau--acces-1--px-agglo.-de-fontainebleau-2026-03-16-gauvain-guelmani",
+    "raceName": "FONTAINEBLEAU – ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "gauvain-guelmani",
+    "position": 18,
+    "points": 3
+  },
+  {
+    "id": "fontainebleau--acces-1--px-agglo.-de-fontainebleau-2026-03-16-jean-philippe-gonzalez",
+    "raceName": "FONTAINEBLEAU – ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "jean-philippe-gonzalez",
+    "position": 19,
+    "points": 2
+  },
+  {
+    "id": "fontainebleau--acces-1--px-agglo.-de-fontainebleau-2026-03-16-alexandre-le-negaret",
+    "raceName": "FONTAINEBLEAU – ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "alexandre-le-negaret",
+    "position": 20,
+    "points": 1
+  },
+  {
+    "id": "fontainebleau--acces-1--px-agglo.-de-fontainebleau-2026-03-16-alexandre-gault",
+    "raceName": "FONTAINEBLEAU – ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "alexandre-gault",
+    "position": 21,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-1--px-agglo.-de-fontainebleau-2026-03-16-arsene-ducret-contactsis",
+    "raceName": "FONTAINEBLEAU – ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "arsene-ducret-contactsis",
+    "position": 22,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-1--px-agglo.-de-fontainebleau-2026-03-16-matteo-angelin",
+    "raceName": "FONTAINEBLEAU – ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "matteo-angelin",
+    "position": 23,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-1--px-agglo.-de-fontainebleau-2026-03-16-patrick-bottone",
+    "raceName": "FONTAINEBLEAU – ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "patrick-bottone",
+    "position": 24,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-1--px-agglo.-de-fontainebleau-2026-03-16-theo-frebout",
+    "raceName": "FONTAINEBLEAU – ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "theo-frebout",
+    "position": 25,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-1--px-agglo.-de-fontainebleau-2026-03-16-luis-lemos",
+    "raceName": "FONTAINEBLEAU – ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "luis-lemos",
+    "position": 26,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-1--px-agglo.-de-fontainebleau-2026-03-16-alexandre-merlette",
+    "raceName": "FONTAINEBLEAU – ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "alexandre-merlette",
+    "position": 27,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-1--px-agglo.-de-fontainebleau-2026-03-16-julien-petitfourg",
+    "raceName": "FONTAINEBLEAU – ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "julien-petitfourg",
+    "position": 28,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-1--px-agglo.-de-fontainebleau-2026-03-16-maxime-bindel",
+    "raceName": "FONTAINEBLEAU – ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "maxime-bindel",
+    "position": 29,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-1--px-agglo.-de-fontainebleau-2026-03-16-james-seremes",
+    "raceName": "FONTAINEBLEAU – ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "james-seremes",
+    "position": 30,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-1--px-agglo.-de-fontainebleau-2026-03-16-lorenzo-dubusset-giuliani",
+    "raceName": "FONTAINEBLEAU – ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "lorenzo-dubusset-giuliani",
+    "position": 31,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-1--px-agglo.-de-fontainebleau-2026-03-16-romain-tourrier",
+    "raceName": "FONTAINEBLEAU – ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "romain-tourrier",
+    "position": 32,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-1--px-agglo.-de-fontainebleau-2026-03-16-maxence-boireau",
+    "raceName": "FONTAINEBLEAU – ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "maxence-boireau",
+    "position": 33,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-1--px-agglo.-de-fontainebleau-2026-03-16-damien-charlot",
+    "raceName": "FONTAINEBLEAU – ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "damien-charlot",
+    "position": 34,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-1--px-agglo.-de-fontainebleau-2026-03-16-gregory-ortiz",
+    "raceName": "FONTAINEBLEAU – ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "gregory-ortiz",
+    "position": 35,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-1--px-agglo.-de-fontainebleau-2026-03-16-corentin-benatier",
+    "raceName": "FONTAINEBLEAU – ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "corentin-benatier",
+    "position": 36,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-1--px-agglo.-de-fontainebleau-2026-03-16-jean-pierre-carreira",
+    "raceName": "FONTAINEBLEAU – ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "jean-pierre-carreira",
+    "position": 37,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-1--px-agglo.-de-fontainebleau-2026-03-16-fabien-sardenne",
+    "raceName": "FONTAINEBLEAU – ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "fabien-sardenne",
+    "position": 38,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-1--px-agglo.-de-fontainebleau-2026-03-16-jeremie-faulcon",
+    "raceName": "FONTAINEBLEAU – ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "jeremie-faulcon",
+    "position": 39,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-1--px-agglo.-de-fontainebleau-2026-03-16-christophe-delamarre",
+    "raceName": "FONTAINEBLEAU – ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "christophe-delamarre",
+    "position": 40,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-1--px-agglo.-de-fontainebleau-2026-03-16-alexandre-mehay",
+    "raceName": "FONTAINEBLEAU – ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "alexandre-mehay",
+    "position": 41,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-1--px-agglo.-de-fontainebleau-2026-03-16-baptiste-heuvet",
+    "raceName": "FONTAINEBLEAU – ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "baptiste-heuvet",
+    "position": 42,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-1--px-agglo.-de-fontainebleau-2026-03-16-baptiste-cadiot",
+    "raceName": "FONTAINEBLEAU – ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "baptiste-cadiot",
+    "position": 43,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-1--px-agglo.-de-fontainebleau-2026-03-16-jerome-hanol",
+    "raceName": "FONTAINEBLEAU – ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "jerome-hanol",
+    "position": 44,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-1--px-agglo.-de-fontainebleau-2026-03-16-sebastien-siblet",
+    "raceName": "FONTAINEBLEAU – ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "sebastien-siblet",
+    "position": 45,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-1--px-agglo.-de-fontainebleau-2026-03-16-thomas-boistel",
+    "raceName": "FONTAINEBLEAU – ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "thomas-boistel",
+    "position": 46,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-1--px-agglo.-de-fontainebleau-2026-03-16-keo-pignot",
+    "raceName": "FONTAINEBLEAU – ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "keo-pignot",
+    "position": 47,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-1--px-agglo.-de-fontainebleau-2026-03-16-norbert-guerrero",
+    "raceName": "FONTAINEBLEAU – ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "norbert-guerrero",
+    "position": 48,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-1--px-agglo.-de-fontainebleau-2026-03-16-sebastien-bourreau",
+    "raceName": "FONTAINEBLEAU – ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "sebastien-bourreau",
+    "position": 49,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-1--px-agglo.-de-fontainebleau-2026-03-16-raphael-guillot",
+    "raceName": "FONTAINEBLEAU – ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "raphael-guillot",
+    "position": 50,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-1--px-agglo.-de-fontainebleau-2026-03-16-lilian-boissiere",
+    "raceName": "FONTAINEBLEAU – ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "lilian-boissiere",
+    "position": 51,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-1--px-agglo.-de-fontainebleau-2026-03-16-auguste-marie",
+    "raceName": "FONTAINEBLEAU – ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "auguste-marie",
+    "position": 52,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-1--px-agglo.-de-fontainebleau-2026-03-16-ludovic-rapinat",
+    "raceName": "FONTAINEBLEAU – ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "ludovic-rapinat",
+    "position": 53,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-1--px-agglo.-de-fontainebleau-2026-03-16-thibaud-marton",
+    "raceName": "FONTAINEBLEAU – ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "thibaud-marton",
+    "position": 54,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-1--px-agglo.-de-fontainebleau-2026-03-16-damien-hontang",
+    "raceName": "FONTAINEBLEAU – ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "damien-hontang",
+    "position": 55,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-1--px-agglo.-de-fontainebleau-2026-03-16-jeremy-bevre",
+    "raceName": "FONTAINEBLEAU – ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "jeremy-bevre",
+    "position": 56,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-1--px-agglo.-de-fontainebleau-2026-03-16-nicolas-neves",
+    "raceName": "FONTAINEBLEAU – ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "nicolas-neves",
+    "position": 57,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-1--px-agglo.-de-fontainebleau-2026-03-16-dimitri-aluze",
+    "raceName": "FONTAINEBLEAU – ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "dimitri-aluze",
+    "position": 58,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-1--px-agglo.-de-fontainebleau-2026-03-16-tristan-luguet",
+    "raceName": "FONTAINEBLEAU – ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "tristan-luguet",
+    "position": 59,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-1--px-agglo.-de-fontainebleau-2026-03-16-antoine-barbe-almori",
+    "raceName": "FONTAINEBLEAU – ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "antoine-barbe-almori",
+    "position": 60,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-1--px-agglo.-de-fontainebleau-2026-03-16-ilian-ferguenis",
+    "raceName": "FONTAINEBLEAU – ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "ilian-ferguenis",
+    "position": 61,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-1--px-agglo.-de-fontainebleau-2026-03-16-mathis-papin",
+    "raceName": "FONTAINEBLEAU – ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "mathis-papin",
+    "position": 62,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-1--px-agglo.-de-fontainebleau-2026-03-16-adrien-roland",
+    "raceName": "FONTAINEBLEAU – ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "adrien-roland",
+    "position": 63,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-1--px-agglo.-de-fontainebleau-2026-03-16-frederic-menard",
+    "raceName": "FONTAINEBLEAU – ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "frederic-menard",
+    "position": 64,
+    "points": 0
+  },
+  {
+    "id": "fontainebleau--acces-1--px-agglo.-de-fontainebleau-2026-03-16-franck-maeder",
+    "raceName": "FONTAINEBLEAU – ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-16",
+    "riderId": "franck-maeder",
+    "position": 65,
+    "points": 0
+  },
+  {
+    "id": "montdauphin--acces-1--px-de-montdauphin-2026-03-16-marie-morgane-le-deunff",
+    "raceName": "MONTDAUPHIN – ACCES 1 – PX DE MONTDAUPHIN",
+    "date": "2026-03-16",
+    "riderId": "marie-morgane-le-deunff",
+    "position": 1,
+    "points": 50
+  },
+  {
+    "id": "montdauphin--acces-1--px-de-montdauphin-2026-03-16-camilla-ranes-bye",
+    "raceName": "MONTDAUPHIN – ACCES 1 – PX DE MONTDAUPHIN",
+    "date": "2026-03-16",
+    "riderId": "camilla-ranes-bye",
+    "position": 2,
+    "points": 25
+  },
+  {
+    "id": "montdauphin--acces-1--px-de-montdauphin-2026-03-16-grace-reynolds",
+    "raceName": "MONTDAUPHIN – ACCES 1 – PX DE MONTDAUPHIN",
+    "date": "2026-03-16",
+    "riderId": "grace-reynolds",
+    "position": 3,
+    "points": 22
+  },
+  {
+    "id": "montdauphin--acces-1--px-de-montdauphin-2026-03-16-emilie-fortin",
+    "raceName": "MONTDAUPHIN – ACCES 1 – PX DE MONTDAUPHIN",
+    "date": "2026-03-16",
+    "riderId": "emilie-fortin",
+    "position": 4,
+    "points": 19
+  },
+  {
+    "id": "montdauphin--acces-1--px-de-montdauphin-2026-03-16-lucy-benezet-minns",
+    "raceName": "MONTDAUPHIN – ACCES 1 – PX DE MONTDAUPHIN",
+    "date": "2026-03-16",
+    "riderId": "lucy-benezet-minns",
+    "position": 5,
+    "points": 17
+  },
+  {
+    "id": "montdauphin--acces-1--px-de-montdauphin-2026-03-16-addison-frank",
+    "raceName": "MONTDAUPHIN – ACCES 1 – PX DE MONTDAUPHIN",
+    "date": "2026-03-16",
+    "riderId": "addison-frank",
+    "position": 6,
+    "points": 15
+  },
+  {
+    "id": "montdauphin--acces-1--px-de-montdauphin-2026-03-16-oceane-goergen",
+    "raceName": "MONTDAUPHIN – ACCES 1 – PX DE MONTDAUPHIN",
+    "date": "2026-03-16",
+    "riderId": "oceane-goergen",
+    "position": 7,
+    "points": 14
+  },
+  {
+    "id": "montdauphin--acces-1--px-de-montdauphin-2026-03-16-violette-demay",
+    "raceName": "MONTDAUPHIN – ACCES 1 – PX DE MONTDAUPHIN",
+    "date": "2026-03-16",
+    "riderId": "violette-demay",
+    "position": 8,
+    "points": 13
+  },
+  {
+    "id": "montdauphin--acces-1--px-de-montdauphin-2026-03-16-eloise-camire",
+    "raceName": "MONTDAUPHIN – ACCES 1 – PX DE MONTDAUPHIN",
+    "date": "2026-03-16",
+    "riderId": "eloise-camire",
+    "position": 9,
+    "points": 12
+  },
+  {
+    "id": "montdauphin--acces-1--px-de-montdauphin-2026-03-16-laura-poncet",
+    "raceName": "MONTDAUPHIN – ACCES 1 – PX DE MONTDAUPHIN",
+    "date": "2026-03-16",
+    "riderId": "laura-poncet",
+    "position": 10,
+    "points": 11
+  },
+  {
+    "id": "montdauphin--acces-1--px-de-montdauphin-2026-03-16-alizee-rigaux",
+    "raceName": "MONTDAUPHIN – ACCES 1 – PX DE MONTDAUPHIN",
+    "date": "2026-03-16",
+    "riderId": "alizee-rigaux",
+    "position": 11,
+    "points": 10
+  },
+  {
+    "id": "montdauphin--acces-1--px-de-montdauphin-2026-03-16-jessica-rouat",
+    "raceName": "MONTDAUPHIN – ACCES 1 – PX DE MONTDAUPHIN",
+    "date": "2026-03-16",
+    "riderId": "jessica-rouat",
+    "position": 12,
+    "points": 9
+  },
+  {
+    "id": "montdauphin--acces-1--px-de-montdauphin-2026-03-16-solene-marnoni",
+    "raceName": "MONTDAUPHIN – ACCES 1 – PX DE MONTDAUPHIN",
+    "date": "2026-03-16",
+    "riderId": "solene-marnoni",
+    "position": 13,
+    "points": 8
+  },
+  {
+    "id": "montdauphin--acces-1--px-de-montdauphin-2026-03-16-juliette-verdier",
+    "raceName": "MONTDAUPHIN – ACCES 1 – PX DE MONTDAUPHIN",
+    "date": "2026-03-16",
+    "riderId": "juliette-verdier",
+    "position": 14,
+    "points": 7
+  },
+  {
+    "id": "montdauphin--acces-1--px-de-montdauphin-2026-03-16-viivi-turpeinen",
+    "raceName": "MONTDAUPHIN – ACCES 1 – PX DE MONTDAUPHIN",
+    "date": "2026-03-16",
+    "riderId": "viivi-turpeinen",
+    "position": 15,
+    "points": 6
+  },
+  {
+    "id": "montdauphin--acces-1--px-de-montdauphin-2026-03-16-lea-pitard",
+    "raceName": "MONTDAUPHIN – ACCES 1 – PX DE MONTDAUPHIN",
+    "date": "2026-03-16",
+    "riderId": "lea-pitard",
+    "position": 16,
+    "points": 5
+  },
+  {
+    "id": "montdauphin--acces-1--px-de-montdauphin-2026-03-16-adeline-guerin",
+    "raceName": "MONTDAUPHIN – ACCES 1 – PX DE MONTDAUPHIN",
+    "date": "2026-03-16",
+    "riderId": "adeline-guerin",
+    "position": 17,
+    "points": 4
+  },
+  {
+    "id": "montdauphin--acces-1--px-de-montdauphin-2026-03-16-antje-valkeneers",
+    "raceName": "MONTDAUPHIN – ACCES 1 – PX DE MONTDAUPHIN",
+    "date": "2026-03-16",
+    "riderId": "antje-valkeneers",
+    "position": 18,
+    "points": 3
+  },
+  {
+    "id": "montdauphin--acces-1--px-de-montdauphin-2026-03-16-raphaelle-houde",
+    "raceName": "MONTDAUPHIN – ACCES 1 – PX DE MONTDAUPHIN",
+    "date": "2026-03-16",
+    "riderId": "raphaelle-houde",
+    "position": 19,
+    "points": 2
+  },
+  {
+    "id": "montdauphin--acces-1--px-de-montdauphin-2026-03-16-coralie-houde",
+    "raceName": "MONTDAUPHIN – ACCES 1 – PX DE MONTDAUPHIN",
+    "date": "2026-03-16",
+    "riderId": "coralie-houde",
+    "position": 20,
+    "points": 1
+  },
+  {
+    "id": "montdauphin--acces-1--px-de-montdauphin-2026-03-16-alice-bredard",
+    "raceName": "MONTDAUPHIN – ACCES 1 – PX DE MONTDAUPHIN",
+    "date": "2026-03-16",
+    "riderId": "alice-bredard",
+    "position": 21,
+    "points": 0
+  },
+  {
+    "id": "montdauphin--acces-1--px-de-montdauphin-2026-03-16-lucile-bellelle",
+    "raceName": "MONTDAUPHIN – ACCES 1 – PX DE MONTDAUPHIN",
+    "date": "2026-03-16",
+    "riderId": "lucile-bellelle",
+    "position": 22,
+    "points": 0
+  },
+  {
+    "id": "montdauphin--acces-1--px-de-montdauphin-2026-03-16-noemie-garnier",
+    "raceName": "MONTDAUPHIN – ACCES 1 – PX DE MONTDAUPHIN",
+    "date": "2026-03-16",
+    "riderId": "noemie-garnier",
+    "position": 23,
+    "points": 0
+  },
+  {
+    "id": "montdauphin--acces-1--px-de-montdauphin-2026-03-16-ilena-simon",
+    "raceName": "MONTDAUPHIN – ACCES 1 – PX DE MONTDAUPHIN",
+    "date": "2026-03-16",
+    "riderId": "ilena-simon",
+    "position": 24,
+    "points": 0
+  },
+  {
+    "id": "montdauphin--acces-1--px-de-montdauphin-2026-03-16-emeline-courtot",
+    "raceName": "MONTDAUPHIN – ACCES 1 – PX DE MONTDAUPHIN",
+    "date": "2026-03-16",
+    "riderId": "emeline-courtot",
+    "position": 25,
+    "points": 0
+  },
+  {
+    "id": "montdauphin--acces-1--px-de-montdauphin-2026-03-16-anouk-bruget",
+    "raceName": "MONTDAUPHIN – ACCES 1 – PX DE MONTDAUPHIN",
+    "date": "2026-03-16",
+    "riderId": "anouk-bruget",
+    "position": 26,
+    "points": 0
+  },
+  {
+    "id": "montdauphin--acces-1--px-de-montdauphin-2026-03-16-charlene-clavel",
+    "raceName": "MONTDAUPHIN – ACCES 1 – PX DE MONTDAUPHIN",
+    "date": "2026-03-16",
+    "riderId": "charlene-clavel",
+    "position": 27,
+    "points": 0
+  },
+  {
+    "id": "montdauphin--acces-1--px-de-montdauphin-2026-03-16-elia-marthe",
+    "raceName": "MONTDAUPHIN – ACCES 1 – PX DE MONTDAUPHIN",
+    "date": "2026-03-16",
+    "riderId": "elia-marthe",
+    "position": 28,
+    "points": 0
+  },
+  {
+    "id": "montdauphin--acces-1--px-de-montdauphin-2026-03-16-kloe-saugrain",
+    "raceName": "MONTDAUPHIN – ACCES 1 – PX DE MONTDAUPHIN",
+    "date": "2026-03-16",
+    "riderId": "kloe-saugrain",
+    "position": 29,
+    "points": 0
+  },
+  {
+    "id": "montdauphin--acces-1--px-de-montdauphin-2026-03-16-flavie-bador",
+    "raceName": "MONTDAUPHIN – ACCES 1 – PX DE MONTDAUPHIN",
+    "date": "2026-03-16",
+    "riderId": "flavie-bador",
+    "position": 30,
+    "points": 0
+  },
+  {
+    "id": "montdauphin--acces-1--px-de-montdauphin-2026-03-16-eva-poirot",
+    "raceName": "MONTDAUPHIN – ACCES 1 – PX DE MONTDAUPHIN",
+    "date": "2026-03-16",
+    "riderId": "eva-poirot",
+    "position": 31,
+    "points": 0
+  },
+  {
+    "id": "montdauphin--acces-1--px-de-montdauphin-2026-03-16-lana-cufi",
+    "raceName": "MONTDAUPHIN – ACCES 1 – PX DE MONTDAUPHIN",
+    "date": "2026-03-16",
+    "riderId": "lana-cufi",
+    "position": 32,
+    "points": 0
+  },
+  {
+    "id": "montdauphin--acces-1--px-de-montdauphin-2026-03-16-marion-bindith",
+    "raceName": "MONTDAUPHIN – ACCES 1 – PX DE MONTDAUPHIN",
+    "date": "2026-03-16",
+    "riderId": "marion-bindith",
+    "position": 33,
+    "points": 0
+  },
+  {
+    "id": "montdauphin--acces-1--px-de-montdauphin-2026-03-16-balladyne-tritsch",
+    "raceName": "MONTDAUPHIN – ACCES 1 – PX DE MONTDAUPHIN",
+    "date": "2026-03-16",
+    "riderId": "balladyne-tritsch",
+    "position": 34,
+    "points": 0
+  },
+  {
+    "id": "montdauphin--acces-1--px-de-montdauphin-2026-03-16-noemie-bucamp",
+    "raceName": "MONTDAUPHIN – ACCES 1 – PX DE MONTDAUPHIN",
+    "date": "2026-03-16",
+    "riderId": "noemie-bucamp",
+    "position": 35,
+    "points": 0
+  },
+  {
+    "id": "montdauphin--acces-1--px-de-montdauphin-2026-03-16-floraine-bernard",
+    "raceName": "MONTDAUPHIN – ACCES 1 – PX DE MONTDAUPHIN",
+    "date": "2026-03-16",
+    "riderId": "floraine-bernard",
+    "position": 36,
+    "points": 0
+  },
+  {
+    "id": "montdauphin--acces-1--px-de-montdauphin-2026-03-16-loane-menager",
+    "raceName": "MONTDAUPHIN – ACCES 1 – PX DE MONTDAUPHIN",
+    "date": "2026-03-16",
+    "riderId": "loane-menager",
+    "position": 37,
+    "points": 0
+  },
+  {
+    "id": "montdauphin--acces-1--px-de-montdauphin-2026-03-16-rose-kloese",
+    "raceName": "MONTDAUPHIN – ACCES 1 – PX DE MONTDAUPHIN",
+    "date": "2026-03-16",
+    "riderId": "rose-kloese",
+    "position": 38,
+    "points": 0
+  },
+  {
+    "id": "montdauphin--acces-1--px-de-montdauphin-2026-03-16-lea-brette",
+    "raceName": "MONTDAUPHIN – ACCES 1 – PX DE MONTDAUPHIN",
+    "date": "2026-03-16",
+    "riderId": "lea-brette",
+    "position": 39,
+    "points": 0
+  },
+  {
+    "id": "montdauphin--acces-1--px-de-montdauphin-2026-03-16-leeloo-saugrain",
+    "raceName": "MONTDAUPHIN – ACCES 1 – PX DE MONTDAUPHIN",
+    "date": "2026-03-16",
+    "riderId": "leeloo-saugrain",
+    "position": 40,
+    "points": 0
+  },
+  {
+    "id": "montdauphin--acces-1--px-de-montdauphin-2026-03-16-melanie-dupin",
+    "raceName": "MONTDAUPHIN – ACCES 1 – PX DE MONTDAUPHIN",
+    "date": "2026-03-16",
+    "riderId": "melanie-dupin",
+    "position": 41,
+    "points": 0
+  },
+  {
+    "id": "montdauphin--acces-1--px-de-montdauphin-2026-03-16-elina-cabot",
+    "raceName": "MONTDAUPHIN – ACCES 1 – PX DE MONTDAUPHIN",
+    "date": "2026-03-16",
+    "riderId": "elina-cabot",
+    "position": 42,
+    "points": 0
+  },
+  {
+    "id": "montdauphin--acces-1--px-de-montdauphin-2026-03-16-eloane-lebreton",
+    "raceName": "MONTDAUPHIN – ACCES 1 – PX DE MONTDAUPHIN",
+    "date": "2026-03-16",
+    "riderId": "eloane-lebreton",
+    "position": 43,
+    "points": 0
+  },
+  {
+    "id": "montdauphin--acces-1--px-de-montdauphin-2026-03-16-anais-martinet",
+    "raceName": "MONTDAUPHIN – ACCES 1 – PX DE MONTDAUPHIN",
+    "date": "2026-03-16",
+    "riderId": "anais-martinet",
+    "position": 44,
+    "points": 0
+  },
+  {
+    "id": "montdauphin--acces-1--px-de-montdauphin-2026-03-16-solene-lepaintre",
+    "raceName": "MONTDAUPHIN – ACCES 1 – PX DE MONTDAUPHIN",
+    "date": "2026-03-16",
+    "riderId": "solene-lepaintre",
+    "position": 45,
+    "points": 0
+  },
+  {
+    "id": "montdauphin--acces-1--px-de-montdauphin-2026-03-16-cyrielle-hernault",
+    "raceName": "MONTDAUPHIN – ACCES 1 – PX DE MONTDAUPHIN",
+    "date": "2026-03-16",
+    "riderId": "cyrielle-hernault",
+    "position": 46,
+    "points": 0
+  },
+  {
+    "id": "montdauphin--acces-1--px-de-montdauphin-2026-03-16-fiona-mertens",
+    "raceName": "MONTDAUPHIN – ACCES 1 – PX DE MONTDAUPHIN",
+    "date": "2026-03-16",
+    "riderId": "fiona-mertens",
+    "position": 47,
+    "points": 0
+  },
+  {
+    "id": "montdauphin--acces-1--px-de-montdauphin-2026-03-16-sidonie-vachet",
+    "raceName": "MONTDAUPHIN – ACCES 1 – PX DE MONTDAUPHIN",
+    "date": "2026-03-16",
+    "riderId": "sidonie-vachet",
+    "position": 48,
+    "points": 0
+  },
+  {
+    "id": "montdauphin--acces-1--px-de-montdauphin-2026-03-16-eyeru-tesfoam-gebru",
+    "raceName": "MONTDAUPHIN – ACCES 1 – PX DE MONTDAUPHIN",
+    "date": "2026-03-16",
+    "riderId": "eyeru-tesfoam-gebru",
+    "position": 49,
+    "points": 0
+  },
+  {
+    "id": "montdauphin--acces-1--px-de-montdauphin-2026-03-16-sarah-pope",
+    "raceName": "MONTDAUPHIN – ACCES 1 – PX DE MONTDAUPHIN",
+    "date": "2026-03-16",
+    "riderId": "sarah-pope",
+    "position": 50,
+    "points": 0
+  },
+  {
+    "id": "montdauphin--acces-1--px-de-montdauphin-2026-03-16-emilie-brette",
+    "raceName": "MONTDAUPHIN – ACCES 1 – PX DE MONTDAUPHIN",
+    "date": "2026-03-16",
+    "riderId": "emilie-brette",
+    "position": 51,
+    "points": 0
+  },
+  {
+    "id": "montdauphin--acces-1--px-de-montdauphin-2026-03-16-laura-guegan",
+    "raceName": "MONTDAUPHIN – ACCES 1 – PX DE MONTDAUPHIN",
+    "date": "2026-03-16",
+    "riderId": "laura-guegan",
+    "position": 52,
+    "points": 0
+  },
+  {
+    "id": "montdauphin--acces-1--px-de-montdauphin-2026-03-16-mathilde-fournier",
+    "raceName": "MONTDAUPHIN – ACCES 1 – PX DE MONTDAUPHIN",
+    "date": "2026-03-16",
+    "riderId": "mathilde-fournier",
+    "position": 53,
+    "points": 0
+  },
+  {
+    "id": "montdauphin--acces-1--px-de-montdauphin-2026-03-16-charlotte-allard",
+    "raceName": "MONTDAUPHIN – ACCES 1 – PX DE MONTDAUPHIN",
+    "date": "2026-03-16",
+    "riderId": "charlotte-allard",
+    "position": 54,
+    "points": 0
+  },
+  {
+    "id": "montdauphin--acces-1--px-de-montdauphin-2026-03-16-aurore-pauchet",
+    "raceName": "MONTDAUPHIN – ACCES 1 – PX DE MONTDAUPHIN",
+    "date": "2026-03-16",
+    "riderId": "aurore-pauchet",
+    "position": 55,
+    "points": 0
+  },
+  {
+    "id": "montdauphin--acces-1--px-de-montdauphin-2026-03-16-zoe-lamotte",
+    "raceName": "MONTDAUPHIN – ACCES 1 – PX DE MONTDAUPHIN",
+    "date": "2026-03-16",
+    "riderId": "zoe-lamotte",
+    "position": 56,
+    "points": 0
+  },
+  {
+    "id": "montdauphin--acces-1--px-de-montdauphin-2026-03-16-irene-dubois",
+    "raceName": "MONTDAUPHIN – ACCES 1 – PX DE MONTDAUPHIN",
+    "date": "2026-03-16",
+    "riderId": "irene-dubois",
+    "position": 57,
+    "points": 0
+  },
+  {
+    "id": "montdauphin--acces-1--px-de-montdauphin-2026-03-16-lucie-verreaux",
+    "raceName": "MONTDAUPHIN – ACCES 1 – PX DE MONTDAUPHIN",
+    "date": "2026-03-16",
+    "riderId": "lucie-verreaux",
+    "position": 58,
+    "points": 0
+  },
+  {
+    "id": "montdauphin--acces-1--px-de-montdauphin-2026-03-16-gwenaelle-tirel",
+    "raceName": "MONTDAUPHIN – ACCES 1 – PX DE MONTDAUPHIN",
+    "date": "2026-03-16",
+    "riderId": "gwenaelle-tirel",
+    "position": 59,
+    "points": 0
+  },
+  {
+    "id": "montdauphin--acces-1--px-de-montdauphin-2026-03-16-noemie-richardot",
+    "raceName": "MONTDAUPHIN – ACCES 1 – PX DE MONTDAUPHIN",
+    "date": "2026-03-16",
+    "riderId": "noemie-richardot",
+    "position": 60,
+    "points": 0
+  },
+  {
+    "id": "montdauphin--acces-1--px-de-montdauphin-2026-03-16-anna-blanchet",
+    "raceName": "MONTDAUPHIN – ACCES 1 – PX DE MONTDAUPHIN",
+    "date": "2026-03-16",
+    "riderId": "anna-blanchet",
+    "position": 61,
+    "points": 0
+  },
+  {
+    "id": "montdauphin--acces-1--px-de-montdauphin-2026-03-16-gaxine-friou",
+    "raceName": "MONTDAUPHIN – ACCES 1 – PX DE MONTDAUPHIN",
+    "date": "2026-03-16",
+    "riderId": "gaxine-friou",
+    "position": 62,
+    "points": 0
+  },
+  {
+    "id": "montdauphin--acces-1--px-de-montdauphin-2026-03-16-zelie-baudon",
+    "raceName": "MONTDAUPHIN – ACCES 1 – PX DE MONTDAUPHIN",
+    "date": "2026-03-16",
+    "riderId": "zelie-baudon",
+    "position": 63,
+    "points": 0
+  },
+  {
+    "id": "montdauphin--acces-1--px-de-montdauphin-2026-03-16-romane-karpp",
+    "raceName": "MONTDAUPHIN – ACCES 1 – PX DE MONTDAUPHIN",
+    "date": "2026-03-16",
+    "riderId": "romane-karpp",
+    "position": 64,
+    "points": 0
+  },
+  {
+    "id": "montdauphin--acces-1--px-de-montdauphin-2026-03-16-emma-galea",
+    "raceName": "MONTDAUPHIN – ACCES 1 – PX DE MONTDAUPHIN",
+    "date": "2026-03-16",
+    "riderId": "emma-galea",
+    "position": 65,
+    "points": 0
+  },
+  {
+    "id": "montdauphin--acces-1--px-de-montdauphin-2026-03-16-erynne-frossard-gillet",
+    "raceName": "MONTDAUPHIN – ACCES 1 – PX DE MONTDAUPHIN",
+    "date": "2026-03-16",
+    "riderId": "erynne-frossard-gillet",
+    "position": 66,
+    "points": 0
+  },
+  {
+    "id": "montdauphin--acces-1--px-de-montdauphin-2026-03-16-annika-baumer",
+    "raceName": "MONTDAUPHIN – ACCES 1 – PX DE MONTDAUPHIN",
+    "date": "2026-03-16",
+    "riderId": "annika-baumer",
+    "position": 67,
+    "points": 0
+  },
+  {
+    "id": "montdauphin--acces-1--px-de-montdauphin-2026-03-16-marie-foutelet",
+    "raceName": "MONTDAUPHIN – ACCES 1 – PX DE MONTDAUPHIN",
+    "date": "2026-03-16",
+    "riderId": "marie-foutelet",
+    "position": 68,
+    "points": 0
+  },
+  {
+    "id": "montdauphin--acces-1--px-de-montdauphin-2026-03-16-flavie-poncet",
+    "raceName": "MONTDAUPHIN – ACCES 1 – PX DE MONTDAUPHIN",
+    "date": "2026-03-16",
+    "riderId": "flavie-poncet",
+    "position": 69,
+    "points": 0
+  },
+  {
+    "id": "montdauphin--acces-1--px-de-montdauphin-2026-03-16-carmen-van-der-veen",
+    "raceName": "MONTDAUPHIN – ACCES 1 – PX DE MONTDAUPHIN",
+    "date": "2026-03-16",
+    "riderId": "carmen-van-der-veen",
+    "position": 70,
+    "points": 0
+  },
+  {
+    "id": "montdauphin--acces-1--px-de-montdauphin-2026-03-16-josse-nonneman",
+    "raceName": "MONTDAUPHIN – ACCES 1 – PX DE MONTDAUPHIN",
+    "date": "2026-03-16",
+    "riderId": "josse-nonneman",
+    "position": 71,
+    "points": 0
+  },
+  {
+    "id": "cyclo-cross-domont---u15-hommes-et-femmes-2026-03-16-evann-pezzoli",
+    "raceName": "CYCLO-CROSS DOMONT  -U15 HOMMES et FEMMES",
+    "date": "2026-03-16",
+    "riderId": "evann-pezzoli",
+    "position": 1,
+    "points": 50
+  },
+  {
+    "id": "cyclo-cross-domont---u15-hommes-et-femmes-2026-03-16-theophile-mesnard",
+    "raceName": "CYCLO-CROSS DOMONT  -U15 HOMMES et FEMMES",
+    "date": "2026-03-16",
+    "riderId": "theophile-mesnard",
+    "position": 2,
+    "points": 25
+  },
+  {
+    "id": "cyclo-cross-domont---u15-hommes-et-femmes-2026-03-16-clement-tetu",
+    "raceName": "CYCLO-CROSS DOMONT  -U15 HOMMES et FEMMES",
+    "date": "2026-03-16",
+    "riderId": "clement-tetu",
+    "position": 3,
+    "points": 22
+  },
+  {
+    "id": "cyclo-cross-domont---u15-hommes-et-femmes-2026-03-16-luca-mattioda",
+    "raceName": "CYCLO-CROSS DOMONT  -U15 HOMMES et FEMMES",
+    "date": "2026-03-16",
+    "riderId": "luca-mattioda",
+    "position": 4,
+    "points": 19
+  },
+  {
+    "id": "cyclo-cross-domont---u15-hommes-et-femmes-2026-03-16-alexandre-dazat-dieguez",
+    "raceName": "CYCLO-CROSS DOMONT  -U15 HOMMES et FEMMES",
+    "date": "2026-03-16",
+    "riderId": "alexandre-dazat-dieguez",
+    "position": 5,
+    "points": 17
+  },
+  {
+    "id": "cyclo-cross-domont---u15-hommes-et-femmes-2026-03-16-joran-berganz",
+    "raceName": "CYCLO-CROSS DOMONT  -U15 HOMMES et FEMMES",
+    "date": "2026-03-16",
+    "riderId": "joran-berganz",
+    "position": 6,
+    "points": 15
+  },
+  {
+    "id": "cyclo-cross-domont---u15-hommes-et-femmes-2026-03-16-lohan-simon-lavalley",
+    "raceName": "CYCLO-CROSS DOMONT  -U15 HOMMES et FEMMES",
+    "date": "2026-03-16",
+    "riderId": "lohan-simon-lavalley",
+    "position": 7,
+    "points": 14
+  },
+  {
+    "id": "cyclo-cross-domont---u15-hommes-et-femmes-2026-03-16-fares-el-filali",
+    "raceName": "CYCLO-CROSS DOMONT  -U15 HOMMES et FEMMES",
+    "date": "2026-03-16",
+    "riderId": "fares-el-filali",
+    "position": 8,
+    "points": 13
+  },
+  {
+    "id": "cyclo-cross-domont---u15-hommes-et-femmes-2026-03-16-leon-guyot",
+    "raceName": "CYCLO-CROSS DOMONT  -U15 HOMMES et FEMMES",
+    "date": "2026-03-16",
+    "riderId": "leon-guyot",
+    "position": 9,
+    "points": 12
+  },
+  {
+    "id": "cyclo-cross-domont---u15-hommes-et-femmes-2026-03-16-maxime-manzoni",
+    "raceName": "CYCLO-CROSS DOMONT  -U15 HOMMES et FEMMES",
+    "date": "2026-03-16",
+    "riderId": "maxime-manzoni",
+    "position": 10,
+    "points": 11
+  },
+  {
+    "id": "cyclo-cross-domont---u15-hommes-et-femmes-2026-03-16-clement-fouillet",
+    "raceName": "CYCLO-CROSS DOMONT  -U15 HOMMES et FEMMES",
+    "date": "2026-03-16",
+    "riderId": "clement-fouillet",
+    "position": 11,
+    "points": 10
+  },
+  {
+    "id": "cyclo-cross-domont---u15-hommes-et-femmes-2026-03-16-samuel-lea",
+    "raceName": "CYCLO-CROSS DOMONT  -U15 HOMMES et FEMMES",
+    "date": "2026-03-16",
+    "riderId": "samuel-lea",
+    "position": 12,
+    "points": 9
+  },
+  {
+    "id": "cyclo-cross-domont---u15-hommes-et-femmes-2026-03-16-mael-meriau",
+    "raceName": "CYCLO-CROSS DOMONT  -U15 HOMMES et FEMMES",
+    "date": "2026-03-16",
+    "riderId": "mael-meriau",
+    "position": 13,
+    "points": 8
+  },
+  {
+    "id": "cyclo-cross-domont---u15-hommes-et-femmes-2026-03-16-malo-farey",
+    "raceName": "CYCLO-CROSS DOMONT  -U15 HOMMES et FEMMES",
+    "date": "2026-03-16",
+    "riderId": "malo-farey",
+    "position": 14,
+    "points": 7
+  },
+  {
+    "id": "cyclo-cross-domont---u15-hommes-et-femmes-2026-03-16-lucas-taisne",
+    "raceName": "CYCLO-CROSS DOMONT  -U15 HOMMES et FEMMES",
+    "date": "2026-03-16",
+    "riderId": "lucas-taisne",
+    "position": 15,
+    "points": 6
+  },
+  {
+    "id": "cyclo-cross-domont---u15-hommes-et-femmes-2026-03-16-adrien-mousnier",
+    "raceName": "CYCLO-CROSS DOMONT  -U15 HOMMES et FEMMES",
+    "date": "2026-03-16",
+    "riderId": "adrien-mousnier",
+    "position": 16,
+    "points": 5
+  },
+  {
+    "id": "cyclo-cross-domont---u15-hommes-et-femmes-2026-03-16-e.-ratajczak",
+    "raceName": "CYCLO-CROSS DOMONT  -U15 HOMMES et FEMMES",
+    "date": "2026-03-16",
+    "riderId": "e.-ratajczak",
+    "position": 17,
+    "points": 4
+  },
+  {
+    "id": "cyclo-cross-domont---u15-hommes-et-femmes-2026-03-16-tristan-caballero-geoffroy",
+    "raceName": "CYCLO-CROSS DOMONT  -U15 HOMMES et FEMMES",
+    "date": "2026-03-16",
+    "riderId": "tristan-caballero-geoffroy",
+    "position": 18,
+    "points": 3
+  },
+  {
+    "id": "cyclo-cross-domont---u15-hommes-et-femmes-2026-03-16-adam-reis",
+    "raceName": "CYCLO-CROSS DOMONT  -U15 HOMMES et FEMMES",
+    "date": "2026-03-16",
+    "riderId": "adam-reis",
+    "position": 19,
+    "points": 2
+  },
+  {
+    "id": "cyclo-cross-domont---u15-hommes-et-femmes-2026-03-16-lubin-vauchelles",
+    "raceName": "CYCLO-CROSS DOMONT  -U15 HOMMES et FEMMES",
+    "date": "2026-03-16",
+    "riderId": "lubin-vauchelles",
+    "position": 20,
+    "points": 1
+  },
+  {
+    "id": "cyclo-cross-domont---u15-hommes-et-femmes-2026-03-16-thomas-apcher",
+    "raceName": "CYCLO-CROSS DOMONT  -U15 HOMMES et FEMMES",
+    "date": "2026-03-16",
+    "riderId": "thomas-apcher",
+    "position": 21,
+    "points": 0
+  },
+  {
+    "id": "cyclo-cross-domont---u15-hommes-et-femmes-2026-03-16-matheo-lambert",
+    "raceName": "CYCLO-CROSS DOMONT  -U15 HOMMES et FEMMES",
+    "date": "2026-03-16",
+    "riderId": "matheo-lambert",
+    "position": 22,
+    "points": 0
+  },
+  {
+    "id": "cyclo-cross-domont---u15-hommes-et-femmes-2026-03-16-paulin-tribout",
+    "raceName": "CYCLO-CROSS DOMONT  -U15 HOMMES et FEMMES",
+    "date": "2026-03-16",
+    "riderId": "paulin-tribout",
+    "position": 23,
+    "points": 0
+  },
+  {
+    "id": "cyclo-cross-domont---u15-hommes-et-femmes-2026-03-16-louis-sieurin",
+    "raceName": "CYCLO-CROSS DOMONT  -U15 HOMMES et FEMMES",
+    "date": "2026-03-16",
+    "riderId": "louis-sieurin",
+    "position": 24,
+    "points": 0
+  },
+  {
+    "id": "cyclo-cross-domont---u15-hommes-et-femmes-2026-03-16-elias-loubat",
+    "raceName": "CYCLO-CROSS DOMONT  -U15 HOMMES et FEMMES",
+    "date": "2026-03-16",
+    "riderId": "elias-loubat",
+    "position": 25,
+    "points": 0
+  },
+  {
+    "id": "cyclo-cross-domont---u15-hommes-et-femmes-2026-03-16-eyal-vandeweghe-wakselman",
+    "raceName": "CYCLO-CROSS DOMONT  -U15 HOMMES et FEMMES",
+    "date": "2026-03-16",
+    "riderId": "eyal-vandeweghe-wakselman",
+    "position": 26,
+    "points": 0
+  },
+  {
+    "id": "cyclo-cross-domont---u15-hommes-et-femmes-2026-03-16-sandro-valat",
+    "raceName": "CYCLO-CROSS DOMONT  -U15 HOMMES et FEMMES",
+    "date": "2026-03-16",
+    "riderId": "sandro-valat",
+    "position": 27,
+    "points": 0
+  },
+  {
+    "id": "cyclo-cross-domont---u15-hommes-et-femmes-2026-03-16-adam-salvar",
+    "raceName": "CYCLO-CROSS DOMONT  -U15 HOMMES et FEMMES",
+    "date": "2026-03-16",
+    "riderId": "adam-salvar",
+    "position": 28,
+    "points": 0
+  },
+  {
+    "id": "cyclo-cross-domont---u15-hommes-et-femmes-2026-03-16-clement-lavallee",
+    "raceName": "CYCLO-CROSS DOMONT  -U15 HOMMES et FEMMES",
+    "date": "2026-03-16",
+    "riderId": "clement-lavallee",
+    "position": 29,
+    "points": 0
+  },
+  {
+    "id": "cyclo-cross-domont---u15-hommes-et-femmes-2026-03-16-hugo-brodin",
+    "raceName": "CYCLO-CROSS DOMONT  -U15 HOMMES et FEMMES",
+    "date": "2026-03-16",
+    "riderId": "hugo-brodin",
+    "position": 30,
+    "points": 0
+  },
+  {
+    "id": "cyclo-cross-domont---u15-hommes-et-femmes-2026-03-16-mattew-biarne-continant",
+    "raceName": "CYCLO-CROSS DOMONT  -U15 HOMMES et FEMMES",
+    "date": "2026-03-16",
+    "riderId": "mattew-biarne-continant",
+    "position": 31,
+    "points": 0
+  },
+  {
+    "id": "boucles-de-seine-et-marne--souvenir-bernard-maillet-2026-03-16-augustin-fahy",
+    "raceName": "BOUCLES DE SEINE-ET-MARNE – SOUVENIR BERNARD MAILLET",
+    "date": "2026-03-16",
+    "riderId": "augustin-fahy",
+    "position": 1,
+    "points": 50
+  },
+  {
+    "id": "boucles-de-seine-et-marne--souvenir-bernard-maillet-2026-03-16-maxence-detre",
+    "raceName": "BOUCLES DE SEINE-ET-MARNE – SOUVENIR BERNARD MAILLET",
+    "date": "2026-03-16",
+    "riderId": "maxence-detre",
+    "position": 2,
+    "points": 25
+  },
+  {
+    "id": "boucles-de-seine-et-marne--souvenir-bernard-maillet-2026-03-16-jules-lefebvre-fournier",
+    "raceName": "BOUCLES DE SEINE-ET-MARNE – SOUVENIR BERNARD MAILLET",
+    "date": "2026-03-16",
+    "riderId": "jules-lefebvre-fournier",
+    "position": 3,
+    "points": 22
+  },
+  {
+    "id": "boucles-de-seine-et-marne--souvenir-bernard-maillet-2026-03-16-jean-groussin",
+    "raceName": "BOUCLES DE SEINE-ET-MARNE – SOUVENIR BERNARD MAILLET",
+    "date": "2026-03-16",
+    "riderId": "jean-groussin",
+    "position": 4,
+    "points": 19
+  },
+  {
+    "id": "boucles-de-seine-et-marne--souvenir-bernard-maillet-2026-03-16-julien-breugnot",
+    "raceName": "BOUCLES DE SEINE-ET-MARNE – SOUVENIR BERNARD MAILLET",
+    "date": "2026-03-16",
+    "riderId": "julien-breugnot",
+    "position": 5,
+    "points": 17
+  },
+  {
+    "id": "boucles-de-seine-et-marne--souvenir-bernard-maillet-2026-03-16-timothee-joyez",
+    "raceName": "BOUCLES DE SEINE-ET-MARNE – SOUVENIR BERNARD MAILLET",
+    "date": "2026-03-16",
+    "riderId": "timothee-joyez",
+    "position": 6,
+    "points": 15
+  },
+  {
+    "id": "boucles-de-seine-et-marne--souvenir-bernard-maillet-2026-03-16-paul-hawrylak",
+    "raceName": "BOUCLES DE SEINE-ET-MARNE – SOUVENIR BERNARD MAILLET",
+    "date": "2026-03-16",
+    "riderId": "paul-hawrylak",
+    "position": 7,
+    "points": 14
+  },
+  {
+    "id": "boucles-de-seine-et-marne--souvenir-bernard-maillet-2026-03-16-flavien-lavaud",
+    "raceName": "BOUCLES DE SEINE-ET-MARNE – SOUVENIR BERNARD MAILLET",
+    "date": "2026-03-16",
+    "riderId": "flavien-lavaud",
+    "position": 8,
+    "points": 13
+  },
+  {
+    "id": "boucles-de-seine-et-marne--souvenir-bernard-maillet-2026-03-16-alban-laurent",
+    "raceName": "BOUCLES DE SEINE-ET-MARNE – SOUVENIR BERNARD MAILLET",
+    "date": "2026-03-16",
+    "riderId": "alban-laurent",
+    "position": 9,
+    "points": 12
+  },
+  {
+    "id": "boucles-de-seine-et-marne--souvenir-bernard-maillet-2026-03-16-romain-gitton",
+    "raceName": "BOUCLES DE SEINE-ET-MARNE – SOUVENIR BERNARD MAILLET",
+    "date": "2026-03-16",
+    "riderId": "romain-gitton",
+    "position": 10,
+    "points": 11
+  },
+  {
+    "id": "boucles-de-seine-et-marne--souvenir-bernard-maillet-2026-03-16-pierre-sablonniere",
+    "raceName": "BOUCLES DE SEINE-ET-MARNE – SOUVENIR BERNARD MAILLET",
+    "date": "2026-03-16",
+    "riderId": "pierre-sablonniere",
+    "position": 11,
+    "points": 10
+  },
+  {
+    "id": "boucles-de-seine-et-marne--souvenir-bernard-maillet-2026-03-16-theo-sandell",
+    "raceName": "BOUCLES DE SEINE-ET-MARNE – SOUVENIR BERNARD MAILLET",
+    "date": "2026-03-16",
+    "riderId": "theo-sandell",
+    "position": 12,
+    "points": 9
+  },
+  {
+    "id": "boucles-de-seine-et-marne--souvenir-bernard-maillet-2026-03-16-armand-gouby",
+    "raceName": "BOUCLES DE SEINE-ET-MARNE – SOUVENIR BERNARD MAILLET",
+    "date": "2026-03-16",
+    "riderId": "armand-gouby",
+    "position": 13,
+    "points": 8
+  },
+  {
+    "id": "boucles-de-seine-et-marne--souvenir-bernard-maillet-2026-03-16-louis-regost",
+    "raceName": "BOUCLES DE SEINE-ET-MARNE – SOUVENIR BERNARD MAILLET",
+    "date": "2026-03-16",
+    "riderId": "louis-regost",
+    "position": 14,
+    "points": 7
+  },
+  {
+    "id": "boucles-de-seine-et-marne--souvenir-bernard-maillet-2026-03-16-gaspard-boddaert",
+    "raceName": "BOUCLES DE SEINE-ET-MARNE – SOUVENIR BERNARD MAILLET",
+    "date": "2026-03-16",
+    "riderId": "gaspard-boddaert",
+    "position": 15,
+    "points": 6
+  },
+  {
+    "id": "boucles-de-seine-et-marne--souvenir-bernard-maillet-2026-03-16-jules-lenoir",
+    "raceName": "BOUCLES DE SEINE-ET-MARNE – SOUVENIR BERNARD MAILLET",
+    "date": "2026-03-16",
+    "riderId": "jules-lenoir",
+    "position": 16,
+    "points": 5
+  },
+  {
+    "id": "boucles-de-seine-et-marne--souvenir-bernard-maillet-2026-03-16-noe-levarlet",
+    "raceName": "BOUCLES DE SEINE-ET-MARNE – SOUVENIR BERNARD MAILLET",
+    "date": "2026-03-16",
+    "riderId": "noe-levarlet",
+    "position": 17,
+    "points": 4
+  },
+  {
+    "id": "boucles-de-seine-et-marne--souvenir-bernard-maillet-2026-03-16-matias-valette",
+    "raceName": "BOUCLES DE SEINE-ET-MARNE – SOUVENIR BERNARD MAILLET",
+    "date": "2026-03-16",
+    "riderId": "matias-valette",
+    "position": 18,
+    "points": 3
+  },
+  {
+    "id": "boucles-de-seine-et-marne--souvenir-bernard-maillet-2026-03-16-noah-dacquin-minette",
+    "raceName": "BOUCLES DE SEINE-ET-MARNE – SOUVENIR BERNARD MAILLET",
+    "date": "2026-03-16",
+    "riderId": "noah-dacquin-minette",
+    "position": 19,
+    "points": 2
+  },
+  {
+    "id": "boucles-de-seine-et-marne--souvenir-bernard-maillet-2026-03-16-noe-raekelboom",
+    "raceName": "BOUCLES DE SEINE-ET-MARNE – SOUVENIR BERNARD MAILLET",
+    "date": "2026-03-16",
+    "riderId": "noe-raekelboom",
+    "position": 20,
+    "points": 1
+  },
+  {
+    "id": "boucles-de-seine-et-marne--souvenir-bernard-maillet-2026-03-16-jonathan-martel",
+    "raceName": "BOUCLES DE SEINE-ET-MARNE – SOUVENIR BERNARD MAILLET",
+    "date": "2026-03-16",
+    "riderId": "jonathan-martel",
+    "position": 21,
+    "points": 0
+  },
+  {
+    "id": "boucles-de-seine-et-marne--souvenir-bernard-maillet-2026-03-16-lucas-lipp",
+    "raceName": "BOUCLES DE SEINE-ET-MARNE – SOUVENIR BERNARD MAILLET",
+    "date": "2026-03-16",
+    "riderId": "lucas-lipp",
+    "position": 22,
+    "points": 0
+  },
+  {
+    "id": "boucles-de-seine-et-marne--souvenir-bernard-maillet-2026-03-16-william-macpherson",
+    "raceName": "BOUCLES DE SEINE-ET-MARNE – SOUVENIR BERNARD MAILLET",
+    "date": "2026-03-16",
+    "riderId": "william-macpherson",
+    "position": 23,
+    "points": 0
+  },
+  {
+    "id": "boucles-de-seine-et-marne--souvenir-bernard-maillet-2026-03-16-gabriel-delbove",
+    "raceName": "BOUCLES DE SEINE-ET-MARNE – SOUVENIR BERNARD MAILLET",
+    "date": "2026-03-16",
+    "riderId": "gabriel-delbove",
+    "position": 24,
+    "points": 0
+  },
+  {
+    "id": "boucles-de-seine-et-marne--souvenir-bernard-maillet-2026-03-16-lancelot-pencole",
+    "raceName": "BOUCLES DE SEINE-ET-MARNE – SOUVENIR BERNARD MAILLET",
+    "date": "2026-03-16",
+    "riderId": "lancelot-pencole",
+    "position": 25,
+    "points": 0
+  },
+  {
+    "id": "boucles-de-seine-et-marne--souvenir-bernard-maillet-2026-03-16-isaac-lopacinski",
+    "raceName": "BOUCLES DE SEINE-ET-MARNE – SOUVENIR BERNARD MAILLET",
+    "date": "2026-03-16",
+    "riderId": "isaac-lopacinski",
+    "position": 26,
+    "points": 0
+  },
+  {
+    "id": "boucles-de-seine-et-marne--souvenir-bernard-maillet-2026-03-16-yannis-sautejean",
+    "raceName": "BOUCLES DE SEINE-ET-MARNE – SOUVENIR BERNARD MAILLET",
+    "date": "2026-03-16",
+    "riderId": "yannis-sautejean",
+    "position": 27,
+    "points": 0
+  },
+  {
+    "id": "boucles-de-seine-et-marne--souvenir-bernard-maillet-2026-03-16-tim-andre-cador",
+    "raceName": "BOUCLES DE SEINE-ET-MARNE – SOUVENIR BERNARD MAILLET",
+    "date": "2026-03-16",
+    "riderId": "tim-andre-cador",
+    "position": 28,
+    "points": 0
+  },
+  {
+    "id": "boucles-de-seine-et-marne--souvenir-bernard-maillet-2026-03-16-baptiste-pons",
+    "raceName": "BOUCLES DE SEINE-ET-MARNE – SOUVENIR BERNARD MAILLET",
+    "date": "2026-03-16",
+    "riderId": "baptiste-pons",
+    "position": 29,
+    "points": 0
+  },
+  {
+    "id": "boucles-de-seine-et-marne--souvenir-bernard-maillet-2026-03-16-m.-noel",
+    "raceName": "BOUCLES DE SEINE-ET-MARNE – SOUVENIR BERNARD MAILLET",
+    "date": "2026-03-16",
+    "riderId": "m.-noel",
+    "position": 30,
+    "points": 0
+  },
+  {
+    "id": "boucles-de-seine-et-marne--souvenir-bernard-maillet-2026-03-16-mateo-brito-fernandes",
+    "raceName": "BOUCLES DE SEINE-ET-MARNE – SOUVENIR BERNARD MAILLET",
+    "date": "2026-03-16",
+    "riderId": "mateo-brito-fernandes",
+    "position": 31,
+    "points": 0
+  },
+  {
+    "id": "boucles-de-seine-et-marne--souvenir-bernard-maillet-2026-03-16-clovis-dhondt",
+    "raceName": "BOUCLES DE SEINE-ET-MARNE – SOUVENIR BERNARD MAILLET",
+    "date": "2026-03-16",
+    "riderId": "clovis-dhondt",
+    "position": 32,
+    "points": 0
+  },
+  {
+    "id": "boucles-de-seine-et-marne--souvenir-bernard-maillet-2026-03-16-samuel-hutin",
+    "raceName": "BOUCLES DE SEINE-ET-MARNE – SOUVENIR BERNARD MAILLET",
+    "date": "2026-03-16",
+    "riderId": "samuel-hutin",
+    "position": 33,
+    "points": 0
+  },
+  {
+    "id": "boucles-de-seine-et-marne--souvenir-bernard-maillet-2026-03-16-thibaud-descroix",
+    "raceName": "BOUCLES DE SEINE-ET-MARNE – SOUVENIR BERNARD MAILLET",
+    "date": "2026-03-16",
+    "riderId": "thibaud-descroix",
+    "position": 34,
+    "points": 0
+  },
+  {
+    "id": "boucles-de-seine-et-marne--souvenir-bernard-maillet-2026-03-16-baptiste-royer",
+    "raceName": "BOUCLES DE SEINE-ET-MARNE – SOUVENIR BERNARD MAILLET",
+    "date": "2026-03-16",
+    "riderId": "baptiste-royer",
+    "position": 35,
+    "points": 0
+  },
+  {
+    "id": "boucles-de-seine-et-marne--souvenir-bernard-maillet-2026-03-16-milo-clarke",
+    "raceName": "BOUCLES DE SEINE-ET-MARNE – SOUVENIR BERNARD MAILLET",
+    "date": "2026-03-16",
+    "riderId": "milo-clarke",
+    "position": 36,
+    "points": 0
+  },
+  {
+    "id": "boucles-de-seine-et-marne--souvenir-bernard-maillet-2026-03-16-justin-genty",
+    "raceName": "BOUCLES DE SEINE-ET-MARNE – SOUVENIR BERNARD MAILLET",
+    "date": "2026-03-16",
+    "riderId": "justin-genty",
+    "position": 37,
+    "points": 0
+  },
+  {
+    "id": "boucles-de-seine-et-marne--souvenir-bernard-maillet-2026-03-16-auxence-gueant",
+    "raceName": "BOUCLES DE SEINE-ET-MARNE – SOUVENIR BERNARD MAILLET",
+    "date": "2026-03-16",
+    "riderId": "auxence-gueant",
+    "position": 38,
+    "points": 0
+  },
+  {
+    "id": "boucles-de-seine-et-marne--souvenir-bernard-maillet-2026-03-16-ezio-gebel",
+    "raceName": "BOUCLES DE SEINE-ET-MARNE – SOUVENIR BERNARD MAILLET",
+    "date": "2026-03-16",
+    "riderId": "ezio-gebel",
+    "position": 39,
+    "points": 0
+  },
+  {
+    "id": "boucles-de-seine-et-marne--souvenir-bernard-maillet-2026-03-16-achille-lecler",
+    "raceName": "BOUCLES DE SEINE-ET-MARNE – SOUVENIR BERNARD MAILLET",
+    "date": "2026-03-16",
+    "riderId": "achille-lecler",
+    "position": 40,
+    "points": 0
+  },
+  {
+    "id": "boucles-de-seine-et-marne--souvenir-bernard-maillet-2026-03-16-antoine-naudin",
+    "raceName": "BOUCLES DE SEINE-ET-MARNE – SOUVENIR BERNARD MAILLET",
+    "date": "2026-03-16",
+    "riderId": "antoine-naudin",
+    "position": 41,
+    "points": 0
+  },
+  {
+    "id": "boucles-de-seine-et-marne--souvenir-bernard-maillet-2026-03-16-malo-petit",
+    "raceName": "BOUCLES DE SEINE-ET-MARNE – SOUVENIR BERNARD MAILLET",
+    "date": "2026-03-16",
+    "riderId": "malo-petit",
+    "position": 42,
+    "points": 0
+  },
+  {
+    "id": "boucles-de-seine-et-marne--souvenir-bernard-maillet-2026-03-16-paul-bonnenfant-steyer",
+    "raceName": "BOUCLES DE SEINE-ET-MARNE – SOUVENIR BERNARD MAILLET",
+    "date": "2026-03-16",
+    "riderId": "paul-bonnenfant-steyer",
+    "position": 43,
+    "points": 0
+  },
+  {
+    "id": "boucles-de-seine-et-marne--souvenir-bernard-maillet-2026-03-16-enzo-kerneis",
+    "raceName": "BOUCLES DE SEINE-ET-MARNE – SOUVENIR BERNARD MAILLET",
+    "date": "2026-03-16",
+    "riderId": "enzo-kerneis",
+    "position": 44,
+    "points": 0
+  },
+  {
+    "id": "boucles-de-seine-et-marne--souvenir-bernard-maillet-2026-03-16-ambroise-poujet",
+    "raceName": "BOUCLES DE SEINE-ET-MARNE – SOUVENIR BERNARD MAILLET",
+    "date": "2026-03-16",
+    "riderId": "ambroise-poujet",
+    "position": 45,
+    "points": 0
+  },
+  {
+    "id": "boucles-de-seine-et-marne--souvenir-bernard-maillet-2026-03-16-anthony-devaux",
+    "raceName": "BOUCLES DE SEINE-ET-MARNE – SOUVENIR BERNARD MAILLET",
+    "date": "2026-03-16",
+    "riderId": "anthony-devaux",
+    "position": 46,
+    "points": 0
+  },
+  {
+    "id": "boucles-de-seine-et-marne--souvenir-bernard-maillet-2026-03-16-melvil-arsac",
+    "raceName": "BOUCLES DE SEINE-ET-MARNE – SOUVENIR BERNARD MAILLET",
+    "date": "2026-03-16",
+    "riderId": "melvil-arsac",
+    "position": 47,
+    "points": 0
+  },
+  {
+    "id": "boucles-de-seine-et-marne--souvenir-bernard-maillet-2026-03-16-sam-martin",
+    "raceName": "BOUCLES DE SEINE-ET-MARNE – SOUVENIR BERNARD MAILLET",
+    "date": "2026-03-16",
+    "riderId": "sam-martin",
+    "position": 48,
+    "points": 0
+  },
+  {
+    "id": "boucles-de-seine-et-marne--souvenir-bernard-maillet-2026-03-16-benjamin-aubouy",
+    "raceName": "BOUCLES DE SEINE-ET-MARNE – SOUVENIR BERNARD MAILLET",
+    "date": "2026-03-16",
+    "riderId": "benjamin-aubouy",
+    "position": 49,
+    "points": 0
+  },
+  {
+    "id": "boucles-de-seine-et-marne--souvenir-bernard-maillet-2026-03-16-billy-kee",
+    "raceName": "BOUCLES DE SEINE-ET-MARNE – SOUVENIR BERNARD MAILLET",
+    "date": "2026-03-16",
+    "riderId": "billy-kee",
+    "position": 50,
+    "points": 0
+  },
+  {
+    "id": "boucles-de-seine-et-marne--souvenir-bernard-maillet-2026-03-16-laouenan-verdier",
+    "raceName": "BOUCLES DE SEINE-ET-MARNE – SOUVENIR BERNARD MAILLET",
+    "date": "2026-03-16",
+    "riderId": "laouenan-verdier",
+    "position": 51,
+    "points": 0
+  },
+  {
+    "id": "boucles-de-seine-et-marne--souvenir-bernard-maillet-2026-03-16-charles-duc",
+    "raceName": "BOUCLES DE SEINE-ET-MARNE – SOUVENIR BERNARD MAILLET",
+    "date": "2026-03-16",
+    "riderId": "charles-duc",
+    "position": 52,
+    "points": 0
+  },
+  {
+    "id": "boucles-de-seine-et-marne--souvenir-bernard-maillet-2026-03-16-jean-baptiste-gravil",
+    "raceName": "BOUCLES DE SEINE-ET-MARNE – SOUVENIR BERNARD MAILLET",
+    "date": "2026-03-16",
+    "riderId": "jean-baptiste-gravil",
+    "position": 53,
+    "points": 0
+  },
+  {
+    "id": "boucles-de-seine-et-marne--souvenir-bernard-maillet-2026-03-16-maxime-pierron",
+    "raceName": "BOUCLES DE SEINE-ET-MARNE – SOUVENIR BERNARD MAILLET",
+    "date": "2026-03-16",
+    "riderId": "maxime-pierron",
+    "position": 54,
+    "points": 0
+  },
+  {
+    "id": "boucles-de-seine-et-marne--souvenir-bernard-maillet-2026-03-16-elias-bugnicourt",
+    "raceName": "BOUCLES DE SEINE-ET-MARNE – SOUVENIR BERNARD MAILLET",
+    "date": "2026-03-16",
+    "riderId": "elias-bugnicourt",
+    "position": 55,
+    "points": 0
+  },
+  {
+    "id": "boucles-de-seine-et-marne--souvenir-bernard-maillet-2026-03-16-aksel-machet",
+    "raceName": "BOUCLES DE SEINE-ET-MARNE – SOUVENIR BERNARD MAILLET",
+    "date": "2026-03-16",
+    "riderId": "aksel-machet",
+    "position": 56,
+    "points": 0
+  },
+  {
+    "id": "boucles-de-seine-et-marne--souvenir-bernard-maillet-2026-03-16-guillaume-rambliere",
+    "raceName": "BOUCLES DE SEINE-ET-MARNE – SOUVENIR BERNARD MAILLET",
+    "date": "2026-03-16",
+    "riderId": "guillaume-rambliere",
+    "position": 57,
+    "points": 0
+  },
+  {
+    "id": "boucles-de-seine-et-marne--souvenir-bernard-maillet-2026-03-16-otto-allison",
+    "raceName": "BOUCLES DE SEINE-ET-MARNE – SOUVENIR BERNARD MAILLET",
+    "date": "2026-03-16",
+    "riderId": "otto-allison",
+    "position": 58,
+    "points": 0
+  },
+  {
+    "id": "boucles-de-seine-et-marne--souvenir-bernard-maillet-2026-03-16-gaspard-plomion",
+    "raceName": "BOUCLES DE SEINE-ET-MARNE – SOUVENIR BERNARD MAILLET",
+    "date": "2026-03-16",
+    "riderId": "gaspard-plomion",
+    "position": 59,
+    "points": 0
+  },
+  {
+    "id": "boucles-de-seine-et-marne--souvenir-bernard-maillet-2026-03-16-timothee-sans-chagrin",
+    "raceName": "BOUCLES DE SEINE-ET-MARNE – SOUVENIR BERNARD MAILLET",
+    "date": "2026-03-16",
+    "riderId": "timothee-sans-chagrin",
+    "position": 60,
+    "points": 0
+  },
+  {
+    "id": "boucles-de-seine-et-marne--souvenir-bernard-maillet-2026-03-16-noah-thevenin",
+    "raceName": "BOUCLES DE SEINE-ET-MARNE – SOUVENIR BERNARD MAILLET",
+    "date": "2026-03-16",
+    "riderId": "noah-thevenin",
+    "position": 61,
+    "points": 0
+  },
+  {
+    "id": "boucles-de-seine-et-marne--souvenir-bernard-maillet-2026-03-16-victor-coutin",
+    "raceName": "BOUCLES DE SEINE-ET-MARNE – SOUVENIR BERNARD MAILLET",
+    "date": "2026-03-16",
+    "riderId": "victor-coutin",
+    "position": 62,
+    "points": 0
+  },
+  {
+    "id": "boucles-de-seine-et-marne--souvenir-bernard-maillet-2026-03-16-sacha-horny",
+    "raceName": "BOUCLES DE SEINE-ET-MARNE – SOUVENIR BERNARD MAILLET",
+    "date": "2026-03-16",
+    "riderId": "sacha-horny",
+    "position": 63,
+    "points": 0
+  },
+  {
+    "id": "boucles-de-seine-et-marne--souvenir-bernard-maillet-2026-03-16-evann-salomon",
+    "raceName": "BOUCLES DE SEINE-ET-MARNE – SOUVENIR BERNARD MAILLET",
+    "date": "2026-03-16",
+    "riderId": "evann-salomon",
+    "position": 64,
+    "points": 0
+  },
+  {
+    "id": "boucles-de-seine-et-marne--souvenir-bernard-maillet-2026-03-16-lilian-gressard",
+    "raceName": "BOUCLES DE SEINE-ET-MARNE – SOUVENIR BERNARD MAILLET",
+    "date": "2026-03-16",
+    "riderId": "lilian-gressard",
+    "position": 65,
+    "points": 0
+  },
+  {
+    "id": "boucles-de-seine-et-marne--souvenir-bernard-maillet-2026-03-16-phearoun-chaillou",
+    "raceName": "BOUCLES DE SEINE-ET-MARNE – SOUVENIR BERNARD MAILLET",
+    "date": "2026-03-16",
+    "riderId": "phearoun-chaillou",
+    "position": 66,
+    "points": 0
+  },
+  {
+    "id": "boucles-de-seine-et-marne--souvenir-bernard-maillet-2026-03-16-valentin-bourdon",
+    "raceName": "BOUCLES DE SEINE-ET-MARNE – SOUVENIR BERNARD MAILLET",
+    "date": "2026-03-16",
+    "riderId": "valentin-bourdon",
+    "position": 67,
+    "points": 0
+  },
+  {
+    "id": "boucles-de-seine-et-marne--souvenir-bernard-maillet-2026-03-16-lokha-collinet",
+    "raceName": "BOUCLES DE SEINE-ET-MARNE – SOUVENIR BERNARD MAILLET",
+    "date": "2026-03-16",
+    "riderId": "lokha-collinet",
+    "position": 68,
+    "points": 0
+  },
+  {
+    "id": "boucles-de-seine-et-marne--souvenir-bernard-maillet-2026-03-16-hugo-geslin",
+    "raceName": "BOUCLES DE SEINE-ET-MARNE – SOUVENIR BERNARD MAILLET",
+    "date": "2026-03-16",
+    "riderId": "hugo-geslin",
+    "position": 69,
+    "points": 0
+  },
+  {
+    "id": "boucles-de-seine-et-marne--souvenir-bernard-maillet-2026-03-16-jules-sechet",
+    "raceName": "BOUCLES DE SEINE-ET-MARNE – SOUVENIR BERNARD MAILLET",
+    "date": "2026-03-16",
+    "riderId": "jules-sechet",
+    "position": 70,
+    "points": 0
+  },
+  {
+    "id": "-2026-03-16-louka-quintana",
+    "raceName": "",
+    "date": "2026-03-16",
+    "riderId": "louka-quintana",
+    "position": 1,
+    "points": 50
+  },
+  {
+    "id": "-2026-03-16-sullivan-derly",
+    "raceName": "",
+    "date": "2026-03-16",
+    "riderId": "sullivan-derly",
+    "position": 2,
+    "points": 25
+  },
+  {
+    "id": "-2026-03-16-baptiste-pauly",
+    "raceName": "",
+    "date": "2026-03-16",
+    "riderId": "baptiste-pauly",
+    "position": 3,
+    "points": 22
+  },
+  {
+    "id": "-2026-03-16-yan-marie",
+    "raceName": "",
+    "date": "2026-03-16",
+    "riderId": "yan-marie",
+    "position": 4,
+    "points": 19
+  },
+  {
+    "id": "-2026-03-16-mathis-saussois-ghazani",
+    "raceName": "",
+    "date": "2026-03-16",
+    "riderId": "mathis-saussois-ghazani",
+    "position": 5,
+    "points": 17
+  },
+  {
+    "id": "-2026-03-16-axel-bansard",
+    "raceName": "",
+    "date": "2026-03-16",
+    "riderId": "axel-bansard",
+    "position": 6,
+    "points": 15
+  },
+  {
+    "id": "-2026-03-16-mathieu-rouillier",
+    "raceName": "",
+    "date": "2026-03-16",
+    "riderId": "mathieu-rouillier",
+    "position": 7,
+    "points": 14
+  },
+  {
+    "id": "-2026-03-16-antton-landois-waliszewski",
+    "raceName": "",
+    "date": "2026-03-16",
+    "riderId": "antton-landois-waliszewski",
+    "position": 8,
+    "points": 13
+  },
+  {
+    "id": "-2026-03-16-clovis-rottement",
+    "raceName": "",
+    "date": "2026-03-16",
+    "riderId": "clovis-rottement",
+    "position": 9,
+    "points": 12
+  },
+  {
+    "id": "-2026-03-16-nael-mage",
+    "raceName": "",
+    "date": "2026-03-16",
+    "riderId": "nael-mage",
+    "position": 10,
+    "points": 11
+  },
+  {
+    "id": "-2026-03-16-oscar-vandenborght",
+    "raceName": "",
+    "date": "2026-03-16",
+    "riderId": "oscar-vandenborght",
+    "position": 11,
+    "points": 10
+  },
+  {
+    "id": "-2026-03-16-baptiste-de-grammont",
+    "raceName": "",
+    "date": "2026-03-16",
+    "riderId": "baptiste-de-grammont",
+    "position": 12,
+    "points": 9
+  },
+  {
+    "id": "-2026-03-16-nino-blanche",
+    "raceName": "",
+    "date": "2026-03-16",
+    "riderId": "nino-blanche",
+    "position": 13,
+    "points": 8
+  },
+  {
+    "id": "-2026-03-16-quentin-mullois",
+    "raceName": "",
+    "date": "2026-03-16",
+    "riderId": "quentin-mullois",
+    "position": 14,
+    "points": 7
+  },
+  {
+    "id": "-2026-03-16-justine-le-bras",
+    "raceName": "",
+    "date": "2026-03-16",
+    "riderId": "justine-le-bras",
+    "position": 1,
+    "points": 50
+  },
+  {
+    "id": "-2026-03-16-romane-chesneau",
+    "raceName": "",
+    "date": "2026-03-16",
+    "riderId": "romane-chesneau",
+    "position": 2,
+    "points": 25
+  },
+  {
+    "id": "-2026-03-16-cassandra-gaffe",
+    "raceName": "",
+    "date": "2026-03-16",
+    "riderId": "cassandra-gaffe",
+    "position": 3,
+    "points": 22
+  },
+  {
+    "id": "-2026-03-16-celia-aubard",
+    "raceName": "",
+    "date": "2026-03-16",
+    "riderId": "celia-aubard",
+    "position": 4,
+    "points": 19
+  },
+  {
+    "id": "-2026-03-16-anais-delsart",
+    "raceName": "",
+    "date": "2026-03-16",
+    "riderId": "anais-delsart",
+    "position": 5,
+    "points": 17
+  },
+  {
+    "id": "-2026-03-16-maelys-bergheaud",
+    "raceName": "",
+    "date": "2026-03-16",
+    "riderId": "maelys-bergheaud",
+    "position": 6,
+    "points": 15
+  },
+  {
+    "id": "-2026-03-16-leane-verschelde",
+    "raceName": "",
+    "date": "2026-03-16",
+    "riderId": "leane-verschelde",
+    "position": 7,
+    "points": 14
+  },
+  {
+    "id": "-2026-03-16-alice-riobe",
+    "raceName": "",
+    "date": "2026-03-16",
+    "riderId": "alice-riobe",
+    "position": 8,
+    "points": 13
+  },
+  {
+    "id": "-2026-03-16-lou-nari",
+    "raceName": "",
+    "date": "2026-03-16",
+    "riderId": "lou-nari",
+    "position": 9,
+    "points": 12
+  },
+  {
+    "id": "-2026-03-16-aude-carre",
+    "raceName": "",
+    "date": "2026-03-16",
+    "riderId": "aude-carre",
+    "position": 10,
+    "points": 11
+  },
+  {
+    "id": "-2026-03-16-lina-jeanneau",
+    "raceName": "",
+    "date": "2026-03-16",
+    "riderId": "lina-jeanneau",
+    "position": 11,
+    "points": 10
+  },
+  {
+    "id": "-2026-03-16-louane-fragnoli",
+    "raceName": "",
+    "date": "2026-03-16",
+    "riderId": "louane-fragnoli",
+    "position": 12,
+    "points": 9
+  },
+  {
+    "id": "-2026-03-16-anais-gouin",
+    "raceName": "",
+    "date": "2026-03-16",
+    "riderId": "anais-gouin",
+    "position": 13,
+    "points": 8
+  },
+  {
+    "id": "-2026-03-16-victoire-passelande",
+    "raceName": "",
+    "date": "2026-03-16",
+    "riderId": "victoire-passelande",
+    "position": 14,
+    "points": 7
+  },
+  {
+    "id": "-2026-03-16-celine-michout",
+    "raceName": "",
+    "date": "2026-03-16",
+    "riderId": "celine-michout",
+    "position": 15,
+    "points": 6
+  },
+  {
+    "id": "-2026-03-16-noel-roussange",
+    "raceName": "",
+    "date": "2026-03-16",
+    "riderId": "noel-roussange",
+    "position": 1,
+    "points": 50
+  },
+  {
+    "id": "-2026-03-16-karl-zoetemelk",
+    "raceName": "",
+    "date": "2026-03-16",
+    "riderId": "karl-zoetemelk",
+    "position": 2,
+    "points": 25
+  },
+  {
+    "id": "-2026-03-16-pierre-darbeau",
+    "raceName": "",
+    "date": "2026-03-16",
+    "riderId": "pierre-darbeau",
+    "position": 3,
+    "points": 22
+  },
+  {
+    "id": "-2026-03-16-sebastien-golfieri",
+    "raceName": "",
+    "date": "2026-03-16",
+    "riderId": "sebastien-golfieri",
+    "position": 4,
+    "points": 19
+  },
+  {
+    "id": "-2026-03-16-cedric-chartier",
+    "raceName": "",
+    "date": "2026-03-16",
+    "riderId": "cedric-chartier",
+    "position": 5,
+    "points": 17
+  },
+  {
+    "id": "-2026-03-16-wilfried-nicolas",
+    "raceName": "",
+    "date": "2026-03-16",
+    "riderId": "wilfried-nicolas",
+    "position": 6,
+    "points": 15
+  },
+  {
+    "id": "-2026-03-16-john-saccomandi",
+    "raceName": "",
+    "date": "2026-03-16",
+    "riderId": "john-saccomandi",
+    "position": 7,
+    "points": 14
+  },
+  {
+    "id": "-2026-03-16-fabien-boisson",
+    "raceName": "",
+    "date": "2026-03-16",
+    "riderId": "fabien-boisson",
+    "position": 8,
+    "points": 13
+  },
+  {
+    "id": "-2026-03-16-julien-nayener",
+    "raceName": "",
+    "date": "2026-03-16",
+    "riderId": "julien-nayener",
+    "position": 9,
+    "points": 12
+  },
+  {
+    "id": "-2026-03-16-clement-rocco",
+    "raceName": "",
+    "date": "2026-03-16",
+    "riderId": "clement-rocco",
+    "position": 10,
+    "points": 11
+  },
+  {
+    "id": "-2026-03-16-nicolas-pinheiro",
+    "raceName": "",
+    "date": "2026-03-16",
+    "riderId": "nicolas-pinheiro",
+    "position": 11,
+    "points": 10
+  },
+  {
+    "id": "-2026-03-16-jerome-tersiguel",
+    "raceName": "",
+    "date": "2026-03-16",
+    "riderId": "jerome-tersiguel",
+    "position": 12,
+    "points": 9
+  },
+  {
+    "id": "-2026-03-16-charles-henri-fouyer",
+    "raceName": "",
+    "date": "2026-03-16",
+    "riderId": "charles-henri-fouyer",
+    "position": 13,
+    "points": 8
+  },
+  {
+    "id": "-2026-03-16-sylvain-labour",
+    "raceName": "",
+    "date": "2026-03-16",
+    "riderId": "sylvain-labour",
+    "position": 14,
+    "points": 7
+  },
+  {
+    "id": "-2026-03-16-nicolas-bonnet",
+    "raceName": "",
+    "date": "2026-03-16",
+    "riderId": "nicolas-bonnet",
+    "position": 15,
+    "points": 6
+  },
+  {
+    "id": "-2026-03-16-eddy-delsart",
+    "raceName": "",
+    "date": "2026-03-16",
+    "riderId": "eddy-delsart",
+    "position": 16,
+    "points": 5
+  },
+  {
+    "id": "-2026-03-16-nicolas-fusiller",
+    "raceName": "",
+    "date": "2026-03-16",
+    "riderId": "nicolas-fusiller",
+    "position": 17,
+    "points": 4
+  },
+  {
+    "id": "-2026-03-16-christophe-sao-jose",
+    "raceName": "",
+    "date": "2026-03-16",
+    "riderId": "christophe-sao-jose",
+    "position": 18,
+    "points": 3
+  },
+  {
+    "id": "-2026-03-16-laurent-corbeau",
+    "raceName": "",
+    "date": "2026-03-16",
+    "riderId": "laurent-corbeau",
+    "position": 19,
+    "points": 2
+  },
+  {
+    "id": "-2026-03-16-frederic-mesnard",
+    "raceName": "",
+    "date": "2026-03-16",
+    "riderId": "frederic-mesnard",
+    "position": 20,
+    "points": 1
+  },
+  {
+    "id": "-2026-03-16-charles-dubuc",
+    "raceName": "",
+    "date": "2026-03-16",
+    "riderId": "charles-dubuc",
+    "position": 21,
+    "points": 0
+  },
+  {
+    "id": "-2026-03-16-gilles-oger",
+    "raceName": "",
+    "date": "2026-03-16",
+    "riderId": "gilles-oger",
+    "position": 22,
+    "points": 0
+  },
+  {
+    "id": "-2026-03-16-olivier-nari",
+    "raceName": "",
+    "date": "2026-03-16",
+    "riderId": "olivier-nari",
+    "position": 23,
+    "points": 0
+  },
+  {
+    "id": "-2026-03-16-olivier-binckly",
+    "raceName": "",
+    "date": "2026-03-16",
+    "riderId": "olivier-binckly",
+    "position": 24,
+    "points": 0
+  },
+  {
+    "id": "-2026-03-16-eric-michout",
+    "raceName": "",
+    "date": "2026-03-16",
+    "riderId": "eric-michout",
+    "position": 25,
+    "points": 0
+  },
+  {
+    "id": "-2026-03-16-romuald-rodriguez",
+    "raceName": "",
+    "date": "2026-03-16",
+    "riderId": "romuald-rodriguez",
+    "position": 26,
+    "points": 0
+  },
+  {
+    "id": "-2026-03-16-timothy-james-clarsen",
+    "raceName": "",
+    "date": "2026-03-16",
+    "riderId": "timothy-james-clarsen",
+    "position": 27,
+    "points": 0
+  },
+  {
+    "id": "-2026-03-16-etienne-chamayou",
+    "raceName": "",
+    "date": "2026-03-16",
+    "riderId": "etienne-chamayou",
+    "position": 28,
+    "points": 0
+  },
+  {
+    "id": "-2026-03-16-jerome-montant",
+    "raceName": "",
+    "date": "2026-03-16",
+    "riderId": "jerome-montant",
+    "position": 29,
+    "points": 0
+  },
+  {
+    "id": "-2026-03-16-frederic-mage",
+    "raceName": "",
+    "date": "2026-03-16",
+    "riderId": "frederic-mage",
+    "position": 30,
+    "points": 0
+  },
+  {
+    "id": "-2026-03-16-arnaud-rivoalen",
+    "raceName": "",
+    "date": "2026-03-16",
+    "riderId": "arnaud-rivoalen",
+    "position": 31,
+    "points": 0
+  },
+  {
+    "id": "-2026-03-16-thibaut-riviere",
+    "raceName": "",
+    "date": "2026-03-16",
+    "riderId": "thibaut-riviere",
+    "position": 32,
+    "points": 0
+  },
+  {
+    "id": "-2026-03-16-johnny-gousset",
+    "raceName": "",
+    "date": "2026-03-16",
+    "riderId": "johnny-gousset",
+    "position": 33,
+    "points": 0
+  },
+  {
+    "id": "-2026-03-16-frederic-blin",
+    "raceName": "",
+    "date": "2026-03-16",
+    "riderId": "frederic-blin",
+    "position": 34,
+    "points": 0
+  },
+  {
+    "id": "-2026-03-16-gregory-bonfand",
+    "raceName": "",
+    "date": "2026-03-16",
+    "riderId": "gregory-bonfand",
+    "position": 35,
+    "points": 0
+  },
+  {
+    "id": "-2026-03-16-sebastien-michel",
+    "raceName": "",
+    "date": "2026-03-16",
+    "riderId": "sebastien-michel",
+    "position": 36,
+    "points": 0
+  },
+  {
+    "id": "-2026-03-16-arnaud-vinot",
+    "raceName": "",
+    "date": "2026-03-16",
+    "riderId": "arnaud-vinot",
+    "position": 37,
+    "points": 0
+  },
+  {
+    "id": "-2026-03-16-laurent-sartori",
+    "raceName": "",
+    "date": "2026-03-16",
+    "riderId": "laurent-sartori",
+    "position": 38,
+    "points": 0
+  },
+  {
+    "id": "-2026-03-16-arnaud-tyburn",
+    "raceName": "",
+    "date": "2026-03-16",
+    "riderId": "arnaud-tyburn",
+    "position": 39,
+    "points": 0
+  },
+  {
+    "id": "-2026-03-16-guillaume-eraud",
+    "raceName": "",
+    "date": "2026-03-16",
+    "riderId": "guillaume-eraud",
+    "position": 40,
+    "points": 0
+  },
+  {
+    "id": "-2026-03-16-michel-vanvynckt",
+    "raceName": "",
+    "date": "2026-03-16",
+    "riderId": "michel-vanvynckt",
+    "position": 41,
+    "points": 0
+  },
+  {
+    "id": "-2026-03-16-francois-herve",
+    "raceName": "",
+    "date": "2026-03-16",
+    "riderId": "francois-herve",
+    "position": 42,
+    "points": 0
+  },
+  {
+    "id": "-2026-03-16-romain-tourrier",
+    "raceName": "",
+    "date": "2026-03-16",
+    "riderId": "romain-tourrier",
+    "position": 43,
+    "points": 0
+  },
+  {
+    "id": "-2026-03-16-g.-sicher",
+    "raceName": "",
+    "date": "2026-03-16",
+    "riderId": "g.-sicher",
+    "position": 44,
+    "points": 0
+  },
+  {
+    "id": "-2026-03-16-stephane-ptak",
+    "raceName": "",
+    "date": "2026-03-16",
+    "riderId": "stephane-ptak",
+    "position": 45,
+    "points": 0
+  },
+  {
+    "id": "-2026-03-16-benjamin-fallot",
+    "raceName": "",
+    "date": "2026-03-16",
+    "riderId": "benjamin-fallot",
+    "position": 46,
+    "points": 0
+  },
+  {
+    "id": "-2026-03-16-jean-loup-gleize",
+    "raceName": "",
+    "date": "2026-03-16",
+    "riderId": "jean-loup-gleize",
+    "position": 47,
+    "points": 0
+  },
+  {
+    "id": "-2026-03-16-farid-achache",
+    "raceName": "",
+    "date": "2026-03-16",
+    "riderId": "farid-achache",
+    "position": 48,
+    "points": 0
+  },
+  {
+    "id": "-2026-03-16-franck-fortoul",
+    "raceName": "",
+    "date": "2026-03-16",
+    "riderId": "franck-fortoul",
+    "position": 49,
+    "points": 0
+  },
+  {
+    "id": "-2026-03-16-frederic-seguin",
+    "raceName": "",
+    "date": "2026-03-16",
+    "riderId": "frederic-seguin",
+    "position": 50,
+    "points": 0
+  },
+  {
+    "id": "-2026-03-16-gilbert-lhuissier",
+    "raceName": "",
+    "date": "2026-03-16",
+    "riderId": "gilbert-lhuissier",
+    "position": 51,
+    "points": 0
+  },
+  {
+    "id": "-2026-03-16-christian-garric",
+    "raceName": "",
+    "date": "2026-03-16",
+    "riderId": "christian-garric",
+    "position": 52,
+    "points": 0
+  },
+  {
+    "id": "-2026-03-16-jacques-dubreuil",
+    "raceName": "",
+    "date": "2026-03-16",
+    "riderId": "jacques-dubreuil",
+    "position": 53,
+    "points": 0
+  },
+  {
+    "id": "-2026-03-16-thierry-guillemin",
+    "raceName": "",
+    "date": "2026-03-16",
+    "riderId": "thierry-guillemin",
+    "position": 54,
+    "points": 0
+  },
+  {
+    "id": "-2026-03-16-pierre-caillot",
+    "raceName": "",
+    "date": "2026-03-16",
+    "riderId": "pierre-caillot",
+    "position": 55,
+    "points": 0
+  },
+  {
+    "id": "-2026-03-16-francois-regis-clere",
+    "raceName": "",
+    "date": "2026-03-16",
+    "riderId": "francois-regis-clere",
+    "position": 1,
+    "points": 50
+  },
+  {
+    "id": "-2026-03-16-vivien-genter",
+    "raceName": "",
+    "date": "2026-03-16",
+    "riderId": "vivien-genter",
+    "position": 2,
+    "points": 25
+  },
+  {
+    "id": "-2026-03-16-morgan-ptak",
+    "raceName": "",
+    "date": "2026-03-16",
+    "riderId": "morgan-ptak",
+    "position": 3,
+    "points": 22
+  },
+  {
+    "id": "-2026-03-16-marius-noel",
+    "raceName": "",
+    "date": "2026-03-16",
+    "riderId": "marius-noel",
+    "position": 4,
+    "points": 19
+  },
+  {
+    "id": "-2026-03-16-leopold-desserre",
+    "raceName": "",
+    "date": "2026-03-16",
+    "riderId": "leopold-desserre",
+    "position": 5,
+    "points": 17
+  },
+  {
+    "id": "-2026-03-16-arthur-garnier-le-borgne",
+    "raceName": "",
+    "date": "2026-03-16",
+    "riderId": "arthur-garnier-le-borgne",
+    "position": 6,
+    "points": 15
+  },
+  {
+    "id": "-2026-03-16-malone-valat",
+    "raceName": "",
+    "date": "2026-03-16",
+    "riderId": "malone-valat",
+    "position": 7,
+    "points": 14
+  },
+  {
+    "id": "-2026-03-16-leonard-regazzi",
+    "raceName": "",
+    "date": "2026-03-16",
+    "riderId": "leonard-regazzi",
+    "position": 8,
+    "points": 13
+  },
+  {
+    "id": "-2026-03-16-emilien-gineys",
+    "raceName": "",
+    "date": "2026-03-16",
+    "riderId": "emilien-gineys",
+    "position": 9,
+    "points": 12
+  },
+  {
+    "id": "-2026-03-16-robin-segala",
+    "raceName": "",
+    "date": "2026-03-16",
+    "riderId": "robin-segala",
+    "position": 10,
+    "points": 11
+  },
+  {
+    "id": "-2026-03-16-malo-touchefeu",
+    "raceName": "",
+    "date": "2026-03-16",
+    "riderId": "malo-touchefeu",
+    "position": 11,
+    "points": 10
+  },
+  {
+    "id": "-2026-03-16-amadeo-bottone",
+    "raceName": "",
+    "date": "2026-03-16",
+    "riderId": "amadeo-bottone",
+    "position": 12,
+    "points": 9
+  },
+  {
+    "id": "-2026-03-16-gregoire-depaud",
+    "raceName": "",
+    "date": "2026-03-16",
+    "riderId": "gregoire-depaud",
+    "position": 13,
+    "points": 8
+  },
+  {
+    "id": "-2026-03-16-noa-farey",
+    "raceName": "",
+    "date": "2026-03-16",
+    "riderId": "noa-farey",
+    "position": 14,
+    "points": 7
+  },
+  {
+    "id": "-2026-03-16-timeo-hardy",
+    "raceName": "",
+    "date": "2026-03-16",
+    "riderId": "timeo-hardy",
+    "position": 15,
+    "points": 6
+  },
+  {
+    "id": "-2026-03-16-thomas-rottement",
+    "raceName": "",
+    "date": "2026-03-16",
+    "riderId": "thomas-rottement",
+    "position": 16,
+    "points": 5
+  },
+  {
+    "id": "-2026-03-16-eloan-canu",
+    "raceName": "",
+    "date": "2026-03-16",
+    "riderId": "eloan-canu",
+    "position": 17,
+    "points": 4
+  },
+  {
+    "id": "-2026-03-16-mathieu-lapeyronie",
+    "raceName": "",
+    "date": "2026-03-16",
+    "riderId": "mathieu-lapeyronie",
+    "position": 18,
+    "points": 3
+  },
+  {
+    "id": "-2026-03-16-lucas-jouve",
+    "raceName": "",
+    "date": "2026-03-16",
+    "riderId": "lucas-jouve",
+    "position": 19,
+    "points": 2
+  },
+  {
+    "id": "-2026-03-16-eric-verge",
+    "raceName": "",
+    "date": "2026-03-16",
+    "riderId": "eric-verge",
+    "position": 20,
+    "points": 1
+  },
+  {
+    "id": "-2026-03-16-mohamed-benahmed",
+    "raceName": "",
+    "date": "2026-03-16",
+    "riderId": "mohamed-benahmed",
+    "position": 21,
+    "points": 0
+  },
+  {
+    "id": "-2026-03-16-loup-landois",
+    "raceName": "",
+    "date": "2026-03-16",
+    "riderId": "loup-landois",
+    "position": 22,
+    "points": 0
+  },
+  {
+    "id": "-2026-03-16-romeo-coursault",
+    "raceName": "",
+    "date": "2026-03-16",
+    "riderId": "romeo-coursault",
+    "position": 23,
+    "points": 0
+  },
+  {
+    "id": "-2026-03-16-noah-vandeweghe-wakselman",
+    "raceName": "",
+    "date": "2026-03-16",
+    "riderId": "noah-vandeweghe-wakselman",
+    "position": 24,
+    "points": 0
+  },
+  {
+    "id": "-2026-03-16-aristide-du-pontavice",
+    "raceName": "",
+    "date": "2026-03-16",
+    "riderId": "aristide-du-pontavice",
+    "position": 25,
+    "points": 0
+  },
+  {
+    "id": "-2026-03-16-yanis-boutebtoub",
+    "raceName": "",
+    "date": "2026-03-16",
+    "riderId": "yanis-boutebtoub",
+    "position": 26,
+    "points": 0
+  },
+  {
+    "id": "-2026-03-16-nathan-lepage",
+    "raceName": "",
+    "date": "2026-03-16",
+    "riderId": "nathan-lepage",
+    "position": 27,
+    "points": 0
+  },
+  {
+    "id": "-2026-03-16-nolhan-florella",
+    "raceName": "",
+    "date": "2026-03-16",
+    "riderId": "nolhan-florella",
+    "position": 28,
+    "points": 0
+  },
+  {
+    "id": "-2026-03-16-antonin-mauger",
+    "raceName": "",
+    "date": "2026-03-16",
+    "riderId": "antonin-mauger",
+    "position": 29,
+    "points": 0
+  },
+  {
+    "id": "-2026-03-16-artur-laffineur-martinot",
+    "raceName": "",
+    "date": "2026-03-16",
+    "riderId": "artur-laffineur-martinot",
+    "position": 30,
+    "points": 0
+  },
+  {
+    "id": "-2026-03-16-thomas-daversin",
+    "raceName": "",
+    "date": "2026-03-16",
+    "riderId": "thomas-daversin",
+    "position": 31,
+    "points": 0
+  },
+  {
+    "id": "-2026-03-16-loic-lemaitre",
+    "raceName": "",
+    "date": "2026-03-16",
+    "riderId": "loic-lemaitre",
+    "position": 32,
+    "points": 0
+  },
+  {
+    "id": "-2026-03-16-maxime-heide",
+    "raceName": "",
+    "date": "2026-03-16",
+    "riderId": "maxime-heide",
+    "position": 33,
+    "points": 0
+  },
+  {
+    "id": "-2026-03-16-dorian-pierlot",
+    "raceName": "",
+    "date": "2026-03-16",
+    "riderId": "dorian-pierlot",
+    "position": 34,
+    "points": 0
+  },
+  {
+    "id": "-2026-03-16-loic-jacquet",
+    "raceName": "",
+    "date": "2026-03-16",
+    "riderId": "loic-jacquet",
+    "position": 35,
+    "points": 0
+  },
+  {
+    "id": "-2026-03-16-yann-le-bihan",
+    "raceName": "",
+    "date": "2026-03-16",
+    "riderId": "yann-le-bihan",
+    "position": 36,
+    "points": 0
+  },
+  {
+    "id": "-2026-03-16-nolan-patron",
+    "raceName": "",
+    "date": "2026-03-16",
+    "riderId": "nolan-patron",
+    "position": 37,
+    "points": 0
   }
 ]
