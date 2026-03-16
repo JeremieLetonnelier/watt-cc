@@ -22,6 +22,12 @@ def compute_results_ffc_points(raw_data):
     df['riderId'] = df['riderName'].str.lower().str.replace(' ', '-', regex=False)
     
     # Génération d'un ID unique pour la ligne de résultat
-    df['id'] = df['raceName'].str.lower().str.replace(' ', '-', regex=False) + '-' + df['riderId']
+    # Format: nom-course-YYYY-MM-DD-id-coureur
+    df['id'] = (
+        df['raceName'].str.lower().str.replace(' ', '-', regex=False) + '-' +
+        df['date'] + '-' +
+        df['riderId']
+    )
     
     return df
+
