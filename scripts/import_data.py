@@ -31,7 +31,28 @@ from points import compute_results_ffc_points
 # Helpers partagés
 # ---------------------------------------------------------------------------
 
+MONTH_MAPPING = {
+    "janvier": "01", "février": "02", "mars": "03", "avril": "04",
+    "mai": "05", "juin": "06", "juillet": "07", "août": "08",
+    "septembre": "09", "octobre": "10", "novembre": "11", "décembre": "12"
+}
+
+def parse_french_date(date_str: str) -> str:
+    """Convertit une date '8 mars 2026' en '2026-03-08'."""
+    try:
+        parts = date_str.lower().split()
+        if len(parts) >= 3:
+            day = parts[0].zfill(2)
+            month = MONTH_MAPPING.get(parts[1], "01")
+            year = parts[2]
+            return f"{year}-{month}-{day}"
+    except Exception:
+        pass
+    return datetime.now().strftime("%Y-%m-%d")
+
+
 def slugify(text: str) -> str:
+
     """Convertit un texte en slug URL-friendly."""
     text = unicodedata.normalize("NFKD", text).encode("ascii", "ignore").decode("utf-8")
     return text.lower().replace(" ", "-")
@@ -82,6 +103,10 @@ def extract_ffc_web() -> list[dict]:
             h1 = race_soup.find("h1")
             race_name = h1.text.strip() if h1 else "Course Inconnue"
 
+            # Extraction de la date réelle
+            time_tag = race_soup.find("time", class_="header-race__date")
+            race_date = parse_french_date(time_tag.text.strip()) if time_tag else datetime.now().strftime("%Y-%m-%d")
+
             try:
                 tables = pd.read_html(StringIO(race_response.text))
                 if not tables:
@@ -95,12 +120,13 @@ def extract_ffc_web() -> list[dict]:
                     position = row.get("Rang", index + 1)
                     raw_data.append({
                         "raceName": race_name,
-                        "date": datetime.now().strftime("%Y-%m-%d"),
+                        "date": race_date,
                         "riderName": rider_name,
                         "club": row.get("Club", "Indépendant"),
                         "category": race_name,
                         "position": int(position) if str(position).isdigit() else index + 1,
                     })
+
             except Exception as e:
                 print(f"  ✗ Aucun tableau valide pour {race_name} : {e}")
 
@@ -170,8 +196,8 @@ def transform(raw_data: list[dict]) -> tuple[list[dict], list[dict]]:
     riders_dict = {}
 
     for _, row in df.iterrows():
-        rider_id = slugify(row["riderName"])
-        race_id = slugify(f"{row['raceName']}-{row['date']}-{rider_id}")
+        rider_id = row["riderId"]
+        race_id = row["id"]
 
         results_list.append({
             "id": race_id,
@@ -181,6 +207,7 @@ def transform(raw_data: list[dict]) -> tuple[list[dict], list[dict]]:
             "position": int(row["position"]),
             "points": int(row["points"]),
         })
+
 
         if rider_id not in riders_dict:
             riders_dict[rider_id] = {
