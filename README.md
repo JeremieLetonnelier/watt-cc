@@ -1,6 +1,4 @@
-<div align="center">
-  <img width="600" alt="WATT.CC Logo" src="https://picsum.photos/seed/wattcc/800/250" />
-</div>
+
 
 <h1 align="center">🏆 WATT.CC - Plateforme de Résultats & Classements Cyclistes</h1>
 
