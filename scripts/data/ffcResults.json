@@ -5806,5 +5806,805 @@
     "riderId": "mattew-biarne-continant",
     "position": 31,
     "points": 0
+  },
+  {
+    "id": "fontainbleau-–-open--2-–-3--+-acces-1-–-px-agglo.-de-fontainebleau-2026-03-08-antton-landois-waliszewski",
+    "raceName": "FONTAINBLEAU – OPEN  2 – 3  + ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-08",
+    "riderId": "antton-landois-waliszewski",
+    "position": 1,
+    "points": 50
+  },
+  {
+    "id": "fontainbleau-–-open--2-–-3--+-acces-1-–-px-agglo.-de-fontainebleau-2026-03-08-yan-rolland",
+    "raceName": "FONTAINBLEAU – OPEN  2 – 3  + ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-08",
+    "riderId": "yan-rolland",
+    "position": 2,
+    "points": 25
+  },
+  {
+    "id": "fontainbleau-–-open--2-–-3--+-acces-1-–-px-agglo.-de-fontainebleau-2026-03-08-paul-luez",
+    "raceName": "FONTAINBLEAU – OPEN  2 – 3  + ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-08",
+    "riderId": "paul-luez",
+    "position": 3,
+    "points": 22
+  },
+  {
+    "id": "fontainbleau-–-open--2-–-3--+-acces-1-–-px-agglo.-de-fontainebleau-2026-03-08-gervais-castres",
+    "raceName": "FONTAINBLEAU – OPEN  2 – 3  + ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-08",
+    "riderId": "gervais-castres",
+    "position": 4,
+    "points": 19
+  },
+  {
+    "id": "fontainbleau-–-open--2-–-3--+-acces-1-–-px-agglo.-de-fontainebleau-2026-03-08-gregory-fors",
+    "raceName": "FONTAINBLEAU – OPEN  2 – 3  + ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-08",
+    "riderId": "gregory-fors",
+    "position": 5,
+    "points": 17
+  },
+  {
+    "id": "fontainbleau-–-open--2-–-3--+-acces-1-–-px-agglo.-de-fontainebleau-2026-03-08-enzo-panor",
+    "raceName": "FONTAINBLEAU – OPEN  2 – 3  + ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-08",
+    "riderId": "enzo-panor",
+    "position": 6,
+    "points": 15
+  },
+  {
+    "id": "fontainbleau-–-open--2-–-3--+-acces-1-–-px-agglo.-de-fontainebleau-2026-03-08-pierre-mavier",
+    "raceName": "FONTAINBLEAU – OPEN  2 – 3  + ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-08",
+    "riderId": "pierre-mavier",
+    "position": 7,
+    "points": 14
+  },
+  {
+    "id": "fontainbleau-–-open--2-–-3--+-acces-1-–-px-agglo.-de-fontainebleau-2026-03-08-axel-bansard",
+    "raceName": "FONTAINBLEAU – OPEN  2 – 3  + ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-08",
+    "riderId": "axel-bansard",
+    "position": 8,
+    "points": 13
+  },
+  {
+    "id": "fontainbleau-–-open--2-–-3--+-acces-1-–-px-agglo.-de-fontainebleau-2026-03-08-clovis-rottement",
+    "raceName": "FONTAINBLEAU – OPEN  2 – 3  + ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-08",
+    "riderId": "clovis-rottement",
+    "position": 9,
+    "points": 12
+  },
+  {
+    "id": "fontainbleau-–-open--2-–-3--+-acces-1-–-px-agglo.-de-fontainebleau-2026-03-08-benjamin-verrier",
+    "raceName": "FONTAINBLEAU – OPEN  2 – 3  + ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-08",
+    "riderId": "benjamin-verrier",
+    "position": 10,
+    "points": 11
+  },
+  {
+    "id": "fontainbleau-–-open--2-–-3--+-acces-1-–-px-agglo.-de-fontainebleau-2026-03-08-pierre-yves-quere",
+    "raceName": "FONTAINBLEAU – OPEN  2 – 3  + ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-08",
+    "riderId": "pierre-yves-quere",
+    "position": 11,
+    "points": 10
+  },
+  {
+    "id": "fontainbleau-–-open--2-–-3--+-acces-1-–-px-agglo.-de-fontainebleau-2026-03-08-david-remond",
+    "raceName": "FONTAINBLEAU – OPEN  2 – 3  + ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-08",
+    "riderId": "david-remond",
+    "position": 12,
+    "points": 9
+  },
+  {
+    "id": "fontainbleau-–-open--2-–-3--+-acces-1-–-px-agglo.-de-fontainebleau-2026-03-08-baptiste-larcher",
+    "raceName": "FONTAINBLEAU – OPEN  2 – 3  + ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-08",
+    "riderId": "baptiste-larcher",
+    "position": 13,
+    "points": 8
+  },
+  {
+    "id": "fontainbleau-–-open--2-–-3--+-acces-1-–-px-agglo.-de-fontainebleau-2026-03-08-mathéo-coolsaet",
+    "raceName": "FONTAINBLEAU – OPEN  2 – 3  + ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-08",
+    "riderId": "mathéo-coolsaet",
+    "position": 14,
+    "points": 7
+  },
+  {
+    "id": "fontainbleau-–-open--2-–-3--+-acces-1-–-px-agglo.-de-fontainebleau-2026-03-08-mathys-bacq",
+    "raceName": "FONTAINBLEAU – OPEN  2 – 3  + ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-08",
+    "riderId": "mathys-bacq",
+    "position": 15,
+    "points": 6
+  },
+  {
+    "id": "fontainbleau-–-open--2-–-3--+-acces-1-–-px-agglo.-de-fontainebleau-2026-03-08-timoté-graziani",
+    "raceName": "FONTAINBLEAU – OPEN  2 – 3  + ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-08",
+    "riderId": "timoté-graziani",
+    "position": 16,
+    "points": 5
+  },
+  {
+    "id": "fontainbleau-–-open--2-–-3--+-acces-1-–-px-agglo.-de-fontainebleau-2026-03-08-esteban-louvry",
+    "raceName": "FONTAINBLEAU – OPEN  2 – 3  + ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-08",
+    "riderId": "esteban-louvry",
+    "position": 17,
+    "points": 4
+  },
+  {
+    "id": "fontainbleau-–-open--2-–-3--+-acces-1-–-px-agglo.-de-fontainebleau-2026-03-08-maxime-belair",
+    "raceName": "FONTAINBLEAU – OPEN  2 – 3  + ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-08",
+    "riderId": "maxime-belair",
+    "position": 18,
+    "points": 3
+  },
+  {
+    "id": "fontainbleau-–-open--2-–-3--+-acces-1-–-px-agglo.-de-fontainebleau-2026-03-08-martin-douhet",
+    "raceName": "FONTAINBLEAU – OPEN  2 – 3  + ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-08",
+    "riderId": "martin-douhet",
+    "position": 19,
+    "points": 2
+  },
+  {
+    "id": "fontainbleau-–-open--2-–-3--+-acces-1-–-px-agglo.-de-fontainebleau-2026-03-08-martin-lavercier",
+    "raceName": "FONTAINBLEAU – OPEN  2 – 3  + ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-08",
+    "riderId": "martin-lavercier",
+    "position": 20,
+    "points": 1
+  },
+  {
+    "id": "fontainbleau-–-open--2-–-3--+-acces-1-–-px-agglo.-de-fontainebleau-2026-03-08-emmanuel-bertoldi",
+    "raceName": "FONTAINBLEAU – OPEN  2 – 3  + ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-08",
+    "riderId": "emmanuel-bertoldi",
+    "position": 21,
+    "points": 0
+  },
+  {
+    "id": "fontainbleau-–-open--2-–-3--+-acces-1-–-px-agglo.-de-fontainebleau-2026-03-08-richard-laporte",
+    "raceName": "FONTAINBLEAU – OPEN  2 – 3  + ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-08",
+    "riderId": "richard-laporte",
+    "position": 22,
+    "points": 0
+  },
+  {
+    "id": "fontainbleau-–-open--2-–-3--+-acces-1-–-px-agglo.-de-fontainebleau-2026-03-08-ethan-cassart",
+    "raceName": "FONTAINBLEAU – OPEN  2 – 3  + ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-08",
+    "riderId": "ethan-cassart",
+    "position": 23,
+    "points": 0
+  },
+  {
+    "id": "fontainbleau-–-open--2-–-3--+-acces-1-–-px-agglo.-de-fontainebleau-2026-03-08-cédric-llorca",
+    "raceName": "FONTAINBLEAU – OPEN  2 – 3  + ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-08",
+    "riderId": "cédric-llorca",
+    "position": 24,
+    "points": 0
+  },
+  {
+    "id": "fontainbleau-–-open--2-–-3--+-acces-1-–-px-agglo.-de-fontainebleau-2026-03-08-mathis-duseaux",
+    "raceName": "FONTAINBLEAU – OPEN  2 – 3  + ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-08",
+    "riderId": "mathis-duseaux",
+    "position": 25,
+    "points": 0
+  },
+  {
+    "id": "fontainbleau-–-open--2-–-3--+-acces-1-–-px-agglo.-de-fontainebleau-2026-03-08-timothé-michel",
+    "raceName": "FONTAINBLEAU – OPEN  2 – 3  + ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-08",
+    "riderId": "timothé-michel",
+    "position": 26,
+    "points": 0
+  },
+  {
+    "id": "fontainbleau-–-open--2-–-3--+-acces-1-–-px-agglo.-de-fontainebleau-2026-03-08-bastien-de-vido",
+    "raceName": "FONTAINBLEAU – OPEN  2 – 3  + ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-08",
+    "riderId": "bastien-de-vido",
+    "position": 27,
+    "points": 0
+  },
+  {
+    "id": "fontainbleau-–-open--2-–-3--+-acces-1-–-px-agglo.-de-fontainebleau-2026-03-08-thibaut-madorre",
+    "raceName": "FONTAINBLEAU – OPEN  2 – 3  + ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-08",
+    "riderId": "thibaut-madorre",
+    "position": 28,
+    "points": 0
+  },
+  {
+    "id": "fontainbleau-–-open--2-–-3--+-acces-1-–-px-agglo.-de-fontainebleau-2026-03-08-denis-hoffmann",
+    "raceName": "FONTAINBLEAU – OPEN  2 – 3  + ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-08",
+    "riderId": "denis-hoffmann",
+    "position": 29,
+    "points": 0
+  },
+  {
+    "id": "fontainbleau-–-open--2-–-3--+-acces-1-–-px-agglo.-de-fontainebleau-2026-03-08-vincent-loschi",
+    "raceName": "FONTAINBLEAU – OPEN  2 – 3  + ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-08",
+    "riderId": "vincent-loschi",
+    "position": 30,
+    "points": 0
+  },
+  {
+    "id": "fontainbleau-–-open--2-–-3--+-acces-1-–-px-agglo.-de-fontainebleau-2026-03-08-flavio-miguel-ascenso-henriques",
+    "raceName": "FONTAINBLEAU – OPEN  2 – 3  + ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-08",
+    "riderId": "flavio-miguel-ascenso-henriques",
+    "position": 31,
+    "points": 0
+  },
+  {
+    "id": "fontainbleau-–-open--2-–-3--+-acces-1-–-px-agglo.-de-fontainebleau-2026-03-08-romain-bassement",
+    "raceName": "FONTAINBLEAU – OPEN  2 – 3  + ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-08",
+    "riderId": "romain-bassement",
+    "position": 32,
+    "points": 0
+  },
+  {
+    "id": "fontainbleau-–-open--2-–-3--+-acces-1-–-px-agglo.-de-fontainebleau-2026-03-08-tinui-renault",
+    "raceName": "FONTAINBLEAU – OPEN  2 – 3  + ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-08",
+    "riderId": "tinui-renault",
+    "position": 33,
+    "points": 0
+  },
+  {
+    "id": "fontainbleau-–-open--2-–-3--+-acces-1-–-px-agglo.-de-fontainebleau-2026-03-08-louis-foyer",
+    "raceName": "FONTAINBLEAU – OPEN  2 – 3  + ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-08",
+    "riderId": "louis-foyer",
+    "position": 34,
+    "points": 0
+  },
+  {
+    "id": "fontainbleau-–-open--2-–-3--+-acces-1-–-px-agglo.-de-fontainebleau-2026-03-08-romain-bertrand",
+    "raceName": "FONTAINBLEAU – OPEN  2 – 3  + ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-08",
+    "riderId": "romain-bertrand",
+    "position": 35,
+    "points": 0
+  },
+  {
+    "id": "fontainbleau-–-open--2-–-3--+-acces-1-–-px-agglo.-de-fontainebleau-2026-03-08-emilien-mellot",
+    "raceName": "FONTAINBLEAU – OPEN  2 – 3  + ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-08",
+    "riderId": "emilien-mellot",
+    "position": 36,
+    "points": 0
+  },
+  {
+    "id": "fontainbleau-–-open--2-–-3--+-acces-1-–-px-agglo.-de-fontainebleau-2026-03-08-antoine-capelle",
+    "raceName": "FONTAINBLEAU – OPEN  2 – 3  + ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-08",
+    "riderId": "antoine-capelle",
+    "position": 37,
+    "points": 0
+  },
+  {
+    "id": "fontainbleau-–-open--2-–-3--+-acces-1-–-px-agglo.-de-fontainebleau-2026-03-08-domenico-tarditi",
+    "raceName": "FONTAINBLEAU – OPEN  2 – 3  + ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-08",
+    "riderId": "domenico-tarditi",
+    "position": 38,
+    "points": 0
+  },
+  {
+    "id": "fontainbleau-–-open--2-–-3--+-acces-1-–-px-agglo.-de-fontainebleau-2026-03-08-thomas-paradela",
+    "raceName": "FONTAINBLEAU – OPEN  2 – 3  + ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-08",
+    "riderId": "thomas-paradela",
+    "position": 39,
+    "points": 0
+  },
+  {
+    "id": "fontainbleau-–-open--2-–-3--+-acces-1-–-px-agglo.-de-fontainebleau-2026-03-08-thomas-quetel",
+    "raceName": "FONTAINBLEAU – OPEN  2 – 3  + ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-08",
+    "riderId": "thomas-quetel",
+    "position": 40,
+    "points": 0
+  },
+  {
+    "id": "fontainbleau-–-open--2-–-3--+-acces-1-–-px-agglo.-de-fontainebleau-2026-03-08-olivier-ilongo-gomez",
+    "raceName": "FONTAINBLEAU – OPEN  2 – 3  + ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-08",
+    "riderId": "olivier-ilongo-gomez",
+    "position": 41,
+    "points": 0
+  },
+  {
+    "id": "fontainbleau-–-open--2-–-3--+-acces-1-–-px-agglo.-de-fontainebleau-2026-03-08-enzo-huyghe",
+    "raceName": "FONTAINBLEAU – OPEN  2 – 3  + ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-08",
+    "riderId": "enzo-huyghe",
+    "position": 42,
+    "points": 0
+  },
+  {
+    "id": "fontainbleau-–-open--2-–-3--+-acces-1-–-px-agglo.-de-fontainebleau-2026-03-08-baptiste-de-grammont",
+    "raceName": "FONTAINBLEAU – OPEN  2 – 3  + ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-08",
+    "riderId": "baptiste-de-grammont",
+    "position": 43,
+    "points": 0
+  },
+  {
+    "id": "fontainbleau-–-open--2-–-3--+-acces-1-–-px-agglo.-de-fontainebleau-2026-03-08-ethane-hoffmann",
+    "raceName": "FONTAINBLEAU – OPEN  2 – 3  + ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-08",
+    "riderId": "ethane-hoffmann",
+    "position": 44,
+    "points": 0
+  },
+  {
+    "id": "fontainbleau-–-open--2-–-3--+-acces-1-–-px-agglo.-de-fontainebleau-2026-03-08-mathis-saussois-ghazani",
+    "raceName": "FONTAINBLEAU – OPEN  2 – 3  + ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-08",
+    "riderId": "mathis-saussois-ghazani",
+    "position": 45,
+    "points": 0
+  },
+  {
+    "id": "fontainbleau-–-open--2-–-3--+-acces-1-–-px-agglo.-de-fontainebleau-2026-03-08-lucas-marineau",
+    "raceName": "FONTAINBLEAU – OPEN  2 – 3  + ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-08",
+    "riderId": "lucas-marineau",
+    "position": 46,
+    "points": 0
+  },
+  {
+    "id": "fontainbleau-–-open--2-–-3--+-acces-1-–-px-agglo.-de-fontainebleau-2026-03-08-daniel-kefer",
+    "raceName": "FONTAINBLEAU – OPEN  2 – 3  + ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-08",
+    "riderId": "daniel-kefer",
+    "position": 47,
+    "points": 0
+  },
+  {
+    "id": "fontainbleau-–-open--2-–-3--+-acces-1-–-px-agglo.-de-fontainebleau-2026-03-08-julien-durand",
+    "raceName": "FONTAINBLEAU – OPEN  2 – 3  + ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-08",
+    "riderId": "julien-durand",
+    "position": 48,
+    "points": 0
+  },
+  {
+    "id": "fontainbleau-–-open--2-–-3--+-acces-1-–-px-agglo.-de-fontainebleau-2026-03-08-pierrick-jamot",
+    "raceName": "FONTAINBLEAU – OPEN  2 – 3  + ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-08",
+    "riderId": "pierrick-jamot",
+    "position": 49,
+    "points": 0
+  },
+  {
+    "id": "fontainbleau-–-open--2-–-3--+-acces-1-–-px-agglo.-de-fontainebleau-2026-03-08-nicolas-meunier",
+    "raceName": "FONTAINBLEAU – OPEN  2 – 3  + ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-08",
+    "riderId": "nicolas-meunier",
+    "position": 50,
+    "points": 0
+  },
+  {
+    "id": "fontainbleau-–-open--2-–-3--+-acces-1-–-px-agglo.-de-fontainebleau-2026-03-08-gabin-montet",
+    "raceName": "FONTAINBLEAU – OPEN  2 – 3  + ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-08",
+    "riderId": "gabin-montet",
+    "position": 51,
+    "points": 0
+  },
+  {
+    "id": "fontainbleau-–-open--2-–-3--+-acces-1-–-px-agglo.-de-fontainebleau-2026-03-08-maxence-mion",
+    "raceName": "FONTAINBLEAU – OPEN  2 – 3  + ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-08",
+    "riderId": "maxence-mion",
+    "position": 52,
+    "points": 0
+  },
+  {
+    "id": "fontainbleau-–-open--2-–-3--+-acces-1-–-px-agglo.-de-fontainebleau-2026-03-08-louis-devaux",
+    "raceName": "FONTAINBLEAU – OPEN  2 – 3  + ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-08",
+    "riderId": "louis-devaux",
+    "position": 53,
+    "points": 0
+  },
+  {
+    "id": "fontainbleau-–-open--2-–-3--+-acces-1-–-px-agglo.-de-fontainebleau-2026-03-08-melvin-landerneau",
+    "raceName": "FONTAINBLEAU – OPEN  2 – 3  + ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-08",
+    "riderId": "melvin-landerneau",
+    "position": 54,
+    "points": 0
+  },
+  {
+    "id": "fontainbleau-–-open--2-–-3--+-acces-1-–-px-agglo.-de-fontainebleau-2026-03-08-corentin-torzewski",
+    "raceName": "FONTAINBLEAU – OPEN  2 – 3  + ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-08",
+    "riderId": "corentin-torzewski",
+    "position": 55,
+    "points": 0
+  },
+  {
+    "id": "fontainbleau-–-open--2-–-3--+-acces-1-–-px-agglo.-de-fontainebleau-2026-03-08-benjamin-chaillou",
+    "raceName": "FONTAINBLEAU – OPEN  2 – 3  + ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-08",
+    "riderId": "benjamin-chaillou",
+    "position": 56,
+    "points": 0
+  },
+  {
+    "id": "fontainbleau-–-open--2-–-3--+-acces-1-–-px-agglo.-de-fontainebleau-2026-03-08-killian-moutou",
+    "raceName": "FONTAINBLEAU – OPEN  2 – 3  + ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-08",
+    "riderId": "killian-moutou",
+    "position": 57,
+    "points": 0
+  },
+  {
+    "id": "fontainbleau-–-open--2-–-3--+-acces-1-–-px-agglo.-de-fontainebleau-2026-03-08-jérémy-martignon",
+    "raceName": "FONTAINBLEAU – OPEN  2 – 3  + ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-08",
+    "riderId": "jérémy-martignon",
+    "position": 58,
+    "points": 0
+  },
+  {
+    "id": "fontainbleau-–-open--2-–-3--+-acces-1-–-px-agglo.-de-fontainebleau-2026-03-08-ivan-dimitrijevic",
+    "raceName": "FONTAINBLEAU – OPEN  2 – 3  + ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-08",
+    "riderId": "ivan-dimitrijevic",
+    "position": 59,
+    "points": 0
+  },
+  {
+    "id": "fontainbleau-–-open--2-–-3--+-acces-1-–-px-agglo.-de-fontainebleau-2026-03-08-mathieu-baglan",
+    "raceName": "FONTAINBLEAU – OPEN  2 – 3  + ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-08",
+    "riderId": "mathieu-baglan",
+    "position": 60,
+    "points": 0
+  },
+  {
+    "id": "fontainbleau-–-open--2-–-3--+-acces-1-–-px-agglo.-de-fontainebleau-2026-03-08-florian-menard",
+    "raceName": "FONTAINBLEAU – OPEN  2 – 3  + ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-08",
+    "riderId": "florian-menard",
+    "position": 61,
+    "points": 0
+  },
+  {
+    "id": "fontainbleau-–-open--2-–-3--+-acces-1-–-px-agglo.-de-fontainebleau-2026-03-08-timothé-dissaux",
+    "raceName": "FONTAINBLEAU – OPEN  2 – 3  + ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-08",
+    "riderId": "timothé-dissaux",
+    "position": 62,
+    "points": 0
+  },
+  {
+    "id": "fontainbleau-–-open--2-–-3--+-acces-1-–-px-agglo.-de-fontainebleau-2026-03-08-maxandre-contault",
+    "raceName": "FONTAINBLEAU – OPEN  2 – 3  + ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-08",
+    "riderId": "maxandre-contault",
+    "position": 63,
+    "points": 0
+  },
+  {
+    "id": "fontainbleau-–-open--2-–-3--+-acces-1-–-px-agglo.-de-fontainebleau-2026-03-08-rémi-duponq",
+    "raceName": "FONTAINBLEAU – OPEN  2 – 3  + ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-08",
+    "riderId": "rémi-duponq",
+    "position": 64,
+    "points": 0
+  },
+  {
+    "id": "fontainbleau-–-open--2-–-3--+-acces-1-–-px-agglo.-de-fontainebleau-2026-03-08-m.-fleury-careto",
+    "raceName": "FONTAINBLEAU – OPEN  2 – 3  + ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-08",
+    "riderId": "m.-fleury-careto",
+    "position": 65,
+    "points": 0
+  },
+  {
+    "id": "fontainbleau-–-open--2-–-3--+-acces-1-–-px-agglo.-de-fontainebleau-2026-03-08-thomas-delacour",
+    "raceName": "FONTAINBLEAU – OPEN  2 – 3  + ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-08",
+    "riderId": "thomas-delacour",
+    "position": 66,
+    "points": 0
+  },
+  {
+    "id": "fontainbleau-–-open--2-–-3--+-acces-1-–-px-agglo.-de-fontainebleau-2026-03-08-ethan-le-lamer",
+    "raceName": "FONTAINBLEAU – OPEN  2 – 3  + ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-08",
+    "riderId": "ethan-le-lamer",
+    "position": 67,
+    "points": 0
+  },
+  {
+    "id": "fontainbleau-–-open--2-–-3--+-acces-1-–-px-agglo.-de-fontainebleau-2026-03-08-romain-pecome",
+    "raceName": "FONTAINBLEAU – OPEN  2 – 3  + ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-08",
+    "riderId": "romain-pecome",
+    "position": 68,
+    "points": 0
+  },
+  {
+    "id": "fontainbleau-–-open--2-–-3--+-acces-1-–-px-agglo.-de-fontainebleau-2026-03-08-yann-raoult",
+    "raceName": "FONTAINBLEAU – OPEN  2 – 3  + ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-08",
+    "riderId": "yann-raoult",
+    "position": 69,
+    "points": 0
+  },
+  {
+    "id": "fontainbleau-–-open--2-–-3--+-acces-1-–-px-agglo.-de-fontainebleau-2026-03-08-eric-misson",
+    "raceName": "FONTAINBLEAU – OPEN  2 – 3  + ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-08",
+    "riderId": "eric-misson",
+    "position": 70,
+    "points": 0
+  },
+  {
+    "id": "fontainbleau-–-open--2-–-3--+-acces-1-–-px-agglo.-de-fontainebleau-2026-03-08-augustin-mesnard",
+    "raceName": "FONTAINBLEAU – OPEN  2 – 3  + ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-08",
+    "riderId": "augustin-mesnard",
+    "position": 71,
+    "points": 0
+  },
+  {
+    "id": "fontainbleau-–-open--2-–-3--+-acces-1-–-px-agglo.-de-fontainebleau-2026-03-08-joachim-kanji-nanji",
+    "raceName": "FONTAINBLEAU – OPEN  2 – 3  + ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-08",
+    "riderId": "joachim-kanji-nanji",
+    "position": 72,
+    "points": 0
+  },
+  {
+    "id": "fontainbleau-–-open--2-–-3--+-acces-1-–-px-agglo.-de-fontainebleau-2026-03-08-dimitri-le-normand",
+    "raceName": "FONTAINBLEAU – OPEN  2 – 3  + ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-08",
+    "riderId": "dimitri-le-normand",
+    "position": 73,
+    "points": 0
+  },
+  {
+    "id": "fontainbleau-–-open--2-–-3--+-acces-1-–-px-agglo.-de-fontainebleau-2026-03-08-quentin-parade",
+    "raceName": "FONTAINBLEAU – OPEN  2 – 3  + ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-08",
+    "riderId": "quentin-parade",
+    "position": 74,
+    "points": 0
+  },
+  {
+    "id": "fontainbleau-–-open--2-–-3--+-acces-1-–-px-agglo.-de-fontainebleau-2026-03-08-colin-ponthonne",
+    "raceName": "FONTAINBLEAU – OPEN  2 – 3  + ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-08",
+    "riderId": "colin-ponthonne",
+    "position": 75,
+    "points": 0
+  },
+  {
+    "id": "fontainbleau-–-open--2-–-3--+-acces-1-–-px-agglo.-de-fontainebleau-2026-03-08-quentin-schmidt",
+    "raceName": "FONTAINBLEAU – OPEN  2 – 3  + ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-08",
+    "riderId": "quentin-schmidt",
+    "position": 76,
+    "points": 0
+  },
+  {
+    "id": "fontainbleau-–-open--2-–-3--+-acces-1-–-px-agglo.-de-fontainebleau-2026-03-08-rafael-russo",
+    "raceName": "FONTAINBLEAU – OPEN  2 – 3  + ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-08",
+    "riderId": "rafael-russo",
+    "position": 77,
+    "points": 0
+  },
+  {
+    "id": "fontainbleau-–-open--2-–-3--+-acces-1-–-px-agglo.-de-fontainebleau-2026-03-08-pierre-ricci",
+    "raceName": "FONTAINBLEAU – OPEN  2 – 3  + ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-08",
+    "riderId": "pierre-ricci",
+    "position": 78,
+    "points": 0
+  },
+  {
+    "id": "fontainbleau-–-open--2-–-3--+-acces-1-–-px-agglo.-de-fontainebleau-2026-03-08-cédric-herledan",
+    "raceName": "FONTAINBLEAU – OPEN  2 – 3  + ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-08",
+    "riderId": "cédric-herledan",
+    "position": 79,
+    "points": 0
+  },
+  {
+    "id": "fontainbleau-–-open--2-–-3--+-acces-1-–-px-agglo.-de-fontainebleau-2026-03-08-gautier-diedler",
+    "raceName": "FONTAINBLEAU – OPEN  2 – 3  + ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-08",
+    "riderId": "gautier-diedler",
+    "position": 80,
+    "points": 0
+  },
+  {
+    "id": "fontainbleau-–-open--2-–-3--+-acces-1-–-px-agglo.-de-fontainebleau-2026-03-08-alban-delourme",
+    "raceName": "FONTAINBLEAU – OPEN  2 – 3  + ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-08",
+    "riderId": "alban-delourme",
+    "position": 81,
+    "points": 0
+  },
+  {
+    "id": "fontainbleau-–-open--2-–-3--+-acces-1-–-px-agglo.-de-fontainebleau-2026-03-08-thibault-gaudillat",
+    "raceName": "FONTAINBLEAU – OPEN  2 – 3  + ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-08",
+    "riderId": "thibault-gaudillat",
+    "position": 82,
+    "points": 0
+  },
+  {
+    "id": "fontainbleau-–-open--2-–-3--+-acces-1-–-px-agglo.-de-fontainebleau-2026-03-08-eric-crapard",
+    "raceName": "FONTAINBLEAU – OPEN  2 – 3  + ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-08",
+    "riderId": "eric-crapard",
+    "position": 83,
+    "points": 0
+  },
+  {
+    "id": "fontainbleau-–-open--2-–-3--+-acces-1-–-px-agglo.-de-fontainebleau-2026-03-08-f.-hautecoeur",
+    "raceName": "FONTAINBLEAU – OPEN  2 – 3  + ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-08",
+    "riderId": "f.-hautecoeur",
+    "position": 84,
+    "points": 0
+  },
+  {
+    "id": "fontainbleau-–-open--2-–-3--+-acces-1-–-px-agglo.-de-fontainebleau-2026-03-08-tom-bourdier",
+    "raceName": "FONTAINBLEAU – OPEN  2 – 3  + ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-08",
+    "riderId": "tom-bourdier",
+    "position": 85,
+    "points": 0
+  },
+  {
+    "id": "fontainbleau-–-open--2-–-3--+-acces-1-–-px-agglo.-de-fontainebleau-2026-03-08-romain-bona",
+    "raceName": "FONTAINBLEAU – OPEN  2 – 3  + ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-08",
+    "riderId": "romain-bona",
+    "position": 86,
+    "points": 0
+  },
+  {
+    "id": "fontainbleau-–-open--2-–-3--+-acces-1-–-px-agglo.-de-fontainebleau-2026-03-08-emeric-raufflet",
+    "raceName": "FONTAINBLEAU – OPEN  2 – 3  + ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-08",
+    "riderId": "emeric-raufflet",
+    "position": 87,
+    "points": 0
+  },
+  {
+    "id": "fontainbleau-–-open--2-–-3--+-acces-1-–-px-agglo.-de-fontainebleau-2026-03-08-florian-cappoen",
+    "raceName": "FONTAINBLEAU – OPEN  2 – 3  + ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-08",
+    "riderId": "florian-cappoen",
+    "position": 88,
+    "points": 0
+  },
+  {
+    "id": "fontainbleau-–-open--2-–-3--+-acces-1-–-px-agglo.-de-fontainebleau-2026-03-08-bastien-vuillaume",
+    "raceName": "FONTAINBLEAU – OPEN  2 – 3  + ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-08",
+    "riderId": "bastien-vuillaume",
+    "position": 89,
+    "points": 0
+  },
+  {
+    "id": "fontainbleau-–-open--2-–-3--+-acces-1-–-px-agglo.-de-fontainebleau-2026-03-08-vincent-martins",
+    "raceName": "FONTAINBLEAU – OPEN  2 – 3  + ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-08",
+    "riderId": "vincent-martins",
+    "position": 90,
+    "points": 0
+  },
+  {
+    "id": "fontainbleau-–-open--2-–-3--+-acces-1-–-px-agglo.-de-fontainebleau-2026-03-08-eyvan-besche",
+    "raceName": "FONTAINBLEAU – OPEN  2 – 3  + ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-08",
+    "riderId": "eyvan-besche",
+    "position": 91,
+    "points": 0
+  },
+  {
+    "id": "fontainbleau-–-open--2-–-3--+-acces-1-–-px-agglo.-de-fontainebleau-2026-03-08-vincent-mouquet",
+    "raceName": "FONTAINBLEAU – OPEN  2 – 3  + ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-08",
+    "riderId": "vincent-mouquet",
+    "position": 92,
+    "points": 0
+  },
+  {
+    "id": "fontainbleau-–-open--2-–-3--+-acces-1-–-px-agglo.-de-fontainebleau-2026-03-08-wilfrid-noyon",
+    "raceName": "FONTAINBLEAU – OPEN  2 – 3  + ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-08",
+    "riderId": "wilfrid-noyon",
+    "position": 93,
+    "points": 0
+  },
+  {
+    "id": "fontainbleau-–-open--2-–-3--+-acces-1-–-px-agglo.-de-fontainebleau-2026-03-08-giovanny-fragnoli",
+    "raceName": "FONTAINBLEAU – OPEN  2 – 3  + ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-08",
+    "riderId": "giovanny-fragnoli",
+    "position": 94,
+    "points": 0
+  },
+  {
+    "id": "fontainbleau-–-open--2-–-3--+-acces-1-–-px-agglo.-de-fontainebleau-2026-03-08-tristan-jourdren",
+    "raceName": "FONTAINBLEAU – OPEN  2 – 3  + ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-08",
+    "riderId": "tristan-jourdren",
+    "position": 95,
+    "points": 0
+  },
+  {
+    "id": "fontainbleau-–-open--2-–-3--+-acces-1-–-px-agglo.-de-fontainebleau-2026-03-08-alexandre-demandrille",
+    "raceName": "FONTAINBLEAU – OPEN  2 – 3  + ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-08",
+    "riderId": "alexandre-demandrille",
+    "position": 96,
+    "points": 0
+  },
+  {
+    "id": "fontainbleau-–-open--2-–-3--+-acces-1-–-px-agglo.-de-fontainebleau-2026-03-08-n.-richard",
+    "raceName": "FONTAINBLEAU – OPEN  2 – 3  + ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-08",
+    "riderId": "n.-richard",
+    "position": 97,
+    "points": 0
+  },
+  {
+    "id": "fontainbleau-–-open--2-–-3--+-acces-1-–-px-agglo.-de-fontainebleau-2026-03-08-ferdinand-castelnau",
+    "raceName": "FONTAINBLEAU – OPEN  2 – 3  + ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-08",
+    "riderId": "ferdinand-castelnau",
+    "position": 98,
+    "points": 0
+  },
+  {
+    "id": "fontainbleau-–-open--2-–-3--+-acces-1-–-px-agglo.-de-fontainebleau-2026-03-08-olivier-baud",
+    "raceName": "FONTAINBLEAU – OPEN  2 – 3  + ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-08",
+    "riderId": "olivier-baud",
+    "position": 99,
+    "points": 0
+  },
+  {
+    "id": "fontainbleau-–-open--2-–-3--+-acces-1-–-px-agglo.-de-fontainebleau-2026-03-08-raphaël-bednarz-dubois",
+    "raceName": "FONTAINBLEAU – OPEN  2 – 3  + ACCES 1 – PX AGGLO. DE FONTAINEBLEAU",
+    "date": "2026-03-08",
+    "riderId": "raphaël-bednarz-dubois",
+    "position": 100,
+    "points": 0
   }
 ]

@@ -3856,5 +3856,563 @@
     "name": "Mattew Biarne Continant",
     "club": "PARISIS A.C. 95",
     "category": "Access 1"
+  },
+  {
+    "id": "antton-landois-waliszewski",
+    "name": "Antton Landois Waliszewski",
+    "club": "TEAM CYCLISTE LINAS MONTLHERY",
+    "category": "Access 1"
+  },
+  {
+    "id": "yan-rolland",
+    "name": "Yan Rolland",
+    "club": "GUIDON PROVINOIS",
+    "category": "Access 1"
+  },
+  {
+    "id": "paul-luez",
+    "name": "Paul Luez",
+    "club": "A. C. B. B.",
+    "category": "Access 1"
+  },
+  {
+    "id": "gervais-castres",
+    "name": "Gervais Castres",
+    "club": "ENTENTE CYCLISTE AULNAY DRANCY 93",
+    "category": "Access 1"
+  },
+  {
+    "id": "gregory-fors",
+    "name": "Gregory Fors",
+    "club": "PARIS CYCLISTE OLYMPIQUE",
+    "category": "Access 1"
+  },
+  {
+    "id": "enzo-panor",
+    "name": "Enzo Panor",
+    "club": "CLAMART CYCLISME 92",
+    "category": "Access 1"
+  },
+  {
+    "id": "pierre-mavier",
+    "name": "Pierre Mavier",
+    "club": "GUIDON PROVINOIS",
+    "category": "Access 1"
+  },
+  {
+    "id": "axel-bansard",
+    "name": "Axel Bansard",
+    "club": "TEAM ALL CYCLES MEAUX",
+    "category": "Access 1"
+  },
+  {
+    "id": "clovis-rottement",
+    "name": "Clovis Rottement",
+    "club": "TEAM ALL CYCLES MEAUX",
+    "category": "Access 1"
+  },
+  {
+    "id": "benjamin-verrier",
+    "name": "Benjamin Verrier",
+    "club": "WATT CYCLING CLUB",
+    "category": "Access 1"
+  },
+  {
+    "id": "pierre-yves-quere",
+    "name": "Pierre Yves Quere",
+    "club": "U. COSNOISE SPORTIVE",
+    "category": "Access 1"
+  },
+  {
+    "id": "david-remond",
+    "name": "David Remond",
+    "club": "TEAM ALL CYCLES MEAUX",
+    "category": "Access 1"
+  },
+  {
+    "id": "baptiste-larcher",
+    "name": "Baptiste Larcher",
+    "club": "A. C. B. B.",
+    "category": "Access 1"
+  },
+  {
+    "id": "mathéo-coolsaet",
+    "name": "Mathéo Coolsaet",
+    "club": "PARISIS A.C. 95",
+    "category": "Access 1"
+  },
+  {
+    "id": "mathys-bacq",
+    "name": "Mathys Bacq",
+    "club": "U. COSNOISE SPORTIVE",
+    "category": "Access 1"
+  },
+  {
+    "id": "timoté-graziani",
+    "name": "Timoté Graziani",
+    "club": "TEAM ALL CYCLES MEAUX",
+    "category": "Access 1"
+  },
+  {
+    "id": "esteban-louvry",
+    "name": "Esteban Louvry",
+    "club": "MOYON PERCY VELO CLUB",
+    "category": "Access 1"
+  },
+  {
+    "id": "maxime-belair",
+    "name": "Maxime Belair",
+    "club": "VC FONTAINEBLEAU AVON",
+    "category": "Access 1"
+  },
+  {
+    "id": "martin-douhet",
+    "name": "Martin Douhet",
+    "club": "PARIS CYCLISTE OLYMPIQUE",
+    "category": "Access 1"
+  },
+  {
+    "id": "martin-lavercier",
+    "name": "Martin Lavercier",
+    "club": "WATT CYCLING CLUB",
+    "category": "Access 1"
+  },
+  {
+    "id": "emmanuel-bertoldi",
+    "name": "Emmanuel Bertoldi",
+    "club": "ENTENTE CYCLISTE AULNAY DRANCY 93",
+    "category": "Access 1"
+  },
+  {
+    "id": "richard-laporte",
+    "name": "Richard Laporte",
+    "club": "VAL D'OISE CYCLISTE",
+    "category": "Access 1"
+  },
+  {
+    "id": "ethan-cassart",
+    "name": "Ethan Cassart",
+    "club": "CLAMART CYCLISME 92",
+    "category": "Access 1"
+  },
+  {
+    "id": "cédric-llorca",
+    "name": "Cédric Llorca",
+    "club": "VC FONTAINEBLEAU AVON",
+    "category": "Access 1"
+  },
+  {
+    "id": "mathis-duseaux",
+    "name": "Mathis Duseaux",
+    "club": "GUIDON PROVINOIS",
+    "category": "Access 1"
+  },
+  {
+    "id": "timothé-michel",
+    "name": "Timothé Michel",
+    "club": "WATT CYCLING CLUB",
+    "category": "Access 1"
+  },
+  {
+    "id": "bastien-de-vido",
+    "name": "Bastien De Vido",
+    "club": "GUIDON PROVINOIS",
+    "category": "Access 1"
+  },
+  {
+    "id": "thibaut-madorre",
+    "name": "Thibaut Madorre",
+    "club": "GUIDON PROVINOIS",
+    "category": "Access 1"
+  },
+  {
+    "id": "vincent-loschi",
+    "name": "Vincent Loschi",
+    "club": "AV THIAIS",
+    "category": "Access 1"
+  },
+  {
+    "id": "flavio-miguel-ascenso-henriques",
+    "name": "Flavio Miguel Ascenso Henriques",
+    "club": "GUIDON PROVINOIS",
+    "category": "Access 1"
+  },
+  {
+    "id": "romain-bassement",
+    "name": "Romain Bassement",
+    "club": "USSA PAVILLY BARENTIN",
+    "category": "Access 1"
+  },
+  {
+    "id": "tinui-renault",
+    "name": "Tinui Renault",
+    "club": "SUD OISE CYCLISME",
+    "category": "Access 1"
+  },
+  {
+    "id": "louis-foyer",
+    "name": "Louis Foyer",
+    "club": "WATT CYCLING CLUB",
+    "category": "Access 1"
+  },
+  {
+    "id": "emilien-mellot",
+    "name": "Emilien Mellot",
+    "club": "U. COSNOISE SPORTIVE",
+    "category": "Access 1"
+  },
+  {
+    "id": "antoine-capelle",
+    "name": "Antoine Capelle",
+    "club": "U.V.AUBE",
+    "category": "Access 1"
+  },
+  {
+    "id": "domenico-tarditi",
+    "name": "Domenico Tarditi",
+    "club": "PARIS CYCLISTE OLYMPIQUE",
+    "category": "Access 1"
+  },
+  {
+    "id": "thomas-paradela",
+    "name": "Thomas Paradela",
+    "club": "AV THIAIS",
+    "category": "Access 1"
+  },
+  {
+    "id": "thomas-quetel",
+    "name": "Thomas Quetel",
+    "club": "PARISIS A.C. 95",
+    "category": "Access 1"
+  },
+  {
+    "id": "olivier-ilongo-gomez",
+    "name": "Olivier Ilongo Gomez",
+    "club": "ESPOIR DU SUD",
+    "category": "Access 1"
+  },
+  {
+    "id": "baptiste-de-grammont",
+    "name": "Baptiste De Grammont",
+    "club": "AVENIR CYCLISTE DE LARDY",
+    "category": "Access 1"
+  },
+  {
+    "id": "mathis-saussois-ghazani",
+    "name": "Mathis Saussois Ghazani",
+    "club": "TEAM CYCLISTE LINAS MONTLHERY",
+    "category": "Access 1"
+  },
+  {
+    "id": "lucas-marineau",
+    "name": "Lucas Marineau",
+    "club": "GUIDON PROVINOIS",
+    "category": "Access 1"
+  },
+  {
+    "id": "daniel-kefer",
+    "name": "Daniel Kefer",
+    "club": "WATT CYCLING CLUB",
+    "category": "Access 1"
+  },
+  {
+    "id": "julien-durand",
+    "name": "Julien Durand",
+    "club": "S.C.OLYMPIQUE DE DIJON",
+    "category": "Access 1"
+  },
+  {
+    "id": "pierrick-jamot",
+    "name": "Pierrick Jamot",
+    "club": "AC BAS-BERRY",
+    "category": "Access 1"
+  },
+  {
+    "id": "gabin-montet",
+    "name": "Gabin Montet",
+    "club": "A. C. B. B.",
+    "category": "Access 1"
+  },
+  {
+    "id": "maxence-mion",
+    "name": "Maxence Mion",
+    "club": "LA FEUILLIE CYCLISTE",
+    "category": "Access 1"
+  },
+  {
+    "id": "louis-devaux",
+    "name": "Louis Devaux",
+    "club": "CLAMART CYCLISME 92",
+    "category": "Access 1"
+  },
+  {
+    "id": "melvin-landerneau",
+    "name": "Melvin Landerneau",
+    "club": "VELO CLUB DU FRANÇOIS",
+    "category": "Access 1"
+  },
+  {
+    "id": "corentin-torzewski",
+    "name": "Corentin Torzewski",
+    "club": "CL BARLIN",
+    "category": "Access 1"
+  },
+  {
+    "id": "benjamin-chaillou",
+    "name": "Benjamin Chaillou",
+    "club": "VC FONTAINEBLEAU AVON",
+    "category": "Access 1"
+  },
+  {
+    "id": "killian-moutou",
+    "name": "Killian Moutou",
+    "club": "A. C. B. B.",
+    "category": "Access 1"
+  },
+  {
+    "id": "jérémy-martignon",
+    "name": "Jérémy Martignon",
+    "club": "LA PÉDALE FERTOISE",
+    "category": "Access 1"
+  },
+  {
+    "id": "ivan-dimitrijevic",
+    "name": "Ivan Dimitrijevic",
+    "club": "TEAM CYCLISTE LINAS MONTLHERY",
+    "category": "Access 1"
+  },
+  {
+    "id": "mathieu-baglan",
+    "name": "Mathieu Baglan",
+    "club": "VELO CLUB DU SENONAIS",
+    "category": "Access 1"
+  },
+  {
+    "id": "florian-menard",
+    "name": "Florian Menard",
+    "club": "VS HYEROIS",
+    "category": "Access 1"
+  },
+  {
+    "id": "timothé-dissaux",
+    "name": "Timothé Dissaux",
+    "club": "PARISIS A.C. 95",
+    "category": "Access 1"
+  },
+  {
+    "id": "maxandre-contault",
+    "name": "Maxandre Contault",
+    "club": "EC MONTGERON VIGNEUX",
+    "category": "Access 1"
+  },
+  {
+    "id": "rémi-duponq",
+    "name": "Rémi Duponq",
+    "club": "CLAMART CYCLISME 92",
+    "category": "Access 1"
+  },
+  {
+    "id": "m.-fleury-careto",
+    "name": "M. Fleury Careto",
+    "club": "GUIDON PROVINOIS",
+    "category": "Access 1"
+  },
+  {
+    "id": "thomas-delacour",
+    "name": "Thomas Delacour",
+    "club": "EC MONTGERON VIGNEUX",
+    "category": "Access 1"
+  },
+  {
+    "id": "ethan-le-lamer",
+    "name": "Ethan Le Lamer",
+    "club": "VC PITHIVIERS",
+    "category": "Access 1"
+  },
+  {
+    "id": "romain-pecome",
+    "name": "Romain Pecome",
+    "club": "EC MONTGERON VIGNEUX",
+    "category": "Access 1"
+  },
+  {
+    "id": "yann-raoult",
+    "name": "Yann Raoult",
+    "club": "LA FEUILLIE CYCLISTE",
+    "category": "Access 1"
+  },
+  {
+    "id": "eric-misson",
+    "name": "Eric Misson",
+    "club": "CC PONTHIERRY PRINGY",
+    "category": "Access 1"
+  },
+  {
+    "id": "augustin-mesnard",
+    "name": "Augustin Mesnard",
+    "club": "CLAMART CYCLISME 92",
+    "category": "Access 1"
+  },
+  {
+    "id": "joachim-kanji-nanji",
+    "name": "Joachim Kanji Nanji",
+    "club": "ANTONY BERNY CYCLISTE",
+    "category": "Access 1"
+  },
+  {
+    "id": "dimitri-le-normand",
+    "name": "Dimitri Le Normand",
+    "club": "4927424 SUD DE L'EURE CYCLISME - STADE VERNOLIEN",
+    "category": "Access 1"
+  },
+  {
+    "id": "quentin-parade",
+    "name": "Quentin Parade",
+    "club": "UC GIEN SPORT",
+    "category": "Access 1"
+  },
+  {
+    "id": "colin-ponthonne",
+    "name": "Colin Ponthonne",
+    "club": "REBRECHIEN LOIRET CYCLISME",
+    "category": "Access 1"
+  },
+  {
+    "id": "quentin-schmidt",
+    "name": "Quentin Schmidt",
+    "club": "4875016 PARIS CYCLISTE OLYMPIQUE",
+    "category": "Access 1"
+  },
+  {
+    "id": "rafael-russo",
+    "name": "Rafael Russo",
+    "club": "PARISIS A.C. 95",
+    "category": "Access 1"
+  },
+  {
+    "id": "pierre-ricci",
+    "name": "Pierre Ricci",
+    "club": "PARISIS A.C. 95",
+    "category": "Access 1"
+  },
+  {
+    "id": "cédric-herledan",
+    "name": "Cédric Herledan",
+    "club": "PEDALE COMBS LA VILLAISE",
+    "category": "Access 1"
+  },
+  {
+    "id": "gautier-diedler",
+    "name": "Gautier Diedler",
+    "club": "VC FONTAINEBLEAU AVON",
+    "category": "Access 1"
+  },
+  {
+    "id": "thibault-gaudillat",
+    "name": "Thibault Gaudillat",
+    "club": "ST DENIS HOTEL CYCLISME",
+    "category": "Access 1"
+  },
+  {
+    "id": "eric-crapard",
+    "name": "Eric Crapard",
+    "club": "VC FONTAINEBLEAU AVON",
+    "category": "Access 1"
+  },
+  {
+    "id": "tom-bourdier",
+    "name": "Tom Bourdier",
+    "club": "U. COSNOISE SPORTIVE",
+    "category": "Access 1"
+  },
+  {
+    "id": "romain-bona",
+    "name": "Romain Bona",
+    "club": "U.V.C.A TROYES",
+    "category": "Access 1"
+  },
+  {
+    "id": "emeric-raufflet",
+    "name": "Emeric Raufflet",
+    "club": "TEAM ALL CYCLES MEAUX",
+    "category": "Access 1"
+  },
+  {
+    "id": "florian-cappoen",
+    "name": "Florian Cappoen",
+    "club": "SUD DE L'EURE CYCLISME - STADE VERNOLIEN",
+    "category": "Access 1"
+  },
+  {
+    "id": "bastien-vuillaume",
+    "name": "Bastien Vuillaume",
+    "club": "CLAMART CYCLISME 92",
+    "category": "Access 1"
+  },
+  {
+    "id": "vincent-martins",
+    "name": "Vincent Martins",
+    "club": "OLYMPIQUE C.V.O.",
+    "category": "Access 1"
+  },
+  {
+    "id": "eyvan-besche",
+    "name": "Eyvan Besche",
+    "club": "CLAMART CYCLISME 92",
+    "category": "Access 1"
+  },
+  {
+    "id": "vincent-mouquet",
+    "name": "Vincent Mouquet",
+    "club": "U. COSNOISE SPORTIVE",
+    "category": "Access 1"
+  },
+  {
+    "id": "wilfrid-noyon",
+    "name": "Wilfrid Noyon",
+    "club": "ESPOIR DU SUD",
+    "category": "Access 1"
+  },
+  {
+    "id": "giovanny-fragnoli",
+    "name": "Giovanny Fragnoli",
+    "club": "VC MONTIGNY BRETONNEUX",
+    "category": "Access 1"
+  },
+  {
+    "id": "tristan-jourdren",
+    "name": "Tristan Jourdren",
+    "club": "EC BOUGUENAISIEN",
+    "category": "Access 1"
+  },
+  {
+    "id": "alexandre-demandrille",
+    "name": "Alexandre Demandrille",
+    "club": "4893516 ES GERVAIS LILAS",
+    "category": "Access 1"
+  },
+  {
+    "id": "n.-richard",
+    "name": "N. Richard",
+    "club": "ST DENIS HOTEL CYCLISME",
+    "category": "Access 1"
+  },
+  {
+    "id": "ferdinand-castelnau",
+    "name": "Ferdinand Castelnau",
+    "club": "CLAMART CYCLISME 92",
+    "category": "Access 1"
+  },
+  {
+    "id": "olivier-baud",
+    "name": "Olivier Baud",
+    "club": "A. C. B. B.",
+    "category": "Access 1"
+  },
+  {
+    "id": "raphaël-bednarz-dubois",
+    "name": "Raphaël Bednarz Dubois",
+    "club": "TEAM CYCLISTE LINAS MONTLHERY",
+    "category": "Access 1"
   }
 ]
