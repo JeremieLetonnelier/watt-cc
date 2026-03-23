@@ -378,6 +378,12 @@
     "category": "Access 1"
   },
   {
+    "id": "nael-klising",
+    "name": "Nael Klising",
+    "club": "VC MUREAUX",
+    "category": "Access 1"
+  },
+  {
     "id": "james-brack",
     "name": "James Brack",
     "club": "PROGRESSS CLUB",
@@ -534,6 +540,12 @@
     "category": "Access 1"
   },
   {
+    "id": "frederic-hautecoeur",
+    "name": "Frederic Hautecoeur",
+    "club": "GUIDON PROVINOIS",
+    "category": "Access 1"
+  },
+  {
     "id": "gerard-matrat",
     "name": "Gérard Matrat",
     "club": "EC DU HOUDANAIS",
@@ -663,6 +675,12 @@
     "id": "laurent-liger",
     "name": "Laurent Liger",
     "club": "ES STAINS-CYCLISME",
+    "category": "Access 2"
+  },
+  {
+    "id": "romain-sautrau",
+    "name": "Romain Sautrau",
+    "club": "PARIS CYCLISTE OLYMPIQUE",
     "category": "Access 2"
   },
   {
@@ -876,15 +894,33 @@
     "category": "Access 2"
   },
   {
+    "id": "jordan-geenen",
+    "name": "Jordan Geenen",
+    "club": "CSM PUTEAUX",
+    "category": "Access 2"
+  },
+  {
     "id": "vivien-samson",
     "name": "Vivien Samson",
     "club": "CM AUBERVILLIERS 93",
     "category": "Access 2"
   },
   {
+    "id": "olivier-marescq",
+    "name": "Olivier Marescq",
+    "club": "USM GAGNY",
+    "category": "Access 3"
+  },
+  {
     "id": "sebastien-foucher",
     "name": "Sébastien Foucher",
     "club": "GUIDON CHALETTOIS",
+    "category": "Access 3"
+  },
+  {
+    "id": "romain-hymonnet",
+    "name": "Romain Hymonnet",
+    "club": "VC FONTAINEBLEAU AVON",
     "category": "Access 3"
   },
   {
@@ -1344,6 +1380,12 @@
     "category": "Access 4"
   },
   {
+    "id": "franck-arnicot",
+    "name": "Franck Arnicot",
+    "club": "CC PONTHIERRY PRINGY",
+    "category": "Access 4"
+  },
+  {
     "id": "nathalie-tavernier",
     "name": "Nathalie Tavernier",
     "club": "VC SULPICIEN",
@@ -1446,6 +1488,12 @@
     "category": "Access 4"
   },
   {
+    "id": "eric-chavanneau",
+    "name": "Eric Chavanneau",
+    "club": "US NEMOURS ST PIERRE",
+    "category": "Access 4"
+  },
+  {
     "id": "dominique-lhomme",
     "name": "Dominique Lhomme",
     "club": "US NEMOURS ST PIERRE",
@@ -1524,6 +1572,12 @@
     "category": "Access 4"
   },
   {
+    "id": "ernest-nice",
+    "name": "Ernest Nice",
+    "club": "JEAN TROPIKANA",
+    "category": "Access 4"
+  },
+  {
     "id": "judes-chelamie",
     "name": "Judes Chelamie",
     "club": "TROPIKANA",
@@ -1551,6 +1605,12 @@
     "id": "benjamin-vincent",
     "name": "Benjamin Vincent",
     "club": "ANTONY BERNY CYCLISTE",
+    "category": "Access 1"
+  },
+  {
+    "id": "hugo-jezequel",
+    "name": "Hugo Jezequel",
+    "club": "AV THIAIS",
     "category": "Access 1"
   },
   {
@@ -1695,6 +1755,12 @@
     "id": "nicolas-meunier",
     "name": "Nicolas Meunier",
     "club": "VAL D'OISE CYCLISTE",
+    "category": "Access 1"
+  },
+  {
+    "id": "camille-beaumont",
+    "name": "Camille Beaumont",
+    "club": "CV DIONYSIEN",
     "category": "Access 1"
   },
   {
@@ -1848,6 +1914,12 @@
     "category": "Access 1"
   },
   {
+    "id": "alban-delourme",
+    "name": "Alban Delourme",
+    "club": "VAL D'OISE CYCLISTE",
+    "category": "Access 1"
+  },
+  {
     "id": "clement-evrard",
     "name": "Clément Evrard",
     "club": "PARIS CYCLISTE OLYMPIQUE",
@@ -1983,6 +2055,12 @@
     "id": "romuald-lavaud",
     "name": "Romuald Lavaud",
     "club": "PARISIS A.C. 95",
+    "category": "Access 1"
+  },
+  {
+    "id": "antoine-basty",
+    "name": "Antoine Basty",
+    "club": "CM AUBERVILLIERS 93",
     "category": "Access 1"
   },
   {
@@ -2166,6 +2244,12 @@
     "category": "Access 2"
   },
   {
+    "id": "robert-liberto",
+    "name": "Robert Liberto",
+    "club": "TEAM CHATOU CYCLISME",
+    "category": "Access 2"
+  },
+  {
     "id": "pascal-richer",
     "name": "Pascal Richer",
     "club": "VELO CLUB ARPAJON",
@@ -2187,6 +2271,12 @@
     "id": "maxime-granthil",
     "name": "Maxime Granthil",
     "club": "ANTONY BERNY CYCLISTE",
+    "category": "Access 2"
+  },
+  {
+    "id": "pierre-selin",
+    "name": "Pierre Selin",
+    "club": "WATT CYCLING CLUB",
     "category": "Access 2"
   },
   {
@@ -2280,6 +2370,12 @@
     "category": "Access 2"
   },
   {
+    "id": "fabrice-maitre",
+    "name": "Fabrice Maitre",
+    "club": "EC VELIZY 78",
+    "category": "Access 2"
+  },
+  {
     "id": "agathe-michel",
     "name": "Agathe Michel",
     "club": "VC MONTIGNY BRETONNEUX",
@@ -2296,6 +2392,12 @@
     "name": "Romain Goguelat",
     "club": "AS CORBEIL ESSONNES",
     "category": "Access 2"
+  },
+  {
+    "id": "mai-bridier",
+    "name": "Maï Bridier",
+    "club": "A VC MONTIGNY BRETONNEUX",
+    "category": "Open 1"
   },
   {
     "id": "franck-barraud",
@@ -2448,6 +2550,12 @@
     "category": "Access 3"
   },
   {
+    "id": "sebastien-espargilhe",
+    "name": "Sebastien Espargilhe",
+    "club": "AV THIAIS",
+    "category": "Access 3"
+  },
+  {
     "id": "christophe-coelho",
     "name": "Christophe Coelho",
     "club": "CC IGNY PALAISEAU 91",
@@ -2589,6 +2697,12 @@
     "id": "david-prunier",
     "name": "David Prunier",
     "club": "CMOM TEAM CYCLISTE MORANGIS",
+    "category": "Access 3"
+  },
+  {
+    "id": "pascal-guitton",
+    "name": "Pascal Guitton",
+    "club": "CLUB CYCLISTE BAILLET EN FRANCE",
     "category": "Access 3"
   },
   {
@@ -3732,6 +3846,12 @@
     "category": "Access 2"
   },
   {
+    "id": "yannick-marous",
+    "name": "Yannick Marous",
+    "club": "AS CORBEIL ESSONNES",
+    "category": "Access 2"
+  },
+  {
     "id": "fabien-rommens",
     "name": "Fabien Rommens",
     "club": "VELO CLUB ARPAJON",
@@ -3741,6 +3861,12 @@
     "id": "joycel-montero-fabelo",
     "name": "Joycel Montero Fabelo",
     "club": "VC VINCENNES",
+    "category": "Access 2"
+  },
+  {
+    "id": "joel-geromegnace",
+    "name": "Joel Geromegnace",
+    "club": "PEDALE COMBS LA VILLAISE",
     "category": "Access 2"
   },
   {
