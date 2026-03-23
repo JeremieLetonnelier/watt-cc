@@ -46,8 +46,28 @@ Les données qui alimentent l'application proviennent du dossier `scripts/data/`
 
 - `ffcResults.json` : Contient l'historique de tous les résultats de courses FFC scrapés.
 - `ffcRiders.json` : Base de données des coureurs et de leurs attributs (nom, club, catégorie).
-- `points.py` : Script Python chargé de calculer les points selon le barème officiel de montée de catégorie FFC (P1: 50pts, P2: 25pts, etc.).
 - `lib/data.ts` : Point d'entrée côté frontend qui type, assemble et calcule les classements à la volée.
+
+Les anciens scripts monolithiques (`import_data.py` et `points.py`) ont été remplacés par une architecture python modulaire orientée objet (ex: `extractor.py`, `transformer.py`, `points_manager.py`) orchestrée par `main.py`.
+
+## 🔄 Mise à jour des Données FFC
+
+Le pipeline Python s'occupe de récupérer automatiquement les résultats depuis le site du CIF FFC et d'appliquer le barème de points (avec division par 2 pour les pelotons de moins de 31 coureurs, et filtration par catégorie actuelle).
+
+**1. Mettre à jour les données (Intégration des nouveautés) :**
+Pour aller chercher les nouveaux résultats et les ajouter à la base existante sans perte d'historique :
+```bash
+cd scripts
+python3 main.py --source auto
+```
+
+**2. Réinitialiser la base de données (Écrasement total) :**
+En cas de dédoublonnage incorrect ou pour forcer un recalcul de toutes les courses depuis zéro, vous devez supprimer les fichiers JSON puis relancer le script (les coureurs sans catégorie recevront la valeur par défaut `"Not known category"`) :
+```bash
+cd scripts
+rm data/ffcResults.json data/ffcRiders.json
+python3 main.py --source auto
+```
 
 ## 📝 Scripts Disponibles
 

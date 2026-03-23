@@ -38,12 +38,12 @@ jobs:
         run: pip install -r scripts/requirements.txt
 
       - name: Import FFC web results
-        run: python3 scripts/import_data.py --source ffc
+        run: python3 scripts/main.py --source auto
 
       - name: Import PDF results (si URL fournie)
         if: ${{ github.event.inputs.pdf_url != '' }}
         run: |
-          python3 scripts/import_data.py \
+          python3 scripts/main.py \
             --source pdf \
             --url "${{ github.event.inputs.pdf_url }}" \
             --race-name "${{ github.event.inputs.race_name }}" \
