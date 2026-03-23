@@ -8,6 +8,9 @@ class PdfExtractor:
         self.line_regex = re.compile(
             r"^(\d+)\s+(\d+)\s+(?:\d{9,15}\s+)?([A-Z\s-]+?)\s+([A-Z][a-z\xA0-\xFF-]+(?:\s+[A-Z][a-z\xA0-\xFF-]+)*)\s*(.*?)\s*(Elite|Open \d|Access \d)\s*.*?(H|F)\s+([\d:\'\"\.]*)$"
         )
+        self.fallback_regex = re.compile(
+            r"^(\d+)\s+(\d+)\s+(?:\d{9,15}\s+)?([A-Z\s-]+?)\s{2,}([A-Za-z\xA0-\xFF\s-]+?)\s+(.*?)\s*(Elite|Open \d|Access \d)\s*.*?(H|F)\s+([\d:\'\"\.]*)$"
+        )
         self.preprocessing_regex = re.compile(r'([a-z\xA0-\xFF])([A-Z])')
 
     def extract_from_url(self, url: str, race_name: str, race_date: str) -> list[dict]:
@@ -36,7 +39,7 @@ class PdfExtractor:
                 continue
                 
             line = self.preprocessing_regex.sub(r'\1 \2', line)
-            match = self.line_regex.match(line)
+            match = self.line_regex.match(line) or self.fallback_regex.match(line)
             
             if match:
                 raw_data.append({
