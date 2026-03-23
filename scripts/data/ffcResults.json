@@ -630,6 +630,16 @@
     "isWin": false
   },
   {
+    "id": "chaintreaux---access-1-2-3-4-(4-departs-separes)-2026-03-22-nael-klising",
+    "raceName": "Chaintreaux - ACCESS 1-2-3-4 (4 départs séparés)",
+    "date": "2026-03-22",
+    "riderId": "nael-klising",
+    "position": 5,
+    "category": "Access 1",
+    "points": 17,
+    "isWin": false
+  },
+  {
     "id": "chaintreaux---access-1-2-3-4-(4-departs-separes)-2026-03-22-james-brack",
     "raceName": "Chaintreaux - ACCESS 1-2-3-4 (4 départs séparés)",
     "date": "2026-03-22",
@@ -890,6 +900,16 @@
     "isWin": false
   },
   {
+    "id": "chaintreaux---access-1-2-3-4-(4-departs-separes)-2026-03-22-frederic-hautecoeur",
+    "raceName": "Chaintreaux - ACCESS 1-2-3-4 (4 départs séparés)",
+    "date": "2026-03-22",
+    "riderId": "frederic-hautecoeur",
+    "position": 34,
+    "category": "Access 1",
+    "points": 0,
+    "isWin": false
+  },
+  {
     "id": "chaintreaux---access-1-2-3-4-(4-departs-separes)-2026-03-22-gerard-matrat",
     "raceName": "Chaintreaux - ACCESS 1-2-3-4 (4 départs séparés)",
     "date": "2026-03-22",
@@ -1107,6 +1127,16 @@
     "position": 2,
     "category": "Access 2",
     "points": 25,
+    "isWin": false
+  },
+  {
+    "id": "chaintreaux---access-1-2-3-4-(4-departs-separes)-2026-03-22-romain-sautrau",
+    "raceName": "Chaintreaux - ACCESS 1-2-3-4 (4 départs séparés)",
+    "date": "2026-03-22",
+    "riderId": "romain-sautrau",
+    "position": 3,
+    "category": "Access 2",
+    "points": 22,
     "isWin": false
   },
   {
@@ -1460,6 +1490,16 @@
     "isWin": false
   },
   {
+    "id": "chaintreaux---access-1-2-3-4-(4-departs-separes)-2026-03-22-jordan-geenen",
+    "raceName": "Chaintreaux - ACCESS 1-2-3-4 (4 départs séparés)",
+    "date": "2026-03-22",
+    "riderId": "jordan-geenen",
+    "position": 39,
+    "category": "Access 2",
+    "points": 0,
+    "isWin": false
+  },
+  {
     "id": "chaintreaux---access-1-2-3-4-(4-departs-separes)-2026-03-22-vivien-samson",
     "raceName": "Chaintreaux - ACCESS 1-2-3-4 (4 départs séparés)",
     "date": "2026-03-22",
@@ -1470,6 +1510,16 @@
     "isWin": false
   },
   {
+    "id": "chaintreaux---access-1-2-3-4-(4-departs-separes)-2026-03-22-olivier-marescq",
+    "raceName": "Chaintreaux - ACCESS 1-2-3-4 (4 départs séparés)",
+    "date": "2026-03-22",
+    "riderId": "olivier-marescq",
+    "position": 1,
+    "category": "Access 3",
+    "points": 50,
+    "isWin": true
+  },
+  {
     "id": "chaintreaux---access-1-2-3-4-(4-departs-separes)-2026-03-22-sebastien-foucher",
     "raceName": "Chaintreaux - ACCESS 1-2-3-4 (4 départs séparés)",
     "date": "2026-03-22",
@@ -1477,6 +1527,16 @@
     "position": 2,
     "category": "Access 3",
     "points": 25,
+    "isWin": false
+  },
+  {
+    "id": "chaintreaux---access-1-2-3-4-(4-departs-separes)-2026-03-22-romain-hymonnet",
+    "raceName": "Chaintreaux - ACCESS 1-2-3-4 (4 départs séparés)",
+    "date": "2026-03-22",
+    "riderId": "romain-hymonnet",
+    "position": 3,
+    "category": "Access 3",
+    "points": 22,
     "isWin": false
   },
   {
@@ -2240,6 +2300,16 @@
     "isWin": false
   },
   {
+    "id": "chaintreaux---access-1-2-3-4-(4-departs-separes)-2026-03-22-franck-arnicot",
+    "raceName": "Chaintreaux - ACCESS 1-2-3-4 (4 départs séparés)",
+    "date": "2026-03-22",
+    "riderId": "franck-arnicot",
+    "position": 30,
+    "category": "Access 4",
+    "points": 0,
+    "isWin": false
+  },
+  {
     "id": "chaintreaux---access-1-2-3-4-(4-departs-separes)-2026-03-22-nathalie-tavernier",
     "raceName": "Chaintreaux - ACCESS 1-2-3-4 (4 départs séparés)",
     "date": "2026-03-22",
@@ -2410,6 +2480,16 @@
     "isWin": false
   },
   {
+    "id": "chaintreaux---access-1-2-3-4-(4-departs-separes)-2026-03-22-eric-chavanneau",
+    "raceName": "Chaintreaux - ACCESS 1-2-3-4 (4 départs séparés)",
+    "date": "2026-03-22",
+    "riderId": "eric-chavanneau",
+    "position": 48,
+    "category": "Access 4",
+    "points": 0,
+    "isWin": false
+  },
+  {
     "id": "chaintreaux---access-1-2-3-4-(4-departs-separes)-2026-03-22-dominique-lhomme",
     "raceName": "Chaintreaux - ACCESS 1-2-3-4 (4 départs séparés)",
     "date": "2026-03-22",
@@ -2540,6 +2620,16 @@
     "isWin": false
   },
   {
+    "id": "chaintreaux---access-1-2-3-4-(4-departs-separes)-2026-03-22-ernest-nice",
+    "raceName": "Chaintreaux - ACCESS 1-2-3-4 (4 départs séparés)",
+    "date": "2026-03-22",
+    "riderId": "ernest-nice",
+    "position": 62,
+    "category": "Access 4",
+    "points": 0,
+    "isWin": false
+  },
+  {
     "id": "chaintreaux---access-1-2-3-4-(4-departs-separes)-2026-03-22-judes-chelamie",
     "raceName": "Chaintreaux - ACCESS 1-2-3-4 (4 départs séparés)",
     "date": "2026-03-22",
@@ -2587,6 +2677,16 @@
     "position": 3,
     "category": "Access 1",
     "points": 22,
+    "isWin": false
+  },
+  {
+    "id": "rungis---access-1-2-/-3-4-(2-horaires-pour-4-departs)-2026-03-15-hugo-jezequel",
+    "raceName": "Rungis - ACCESS 1-2 / 3-4 (2 horaires pour 4 départs)",
+    "date": "2026-03-15",
+    "riderId": "hugo-jezequel",
+    "position": 4,
+    "category": "Access 1",
+    "points": 19,
     "isWin": false
   },
   {
@@ -2855,6 +2955,16 @@
     "date": "2026-03-15",
     "riderId": "nicolas-meunier",
     "position": 31,
+    "category": "Access 1",
+    "points": 0,
+    "isWin": false
+  },
+  {
+    "id": "rungis---access-1-2-/-3-4-(2-horaires-pour-4-departs)-2026-03-15-camille-beaumont",
+    "raceName": "Rungis - ACCESS 1-2 / 3-4 (2 horaires pour 4 départs)",
+    "date": "2026-03-15",
+    "riderId": "camille-beaumont",
+    "position": 32,
     "category": "Access 1",
     "points": 0,
     "isWin": false
@@ -3160,6 +3270,16 @@
     "isWin": false
   },
   {
+    "id": "rungis---access-1-2-/-3-4-(2-horaires-pour-4-departs)-2026-03-15-alban-delourme",
+    "raceName": "Rungis - ACCESS 1-2 / 3-4 (2 horaires pour 4 départs)",
+    "date": "2026-03-15",
+    "riderId": "alban-delourme",
+    "position": 63,
+    "category": "Access 1",
+    "points": 0,
+    "isWin": false
+  },
+  {
     "id": "rungis---access-1-2-/-3-4-(2-horaires-pour-4-departs)-2026-03-15-clement-evrard",
     "raceName": "Rungis - ACCESS 1-2 / 3-4 (2 horaires pour 4 départs)",
     "date": "2026-03-15",
@@ -3410,6 +3530,16 @@
     "isWin": false
   },
   {
+    "id": "rungis---access-1-2-/-3-4-(2-horaires-pour-4-departs)-2026-03-15-frederic-hautecoeur",
+    "raceName": "Rungis - ACCESS 1-2 / 3-4 (2 horaires pour 4 départs)",
+    "date": "2026-03-15",
+    "riderId": "frederic-hautecoeur",
+    "position": 90,
+    "category": "Access 1",
+    "points": 0,
+    "isWin": false
+  },
+  {
     "id": "rungis---access-1-2-/-3-4-(2-horaires-pour-4-departs)-2026-03-15-norbert-guerrero",
     "raceName": "Rungis - ACCESS 1-2 / 3-4 (2 horaires pour 4 départs)",
     "date": "2026-03-15",
@@ -3435,6 +3565,16 @@
     "date": "2026-03-15",
     "riderId": "romuald-lavaud",
     "position": 93,
+    "category": "Access 1",
+    "points": 0,
+    "isWin": false
+  },
+  {
+    "id": "rungis---access-1-2-/-3-4-(2-horaires-pour-4-departs)-2026-03-15-antoine-basty",
+    "raceName": "Rungis - ACCESS 1-2 / 3-4 (2 horaires pour 4 départs)",
+    "date": "2026-03-15",
+    "riderId": "antoine-basty",
+    "position": 95,
     "category": "Access 1",
     "points": 0,
     "isWin": false
@@ -3780,6 +3920,16 @@
     "isWin": false
   },
   {
+    "id": "rungis---access-1-2-/-3-4-(2-horaires-pour-4-departs)-2026-03-15-robert-liberto",
+    "raceName": "Rungis - ACCESS 1-2 / 3-4 (2 horaires pour 4 départs)",
+    "date": "2026-03-15",
+    "riderId": "robert-liberto",
+    "position": 12,
+    "category": "Access 2",
+    "points": 9,
+    "isWin": false
+  },
+  {
     "id": "rungis---access-1-2-/-3-4-(2-horaires-pour-4-departs)-2026-03-15-pascal-richer",
     "raceName": "Rungis - ACCESS 1-2 / 3-4 (2 horaires pour 4 départs)",
     "date": "2026-03-15",
@@ -3817,6 +3967,16 @@
     "position": 16,
     "category": "Access 2",
     "points": 5,
+    "isWin": false
+  },
+  {
+    "id": "rungis---access-1-2-/-3-4-(2-horaires-pour-4-departs)-2026-03-15-pierre-selin",
+    "raceName": "Rungis - ACCESS 1-2 / 3-4 (2 horaires pour 4 départs)",
+    "date": "2026-03-15",
+    "riderId": "pierre-selin",
+    "position": 17,
+    "category": "Access 2",
+    "points": 4,
     "isWin": false
   },
   {
@@ -4000,6 +4160,16 @@
     "isWin": false
   },
   {
+    "id": "rungis---access-1-2-/-3-4-(2-horaires-pour-4-departs)-2026-03-15-fabrice-maitre",
+    "raceName": "Rungis - ACCESS 1-2 / 3-4 (2 horaires pour 4 départs)",
+    "date": "2026-03-15",
+    "riderId": "fabrice-maitre",
+    "position": 38,
+    "category": "Access 2",
+    "points": 0,
+    "isWin": false
+  },
+  {
     "id": "rungis---access-1-2-/-3-4-(2-horaires-pour-4-departs)-2026-03-15-agathe-michel",
     "raceName": "Rungis - ACCESS 1-2 / 3-4 (2 horaires pour 4 départs)",
     "date": "2026-03-15",
@@ -4037,6 +4207,16 @@
     "position": 42,
     "category": "Access 2",
     "points": 0,
+    "isWin": false
+  },
+  {
+    "id": "rungis---access-1-2-/-3-4-(2-horaires-pour-4-departs)-2026-03-15-mai-bridier",
+    "raceName": "Rungis - ACCESS 1-2 / 3-4 (2 horaires pour 4 départs)",
+    "date": "2026-03-15",
+    "riderId": "mai-bridier",
+    "position": 43,
+    "category": "Open 1",
+    "points": 0.0,
     "isWin": false
   },
   {
@@ -4145,6 +4325,16 @@
     "date": "2026-03-15",
     "riderId": "laurent-liger",
     "position": 55,
+    "category": "Access 2",
+    "points": 0,
+    "isWin": false
+  },
+  {
+    "id": "rungis---access-1-2-/-3-4-(2-horaires-pour-4-departs)-2026-03-15-jordan-geenen",
+    "raceName": "Rungis - ACCESS 1-2 / 3-4 (2 horaires pour 4 départs)",
+    "date": "2026-03-15",
+    "riderId": "jordan-geenen",
+    "position": 56,
     "category": "Access 2",
     "points": 0,
     "isWin": false
@@ -4350,6 +4540,16 @@
     "isWin": true
   },
   {
+    "id": "rungis---access-1-2-/-3-4-(2-horaires-pour-4-departs)-2026-03-15-olivier-marescq",
+    "raceName": "Rungis - ACCESS 1-2 / 3-4 (2 horaires pour 4 départs)",
+    "date": "2026-03-15",
+    "riderId": "olivier-marescq",
+    "position": 2,
+    "category": "Access 3",
+    "points": 25,
+    "isWin": false
+  },
+  {
     "id": "rungis---access-1-2-/-3-4-(2-horaires-pour-4-departs)-2026-03-15-olivier-casse",
     "raceName": "Rungis - ACCESS 1-2 / 3-4 (2 horaires pour 4 départs)",
     "date": "2026-03-15",
@@ -4357,6 +4557,16 @@
     "position": 3,
     "category": "Access 3",
     "points": 22,
+    "isWin": false
+  },
+  {
+    "id": "rungis---access-1-2-/-3-4-(2-horaires-pour-4-departs)-2026-03-15-sebastien-espargilhe",
+    "raceName": "Rungis - ACCESS 1-2 / 3-4 (2 horaires pour 4 départs)",
+    "date": "2026-03-15",
+    "riderId": "sebastien-espargilhe",
+    "position": 4,
+    "category": "Access 3",
+    "points": 19,
     "isWin": false
   },
   {
@@ -4687,6 +4897,16 @@
     "position": 37,
     "category": "Open 3",
     "points": 0.0,
+    "isWin": false
+  },
+  {
+    "id": "rungis---access-1-2-/-3-4-(2-horaires-pour-4-departs)-2026-03-15-pascal-guitton",
+    "raceName": "Rungis - ACCESS 1-2 / 3-4 (2 horaires pour 4 départs)",
+    "date": "2026-03-15",
+    "riderId": "pascal-guitton",
+    "position": 38,
+    "category": "Access 3",
+    "points": 0,
     "isWin": false
   },
   {
@@ -5215,6 +5435,16 @@
     "date": "2026-03-15",
     "riderId": "pascal-arnoux",
     "position": 34,
+    "category": "Access 4",
+    "points": 0,
+    "isWin": false
+  },
+  {
+    "id": "rungis---access-1-2-/-3-4-(2-horaires-pour-4-departs)-2026-03-15-franck-arnicot",
+    "raceName": "Rungis - ACCESS 1-2 / 3-4 (2 horaires pour 4 départs)",
+    "date": "2026-03-15",
+    "riderId": "franck-arnicot",
+    "position": 35,
     "category": "Access 4",
     "points": 0,
     "isWin": false
@@ -6560,6 +6790,16 @@
     "isWin": false
   },
   {
+    "id": "fontainebleau---access-1-2-/-3-4-(2-horaires-pour-2-departs)-2026-03-08-hugo-jezequel",
+    "raceName": "Fontainebleau - ACCESS 1-2 / 3-4 (2 horaires pour 2 départs)",
+    "date": "2026-03-08",
+    "riderId": "hugo-jezequel",
+    "position": 1,
+    "category": "Access 1",
+    "points": 50,
+    "isWin": true
+  },
+  {
     "id": "fontainebleau---access-1-2-/-3-4-(2-horaires-pour-2-departs)-2026-03-08-thomas-buttiens",
     "raceName": "Fontainebleau - ACCESS 1-2 / 3-4 (2 horaires pour 2 départs)",
     "date": "2026-03-08",
@@ -7160,6 +7400,16 @@
     "isWin": false
   },
   {
+    "id": "fontainebleau---access-1-2-/-3-4-(2-horaires-pour-2-departs)-2026-03-08-jordan-geenen",
+    "raceName": "Fontainebleau - ACCESS 1-2 / 3-4 (2 horaires pour 2 départs)",
+    "date": "2026-03-08",
+    "riderId": "jordan-geenen",
+    "position": 2,
+    "category": "Access 2",
+    "points": 25,
+    "isWin": false
+  },
+  {
     "id": "fontainebleau---access-1-2-/-3-4-(2-horaires-pour-2-departs)-2026-03-08-thibault-audard",
     "raceName": "Fontainebleau - ACCESS 1-2 / 3-4 (2 horaires pour 2 départs)",
     "date": "2026-03-08",
@@ -7520,6 +7770,16 @@
     "isWin": false
   },
   {
+    "id": "fontainebleau---access-1-2-/-3-4-(2-horaires-pour-2-departs)-2026-03-08-yannick-marous",
+    "raceName": "Fontainebleau - ACCESS 1-2 / 3-4 (2 horaires pour 2 départs)",
+    "date": "2026-03-08",
+    "riderId": "yannick-marous",
+    "position": 40,
+    "category": "Access 2",
+    "points": 0,
+    "isWin": false
+  },
+  {
     "id": "fontainebleau---access-1-2-/-3-4-(2-horaires-pour-2-departs)-2026-03-08-henri-rabot",
     "raceName": "Fontainebleau - ACCESS 1-2 / 3-4 (2 horaires pour 2 départs)",
     "date": "2026-03-08",
@@ -7640,6 +7900,16 @@
     "isWin": false
   },
   {
+    "id": "fontainebleau---access-1-2-/-3-4-(2-horaires-pour-2-departs)-2026-03-08-joel-geromegnace",
+    "raceName": "Fontainebleau - ACCESS 1-2 / 3-4 (2 horaires pour 2 départs)",
+    "date": "2026-03-08",
+    "riderId": "joel-geromegnace",
+    "position": 54,
+    "category": "Access 2",
+    "points": 0,
+    "isWin": false
+  },
+  {
     "id": "fontainebleau---access-1-2-/-3-4-(2-horaires-pour-2-departs)-2026-03-08-freddy-boire",
     "raceName": "Fontainebleau - ACCESS 1-2 / 3-4 (2 horaires pour 2 départs)",
     "date": "2026-03-08",
@@ -7667,6 +7937,16 @@
     "position": 2,
     "category": "Access 3",
     "points": 25,
+    "isWin": false
+  },
+  {
+    "id": "fontainebleau---access-1-2-/-3-4-(2-horaires-pour-2-departs)-2026-03-08-romain-hymonnet",
+    "raceName": "Fontainebleau - ACCESS 1-2 / 3-4 (2 horaires pour 2 départs)",
+    "date": "2026-03-08",
+    "riderId": "romain-hymonnet",
+    "position": 3,
+    "category": "Access 3",
+    "points": 22,
     "isWin": false
   },
   {
@@ -7965,6 +8245,16 @@
     "date": "2026-03-08",
     "riderId": "christophe-meunier",
     "position": 34,
+    "category": "Access 3",
+    "points": 0,
+    "isWin": false
+  },
+  {
+    "id": "fontainebleau---access-1-2-/-3-4-(2-horaires-pour-2-departs)-2026-03-08-sebastien-espargilhe",
+    "raceName": "Fontainebleau - ACCESS 1-2 / 3-4 (2 horaires pour 2 départs)",
+    "date": "2026-03-08",
+    "riderId": "sebastien-espargilhe",
+    "position": 35,
     "category": "Access 3",
     "points": 0,
     "isWin": false
@@ -8387,6 +8677,16 @@
     "position": 19,
     "category": "Access 4",
     "points": 2,
+    "isWin": false
+  },
+  {
+    "id": "fontainebleau---access-1-2-/-3-4-(2-horaires-pour-2-departs)-2026-03-08-franck-arnicot",
+    "raceName": "Fontainebleau - ACCESS 1-2 / 3-4 (2 horaires pour 2 départs)",
+    "date": "2026-03-08",
+    "riderId": "franck-arnicot",
+    "position": 20,
+    "category": "Access 4",
+    "points": 1,
     "isWin": false
   },
   {
@@ -8920,6 +9220,16 @@
     "isWin": false
   },
   {
+    "id": "chauffry---access-1-2-3-4-(4-departs-separes)-2026-03-01-frederic-hautecoeur",
+    "raceName": "Chauffry - ACCESS 1-2-3-4 (4 départs séparés)",
+    "date": "2026-03-01",
+    "riderId": "frederic-hautecoeur",
+    "position": 9,
+    "category": "Access 1",
+    "points": 6.0,
+    "isWin": false
+  },
+  {
     "id": "chauffry---access-1-2-3-4-(4-departs-separes)-2026-03-01-cedric-herledan",
     "raceName": "Chauffry - ACCESS 1-2-3-4 (4 départs séparés)",
     "date": "2026-03-01",
@@ -9210,13 +9520,23 @@
     "isWin": false
   },
   {
+    "id": "chauffry---access-1-2-3-4-(4-departs-separes)-2026-03-01-olivier-marescq",
+    "raceName": "Chauffry - ACCESS 1-2-3-4 (4 départs séparés)",
+    "date": "2026-03-01",
+    "riderId": "olivier-marescq",
+    "position": 2,
+    "category": "Access 3",
+    "points": 25,
+    "isWin": false
+  },
+  {
     "id": "chauffry---access-1-2-3-4-(4-departs-separes)-2026-03-01-leo-plomion",
     "raceName": "Chauffry - ACCESS 1-2-3-4 (4 départs séparés)",
     "date": "2026-03-01",
     "riderId": "leo-plomion",
     "position": 3,
     "category": "Access 3",
-    "points": 11.0,
+    "points": 22,
     "isWin": false
   },
   {
@@ -9226,7 +9546,7 @@
     "riderId": "stephane-henrio",
     "position": 4,
     "category": "Access 3",
-    "points": 9.5,
+    "points": 19,
     "isWin": false
   },
   {
@@ -9236,7 +9556,7 @@
     "riderId": "mickael-thoumelin",
     "position": 5,
     "category": "Access 3",
-    "points": 8.5,
+    "points": 17,
     "isWin": false
   },
   {
@@ -9246,7 +9566,7 @@
     "riderId": "christophe-coelho",
     "position": 6,
     "category": "Access 3",
-    "points": 7.5,
+    "points": 15,
     "isWin": false
   },
   {
@@ -9256,7 +9576,7 @@
     "riderId": "patrice-lenoir",
     "position": 7,
     "category": "Access 3",
-    "points": 7.0,
+    "points": 14,
     "isWin": false
   },
   {
@@ -9266,7 +9586,7 @@
     "riderId": "abderraouf-ushaah",
     "position": 8,
     "category": "Access 3",
-    "points": 6.5,
+    "points": 13,
     "isWin": false
   },
   {
@@ -9276,7 +9596,7 @@
     "riderId": "dominique-mezzatesta",
     "position": 9,
     "category": "Access 3",
-    "points": 6.0,
+    "points": 12,
     "isWin": false
   },
   {
@@ -9286,7 +9606,7 @@
     "riderId": "thomas-dewaele",
     "position": 10,
     "category": "Access 3",
-    "points": 5.5,
+    "points": 11,
     "isWin": false
   },
   {
@@ -9296,7 +9616,7 @@
     "riderId": "sebastien-michel",
     "position": 12,
     "category": "Access 3",
-    "points": 4.5,
+    "points": 9,
     "isWin": false
   },
   {
@@ -9306,7 +9626,7 @@
     "riderId": "eric-lemey",
     "position": 13,
     "category": "Access 3",
-    "points": 4.0,
+    "points": 8,
     "isWin": false
   },
   {
@@ -9316,7 +9636,7 @@
     "riderId": "nicolas-poignant",
     "position": 14,
     "category": "Access 3",
-    "points": 3.5,
+    "points": 7,
     "isWin": false
   },
   {
@@ -9326,7 +9646,7 @@
     "riderId": "jonathan-courbet",
     "position": 15,
     "category": "Access 3",
-    "points": 3.0,
+    "points": 6,
     "isWin": false
   },
   {
@@ -9336,7 +9656,17 @@
     "riderId": "laurent-louvet",
     "position": 16,
     "category": "Access 3",
-    "points": 2.5,
+    "points": 5,
+    "isWin": false
+  },
+  {
+    "id": "chauffry---access-1-2-3-4-(4-departs-separes)-2026-03-01-sebastien-espargilhe",
+    "raceName": "Chauffry - ACCESS 1-2-3-4 (4 départs séparés)",
+    "date": "2026-03-01",
+    "riderId": "sebastien-espargilhe",
+    "position": 17,
+    "category": "Access 3",
+    "points": 4,
     "isWin": false
   },
   {
@@ -9346,7 +9676,7 @@
     "riderId": "eric-lesne",
     "position": 18,
     "category": "Access 3",
-    "points": 1.5,
+    "points": 3,
     "isWin": false
   },
   {
@@ -9356,7 +9686,7 @@
     "riderId": "benoit-gauthier",
     "position": 19,
     "category": "Access 3",
-    "points": 1.0,
+    "points": 2,
     "isWin": false
   },
   {
@@ -9366,7 +9696,7 @@
     "riderId": "jean-marc-gabriel",
     "position": 20,
     "category": "Access 3",
-    "points": 0.5,
+    "points": 1,
     "isWin": false
   },
   {
@@ -9376,7 +9706,7 @@
     "riderId": "frederick-legeay",
     "position": 21,
     "category": "Access 3",
-    "points": 0.0,
+    "points": 0,
     "isWin": false
   },
   {
@@ -9386,7 +9716,7 @@
     "riderId": "franck-ferbours",
     "position": 22,
     "category": "Access 3",
-    "points": 0.0,
+    "points": 0,
     "isWin": false
   },
   {
@@ -9396,7 +9726,7 @@
     "riderId": "eric-tauveron",
     "position": 23,
     "category": "Access 3",
-    "points": 0.0,
+    "points": 0,
     "isWin": false
   },
   {
@@ -9406,7 +9736,7 @@
     "riderId": "david-andre",
     "position": 24,
     "category": "Access 3",
-    "points": 0.0,
+    "points": 0,
     "isWin": false
   },
   {
@@ -9416,7 +9746,7 @@
     "riderId": "frederic-gimnetti",
     "position": 25,
     "category": "Access 3",
-    "points": 0.0,
+    "points": 0,
     "isWin": false
   },
   {
@@ -9426,7 +9756,7 @@
     "riderId": "jean-philippe-meret",
     "position": 26,
     "category": "Access 3",
-    "points": 0.0,
+    "points": 0,
     "isWin": false
   },
   {
@@ -9436,7 +9766,7 @@
     "riderId": "carine-leroy",
     "position": 27,
     "category": "Access 3",
-    "points": 0.0,
+    "points": 0,
     "isWin": false
   },
   {
@@ -9446,7 +9776,7 @@
     "riderId": "marine-lemey",
     "position": 28,
     "category": "Access 3",
-    "points": 0.0,
+    "points": 0,
     "isWin": false
   },
   {
@@ -9456,7 +9786,7 @@
     "riderId": "margot-boulet",
     "position": 29,
     "category": "Access 3",
-    "points": 0.0,
+    "points": 0,
     "isWin": false
   },
   {
@@ -9466,7 +9796,7 @@
     "riderId": "salomon-villeret",
     "position": 30,
     "category": "Access 3",
-    "points": 0.0,
+    "points": 0,
     "isWin": false
   },
   {
@@ -9476,7 +9806,7 @@
     "riderId": "christian-desroches",
     "position": 31,
     "category": "Access 3",
-    "points": 0.0,
+    "points": 0,
     "isWin": false
   },
   {
@@ -9486,7 +9816,7 @@
     "riderId": "jean-francois-ousteau",
     "position": 32,
     "category": "Access 3",
-    "points": 0.0,
+    "points": 0,
     "isWin": false
   },
   {
@@ -9676,7 +10006,7 @@
     "riderId": "sylvie-pich",
     "position": 20,
     "category": "Access 3",
-    "points": 0.5,
+    "points": 1,
     "isWin": false
   },
   {
@@ -9816,7 +10146,7 @@
     "riderId": "lalie-meunier-joris",
     "position": 38,
     "category": "Access 3",
-    "points": 0.0,
+    "points": 0,
     "isWin": false
   },
   {
