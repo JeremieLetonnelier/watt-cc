@@ -14,7 +14,7 @@ class ImportPipeline:
         self.storage = StorageManager()
         self.points_manager = PointsManager()
 
-    def run_automated(self):
+    def run_automated(self, reset: bool = False):
         print("[Pipeline] Démarrage de la détection de PDF automatique...")
         pdf_urls = self.scraper.get_pdf_urls()
         
@@ -35,25 +35,30 @@ class ImportPipeline:
             raw_data = self.extractor.extract_from_url(url, race_name=race_name, race_date=race_date)
             all_raw_data.extend(raw_data)
             
-        self._process_raw_data(all_raw_data)
+        self._process_raw_data(all_raw_data, reset=reset)
 
-    def run_single_pdf(self, url: str, race_name: str, race_date: str):
+    def run_single_pdf(self, url: str, race_name: str, race_date: str, reset: bool = False):
         print(f"[Pipeline] Traitement d'un PDF unique : {url}")
         raw_data = self.extractor.extract_from_url(url, race_name, race_date)
         
         if raw_data:
-            self._process_raw_data(raw_data)
+            self._process_raw_data(raw_data, reset=reset)
         else:
             print("[Pipeline] Aucune donnée extraite de ce PDF.")
 
-    def _process_raw_data(self, all_raw_data: list[dict]):
+    def _process_raw_data(self, all_raw_data: list[dict], reset: bool = False):
         if not all_raw_data:
             print("[Pipeline] Pas de nouvelles données à traiter.")
             return
 
         new_results, new_riders = self.transformer.transform(all_raw_data)
         
-        existing_results, existing_riders = self.storage.load_existing()
+        if reset:
+            print("[Pipeline] Mode RESET actif : Écrasement total de la base de données existante.")
+            existing_results = []
+            existing_riders = {}
+        else:
+            existing_results, existing_riders = self.storage.load_existing()
         
         existing_results_dict = {r["id"]: r for r in existing_results}
         for r in new_results:
