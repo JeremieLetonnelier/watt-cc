@@ -17,6 +17,7 @@ import os
 import re
 import time
 import unicodedata
+
 from datetime import datetime
 from io import BytesIO, StringIO
 
@@ -72,7 +73,8 @@ def normalize_category(cat: str) -> str:
         if "2" in cat_lower: return "Open 2"
         if "3" in cat_lower: return "Open 3"
         return "Open 1"
-    return "Access 1"  # fallback
+    else:
+        return "Unknown category"  # fallback
 
 
 # ---------------------------------------------------------------------------
@@ -210,12 +212,15 @@ def transform(raw_data: list[dict]) -> tuple[list[dict], list[dict]]:
 
 
         if rider_id not in riders_dict:
-            riders_dict[rider_id] = {
-                "id": rider_id,
-                "name": row["riderName"],
-                "club": row.get("club", "Indépendant"),
-                "category": normalize_category(row.get("category", "")),
-            }
+            if not is_allowed_category(normalize_category(row.get("category", ""))):
+                continue # On ignore cette ligne et on passe au coureur suivant
+            else:
+                riders_dict[rider_id] = {
+                    "id": rider_id,
+                    "name": row["riderName"],
+                    "club": row.get("club", "Indépendant"),
+                    "category": normalize_category(row.get("category", "")),
+                }
 
     return results_list, list(riders_dict.values())
 
@@ -267,6 +272,40 @@ def load(results_list: list[dict], riders_list: list[dict]) -> None:
         f"{len(existing_riders)} coureurs au total."
     )
 
+ALLOWED_CATEGORIES = {
+    "Access 1", 
+    "Access 2", 
+    "Access 3", 
+    "Access 4",
+    "Open 1", 
+    "Open 2", 
+    "Open 3"
+}
+
+# -------------------------------------------------------------------
+# VALIDATION LOGIC
+# -------------------------------------------------------------------
+
+def is_allowed_category(category: str) -> bool:
+    """
+    Checks if the provided category belongs to the allowed adult categories.
+    Youth categories such as 'U15' or 'U17' will return False.
+    """
+    if not category:
+        return False
+    return category.strip() in ALLOWED_CATEGORIES
+
+def filter_valid_riders(riders: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
+    """
+    Filters a list of rider dictionaries, keeping only those in allowed categories.
+    
+    :param riders: List of parsed riders (e.g., from a CSV, API, or scraper).
+    :return: A filtered list containing only valid adult riders.
+    """
+    return [
+        rider for rider in riders 
+        if is_allowed_category(rider.get("category", ""))
+    ]
 
 # ---------------------------------------------------------------------------
 # CLI
