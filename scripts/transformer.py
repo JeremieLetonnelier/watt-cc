@@ -20,7 +20,7 @@ class DataTransformer:
             if "2" in cat_lower: return "Open 2"
             if "3" in cat_lower: return "Open 3"
             return "Open 1"
-        return "Access 1"
+        return "Not known category"
 
     def transform(self, raw_data: list[dict]) -> tuple[list[dict], list[dict]]:
         results_list = []

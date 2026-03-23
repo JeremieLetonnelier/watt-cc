@@ -16,11 +16,17 @@ class StorageManager:
 
         if os.path.exists(self.results_path):
             with open(self.results_path, "r", encoding="utf-8") as f:
-                existing_results = json.load(f)
+                try:
+                    existing_results = json.load(f)
+                except json.JSONDecodeError:
+                    existing_results = []
 
         if os.path.exists(self.riders_path):
             with open(self.riders_path, "r", encoding="utf-8") as f:
-                existing_riders = {r["id"]: r for r in json.load(f)}
+                try:
+                    existing_riders = {r["id"]: r for r in json.load(f)}
+                except json.JSONDecodeError:
+                    existing_riders = {}
                 
         return existing_results, existing_riders
 

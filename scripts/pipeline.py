@@ -25,19 +25,13 @@ class ImportPipeline:
         print(f"[Pipeline] {len(pdf_urls)} documents PDF à traiter.")
         
         all_raw_data = []
-        for idx, url in enumerate(pdf_urls, start=1):
-            print(f"[{idx}/{len(pdf_urls)}] Processing: {url}")
+        for idx, item in enumerate(pdf_urls, start=1):
+            url = item["url"]
+            race_name = item["name"]
+            race_date = item["date"]
             
-            filename = url.split('/')[-1]
-            race_name = filename.replace('.pdf', '')
+            print(f"[{idx}/{len(pdf_urls)}] Processing: {url} ({race_name} - {race_date})")
             
-            match_date = re.search(r'(20\d{2})(\d{2})(\d{2})', filename)
-            if match_date:
-                year, month, day = match_date.groups()
-                race_date = f"{year}-{month}-{day}"
-            else:
-                race_date = datetime.now().strftime("%Y-%m-%d")
-
             raw_data = self.extractor.extract_from_url(url, race_name=race_name, race_date=race_date)
             all_raw_data.extend(raw_data)
             
