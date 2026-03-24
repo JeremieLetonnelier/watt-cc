@@ -114,28 +114,18 @@ export default function Leaderboard() {
               </tr>
             </thead>
             <tbody>
-              <AnimatePresence mode="wait">
                 {leaderboardData.length === 0 ? (
-                  <motion.tr
-                    key="empty-state"
-                    initial={{ opacity: 0 }}
-                    animate={{ opacity: 1 }}
-                    exit={{ opacity: 0 }}
-                  >
+                  <tr key="empty-state">
                     <td
                       colSpan={5}
                       className="p-8 text-center text-gray-500 italic"
                     >
                       Aucun résultat trouvé pour ces filtres.
                     </td>
-                  </motion.tr>
+                  </tr>
                 ) : (
                   leaderboardData.map((rider, index) => (
-                    <motion.tr
-                      initial={{ opacity: 0, y: 20 }}
-                      animate={{ opacity: 1, y: 0 }}
-                      exit={{ opacity: 0, scale: 0.95 }}
-                      transition={{ duration: 0.2, delay: index * 0.05 }}
+                    <tr
                       key={rider.id}
                       className="border-b border-white/5 hover:bg-white/5 transition-colors group"
                     >
@@ -210,10 +200,9 @@ export default function Leaderboard() {
                           <span className="text-gray-600">-</span>
                         )}
                       </td>
-                    </motion.tr>
+                    </tr>
                   ))
                 )}
-              </AnimatePresence>
             </tbody>
           </table>
         </div>
