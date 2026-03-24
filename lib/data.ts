@@ -111,14 +111,25 @@ export const getLeaderboard = (
     );
   }
 
+  // Pre-calculate points and wins per rider to avoid O(N*M) nested loops
+  const riderStats = new Map<string, { points: number; wins: number }>();
+  for (const res of results) {
+    const stats = riderStats.get(res.riderId) || { points: 0, wins: 0 };
+    stats.points += res.points;
+    if (res.position === 1) {
+      stats.wins += 1;
+    }
+    riderStats.set(res.riderId, stats);
+  }
+
   const leaderboard = filteredRiders
     .map((rider) => {
-      const riderResults = results.filter((res) => res.riderId === rider.id);
+      const stats = riderStats.get(rider.id);
       return {
         ...rider,
-        totalPoints: riderResults.reduce((total, res) => total + res.points, 0),
-        totalWins: riderResults.filter((res) => res.position === 1).length,
-        hasResults: riderResults.length > 0,
+        totalPoints: stats ? stats.points : 0,
+        totalWins: stats ? stats.wins : 0,
+        hasResults: !!stats,
       };
     })
     .filter((r) => r.totalPoints > 0 || r.hasResults);

@@ -8,7 +8,7 @@ export default function FFCPage() {
           Classement <span className="text-transparent bg-clip-text bg-gradient-to-r from-[#4a00e0] to-[#ff007f]">FFC</span>
         </h1>
         <p className="text-xl text-gray-400 mt-4 max-w-2xl">
-          Retrouvez le classement complet des coureurs du club WATT.CC et le classement général du Comité d'Ile de France (CIF).
+          Retrouvez le classement complet des coureurs du club WATT.CC et le classement général du Comité d&apos;Ile de France (CIF).
         </p>
       </div>
       <Leaderboard />
