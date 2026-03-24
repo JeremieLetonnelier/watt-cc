@@ -4040,11 +4040,11 @@
     "isWin": false
   },
   {
-    "id": "rungis---access-1-2-/-3-4-(2-horaires-pour-4-departs)-2026-03-15-teddy-finote-tassel",
+    "id": "rungis---access-1-2-/-3-4-(2-horaires-pour-4-departs)-2026-03-15-thomas-jiang",
     "raceName": "Rungis - ACCESS 1-2 / 3-4 (2 horaires pour 4 départs)",
     "date": "2026-03-15",
-    "riderId": "teddy-finote-tassel",
-    "position": 25,
+    "riderId": "thomas-jiang",
+    "position": 24,
     "category": "Access 2",
     "points": 0,
     "isWin": false
@@ -4054,7 +4054,7 @@
     "raceName": "Rungis - ACCESS 1-2 / 3-4 (2 horaires pour 4 départs)",
     "date": "2026-03-15",
     "riderId": "pascal-casanova",
-    "position": 26,
+    "position": 25,
     "category": "Access 2",
     "points": 0,
     "isWin": false
@@ -4064,7 +4064,7 @@
     "raceName": "Rungis - ACCESS 1-2 / 3-4 (2 horaires pour 4 départs)",
     "date": "2026-03-15",
     "riderId": "jacques-castel",
-    "position": 27,
+    "position": 26,
     "category": "Access 2",
     "points": 0,
     "isWin": false
@@ -4074,17 +4074,17 @@
     "raceName": "Rungis - ACCESS 1-2 / 3-4 (2 horaires pour 4 départs)",
     "date": "2026-03-15",
     "riderId": "frederic-authouart",
-    "position": 28,
+    "position": 27,
     "category": "Access 2",
     "points": 0,
     "isWin": false
   },
   {
-    "id": "rungis---access-1-2-/-3-4-(2-horaires-pour-4-departs)-2026-03-15-arnaud-renaud",
+    "id": "rungis---access-1-2-/-3-4-(2-horaires-pour-4-departs)-2026-03-15-sebastien-cahagniet",
     "raceName": "Rungis - ACCESS 1-2 / 3-4 (2 horaires pour 4 départs)",
     "date": "2026-03-15",
-    "riderId": "arnaud-renaud",
-    "position": 29,
+    "riderId": "sebastien-cahagniet",
+    "position": 28,
     "category": "Access 2",
     "points": 0,
     "isWin": false
@@ -4094,7 +4094,7 @@
     "raceName": "Rungis - ACCESS 1-2 / 3-4 (2 horaires pour 4 départs)",
     "date": "2026-03-15",
     "riderId": "fabien-boisson",
-    "position": 30,
+    "position": 29,
     "category": "Access 2",
     "points": 0,
     "isWin": false
@@ -4104,7 +4104,7 @@
     "raceName": "Rungis - ACCESS 1-2 / 3-4 (2 horaires pour 4 départs)",
     "date": "2026-03-15",
     "riderId": "nicolas-dumas",
-    "position": 31,
+    "position": 30,
     "category": "Access 2",
     "points": 0,
     "isWin": false
@@ -4114,7 +4114,7 @@
     "raceName": "Rungis - ACCESS 1-2 / 3-4 (2 horaires pour 4 départs)",
     "date": "2026-03-15",
     "riderId": "jean-louis-ulce",
-    "position": 32,
+    "position": 31,
     "category": "Access 2",
     "points": 0,
     "isWin": false
@@ -4124,7 +4124,7 @@
     "raceName": "Rungis - ACCESS 1-2 / 3-4 (2 horaires pour 4 départs)",
     "date": "2026-03-15",
     "riderId": "jean-paul-nascimento",
-    "position": 33,
+    "position": 32,
     "category": "Access 2",
     "points": 0,
     "isWin": false
@@ -4134,7 +4134,7 @@
     "raceName": "Rungis - ACCESS 1-2 / 3-4 (2 horaires pour 4 départs)",
     "date": "2026-03-15",
     "riderId": "rocco-romeo",
-    "position": 34,
+    "position": 33,
     "category": "Access 2",
     "points": 0,
     "isWin": false
@@ -4144,7 +4144,7 @@
     "raceName": "Rungis - ACCESS 1-2 / 3-4 (2 horaires pour 4 départs)",
     "date": "2026-03-15",
     "riderId": "romuald-landry",
-    "position": 35,
+    "position": 34,
     "category": "Access 2",
     "points": 0,
     "isWin": false
@@ -4154,7 +4154,7 @@
     "raceName": "Rungis - ACCESS 1-2 / 3-4 (2 horaires pour 4 départs)",
     "date": "2026-03-15",
     "riderId": "stella-andreazzoli",
-    "position": 37,
+    "position": 36,
     "category": "Open 1",
     "points": 0.0,
     "isWin": false
@@ -4164,7 +4164,7 @@
     "raceName": "Rungis - ACCESS 1-2 / 3-4 (2 horaires pour 4 départs)",
     "date": "2026-03-15",
     "riderId": "fabrice-maitre",
-    "position": 38,
+    "position": 37,
     "category": "Access 2",
     "points": 0,
     "isWin": false
@@ -4174,7 +4174,7 @@
     "raceName": "Rungis - ACCESS 1-2 / 3-4 (2 horaires pour 4 départs)",
     "date": "2026-03-15",
     "riderId": "agathe-michel",
-    "position": 39,
+    "position": 38,
     "category": "Open 3",
     "points": 0.0,
     "isWin": false
@@ -4184,7 +4184,7 @@
     "raceName": "Rungis - ACCESS 1-2 / 3-4 (2 horaires pour 4 départs)",
     "date": "2026-03-15",
     "riderId": "pierre-michael-villemin",
-    "position": 40,
+    "position": 39,
     "category": "Access 2",
     "points": 0,
     "isWin": false
@@ -4194,7 +4194,7 @@
     "raceName": "Rungis - ACCESS 1-2 / 3-4 (2 horaires pour 4 départs)",
     "date": "2026-03-15",
     "riderId": "didier-duval",
-    "position": 41,
+    "position": 40,
     "category": "Access 2",
     "points": 0,
     "isWin": false
@@ -4204,7 +4204,7 @@
     "raceName": "Rungis - ACCESS 1-2 / 3-4 (2 horaires pour 4 départs)",
     "date": "2026-03-15",
     "riderId": "romain-goguelat",
-    "position": 42,
+    "position": 41,
     "category": "Access 2",
     "points": 0,
     "isWin": false
@@ -4214,7 +4214,7 @@
     "raceName": "Rungis - ACCESS 1-2 / 3-4 (2 horaires pour 4 départs)",
     "date": "2026-03-15",
     "riderId": "mai-bridier",
-    "position": 43,
+    "position": 42,
     "category": "Open 1",
     "points": 0.0,
     "isWin": false
@@ -4224,7 +4224,7 @@
     "raceName": "Rungis - ACCESS 1-2 / 3-4 (2 horaires pour 4 départs)",
     "date": "2026-03-15",
     "riderId": "franck-barraud",
-    "position": 44,
+    "position": 43,
     "category": "Access 2",
     "points": 0,
     "isWin": false
@@ -4234,7 +4234,7 @@
     "raceName": "Rungis - ACCESS 1-2 / 3-4 (2 horaires pour 4 départs)",
     "date": "2026-03-15",
     "riderId": "pierre-yves-chaboche",
-    "position": 46,
+    "position": 45,
     "category": "Access 2",
     "points": 0,
     "isWin": false
@@ -4244,7 +4244,7 @@
     "raceName": "Rungis - ACCESS 1-2 / 3-4 (2 horaires pour 4 départs)",
     "date": "2026-03-15",
     "riderId": "thierry-font-lapalisse",
-    "position": 47,
+    "position": 46,
     "category": "Access 2",
     "points": 0,
     "isWin": false
@@ -4254,7 +4254,7 @@
     "raceName": "Rungis - ACCESS 1-2 / 3-4 (2 horaires pour 4 départs)",
     "date": "2026-03-15",
     "riderId": "nicolas-roty",
-    "position": 48,
+    "position": 47,
     "category": "Access 2",
     "points": 0,
     "isWin": false
@@ -4264,7 +4264,7 @@
     "raceName": "Rungis - ACCESS 1-2 / 3-4 (2 horaires pour 4 départs)",
     "date": "2026-03-15",
     "riderId": "henri-rabot",
-    "position": 49,
+    "position": 48,
     "category": "Access 2",
     "points": 0,
     "isWin": false
@@ -4274,7 +4274,7 @@
     "raceName": "Rungis - ACCESS 1-2 / 3-4 (2 horaires pour 4 départs)",
     "date": "2026-03-15",
     "riderId": "guillaume-maviel",
-    "position": 50,
+    "position": 49,
     "category": "Access 2",
     "points": 0,
     "isWin": false
@@ -4284,7 +4284,7 @@
     "raceName": "Rungis - ACCESS 1-2 / 3-4 (2 horaires pour 4 départs)",
     "date": "2026-03-15",
     "riderId": "cyril-rochefort",
-    "position": 51,
+    "position": 50,
     "category": "Access 2",
     "points": 0,
     "isWin": false
@@ -4294,7 +4294,7 @@
     "raceName": "Rungis - ACCESS 1-2 / 3-4 (2 horaires pour 4 départs)",
     "date": "2026-03-15",
     "riderId": "emmanuel-poisson",
-    "position": 52,
+    "position": 51,
     "category": "Access 2",
     "points": 0,
     "isWin": false
@@ -4304,7 +4304,7 @@
     "raceName": "Rungis - ACCESS 1-2 / 3-4 (2 horaires pour 4 départs)",
     "date": "2026-03-15",
     "riderId": "alexis-boucot",
-    "position": 53,
+    "position": 52,
     "category": "Access 2",
     "points": 0,
     "isWin": false
@@ -4314,7 +4314,7 @@
     "raceName": "Rungis - ACCESS 1-2 / 3-4 (2 horaires pour 4 départs)",
     "date": "2026-03-15",
     "riderId": "luc-chapelle",
-    "position": 54,
+    "position": 53,
     "category": "Access 2",
     "points": 0,
     "isWin": false
@@ -4324,7 +4324,7 @@
     "raceName": "Rungis - ACCESS 1-2 / 3-4 (2 horaires pour 4 départs)",
     "date": "2026-03-15",
     "riderId": "laurent-liger",
-    "position": 55,
+    "position": 54,
     "category": "Access 2",
     "points": 0,
     "isWin": false
@@ -4334,7 +4334,7 @@
     "raceName": "Rungis - ACCESS 1-2 / 3-4 (2 horaires pour 4 départs)",
     "date": "2026-03-15",
     "riderId": "jordan-geenen",
-    "position": 56,
+    "position": 55,
     "category": "Access 2",
     "points": 0,
     "isWin": false
@@ -4344,7 +4344,7 @@
     "raceName": "Rungis - ACCESS 1-2 / 3-4 (2 horaires pour 4 départs)",
     "date": "2026-03-15",
     "riderId": "matthieu-oliveira",
-    "position": 57,
+    "position": 56,
     "category": "Access 2",
     "points": 0,
     "isWin": false
@@ -4354,7 +4354,7 @@
     "raceName": "Rungis - ACCESS 1-2 / 3-4 (2 horaires pour 4 départs)",
     "date": "2026-03-15",
     "riderId": "alexis-paquet",
-    "position": 58,
+    "position": 57,
     "category": "Access 2",
     "points": 0,
     "isWin": false
@@ -4364,7 +4364,7 @@
     "raceName": "Rungis - ACCESS 1-2 / 3-4 (2 horaires pour 4 départs)",
     "date": "2026-03-15",
     "riderId": "herve-lachouque",
-    "position": 59,
+    "position": 58,
     "category": "Access 2",
     "points": 0,
     "isWin": false
@@ -4374,7 +4374,7 @@
     "raceName": "Rungis - ACCESS 1-2 / 3-4 (2 horaires pour 4 départs)",
     "date": "2026-03-15",
     "riderId": "chloe-urbain",
-    "position": 60,
+    "position": 59,
     "category": "Open 3",
     "points": 0.0,
     "isWin": false
@@ -4384,7 +4384,7 @@
     "raceName": "Rungis - ACCESS 1-2 / 3-4 (2 horaires pour 4 départs)",
     "date": "2026-03-15",
     "riderId": "stephane-cruveiller",
-    "position": 61,
+    "position": 60,
     "category": "Access 2",
     "points": 0,
     "isWin": false
@@ -4394,7 +4394,7 @@
     "raceName": "Rungis - ACCESS 1-2 / 3-4 (2 horaires pour 4 départs)",
     "date": "2026-03-15",
     "riderId": "gaylord-legeay",
-    "position": 62,
+    "position": 61,
     "category": "Access 2",
     "points": 0,
     "isWin": false
@@ -4404,7 +4404,7 @@
     "raceName": "Rungis - ACCESS 1-2 / 3-4 (2 horaires pour 4 départs)",
     "date": "2026-03-15",
     "riderId": "william-naquin",
-    "position": 63,
+    "position": 62,
     "category": "Access 2",
     "points": 0,
     "isWin": false
@@ -4414,7 +4414,7 @@
     "raceName": "Rungis - ACCESS 1-2 / 3-4 (2 horaires pour 4 départs)",
     "date": "2026-03-15",
     "riderId": "gilles-heraud",
-    "position": 64,
+    "position": 63,
     "category": "Access 2",
     "points": 0,
     "isWin": false
@@ -4424,7 +4424,7 @@
     "raceName": "Rungis - ACCESS 1-2 / 3-4 (2 horaires pour 4 départs)",
     "date": "2026-03-15",
     "riderId": "christophe-papin",
-    "position": 65,
+    "position": 64,
     "category": "Access 2",
     "points": 0,
     "isWin": false
@@ -4434,7 +4434,7 @@
     "raceName": "Rungis - ACCESS 1-2 / 3-4 (2 horaires pour 4 départs)",
     "date": "2026-03-15",
     "riderId": "gilles-sanchez",
-    "position": 66,
+    "position": 65,
     "category": "Access 2",
     "points": 0,
     "isWin": false
@@ -4444,7 +4444,7 @@
     "raceName": "Rungis - ACCESS 1-2 / 3-4 (2 horaires pour 4 départs)",
     "date": "2026-03-15",
     "riderId": "victor-decouard",
-    "position": 67,
+    "position": 66,
     "category": "Access 2",
     "points": 0,
     "isWin": false
@@ -4454,7 +4454,7 @@
     "raceName": "Rungis - ACCESS 1-2 / 3-4 (2 horaires pour 4 départs)",
     "date": "2026-03-15",
     "riderId": "kevin-mignonneau",
-    "position": 68,
+    "position": 67,
     "category": "Access 2",
     "points": 0,
     "isWin": false
@@ -4464,7 +4464,7 @@
     "raceName": "Rungis - ACCESS 1-2 / 3-4 (2 horaires pour 4 départs)",
     "date": "2026-03-15",
     "riderId": "yann-marchet",
-    "position": 69,
+    "position": 68,
     "category": "Access 2",
     "points": 0,
     "isWin": false
@@ -4474,7 +4474,7 @@
     "raceName": "Rungis - ACCESS 1-2 / 3-4 (2 horaires pour 4 départs)",
     "date": "2026-03-15",
     "riderId": "frederic-blin",
-    "position": 70,
+    "position": 69,
     "category": "Access 2",
     "points": 0,
     "isWin": false
@@ -4484,7 +4484,7 @@
     "raceName": "Rungis - ACCESS 1-2 / 3-4 (2 horaires pour 4 départs)",
     "date": "2026-03-15",
     "riderId": "vincent-resse",
-    "position": 71,
+    "position": 70,
     "category": "Access 2",
     "points": 0,
     "isWin": false
@@ -4494,7 +4494,7 @@
     "raceName": "Rungis - ACCESS 1-2 / 3-4 (2 horaires pour 4 départs)",
     "date": "2026-03-15",
     "riderId": "jonathan-mahe",
-    "position": 72,
+    "position": 71,
     "category": "Access 2",
     "points": 0,
     "isWin": false
@@ -4504,17 +4504,7 @@
     "raceName": "Rungis - ACCESS 1-2 / 3-4 (2 horaires pour 4 départs)",
     "date": "2026-03-15",
     "riderId": "frederic-mignon",
-    "position": 73,
-    "category": "Access 2",
-    "points": 0,
-    "isWin": false
-  },
-  {
-    "id": "rungis---access-1-2-/-3-4-(2-horaires-pour-4-departs)-2026-03-15-pascal-halko",
-    "raceName": "Rungis - ACCESS 1-2 / 3-4 (2 horaires pour 4 départs)",
-    "date": "2026-03-15",
-    "riderId": "pascal-halko",
-    "position": 74,
+    "position": 72,
     "category": "Access 2",
     "points": 0,
     "isWin": false
@@ -4524,7 +4514,7 @@
     "raceName": "Rungis - ACCESS 1-2 / 3-4 (2 horaires pour 4 départs)",
     "date": "2026-03-15",
     "riderId": "guillaume-mouchard",
-    "position": 75,
+    "position": 73,
     "category": "Access 2",
     "points": 0,
     "isWin": false
@@ -4930,11 +4920,21 @@
     "isWin": false
   },
   {
+    "id": "rungis---access-1-2-/-3-4-(2-horaires-pour-4-departs)-2026-03-15-alyzee-henin",
+    "raceName": "Rungis - ACCESS 1-2 / 3-4 (2 horaires pour 4 départs)",
+    "date": "2026-03-15",
+    "riderId": "alyzee-henin",
+    "position": 41,
+    "category": "Access 3",
+    "points": 0,
+    "isWin": false
+  },
+  {
     "id": "rungis---access-1-2-/-3-4-(2-horaires-pour-4-departs)-2026-03-15-jean-marie-passelande",
     "raceName": "Rungis - ACCESS 1-2 / 3-4 (2 horaires pour 4 départs)",
     "date": "2026-03-15",
     "riderId": "jean-marie-passelande",
-    "position": 41,
+    "position": 42,
     "category": "Access 3",
     "points": 0,
     "isWin": false
@@ -4944,7 +4944,7 @@
     "raceName": "Rungis - ACCESS 1-2 / 3-4 (2 horaires pour 4 départs)",
     "date": "2026-03-15",
     "riderId": "jean-claude-senegas",
-    "position": 42,
+    "position": 43,
     "category": "Access 3",
     "points": 0,
     "isWin": false
@@ -4954,7 +4954,7 @@
     "raceName": "Rungis - ACCESS 1-2 / 3-4 (2 horaires pour 4 départs)",
     "date": "2026-03-15",
     "riderId": "laurent-martorell",
-    "position": 43,
+    "position": 44,
     "category": "Access 3",
     "points": 0,
     "isWin": false
@@ -4964,7 +4964,7 @@
     "raceName": "Rungis - ACCESS 1-2 / 3-4 (2 horaires pour 4 départs)",
     "date": "2026-03-15",
     "riderId": "nicolas-middernacht",
-    "position": 44,
+    "position": 45,
     "category": "Access 3",
     "points": 0,
     "isWin": false
@@ -4974,7 +4974,7 @@
     "raceName": "Rungis - ACCESS 1-2 / 3-4 (2 horaires pour 4 départs)",
     "date": "2026-03-15",
     "riderId": "regis-letourneur",
-    "position": 45,
+    "position": 46,
     "category": "Access 3",
     "points": 0,
     "isWin": false
@@ -4984,7 +4984,7 @@
     "raceName": "Rungis - ACCESS 1-2 / 3-4 (2 horaires pour 4 départs)",
     "date": "2026-03-15",
     "riderId": "cedric-oliveira",
-    "position": 46,
+    "position": 47,
     "category": "Access 3",
     "points": 0,
     "isWin": false
@@ -4994,7 +4994,7 @@
     "raceName": "Rungis - ACCESS 1-2 / 3-4 (2 horaires pour 4 départs)",
     "date": "2026-03-15",
     "riderId": "nicolas-delestre",
-    "position": 47,
+    "position": 48,
     "category": "Access 3",
     "points": 0,
     "isWin": false
@@ -5004,7 +5004,7 @@
     "raceName": "Rungis - ACCESS 1-2 / 3-4 (2 horaires pour 4 départs)",
     "date": "2026-03-15",
     "riderId": "aurore-hatet",
-    "position": 48,
+    "position": 49,
     "category": "Open 3",
     "points": 0.0,
     "isWin": false
@@ -5014,7 +5014,7 @@
     "raceName": "Rungis - ACCESS 1-2 / 3-4 (2 horaires pour 4 départs)",
     "date": "2026-03-15",
     "riderId": "frederic-fardeau",
-    "position": 49,
+    "position": 50,
     "category": "Access 3",
     "points": 0,
     "isWin": false
@@ -5024,7 +5024,7 @@
     "raceName": "Rungis - ACCESS 1-2 / 3-4 (2 horaires pour 4 départs)",
     "date": "2026-03-15",
     "riderId": "olivier-picquot",
-    "position": 50,
+    "position": 51,
     "category": "Access 3",
     "points": 0,
     "isWin": false
@@ -5034,7 +5034,7 @@
     "raceName": "Rungis - ACCESS 1-2 / 3-4 (2 horaires pour 4 départs)",
     "date": "2026-03-15",
     "riderId": "patrick-jouas",
-    "position": 51,
+    "position": 52,
     "category": "Access 3",
     "points": 0,
     "isWin": false
@@ -5044,7 +5044,7 @@
     "raceName": "Rungis - ACCESS 1-2 / 3-4 (2 horaires pour 4 départs)",
     "date": "2026-03-15",
     "riderId": "jean-marc-faune",
-    "position": 52,
+    "position": 53,
     "category": "Access 3",
     "points": 0,
     "isWin": false
@@ -5054,7 +5054,7 @@
     "raceName": "Rungis - ACCESS 1-2 / 3-4 (2 horaires pour 4 départs)",
     "date": "2026-03-15",
     "riderId": "fabrice-millet",
-    "position": 53,
+    "position": 54,
     "category": "Access 3",
     "points": 0,
     "isWin": false
@@ -5064,7 +5064,7 @@
     "raceName": "Rungis - ACCESS 1-2 / 3-4 (2 horaires pour 4 départs)",
     "date": "2026-03-15",
     "riderId": "dino-belli",
-    "position": 54,
+    "position": 55,
     "category": "Access 3",
     "points": 0,
     "isWin": false
@@ -5074,7 +5074,7 @@
     "raceName": "Rungis - ACCESS 1-2 / 3-4 (2 horaires pour 4 départs)",
     "date": "2026-03-15",
     "riderId": "cedric-fournier",
-    "position": 55,
+    "position": 56,
     "category": "Access 3",
     "points": 0,
     "isWin": false
@@ -5084,7 +5084,7 @@
     "raceName": "Rungis - ACCESS 1-2 / 3-4 (2 horaires pour 4 départs)",
     "date": "2026-03-15",
     "riderId": "christophe-asse",
-    "position": 56,
+    "position": 57,
     "category": "Access 3",
     "points": 0,
     "isWin": false
@@ -5094,7 +5094,7 @@
     "raceName": "Rungis - ACCESS 1-2 / 3-4 (2 horaires pour 4 départs)",
     "date": "2026-03-15",
     "riderId": "mickael-thoumelin",
-    "position": 57,
+    "position": 58,
     "category": "Access 3",
     "points": 0,
     "isWin": false
