@@ -18,6 +18,7 @@ export default function Leaderboard() {
   const [selectedCategory, setSelectedCategory] = useState<Category | "All">(
     "All",
   );
+  const [selectedGender, setSelectedGender] = useState<"All" | "H" | "F">("All");
 
   const categories: (Category | "All")[] = [
     "All",
@@ -35,8 +36,9 @@ export default function Leaderboard() {
       ffcResults,
       activeTab === "watt" ? WATT_CLUB_NAME : undefined,
       selectedCategory === "All" ? undefined : selectedCategory,
+      selectedGender === "All" ? undefined : selectedGender,
     );
-  }, [activeTab, selectedCategory]);
+  }, [activeTab, selectedCategory, selectedGender]);
 
   return (
     <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
@@ -95,6 +97,24 @@ export default function Leaderboard() {
             {cat === "All" ? "Toutes" : cat}
           </button>
         ))}
+
+        <div className="w-px h-6 bg-white/20 mx-2 hidden md:block"></div>
+
+        <div className="flex bg-white/5 p-1 rounded-lg border border-white/10 shrink-0 ml-auto mr-4">
+          {(["All", "H", "F"] as const).map((gender) => (
+            <button
+              key={gender}
+              onClick={() => setSelectedGender(gender)}
+              className={`px-4 py-1.5 rounded-md font-bold uppercase tracking-wider text-xs transition-all ${
+                selectedGender === gender
+                  ? "bg-gradient-to-r from-[#4a00e0] to-[#ff007f] text-white shadow-md"
+                  : "text-gray-400 hover:text-white"
+              }`}
+            >
+              {gender === "All" ? "Tous" : gender === "H" ? "Hommes" : "Femmes"}
+            </button>
+          ))}
+        </div>
       </div>
 
       {/* Table */}
