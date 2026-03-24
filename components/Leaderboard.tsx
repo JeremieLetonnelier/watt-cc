@@ -1,6 +1,6 @@
 "use client";
 
-import { useState } from "react";
+import { useState, useMemo } from "react";
 import { motion, AnimatePresence } from "motion/react";
 import {
   ffcResults,
@@ -30,11 +30,13 @@ export default function Leaderboard() {
     "Open 3",
   ];
 
-  const leaderboardData = getLeaderboard(
-    ffcResults,
-    activeTab === "watt" ? WATT_CLUB_NAME : undefined,
-    selectedCategory === "All" ? undefined : selectedCategory,
-  );
+  const leaderboardData = useMemo(() => {
+    return getLeaderboard(
+      ffcResults,
+      activeTab === "watt" ? WATT_CLUB_NAME : undefined,
+      selectedCategory === "All" ? undefined : selectedCategory,
+    );
+  }, [activeTab, selectedCategory]);
 
   return (
     <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
@@ -45,7 +47,7 @@ export default function Leaderboard() {
             Classement FFC
           </h2>
           <p className="text-gray-400 mt-2 text-lg">
-            Comité d'Ile de France (CIF)
+            Comité d&apos;Ile de France (CIF)
           </p>
         </div>
 
@@ -130,7 +132,6 @@ export default function Leaderboard() {
                 ) : (
                   leaderboardData.map((rider, index) => (
                     <motion.tr
-                      layout
                       initial={{ opacity: 0, y: 20 }}
                       animate={{ opacity: 1, y: 0 }}
                       exit={{ opacity: 0, scale: 0.95 }}

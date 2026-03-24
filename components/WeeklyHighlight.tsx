@@ -74,7 +74,7 @@ export default function WeeklyHighlight() {
                 Victoire au Prix de Satory
               </h4>
               <p className="text-gray-300 text-lg leading-relaxed">
-                Une performance incroyable de {highlightedRider.name} ce week-end. Elle a dominé la course de bout en bout, s'échappant dans le dernier tour pour s'imposer en solitaire. Une victoire qui rapporte 50 points précieux pour le classement général FFC.
+                Une performance incroyable de {highlightedRider.name} ce week-end. Elle a dominé la course de bout en bout, s&apos;échappant dans le dernier tour pour s&apos;imposer en solitaire. Une victoire qui rapporte 50 points précieux pour le classement général FFC.
               </p>
               
               <div className="mt-8 grid grid-cols-2 gap-4">
