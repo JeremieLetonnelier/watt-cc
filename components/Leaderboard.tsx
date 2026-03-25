@@ -15,12 +15,10 @@ type Tab = "general" | "watt";
 
 export default function Leaderboard() {
   const [activeTab, setActiveTab] = useState<Tab>("watt");
-  const [selectedCategory, setSelectedCategory] = useState<Category | "All">(
-    "All",
-  );
+  const [selectedCategory, setSelectedCategory] = useState<Category>("Access 1");
+  const [selectedGender, setSelectedGender] = useState<"H" | "F">("H");
 
-  const categories: (Category | "All")[] = [
-    "All",
+  const categories: Category[] = [
     "Access 1",
     "Access 2",
     "Access 3",
@@ -34,9 +32,10 @@ export default function Leaderboard() {
     return getLeaderboard(
       ffcResults,
       activeTab === "watt" ? WATT_CLUB_NAME : undefined,
-      selectedCategory === "All" ? undefined : selectedCategory,
+      selectedCategory,
+      selectedGender
     );
-  }, [activeTab, selectedCategory]);
+  }, [activeTab, selectedCategory, selectedGender]);
 
   return (
     <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
@@ -92,9 +91,27 @@ export default function Leaderboard() {
                 : "bg-transparent border-white/10 text-gray-400 hover:border-white/30 hover:text-white"
             }`}
           >
-            {cat === "All" ? "Toutes" : cat}
+            {cat}
           </button>
         ))}
+
+        <div className="w-px h-6 bg-white/20 mx-2 hidden md:block"></div>
+
+        <div className="flex bg-white/5 p-1 rounded-lg border border-white/10 shrink-0 ml-auto mr-4">
+          {(["H", "F"] as const).map((gender) => (
+            <button
+              key={gender}
+              onClick={() => setSelectedGender(gender)}
+              className={`px-4 py-1.5 rounded-md font-bold uppercase tracking-wider text-xs transition-all ${
+                selectedGender === gender
+                  ? "bg-gradient-to-r from-[#4a00e0] to-[#ff007f] text-white shadow-md"
+                  : "text-gray-400 hover:text-white"
+              }`}
+            >
+              {gender === "H" ? "Hommes" : "Femmes"}
+            </button>
+          ))}
+        </div>
       </div>
 
       {/* Table */}

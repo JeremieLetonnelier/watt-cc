@@ -25,6 +25,7 @@ class DataTransformer:
     def transform(self, raw_data: list[dict]) -> tuple[list[dict], list[dict]]:
         results_list = []
         riders_dict = {}
+        race_cat_gender_counts = {}
 
         for row in raw_data:
             rider_name = str(row.get("riderName", "")).strip().title()
@@ -34,6 +35,13 @@ class DataTransformer:
             rider_id = self.slugify(rider_name)
             race_id = f"{self.slugify(row['raceName'])}-{row['date']}-{rider_id}"
             cat = self.normalize_category(row.get("category", ""))
+            gender = str(row.get("gender", "H")).strip().upper()
+            if gender not in ["H", "F"]:
+                gender = "H"
+            
+            race_key = (str(row.get("raceName", "")), str(row.get("date", "")), cat, gender)
+            race_cat_gender_counts[race_key] = race_cat_gender_counts.get(race_key, 0) + 1
+            position_gender = race_cat_gender_counts[race_key]
             
             results_list.append({
                 "id": race_id,
@@ -41,7 +49,9 @@ class DataTransformer:
                 "date": row["date"],
                 "riderId": rider_id,
                 "position": int(row["position"]),
-                "category": cat
+                "positionGender": position_gender,
+                "category": cat,
+                "gender": gender
             })
 
             if rider_id not in riders_dict:
@@ -49,7 +59,8 @@ class DataTransformer:
                     "id": rider_id,
                     "name": rider_name,
                     "club": str(row.get("club", "Indépendant")).strip().upper(),
-                    "category": cat
+                    "category": cat,
+                    "gender": gender
                 }
 
         return results_list, list(riders_dict.values())

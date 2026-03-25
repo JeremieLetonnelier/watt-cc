@@ -34,13 +34,14 @@ class PointsManager:
         # 4. Assign points conditionally
         for res in all_results:
             rid = res["riderId"]
-            pos = res.get("position", 999)
+            pos = int(res.get("position", 999))
+            pos_gender = int(res.get("positionGender", pos))
             
             current_cat = rider_current_cat.get(rid, existing_riders.get(rid, {}).get("category", "Access 1"))
             res_cat = res.get("category", current_cat)
             
             if res_cat == current_cat:
-                base_points = self.points_system.get(pos, 0)
+                base_points = self.points_system.get(pos_gender, 0)
                 race_key = (res.get("raceName", ""), res["date"], res_cat)
                 
                 # Diviser par 2 si moins de 31 partants (classés)
@@ -51,4 +52,4 @@ class PointsManager:
             else:
                 res["points"] = 0
                 
-            res["isWin"] = (pos == 1)
+            res["isWin"] = (pos_gender == 1)
