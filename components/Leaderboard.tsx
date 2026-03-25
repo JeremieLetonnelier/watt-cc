@@ -14,10 +14,6 @@ import { Trophy, Filter, Medal } from "lucide-react";
 type Tab = "general" | "watt";
 
 export default function Leaderboard() {
-  const [activeTab, setActiveTab] = useState<Tab>("watt");
-  const [selectedCategory, setSelectedCategory] = useState<Category>("Access 1");
-  const [selectedGender, setSelectedGender] = useState<"H" | "F">("H");
-
   const categories: Category[] = [
     "Access 1",
     "Access 2",
@@ -27,6 +23,30 @@ export default function Leaderboard() {
     "Open 2",
     "Open 3",
   ];
+
+  const [initialState] = useState(() => {
+    // Try to find a category with women from WATT club
+    for (const cat of categories) {
+      const leaderboard = getLeaderboard(ffcResults, WATT_CLUB_NAME, cat, "F");
+      if (leaderboard.length > 0) {
+        return { gender: "F" as const, category: cat };
+      }
+    }
+    // If no WATT women results, try general women results
+    for (const cat of categories) {
+      const leaderboard = getLeaderboard(ffcResults, undefined, cat, "F");
+      if (leaderboard.length > 0) {
+        return { gender: "F" as const, category: cat };
+      }
+    }
+    return { gender: "H" as const, category: "Access 1" as Category };
+  });
+
+  const [activeTab, setActiveTab] = useState<Tab>("watt");
+  const [selectedCategory, setSelectedCategory] = useState<Category>(initialState.category);
+  const [selectedGender, setSelectedGender] = useState<"H" | "F">(initialState.gender);
+
+
 
   const leaderboardData = useMemo(() => {
     return getLeaderboard(
