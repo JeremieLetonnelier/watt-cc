@@ -30,6 +30,9 @@ export interface Rider {
   club: string;
   category: Category;
   avatarUrl?: string;
+  age?: number;
+  region?: string;
+  hasBenefitedFromRelegation?: boolean;
 }
 
 export interface RaceResult {
@@ -39,6 +42,10 @@ export interface RaceResult {
   riderId: string;
   position: number;
   points: number;
+  isRegionalChampionship?: boolean;
+  totalStarters?: number;
+  challengePoints?: number;
+  promotionPoints?: number;
 }
 
 export const WATT_CLUB_NAME = "WATT CYCLING CLUB";
@@ -112,10 +119,11 @@ export const getLeaderboard = (
   }
 
   // Pre-calculate points and wins per rider to avoid O(N*M) nested loops
-  const riderStats = new Map<string, { points: number; wins: number }>();
+  const riderStats = new Map<string, { points: number; promotionPoints: number; wins: number }>();
   for (const res of results) {
-    const stats = riderStats.get(res.riderId) || { points: 0, wins: 0 };
-    stats.points += res.points;
+    const stats = riderStats.get(res.riderId) || { points: 0, promotionPoints: 0, wins: 0 };
+    stats.points += typeof res.challengePoints === "number" ? res.challengePoints : (res.points || 0);
+    stats.promotionPoints += typeof res.promotionPoints === "number" ? res.promotionPoints : 0;
     if (res.position === 1) {
       stats.wins += 1;
     }
@@ -128,6 +136,7 @@ export const getLeaderboard = (
       return {
         ...rider,
         totalPoints: stats ? stats.points : 0,
+        totalPromotionPoints: stats ? stats.promotionPoints : 0,
         totalWins: stats ? stats.wins : 0,
         hasResults: !!stats,
       };

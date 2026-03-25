@@ -109,8 +109,8 @@ export default function Leaderboard() {
                 <th className="p-4 font-semibold hidden md:table-cell">
                   Catégorie
                 </th>
-                <th className="p-4 font-semibold text-right">Points</th>
-                <th className="p-4 font-semibold text-center">Victoires</th>
+                <th className="p-4 font-semibold text-right">Pts Challenge</th>
+                <th className="p-4 font-semibold text-center">Montée (Pts / Vict)</th>
               </tr>
             </thead>
             <tbody>
@@ -192,13 +192,16 @@ export default function Leaderboard() {
                         </span>
                       </td>
                       <td className="p-4 text-center">
-                        {rider.totalWins > 0 ? (
-                          <span className="flex items-center justify-center gap-1 text-yellow-400 font-bold">
-                            {rider.totalWins} <Trophy className="w-3 h-3" />
+                        <div className="flex flex-col items-center">
+                          <span className={`font-bold ${rider.totalPromotionPoints >= 25 ? 'text-green-400' : 'text-gray-300'}`}>
+                            {rider.totalPromotionPoints} <span className="text-xs text-gray-500 uppercase">pts</span>
                           </span>
-                        ) : (
-                          <span className="text-gray-600">-</span>
-                        )}
+                          {rider.totalWins > 0 && (
+                            <span className={`flex items-center gap-1 text-xs font-bold mt-1 ${rider.totalWins >= 2 ? 'text-green-400' : 'text-yellow-400'}`}>
+                              {rider.totalWins} <Trophy className="w-3 h-3" />
+                            </span>
+                          )}
+                        </div>
                       </td>
                     </tr>
                   ))
