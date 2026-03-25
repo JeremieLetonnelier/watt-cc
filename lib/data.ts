@@ -36,6 +36,9 @@ export interface Rider {
   age?: number;
   region?: string;
   hasBenefitedFromRelegation?: boolean;
+  age?: number;
+  region?: string;
+  hasBenefitedFromRelegation?: boolean;
 }
 
 export interface RaceResult {
