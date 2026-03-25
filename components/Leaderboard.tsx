@@ -15,13 +15,10 @@ type Tab = "general" | "watt";
 
 export default function Leaderboard() {
   const [activeTab, setActiveTab] = useState<Tab>("watt");
-  const [selectedCategory, setSelectedCategory] = useState<Category | "All">(
-    "All",
-  );
+  const [selectedCategory, setSelectedCategory] = useState<Category>("Access 1");
   const [selectedGender, setSelectedGender] = useState<"H" | "F">("H");
 
-  const categories: (Category | "All")[] = [
-    "All",
+  const categories: Category[] = [
     "Access 1",
     "Access 2",
     "Access 3",
@@ -35,7 +32,7 @@ export default function Leaderboard() {
     return getLeaderboard(
       ffcResults,
       activeTab === "watt" ? WATT_CLUB_NAME : undefined,
-      selectedCategory === "All" ? undefined : selectedCategory,
+      selectedCategory,
       selectedGender
     );
   }, [activeTab, selectedCategory, selectedGender]);
@@ -94,7 +91,7 @@ export default function Leaderboard() {
                 : "bg-transparent border-white/10 text-gray-400 hover:border-white/30 hover:text-white"
             }`}
           >
-            {cat === "All" ? "Toutes" : cat}
+            {cat}
           </button>
         ))}
 
