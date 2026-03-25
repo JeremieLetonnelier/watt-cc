@@ -77,40 +77,47 @@ class PointsManager:
                 total_starters = next((r["totalStarters"] for r in race_results if r.get("totalStarters")), len(race_results))
                 is_regional_championship = any(r.get("isRegionalChampionship") for r in race_results)
                 
-                pos_dict = collections.defaultdict(list)
+                # To handle separate classifications (like Access 1 vs Access 2) without accidentally merging their 1st places:
+                # We sub-group the rankings by category for ex-aequo logic
+                rankings_by_category = collections.defaultdict(list)
                 for r in race_results:
-                    pos = r.get("position", 999)
-                    pos_dict[pos].append(r)
-                    
-                for pos, tied_results in pos_dict.items():
-                    num_tied = len(tied_results)
-                    # Challenge points Ex-Aequo Average
-                    total_cp = sum(self.challenge_points_system.get(pos + i, 0) for i in range(num_tied))
-                    avg_cp = (total_cp / num_tied) if num_tied else 0
-                    if total_starters < 31:
-                        avg_cp /= 2.0
+                    rankings_by_category[r.get("category", "Access 1")].append(r)
+                
+                for cat_name, cat_results in rankings_by_category.items():
+                    pos_dict = collections.defaultdict(list)
+                    for r in cat_results:
+                        pos = r.get("position", 999)
+                        pos_dict[pos].append(r)
                         
-                    # Promotion Base point (No average)
-                    base_pp = self.promotion_points_system.get(pos, 0)
-                    if total_starters <= 10:
-                        base_pp = 0
-                        
-                    for r in tied_results:
-                        r["challengePoints"] = avg_cp if not is_regional_championship else 0
-                        r["promotionPoints"] = base_pp if not is_regional_championship else 0
-                        r["points"] = r["challengePoints"] # Backward compat
-                        r["isWin"] = (pos == 1)
-                        
-                        rid = r["riderId"]
-                        # Get current real-time state of the rider
-                        rider_obj = existing_riders.get(rid, {})
-                        current_cat = r.get("category", rider_obj.get("category", "Access 1"))
-                        
-                        r["isUpgradeVictory"] = False
-                        race_cat_str = r.get("raceName", "") + " " + r.get("category", "")
-                        
-                        if r["isWin"] and self.check_upgrade_victory(current_cat, race_cat_str):
-                            r["isUpgradeVictory"] = True
+                    for pos, tied_results in pos_dict.items():
+                        num_tied = len(tied_results)
+                        # Challenge points Ex-Aequo Average
+                        total_cp = sum(self.challenge_points_system.get(pos + i, 0) for i in range(num_tied))
+                        avg_cp = (total_cp / num_tied) if num_tied else 0
+                        if total_starters < 31:
+                            avg_cp /= 2.0
+                            
+                        # Promotion Base point (No average)
+                        base_pp = self.promotion_points_system.get(pos, 0)
+                        if total_starters <= 10:
+                            base_pp = 0
+                            
+                        for r in tied_results:
+                            r["challengePoints"] = avg_cp if not is_regional_championship else 0
+                            r["promotionPoints"] = base_pp if not is_regional_championship else 0
+                            r["points"] = r["challengePoints"] # Backward compat
+                            r["isWin"] = (pos == 1)
+                            
+                            rid = r["riderId"]
+                            # Get current real-time state of the rider
+                            rider_obj = existing_riders.get(rid, {})
+                            current_cat = r.get("category", rider_obj.get("category", "Access 1"))
+                            
+                            r["isUpgradeVictory"] = False
+                            race_cat_str = r.get("raceName", "") + " " + r.get("category", "")
+                            
+                            if r["isWin"] and self.check_upgrade_victory(current_cat, race_cat_str):
+                                r["isUpgradeVictory"] = True
                             
                         # Apply to accumulators
                         if not is_regional_championship:
