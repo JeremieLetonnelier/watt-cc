@@ -202,7 +202,7 @@ export default function Leaderboard() {
                       </td>
                       <td className="p-4 text-right">
                         <span className="text-2xl font-black text-white">
-                          {rider.totalPoints}
+                          {Number.isInteger(rider.totalPoints) ? rider.totalPoints : rider.totalPoints.toFixed(1)}
                         </span>
                         <span className="text-xs text-gray-500 ml-1 uppercase font-bold">
                           pts
