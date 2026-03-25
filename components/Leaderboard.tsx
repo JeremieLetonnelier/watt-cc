@@ -15,12 +15,10 @@ type Tab = "general" | "watt";
 
 export default function Leaderboard() {
   const [activeTab, setActiveTab] = useState<Tab>("watt");
-  const [selectedCategory, setSelectedCategory] = useState<Category | "All">(
-    "All",
-  );
+  const [selectedCategory, setSelectedCategory] = useState<Category>("Access 1");
+  const [selectedGender, setSelectedGender] = useState<"H" | "F">("H");
 
-  const categories: (Category | "All")[] = [
-    "All",
+  const categories: Category[] = [
     "Access 1",
     "Access 2",
     "Access 3",
@@ -34,9 +32,10 @@ export default function Leaderboard() {
     return getLeaderboard(
       ffcResults,
       activeTab === "watt" ? WATT_CLUB_NAME : undefined,
-      selectedCategory === "All" ? undefined : selectedCategory,
+      selectedCategory,
+      selectedGender
     );
-  }, [activeTab, selectedCategory]);
+  }, [activeTab, selectedCategory, selectedGender]);
 
   return (
     <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
@@ -92,9 +91,27 @@ export default function Leaderboard() {
                 : "bg-transparent border-white/10 text-gray-400 hover:border-white/30 hover:text-white"
             }`}
           >
-            {cat === "All" ? "Toutes" : cat}
+            {cat}
           </button>
         ))}
+
+        <div className="w-px h-6 bg-white/20 mx-2 hidden md:block"></div>
+
+        <div className="flex bg-white/5 p-1 rounded-lg border border-white/10 shrink-0 ml-auto mr-4">
+          {(["H", "F"] as const).map((gender) => (
+            <button
+              key={gender}
+              onClick={() => setSelectedGender(gender)}
+              className={`px-4 py-1.5 rounded-md font-bold uppercase tracking-wider text-xs transition-all ${
+                selectedGender === gender
+                  ? "bg-gradient-to-r from-[#4a00e0] to-[#ff007f] text-white shadow-md"
+                  : "text-gray-400 hover:text-white"
+              }`}
+            >
+              {gender === "H" ? "Hommes" : "Femmes"}
+            </button>
+          ))}
+        </div>
       </div>
 
       {/* Table */}
@@ -109,8 +126,8 @@ export default function Leaderboard() {
                 <th className="p-4 font-semibold hidden md:table-cell">
                   Catégorie
                 </th>
-                <th className="p-4 font-semibold text-right">Points</th>
-                <th className="p-4 font-semibold text-center">Victoires</th>
+                <th className="p-4 font-semibold text-right">Pts Challenge</th>
+                <th className="p-4 font-semibold text-center">Montée (Pts / Vict)</th>
               </tr>
             </thead>
             <tbody>
@@ -192,13 +209,16 @@ export default function Leaderboard() {
                         </span>
                       </td>
                       <td className="p-4 text-center">
-                        {rider.totalWins > 0 ? (
-                          <span className="flex items-center justify-center gap-1 text-yellow-400 font-bold">
-                            {rider.totalWins} <Trophy className="w-3 h-3" />
+                        <div className="flex flex-col items-center">
+                          <span className={`font-bold ${rider.totalPromotionPoints >= 25 ? 'text-green-400' : 'text-gray-300'}`}>
+                            {rider.totalPromotionPoints} <span className="text-xs text-gray-500 uppercase">pts</span>
                           </span>
-                        ) : (
-                          <span className="text-gray-600">-</span>
-                        )}
+                          {rider.totalWins > 0 && (
+                            <span className={`flex items-center gap-1 text-xs font-bold mt-1 ${rider.totalWins >= 2 ? 'text-green-400' : 'text-yellow-400'}`}>
+                              {rider.totalWins} <Trophy className="w-3 h-3" />
+                            </span>
+                          )}
+                        </div>
                       </td>
                     </tr>
                   ))
