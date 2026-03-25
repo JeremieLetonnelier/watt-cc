@@ -3,4404 +3,5138 @@
     "id": "ebtissam-zayed-ahmed-mohamed",
     "name": "Ebtissam Zayed Ahmed Mohamed",
     "club": "SPINTEUR CLUB FEMININ",
-    "category": "Not known category"
+    "category": "Not known category",
+    "gender": "F"
   },
   {
     "id": "kloe-saugrain",
     "name": "Kloé Saugrain",
     "club": "LA ROCHE SUR YON VENDEE CYCLISME",
-    "category": "Not known category"
+    "category": "Not known category",
+    "gender": "F"
   },
   {
     "id": "leane-verschelde",
     "name": "Leane Verschelde",
     "club": "VC ELANCOURT ST QUENTIN EN YVELINES TEAM VOUSSERT",
-    "category": "Open 1"
+    "category": "Open 1",
+    "gender": "F"
   },
   {
     "id": "addison-frank",
     "name": "Addison Frank",
     "club": "U.V.C.A TROYES",
-    "category": "Not known category"
+    "category": "Not known category",
+    "gender": "F"
   },
   {
     "id": "clementine-tessier",
     "name": "Clémentine Tessier",
     "club": "TEAM AVESNOIS",
-    "category": "Open 1"
+    "category": "Open 1",
+    "gender": "F"
   },
   {
     "id": "justine-le-bras",
     "name": "Justine Le Bras",
     "club": "VC ELANCOURT ST QUENTIN EN YVELINES TEAM VOUSSERT",
-    "category": "Open 2"
+    "category": "Open 2",
+    "gender": "F"
   },
   {
     "id": "zoe-lamotte",
     "name": "Zoé Lamotte",
     "club": "TEAM AVESNOIS",
-    "category": "Open 1"
+    "category": "Open 1",
+    "gender": "F"
   },
   {
     "id": "perine-vasseur",
     "name": "Périne Vasseur",
     "club": "SPRINTEUR CLUB FEMININ",
-    "category": "Open 3"
+    "category": "Open 3",
+    "gender": "F"
   },
   {
     "id": "cyrielle-hernault",
     "name": "Cyrielle Hernault",
     "club": "TEAM AVESNOIS",
-    "category": "Open 1"
+    "category": "Open 1",
+    "gender": "F"
   },
   {
     "id": "emmanuelle-dupont",
     "name": "Emmanuelle Dupont",
     "club": "SPRINTEUR CLUB FEMININ",
-    "category": "Open 3"
+    "category": "Open 3",
+    "gender": "F"
   },
   {
     "id": "romane-karpp",
     "name": "Romane Karpp",
     "club": "SPRINTEUR CLUB FEMININ",
-    "category": "Open 1"
+    "category": "Open 1",
+    "gender": "F"
   },
   {
     "id": "victoire-passelande",
     "name": "Victoire Passelande",
     "club": "PARIS CYCLISTE OLYMPIQUE",
-    "category": "Open 3"
+    "category": "Open 3",
+    "gender": "F"
   },
   {
     "id": "camille-fahy",
     "name": "Camille Fahy",
     "club": "U.V.C.A TROYES",
-    "category": "Not known category"
+    "category": "Not known category",
+    "gender": "F"
   },
   {
     "id": "roxanne-porlier",
     "name": "Roxanne Porlier",
     "club": "U.V.C.A TROYES",
-    "category": "Open 1"
+    "category": "Open 1",
+    "gender": "F"
   },
   {
     "id": "oceane-panor",
     "name": "Océane Panor",
     "club": "PARIS CYCLISTE OLYMPIQUE",
-    "category": "Open 3"
+    "category": "Open 3",
+    "gender": "F"
   },
   {
     "id": "cassandra-gaffe",
     "name": "Cassandra Gaffe",
     "club": "PARISIS A.C. 95",
-    "category": "Open 2"
+    "category": "Open 2",
+    "gender": "F"
   },
   {
     "id": "stella-andreazzoli",
     "name": "Stella Andreazzoli",
     "club": "CSM PUTEAUX",
-    "category": "Open 1"
+    "category": "Open 1",
+    "gender": "F"
   },
   {
     "id": "anaelle-brebant",
     "name": "Anaelle Brebant",
     "club": "VC ELANCOURT ST QUENTIN EN YVELINES TEAM VOUSSERT",
-    "category": "Open 3"
+    "category": "Open 3",
+    "gender": "F"
   },
   {
     "id": "alice-riobe",
     "name": "Alice Riobe",
     "club": "CLAMART CYCLISME 92",
-    "category": "Open 2"
+    "category": "Open 2",
+    "gender": "F"
   },
   {
     "id": "anais-hebinger",
     "name": "Anaïs Hebinger",
     "club": "VC ELANCOURT ST QUENTIN EN YVELINES TEAM VOUSSERT",
-    "category": "Open 3"
+    "category": "Open 3",
+    "gender": "F"
   },
   {
     "id": "lucie-verreaux",
     "name": "Lucie Verreaux",
     "club": "SPRINTEUR CLUB FEMININ",
-    "category": "Open 1"
+    "category": "Open 1",
+    "gender": "F"
   },
   {
     "id": "chloe-urbain",
     "name": "Chloé Urbain",
     "club": "VC MONTIGNY BRETONNEUX",
-    "category": "Open 3"
+    "category": "Open 3",
+    "gender": "F"
   },
   {
     "id": "claire-cassier",
     "name": "Claire Cassier",
     "club": "VC ELANCOURT ST QUENTIN EN YVELINES TEAM VOUSSERT",
-    "category": "Open 2"
+    "category": "Open 2",
+    "gender": "F"
   },
   {
     "id": "emma-galea",
     "name": "Emma Galea",
     "club": "SPRINTEUR CLUB FEMININ",
-    "category": "Open 2"
+    "category": "Open 2",
+    "gender": "F"
   },
   {
     "id": "coralie-ve-savina",
     "name": "Coralie Vé Savina",
     "club": "LO CLUB METROPOLITAIN",
-    "category": "Open 1"
+    "category": "Open 1",
+    "gender": "F"
   },
   {
     "id": "lise-lampin",
     "name": "Lise Lampin",
     "club": "CSM PUTEAUX",
-    "category": "Open 3"
+    "category": "Open 3",
+    "gender": "F"
   },
   {
     "id": "manon-buvat",
     "name": "Manon Buvat",
     "club": "UVCA TROYES",
-    "category": "Open 1"
+    "category": "Open 1",
+    "gender": "F"
   },
   {
     "id": "juliette-zante",
     "name": "Juliette Zante",
     "club": "UVCA TROYES",
-    "category": "Open 3"
+    "category": "Open 3",
+    "gender": "F"
   },
   {
     "id": "sophie-evrard",
     "name": "Sophie Evrard",
     "club": "BEAUVAIS TEAM CYCLISTE",
-    "category": "Open 3"
+    "category": "Open 3",
+    "gender": "F"
   },
   {
     "id": "melanie-labeyrie",
     "name": "Mélanie Labeyrie",
     "club": "CC NOGENT / OISE",
-    "category": "Open 1"
+    "category": "Open 1",
+    "gender": "F"
   },
   {
     "id": "aurore-hatet",
     "name": "Aurore Hatet",
     "club": "CSM PUTEAUX",
-    "category": "Open 3"
+    "category": "Open 3",
+    "gender": "F"
   },
   {
     "id": "leonie-leroux",
     "name": "Léonie Leroux",
     "club": "SPRINTEUR CLUB FEMININ",
-    "category": "Open 1"
+    "category": "Open 1",
+    "gender": "F"
   },
   {
     "id": "anaelle-evrard",
     "name": "Anaëlle Evrard",
     "club": "SPRINTEUR CLUB FEMININ",
-    "category": "Open 1"
+    "category": "Open 1",
+    "gender": "F"
   },
   {
     "id": "lou-nari",
     "name": "Lou Nari",
     "club": "VC MONTIGNY BRETONNEUX",
-    "category": "Open 3"
+    "category": "Open 3",
+    "gender": "F"
   },
   {
     "id": "louane-fragnoli",
     "name": "Louane Fragnoli",
     "club": "VC MONTIGNY BRETONNEUX",
-    "category": "Open 3"
+    "category": "Open 3",
+    "gender": "F"
   },
   {
     "id": "celeste-ferron",
     "name": "Céleste Ferron",
     "club": "PARIS CYCLISTE OLYMPIQUE",
-    "category": "Open 3"
+    "category": "Open 3",
+    "gender": "F"
   },
   {
     "id": "juliette-schoentjes",
     "name": "Juliette Schoentjes",
     "club": "PARIS CYCLISTE OLYMPIQUE",
-    "category": "Open 3"
+    "category": "Open 3",
+    "gender": "F"
   },
   {
     "id": "isabelle-chaput",
     "name": "Isabelle Chaput",
     "club": "AS MEUDON CYCLOSPORT COMPETITION",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "F"
   },
   {
     "id": "marine-lemey",
     "name": "Marine Lemey",
     "club": "WATT CYCLING CLUB",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "F"
   },
   {
     "id": "carine-leroy",
     "name": "Carine Leroy",
     "club": "AV THIAIS",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "F"
   },
   {
     "id": "maelle-le-lan",
     "name": "Maëlle Le Lan",
     "club": "CORBAS LYON METROPOLE",
-    "category": "Access 2"
+    "category": "Access 2",
+    "gender": "F"
   },
   {
     "id": "meriem-boumendjel",
     "name": "Meriem Boumendjel",
     "club": "SPRINTEUR CLUB FEMININ",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "F"
   },
   {
     "id": "alyzee-henin",
     "name": "Alyzée Henin",
     "club": "PARISIS A.C. 95",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "F"
   },
   {
     "id": "france-orain",
     "name": "France Orain",
     "club": "WATT CYCLING CLUB",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "F"
   },
   {
     "id": "charlotte-nidercorne",
     "name": "Charlotte Nidercorne",
     "club": "AV THIAIS",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "F"
   },
   {
     "id": "jade-antolini",
     "name": "Jade Antolini",
     "club": "AV THIAIS",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "F"
   },
   {
     "id": "maeva-letailleur",
     "name": "Maëva Letailleur",
     "club": "AVENIR CYCLISTE DE LARDY",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "F"
   },
   {
     "id": "stephanie-koenig",
     "name": "Stéphanie Koenig",
     "club": "COURBEVOIE SPORTS CYCLISME",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "F"
   },
   {
     "id": "melanie-davoust",
     "name": "Mélanie Davoust",
     "club": "PARIS CYCLISTE OLYMPIQUE",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "F"
   },
   {
     "id": "margot-lariviere",
     "name": "Margot Lariviere",
     "club": "VC MONTIGNY BRETONNEUX",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "F"
   },
   {
     "id": "zlata-stocard",
     "name": "Zlata Stocard",
     "club": "TEAM CYCLISTES ECHAPPEE 77",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "F"
   },
   {
     "id": "sarah-vatonne",
     "name": "Sarah Vatonne",
     "club": "AV THIAIS",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "F"
   },
   {
     "id": "julie-monot",
     "name": "Julie Monot",
     "club": "WATT CYCLING CLUB",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "F"
   },
   {
     "id": "cassidy-slockett",
     "name": "Cassidy Slockett",
     "club": "AV THIAIS",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "F"
   },
   {
     "id": "laure-fourey",
     "name": "Laure Fourey",
     "club": "WATT CYCLING CLUB",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "F"
   },
   {
     "id": "angele-peigue",
     "name": "Angèle Peigue",
     "club": "WATT CYCLING CLUB",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "F"
   },
   {
     "id": "diane-morin",
     "name": "Diane Morin",
     "club": "WATT CYCLING CLUB",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "F"
   },
   {
     "id": "victoria-ayayi",
     "name": "Victoria Ayayi",
     "club": "WATT CYCLING CLUB",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "F"
   },
   {
     "id": "florence-mayet-smeekens",
     "name": "Florence Mayet Smeekens",
     "club": "CLAMART CYCLISME 92",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "F"
   },
   {
     "id": "eric-gurgey",
     "name": "Eric Gurgey",
     "club": "PARISIS A.C. 95",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "arthur-moret",
     "name": "Arthur Moret",
     "club": "CSM PUTEAUX",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "willan-maloum",
     "name": "Willan Maloum",
     "club": "ENTENTE CYCLISTE AULNAY DRANCY 93",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "david-houdouin",
     "name": "David Houdouin",
     "club": "VELO CLUB ARPAJON",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "nael-klising",
     "name": "Nael Klising",
     "club": "VC MUREAUX",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "james-brack",
     "name": "James Brack",
     "club": "PROGRESSS CLUB",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "romain-tourrier",
     "name": "Romain Tourrier",
     "club": "EC MONTGERON VIGNEUX",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "clement-fardeau",
     "name": "Clément Fardeau",
     "club": "EC MONTGERON VIGNEUX",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "clement-caillard",
     "name": "Clément Caillard",
     "club": "PARIS CYCLISTE OLYMPIQUE",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "christophe-matrat",
     "name": "Christophe Matrat",
     "club": "CC COULOMMIERS",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "mikael-craz",
     "name": "Mikael Craz",
     "club": "LAGNY PONTCARRE CYC.",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "stephane-legrand",
     "name": "Stéphane Legrand",
     "club": "US RIS ORANGIS",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "sebastien-bourreau",
     "name": "Sébastien Bourreau",
     "club": "TEAM CYCLISTES ECHAPPEE 77",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "remy-ferreira-oliveira",
     "name": "Rémy Ferreira Oliveira",
     "club": "CC COULOMMIERS",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "jessy-baratiny",
     "name": "Jessy Baratiny",
     "club": "US NEMOURS ST PIERRE",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "olivier-cherrier",
     "name": "Olivier Cherrier",
     "club": "EC MONTGERON VIGNEUX",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "maxime-goic",
     "name": "Maxime Goic",
     "club": "A. C. B. B.",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "alexis-ronxin",
     "name": "Alexis Ronxin",
     "club": "GUIDON CHALETTOIS",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "cedric-bermont",
     "name": "Cédric Bermont",
     "club": "ES PERSANAISE",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "james-seremes",
     "name": "James Seremes",
     "club": "AIRPORT A.O.C. WISSOUS",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "francois-souman",
     "name": "François Souman",
     "club": "PARIS CYCLISTE OLYMPIQUE",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "laurent-beillevert",
     "name": "Laurent Beillevert",
     "club": "UC GIEN SPORT",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "maxime-bindel",
     "name": "Maxime Bindel",
     "club": "CLAMART CYCLISME 92",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "raphael-laurain",
     "name": "Raphaël Laurain",
     "club": "WATT CYCLING CLUB",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "julien-nicolet",
     "name": "Julien Nicolet",
     "club": "GUIDON PROVINOIS",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "gaetan-denot",
     "name": "Gaëtan Denot",
     "club": "PARIS CYCLISTE OLYMPIQUE",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "romain-communier",
     "name": "Romain Communier",
     "club": "ENTENTE CYCLISTE AULNAY DRANCY 93",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "jerome-hanol",
     "name": "Jérôme Hanol",
     "club": "TEAM CYCLISTES ECHAPPEE 77",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "keo-pignot",
     "name": "Kéo Pignot",
     "club": "WATT CYCLING CLUB",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "tom-gaboriau",
     "name": "Tom Gaboriau",
     "club": "VC HERBRETAIS",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "carlo-berni",
     "name": "Carlo Berni",
     "club": "PARIS CYCLISTE OLYMPIQUE",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "frederic-hautecoeur",
     "name": "Frederic Hautecoeur",
     "club": "GUIDON PROVINOIS",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "gerard-matrat",
     "name": "Gérard Matrat",
     "club": "EC DU HOUDANAIS",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "loic-lenvoise",
     "name": "Loïc Lenvoise",
     "club": "CSM PUTEAUX",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "adrien-roland",
     "name": "Adrien Roland",
     "club": "AIRPORT A.O.C. WISSOUS",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "alexandre-mehay",
     "name": "Alexandre Mehay",
     "club": "JS FERTE GAUCHER",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "jeremy-bevre",
     "name": "Jérémy Bevre",
     "club": "VC FONTAINEBLEAU AVON",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "clement-jeuffroy",
     "name": "Clément Jeuffroy",
     "club": "VC SAINT-MAMMES",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "ilian-ferguenis",
     "name": "Ilian Ferguenis",
     "club": "WATT CYCLING CLUB",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "louis-bescond",
     "name": "Louis Bescond",
     "club": "VC SAINT-MAMMES",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "mael-gerard",
     "name": "Maël Gerard",
     "club": "PARIS CYCLISTE OLYMPIQUE",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "thomas-plessis",
     "name": "Thomas Plessis",
     "club": "ENTENTE CYCLISTE AULNAY DRANCY 93",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "aymeric-guepet",
     "name": "Aymeric Guepet",
     "club": "PARIS CYCLISTE OLYMPIQUE",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "thomas-ide",
     "name": "Thomas Ide",
     "club": "PARISIS A.C. 95",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "ethan-conus",
     "name": "Ethan Conus",
     "club": "EC MONTGERON VIGNEUX",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "raphael-grept",
     "name": "Raphaël Grept",
     "club": "CSM PUTEAUX",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "loic-lebrec",
     "name": "Loic Lebrec",
     "club": "WATT CYCLING CLUB",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "baptiste-cadiot",
     "name": "Baptiste Cadiot",
     "club": "PARIS CYCLISTE OLYMPIQUE",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "christian-haultcoeur",
     "name": "Christian Haultcoeur",
     "club": "VC TOUCY",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "alexandre-curron",
     "name": "Alexandre Curron",
     "club": "EC MONTGERON VIGNEUX",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "sebastien-guine",
     "name": "Sébastien Guine",
     "club": "VC FONTAINEBLEAU AVON",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "timothee-de-cosnac",
     "name": "Timothée De Cosnac",
     "club": "CSM PUTEAUX",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "loic-jacquart",
     "name": "Loïc Jacquart",
     "club": "VC FONTAINEBLEAU AVON",
-    "category": "Access 2"
+    "category": "Access 2",
+    "gender": "H"
   },
   {
     "id": "laurent-liger",
     "name": "Laurent Liger",
     "club": "ES STAINS-CYCLISME",
-    "category": "Access 2"
+    "category": "Access 2",
+    "gender": "H"
   },
   {
     "id": "romain-sautrau",
     "name": "Romain Sautrau",
     "club": "PARIS CYCLISTE OLYMPIQUE",
-    "category": "Access 2"
+    "category": "Access 2",
+    "gender": "H"
   },
   {
     "id": "jean-philippe-lanfranchi",
     "name": "Jean Philippe Lanfranchi",
     "club": "VC FONTAINEBLEAU AVON",
-    "category": "Access 2"
+    "category": "Access 2",
+    "gender": "H"
   },
   {
     "id": "romain-libault",
     "name": "Romain Libault",
     "club": "ST DENIS HOTEL CYCLISME",
-    "category": "Access 2"
+    "category": "Access 2",
+    "gender": "H"
   },
   {
     "id": "jerome-albert",
     "name": "Jérôme Albert",
     "club": "WATT CYCLING CLUB",
-    "category": "Access 2"
+    "category": "Access 2",
+    "gender": "H"
   },
   {
     "id": "michael-adan",
     "name": "Michael Adan",
     "club": "AS CORBEIL ESSONNES",
-    "category": "Access 2"
+    "category": "Access 2",
+    "gender": "H"
   },
   {
     "id": "joel-naturel",
     "name": "Joël Naturel",
     "club": "VC FONTAINEBLEAU AVON",
-    "category": "Access 2"
+    "category": "Access 2",
+    "gender": "H"
   },
   {
     "id": "anthony-pillot",
     "name": "Anthony Pillot",
     "club": "US NEMOURS ST PIERRE",
-    "category": "Access 2"
+    "category": "Access 2",
+    "gender": "H"
   },
   {
     "id": "edie-atride",
     "name": "Edie Atride",
     "club": "ENTENTE CYCLISTE AULNAY DRANCY 93",
-    "category": "Access 2"
+    "category": "Access 2",
+    "gender": "H"
   },
   {
     "id": "pierre-yves-chaboche",
     "name": "Pierre Yves Chaboche",
     "club": "CC PONTHIERRY PRINGY",
-    "category": "Access 2"
+    "category": "Access 2",
+    "gender": "H"
   },
   {
     "id": "jean-louis-ulce",
     "name": "Jean Louis Ulce",
     "club": "PARIS CYCLISTE OLYMPIQUE",
-    "category": "Access 2"
+    "category": "Access 2",
+    "gender": "H"
   },
   {
     "id": "gael-sanitas",
     "name": "Gael Sanitas",
     "club": "GUIDON PROVINOIS",
-    "category": "Access 2"
+    "category": "Access 2",
+    "gender": "H"
   },
   {
     "id": "morgan-ansermin",
     "name": "Morgan Ansermin",
     "club": "CC COULOMMIERS",
-    "category": "Access 2"
+    "category": "Access 2",
+    "gender": "H"
   },
   {
     "id": "fabrice-boisgibault",
     "name": "Fabrice Boisgibault",
     "club": "VC SULPICIEN",
-    "category": "Access 2"
+    "category": "Access 2",
+    "gender": "H"
   },
   {
     "id": "pascal-halko",
     "name": "Pascal Halko",
     "club": "LICENCE INDIVIDUELLE",
-    "category": "Access 2"
+    "category": "Access 2",
+    "gender": "H"
   },
   {
     "id": "thierry-font-lapalisse",
     "name": "Thierry Font Lapalisse",
     "club": "AVENIR CYCLISTE DE LARDY",
-    "category": "Access 2"
+    "category": "Access 2",
+    "gender": "H"
   },
   {
     "id": "juan-manuel-garcia",
     "name": "Juan Manuel Garcia",
     "club": "VC SULPICIEN",
-    "category": "Access 2"
+    "category": "Access 2",
+    "gender": "H"
   },
   {
     "id": "arnaud-verhooghe",
     "name": "Arnaud Verhooghe",
     "club": "VC ELANCOURT ST QUENTIN EN YVELINES TEAM VOUSSERT",
-    "category": "Access 2"
+    "category": "Access 2",
+    "gender": "H"
   },
   {
     "id": "eric-tumoine",
     "name": "Eric Tumoine",
     "club": "VC VINCENNES",
-    "category": "Access 2"
+    "category": "Access 2",
+    "gender": "H"
   },
   {
     "id": "eric-boucheret",
     "name": "Eric Boucheret",
     "club": "VC SULPICIEN",
-    "category": "Access 2"
+    "category": "Access 2",
+    "gender": "H"
   },
   {
     "id": "thierry-de-verdelhan",
     "name": "Thierry De Verdelhan",
     "club": "VC FONTAINEBLEAU AVON",
-    "category": "Access 2"
+    "category": "Access 2",
+    "gender": "H"
   },
   {
     "id": "yannick-duranti",
     "name": "Yannick Duranti",
     "club": "PEDALE COMBS LA VILLAISE",
-    "category": "Access 2"
+    "category": "Access 2",
+    "gender": "H"
   },
   {
     "id": "lahsen-arhla",
     "name": "Lahsen Arhla",
     "club": "USM GAGNY",
-    "category": "Access 2"
+    "category": "Access 2",
+    "gender": "H"
   },
   {
     "id": "samy-bougaa",
     "name": "Samy Bougaa",
     "club": "PARIS CYCLISTE OLYMPIQUE",
-    "category": "Access 2"
+    "category": "Access 2",
+    "gender": "H"
   },
   {
     "id": "anthony-lemoine",
     "name": "Anthony Lemoine",
     "club": "US NEMOURS ST PIERRE",
-    "category": "Access 2"
+    "category": "Access 2",
+    "gender": "H"
   },
   {
     "id": "jerome-pelletier",
     "name": "Jérôme Pelletier",
     "club": "VELO CLUB ARPAJON",
-    "category": "Access 2"
+    "category": "Access 2",
+    "gender": "H"
   },
   {
     "id": "christophe-perricot",
     "name": "Christophe Perricot",
     "club": "US NEMOURS ST PIERRE",
-    "category": "Access 2"
+    "category": "Access 2",
+    "gender": "H"
   },
   {
     "id": "franck-bereck",
     "name": "Franck Bereck",
     "club": "US NEMOURS ST PIERRE",
-    "category": "Access 2"
+    "category": "Access 2",
+    "gender": "H"
   },
   {
     "id": "pascal-casanova",
     "name": "Pascal Casanova",
     "club": "US NEMOURS ST PIERRE",
-    "category": "Access 2"
+    "category": "Access 2",
+    "gender": "H"
   },
   {
     "id": "yvon-pater",
     "name": "Yvon Pater",
     "club": "ENTENTE CYCLISTE AULNAY DRANCY 93",
-    "category": "Access 2"
+    "category": "Access 2",
+    "gender": "H"
   },
   {
     "id": "thibault-audard",
     "name": "Thibault Audard",
     "club": "VC FONTAINEBLEAU AVON",
-    "category": "Access 2"
+    "category": "Access 2",
+    "gender": "H"
   },
   {
     "id": "guillaume-maviel",
     "name": "Guillaume Maviel",
     "club": "ANTONY BERNY CYCLISTE",
-    "category": "Access 2"
+    "category": "Access 2",
+    "gender": "H"
   },
   {
     "id": "matthieu-oliveira",
     "name": "Matthieu Oliveira",
     "club": "PEDALE COMBS LA VILLAISE",
-    "category": "Access 2"
+    "category": "Access 2",
+    "gender": "H"
   },
   {
     "id": "julien-guyard",
     "name": "Julien Guyard",
     "club": "CM AUBERVILLIERS 93",
-    "category": "Access 2"
+    "category": "Access 2",
+    "gender": "H"
   },
   {
     "id": "gregoire-bonnet",
     "name": "Gregoire Bonnet",
     "club": "VC FONTAINEBLEAU AVON",
-    "category": "Access 2"
+    "category": "Access 2",
+    "gender": "H"
   },
   {
     "id": "pierre-michael-villemin",
     "name": "Pierre Michaël Villemin",
     "club": "CSM PUTEAUX",
-    "category": "Access 2"
+    "category": "Access 2",
+    "gender": "H"
   },
   {
     "id": "jean-philippe-vindex",
     "name": "Jean Philippe Vindex",
     "club": "PARIS CYCLISTE OLYMPIQUE",
-    "category": "Access 2"
+    "category": "Access 2",
+    "gender": "H"
   },
   {
     "id": "jordan-geenen",
     "name": "Jordan Geenen",
     "club": "CSM PUTEAUX",
-    "category": "Access 2"
+    "category": "Access 2",
+    "gender": "H"
   },
   {
     "id": "vivien-samson",
     "name": "Vivien Samson",
     "club": "CM AUBERVILLIERS 93",
-    "category": "Access 2"
+    "category": "Access 2",
+    "gender": "H"
   },
   {
     "id": "olivier-marescq",
     "name": "Olivier Marescq",
     "club": "USM GAGNY",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "H"
   },
   {
     "id": "sebastien-foucher",
     "name": "Sébastien Foucher",
     "club": "GUIDON CHALETTOIS",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "H"
   },
   {
     "id": "romain-hymonnet",
     "name": "Romain Hymonnet",
     "club": "VC FONTAINEBLEAU AVON",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "H"
   },
   {
     "id": "laurent-sartori",
     "name": "Laurent Sartori",
     "club": "VC FONTAINEBLEAU AVON",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "H"
   },
   {
     "id": "laurent-mettendorff",
     "name": "Laurent Mettendorff",
     "club": "AVENIR CYCLISTE DE LARDY",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "H"
   },
   {
     "id": "gilles-hoffmann",
     "name": "Gilles Hoffmann",
     "club": "US MAULE CYCLISME",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "H"
   },
   {
     "id": "abderraouf-ushaah",
     "name": "Abderraouf Ushaah",
     "club": "ENTENTE CYCLISTE AULNAY DRANCY 93",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "H"
   },
   {
     "id": "luis-oliveira-da-rocha",
     "name": "Luis Oliveira Da Rocha",
     "club": "ENTENTE CYCLISTE AULNAY DRANCY 93",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "H"
   },
   {
     "id": "thierry-van-vetteren",
     "name": "Thierry Van Vetteren",
     "club": "SE PAVILLONNAIS",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "H"
   },
   {
     "id": "thierry-tissier",
     "name": "Thierry Tissier",
     "club": "TEAM PELTRAX - CSD",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "H"
   },
   {
     "id": "patrick-jouas",
     "name": "Patrick Jouas",
     "club": "AC ORSAY",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "H"
   },
   {
     "id": "stefano-berlucchi",
     "name": "Stefano Berlucchi",
     "club": "CSM PUTEAUX",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "H"
   },
   {
     "id": "jean-marie-passelande",
     "name": "Jean Marie Passelande",
     "club": "PARIS CYCLISTE OLYMPIQUE",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "H"
   },
   {
     "id": "sebastien-michel",
     "name": "Sebastien Michel",
     "club": "AS CORBEIL ESSONNES",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "H"
   },
   {
     "id": "jean-marc-bengala",
     "name": "Jean Marc Bengala",
     "club": "ENTENTE CYCLISTE AULNAY DRANCY 93",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "H"
   },
   {
     "id": "alexandre-sarabia",
     "name": "Alexandre Sarabia",
     "club": "PEDALE COMBS LA VILLAISE",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "H"
   },
   {
     "id": "cyril-caillot",
     "name": "Cyril Caillot",
     "club": "VELO CLUB DU SENONAIS",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "H"
   },
   {
     "id": "michel-jeuffroy",
     "name": "Michel Jeuffroy",
     "club": "VC SAINT-MAMMES",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "H"
   },
   {
     "id": "laurent-jeuffroy",
     "name": "Laurent Jeuffroy",
     "club": "VC SAINT-MAMMES",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "H"
   },
   {
     "id": "pascal-foucher",
     "name": "Pascal Foucher",
     "club": "GUIDON CHALETTOIS",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "H"
   },
   {
     "id": "jose-barbosa",
     "name": "José Barbosa",
     "club": "TEAM PELTRAX - CSD",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "H"
   },
   {
     "id": "christian-desroches",
     "name": "Christian Desroches",
     "club": "TROPIKANA",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "H"
   },
   {
     "id": "olivier-geminne",
     "name": "Olivier Geminne",
     "club": "VELO CLUB DU SENONAIS",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "H"
   },
   {
     "id": "stephane-arnicot",
     "name": "Stéphane Arnicot",
     "club": "CC PONTHIERRY PRINGY",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "H"
   },
   {
     "id": "christophe-gurhem",
     "name": "Christophe Gurhem",
     "club": "JS FERTE GAUCHER",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "H"
   },
   {
     "id": "frederic-fardeau",
     "name": "Frédéric Fardeau",
     "club": "EC MONTGERON VIGNEUX",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "H"
   },
   {
     "id": "david-libre",
     "name": "David Libre",
     "club": "PEDALE COMBS LA VILLAISE",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "H"
   },
   {
     "id": "christophe-dos-santos",
     "name": "Christophe Dos Santos",
     "club": "AS PUISEAUX",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "H"
   },
   {
     "id": "christophe-foucher",
     "name": "Christophe Foucher",
     "club": "GUIDON CHALETTOIS",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "H"
   },
   {
     "id": "laurent-lemaitre",
     "name": "Laurent Lemaitre",
     "club": "ES STAINS-CYCLISME",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "H"
   },
   {
     "id": "patrick-beaulieu",
     "name": "Patrick Beaulieu",
     "club": "VC FONTAINEBLEAU AVON",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "H"
   },
   {
     "id": "laurent-wetzstein",
     "name": "Laurent Wetzstein",
     "club": "TEAM PELTRAX - CSD",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "H"
   },
   {
     "id": "didier-maria",
     "name": "Didier Maria",
     "club": "US NEMOURS ST PIERRE",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "H"
   },
   {
     "id": "thierry-le-mat",
     "name": "Thierry Le Mat",
     "club": "CC MENNECY VILLEROY",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "H"
   },
   {
     "id": "olivier-thonier",
     "name": "Olivier Thonier",
     "club": "PARIS CYCLISTE OLYMPIQUE",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "H"
   },
   {
     "id": "denis-renaudie",
     "name": "Denis Renaudie",
     "club": "VC SULPICIEN",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "H"
   },
   {
     "id": "christophe-meunier",
     "name": "Christophe Meunier",
     "club": "VELO CLUB DU SENONAIS",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "H"
   },
   {
     "id": "gael-boutin",
     "name": "Gaël Boutin",
     "club": "CC COULOMMIERS",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "H"
   },
   {
     "id": "jerome-rat",
     "name": "Jerome Rat",
     "club": "PEDALE COMBS LA VILLAISE",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "H"
   },
   {
     "id": "anouar-hitmi",
     "name": "Anouar Hitmi",
     "club": "US MAULE CYCLISME",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "H"
   },
   {
     "id": "benoit-gauthier",
     "name": "Benoit Gauthier",
     "club": "PEDALE COMBS LA VILLAISE",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "H"
   },
   {
     "id": "severin-plossard",
     "name": "Séverin Plossard",
     "club": "EC MONTGERON VIGNEUX",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "H"
   },
   {
     "id": "jean-marc-faune",
     "name": "Jean Marc Faune",
     "club": "TROPIKANA",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "H"
   },
   {
     "id": "philippe-garnier",
     "name": "Philippe Garnier",
     "club": "CM AUBERVILLIERS 93",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "H"
   },
   {
     "id": "alexis-louvet",
     "name": "Alexis Louvet",
     "club": "CM AUBERVILLIERS 93",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "H"
   },
   {
     "id": "cyrille-douru",
     "name": "Cyrille Douru",
     "club": "VELO CLUB DU SENONAIS",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "H"
   },
   {
     "id": "stephane-loyer",
     "name": "Stéphane Loyer",
     "club": "VC SULPICIEN",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "H"
   },
   {
     "id": "didier-prat",
     "name": "Didier Prat",
     "club": "VC SAINT-MAMMES",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "H"
   },
   {
     "id": "thedy-zonzon",
     "name": "Thedy Zonzon",
     "club": "TROPIKANA",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "H"
   },
   {
     "id": "arnaud-lardon",
     "name": "Arnaud Lardon",
     "club": "VC FONTAINEBLEAU AVON",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "H"
   },
   {
     "id": "alain-brunet",
     "name": "Alain Brunet",
     "club": "VC ELANCOURT ST QUENTIN EN YVELINES TEAM VOUSSERT",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "fabrice-monteverdi",
     "name": "Fabrice Monteverdi",
     "club": "US NEMOURS ST PIERRE",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "josue-demare",
     "name": "Josué Demare",
     "club": "CC FORMERIE",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "jose-marujo",
     "name": "José Marujo",
     "club": "LA PÉ DALE FERTOISE",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "luc-leonard",
     "name": "Luc Leonard",
     "club": "VELO CLUB DU SENONAIS",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "loic-saunier",
     "name": "Loïc Saunier",
     "club": "VC FONTAINEBLEAU AVON",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "serge-legentil",
     "name": "Serge Legentil",
     "club": "PEDALE COMBS LA VILLAISE",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "farid-achache",
     "name": "Farid Achache",
     "club": "US MAULE CYCLISME",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "philippe-bardin",
     "name": "Philippe Bardin",
     "club": "VC SULPICIEN",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "jean-marius-vesanes",
     "name": "Jean Marius Vesanes",
     "club": "TROPIKANA",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "amarilio-da-silva",
     "name": "Amarilio Da Silva",
     "club": "VC FONTAINEBLEAU AVON",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "cedric-lecocq-vassort",
     "name": "Cédric Lecocq Vassort",
     "club": "AVENIR CYCLISTE DE LARDY",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "elie-patrick-doranges",
     "name": "Elie Patrick Doranges",
     "club": "TROPIKANA",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "bruno-valenti",
     "name": "Bruno Valenti",
     "club": "SE PAVILLONNAIS",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "laurent-luang-aphay",
     "name": "Laurent Luang Aphay",
     "club": "VC FONTAINEBLEAU AVON",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "michel-avale",
     "name": "Michel Avale",
     "club": "US NEMOURS ST PIERRE",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "dominique-bevre",
     "name": "Dominique Bevre",
     "club": "US NEMOURS ST PIERRE",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "yannick-bevre",
     "name": "Yannick Bevre",
     "club": "US NEMOURS ST PIERRE",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "michel-pillot",
     "name": "Michel Pillot",
     "club": "US NEMOURS ST PIERRE",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "gabriel-hitmi",
     "name": "Gabriel Hitmi",
     "club": "AS HERBLAY",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "thierry-guillemin",
     "name": "Thierry Guillemin",
     "club": "EC MONTGERON VIGNEUX",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "jean-marc-revereau",
     "name": "Jean Marc Revereau",
     "club": "CC PONTHIERRY PRINGY",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "michel-brocque",
     "name": "Michel Brocque",
     "club": "ENTENTE CYCLISTE AULNAY DRANCY 93",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "etienne-aublet",
     "name": "Etienne Aublet",
     "club": "EC MONTGERON VIGNEUX",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "frederic-seguin",
     "name": "Frédéric Seguin",
     "club": "TEAM PELTRAX - CSD",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "jean-philippe-gonzo",
     "name": "Jean Philippe Gonzo",
     "club": "VC FONTAINEBLEAU AVON",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "michel-curron",
     "name": "Michel Curron",
     "club": "EC MONTGERON VIGNEUX",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "cecile-quillacq",
     "name": "Cécile Quillacq",
     "club": "US NEMOURS ST PIERRE",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "F"
   },
   {
     "id": "vitor-da-costa-martins",
     "name": "Vitor Da Costa Martins",
     "club": "VC FONTAINEBLEAU AVON",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "franck-arnicot",
     "name": "Franck Arnicot",
     "club": "CC PONTHIERRY PRINGY",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "nathalie-tavernier",
     "name": "Nathalie Tavernier",
     "club": "VC SULPICIEN",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "F"
   },
   {
     "id": "claude-posenato",
     "name": "Claude Posenato",
     "club": "VELO CLUB DU SENONAIS",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "jean-pierre-gallois",
     "name": "Jean Pierre Gallois",
     "club": "MELUN CYCL. ORGANISATION",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "jose-rainnouard",
     "name": "José Rainnouard",
     "club": "VELO CLUB DU SENONAIS",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "wilfried-durand",
     "name": "Wilfried Durand",
     "club": "VC SULPICIEN",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "jean-louis-borroz",
     "name": "Jean Louis Borroz",
     "club": "JS FERTE GAUCHER",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "patrice-verger",
     "name": "Patrice Verger",
     "club": "VC SULPICIEN",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "frederic-renon",
     "name": "Frederic Renon",
     "club": "PEDALE COMBS LA VILLAISE",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "denis-frere",
     "name": "Denis Frere",
     "club": "LICENCE INDIVIDUELLE",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "gilles-hervillard",
     "name": "Gilles Hervillard",
     "club": "CC COULOMMIERS",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "patrick-lerouge",
     "name": "Patrick Lerouge",
     "club": "GUIDON CHALETTOIS",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "patrick-jeanjean",
     "name": "Patrick Jeanjean",
     "club": "CSM PUTEAUX",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "carlos-de-oliveira",
     "name": "Carlos De Oliveira",
     "club": "TEAM PELTRAX - CSD",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "philippe-fourmont",
     "name": "Philippe Fourmont",
     "club": "CC MENNECY VILLEROY",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "laurent-nuguet",
     "name": "Laurent Nuguet",
     "club": "VC FONTAINEBLEAU AVON",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "philippe-wegener",
     "name": "Philippe Wegener",
     "club": "US PEGOMAS CYCLISME",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "manuel-faria",
     "name": "Manuel Faria",
     "club": "LA PÉ DALE FERTOISE",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "eric-chavanneau",
     "name": "Eric Chavanneau",
     "club": "US NEMOURS ST PIERRE",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "dominique-lhomme",
     "name": "Dominique Lhomme",
     "club": "US NEMOURS ST PIERRE",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "laurent-gambirasio",
     "name": "Laurent Gambirasio",
     "club": "USM GAGNY",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "jean-marilin-cita",
     "name": "Jean Marilin Cita",
     "club": "TROPIKANA",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "didier-dunis",
     "name": "Didier Dunis",
     "club": "GUIDON CHALETTOIS",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "jean-francois-duguey",
     "name": "Jean François Duguey",
     "club": "AS PUISEAUX",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "stephane-gault",
     "name": "Stéphane Gault",
     "club": "TEAM PELTRAX - CSD",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "jean-claude-azemard",
     "name": "Jean Claude Azemard",
     "club": "CM AUBERVILLIERS 93",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "stephane-devillers",
     "name": "Stéphane Devillers",
     "club": "US ALFORTVILLE CYCLISME",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "joel-frisquet",
     "name": "Joël Frisquet",
     "club": "VELO CLUB DU SENONAIS",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "yves-lamouche",
     "name": "Yves Lamouche",
     "club": "LICENCE INDIVIDUELLE",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "thomas-chereau",
     "name": "Thomas Chereau",
     "club": "TEAM PELTRAX - CSD",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "philippe-metais",
     "name": "Philippe Metais",
     "club": "VELO CLUB DU SENONAIS",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "herve-boutte",
     "name": "Hervé Boutte",
     "club": "CC PONTHIERRY PRINGY",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "ernest-nice",
     "name": "Ernest Nice",
     "club": "JEAN TROPIKANA",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "judes-chelamie",
     "name": "Judes Chelamie",
     "club": "TROPIKANA",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "vincent-joel-rosele",
     "name": "Vincent Joel Rosele",
     "club": "TROPIKANA",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "stanislas-simon",
     "name": "Stanislas Simon",
     "club": "CLAMART CYCLISME 92",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "gregory-ortiz",
     "name": "Grégory Ortiz",
     "club": "GUIDON PROVINOIS",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "benjamin-vincent",
     "name": "Benjamin Vincent",
     "club": "ANTONY BERNY CYCLISTE",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "hugo-jezequel",
     "name": "Hugo Jezequel",
     "club": "AV THIAIS",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "alexandre-merlette",
     "name": "Alexandre Merlette",
     "club": "A. SOISY ENGHIEN LA BARRE",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "damien-charlot",
     "name": "Damien Charlot",
     "club": "LA PÉ DALE FERTOISE",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "anthony-maroni",
     "name": "Anthony Maroni",
     "club": "AVENIR DU VAL DE MARNE",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "ambroise-le-breton",
     "name": "Ambroise Le Breton",
     "club": "US GUERANDE CYCLISME",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "jeremie-faulcon",
     "name": "Jérémie Faulcon",
     "club": "KRONOS ACADEMY PARIS SACLAY",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "raphael-chevalier-duflot",
     "name": "Raphaël Chevalier Duflot",
     "club": "WATT CYCLING CLUB",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "gregory-carlin",
     "name": "Grégory Carlin",
     "club": "PROGRESSS CLUB",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "thomas-fournier",
     "name": "Thomas Fournier",
     "club": "SCO CYCLISME ANGERS",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "antoine-mouton",
     "name": "Antoine Mouton",
     "club": "AVENIR CYCLISTE DE LARDY",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "clement-gaidamour",
     "name": "Clement Gaidamour",
     "club": "CLAMART CYCLISME 92",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "enzo-huyghe",
     "name": "Enzo Huyghe",
     "club": "O GRANDE SYNTHE",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "gildas-couillard",
     "name": "Gildas Couillard",
     "club": "CV DIONYSIEN",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "thibault-freby",
     "name": "Thibault Freby",
     "club": "CLAMART CYCLISME 92",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "antoine-colemont",
     "name": "Antoine Colemont",
     "club": "PASS DECOUVERTE",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "antoine-edwige",
     "name": "Antoine Edwige",
     "club": "WATT CYCLING CLUB",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "thomas-buttiens",
     "name": "Thomas Buttiens",
     "club": "CLAMART CYCLISME 92",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "julien-petitfourg",
     "name": "Julien Petitfourg",
     "club": "VC GARENNOIS",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "ethane-hoffmann",
     "name": "Ethane Hoffmann",
     "club": "VAL D'OISE CYCLISTE",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "maxime-guiton",
     "name": "Maxime Guiton",
     "club": "US MAULE CYCLISME",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "dimitri-aluze",
     "name": "Dimitri Aluze",
     "club": "VELO CLUB ARPAJON",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "baptiste-renaut-brkic",
     "name": "Baptiste Renaut Brkic",
     "club": "AVENIR CYCLISTE DE LARDY",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "nicolas-jarrige",
     "name": "Nicolas Jarrige",
     "club": "VELO CLUB ARPAJON",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "corentin-khatir",
     "name": "Corentin Khatir",
     "club": "ENTENTE CYCLISTE AULNAY DRANCY 93",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "nicolas-meunier",
     "name": "Nicolas Meunier",
     "club": "VAL D'OISE CYCLISTE",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "camille-beaumont",
     "name": "Camille Beaumont",
     "club": "CV DIONYSIEN",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "hugo-papin",
     "name": "Hugo Papin",
     "club": "USM GAGNY",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "raphael-lhuillier",
     "name": "Raphael Lhuillier",
     "club": "ANTONY BERNY CYCLISTE",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "louis-marie-hochet",
     "name": "Louis Marie Hochet",
     "club": "VC MONTIGNY BRETONNEUX",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "arthur-grosse",
     "name": "Arthur Grosse",
     "club": "AV THIAIS",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "denis-hoffmann",
     "name": "Denis Hoffmann",
     "club": "VAL D'OISE CYCLISTE",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "romain-leconte",
     "name": "Romain Leconte",
     "club": "AVENIR CYCLISTE DE LARDY",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "jean-philippe-gonzalez",
     "name": "Jean Philippe Gonzalez",
     "club": "AV THIAIS",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "louis-mesmin",
     "name": "Louis Mesmin",
     "club": "COURBEVOIE SPORTS CYCLISME",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "kevin-ange-plaissy",
     "name": "Kevin Ange Plaissy",
     "club": "LA PÉ DALE FERTOISE",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "lara-lallemant",
     "name": "Lara Lallemant",
     "club": "CSM VILLENEUVE LA GARENNE",
-    "category": "Not known category"
+    "category": "Not known category",
+    "gender": "F"
   },
   {
     "id": "benjamin-monteil-malvesin",
     "name": "Benjamin Monteil Malvesin",
     "club": "EC VERNOUILLET V. T.",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "alexandre-le-negaret",
     "name": "Alexandre Le Negaret",
     "club": "AV THIAIS",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "dorian-martin",
     "name": "Dorian Martin",
     "club": "AV THIAIS",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "vincent-trastour",
     "name": "Vincent Trastour",
     "club": "PARIS CYCLISTE OLYMPIQUE",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "louis-pichon",
     "name": "Louis Pichon",
     "club": "ES GERVAIS LILAS",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "mael-rouillard",
     "name": "Maël Rouillard",
     "club": "ANTONY BERNY CYCLISTE",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "gauvain-guelmani",
     "name": "Gauvain Guelmani",
     "club": "PROGRESS CLUB",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "hicham-fettah",
     "name": "Hicham Fettah",
     "club": "EC MONTGERON VIGNEUX",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "baptiste-moulin",
     "name": "Baptiste Moulin",
     "club": "VC MONTIGNY BRETONNEUX",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "julien-billon",
     "name": "Julien Billon",
     "club": "CYCLO SPORT CROTELLOIS",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "gabin-le-tallec",
     "name": "Gabin Le Tallec",
     "club": "LAGNY PONTCARRE CYC.",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "baptiste-heuvet",
     "name": "Baptiste Heuvet",
     "club": "COURBEVOIE SPORTS CYCLISME",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "mathis-papin",
     "name": "Mathis Papin",
     "club": "LAGNY PONTCARRE CYC.",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "florian-nouvet",
     "name": "Florian Nouvet",
     "club": "US RIS ORANGIS",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "luis-lemos",
     "name": "Luis Lemos",
     "club": "AV THIAIS",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "alban-delourme",
     "name": "Alban Delourme",
     "club": "VAL D'OISE CYCLISTE",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "clement-evrard",
     "name": "Clément Evrard",
     "club": "PARIS CYCLISTE OLYMPIQUE",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "maxence-boireau",
     "name": "Maxence Boireau",
     "club": "RUEIL A.C.",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "remi-laffet",
     "name": "Rémi Laffet",
     "club": "CLAMART CYCLISME 92",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "enzo-bonomo",
     "name": "Enzo Bonomo",
     "club": "ES GERVAIS LILAS",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "damien-hontang",
     "name": "Damien Hontang",
     "club": "WATT CYCLING CLUB",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "adrien-bily",
     "name": "Adrien Bily",
     "club": "PARIS CYCLISTE OLYMPIQUE",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "franck-maeder",
     "name": "Franck Maeder",
     "club": "AV THIAIS",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "thomas-doltaire",
     "name": "Thomas Doltaire",
     "club": "CSM PUTEAUX",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "maxime-harlee",
     "name": "Maxime Harlee",
     "club": "SC GRETZ TOURNAN",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "jeremy-ambert",
     "name": "Jérémy Ambert",
     "club": "VC VILLEJUST",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "gaspard-wargniez",
     "name": "Gaspard Wargniez",
     "club": "WATT CYCLING CLUB",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "amine-ben-el-kadi",
     "name": "Amine Ben El Kadi",
     "club": "AV THIAIS",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "jean-christophe-nolius",
     "name": "Jean Christophe Nolius",
     "club": "LAGNY PONTCARRE CYC.",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "elliot-riviere",
     "name": "Elliot Riviere",
     "club": "ANTONY BERNY CYCLISTE",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "matteo-angelin",
     "name": "Mattéo Angelin",
     "club": "AV THIAIS",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "thierry-gautier",
     "name": "Thierry Gautier",
     "club": "PARISIS A.C. 95",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "christophe-delamarre",
     "name": "Christophe Delamarre",
     "club": "TEAM BIKE CYCLISTE SAINT PRIX",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "alexandre-gault",
     "name": "Alexandre Gault",
     "club": "WATT CYCLING CLUB",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "jean-christophe-collard",
     "name": "Jean Christophe Collard",
     "club": "AVENIR DU VAL DE MARNE",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "benoit-boucher",
     "name": "Benoit Boucher",
     "club": "VELO CLUB ARPAJON",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "norbert-guerrero",
     "name": "Norbert Guerrero",
     "club": "PEYREHORADE SC",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "philippe-ropars",
     "name": "Philippe Ropars",
     "club": "VAL D'OISE CYCLISTE",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "romuald-lavaud",
     "name": "Romuald Lavaud",
     "club": "PARISIS A.C. 95",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "antoine-basty",
     "name": "Antoine Basty",
     "club": "CM AUBERVILLIERS 93",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "antoine-brexel",
     "name": "Antoine Brexel",
     "club": "VC MONTIGNY BRETONNEUX",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "ghislain-auvray",
     "name": "Ghislain Auvray",
     "club": "US MAULE CYCLISME",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "thomas-boistel",
     "name": "Thomas Boistel",
     "club": "TEAM HBS CYCLING",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "malwenn-lemoine",
     "name": "Malwenn Lemoine",
     "club": "AVENIR DU VAL DE MARNE",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "francesco-pirri",
     "name": "Francesco Pirri",
     "club": "TEAM ALL CYCLES MEAUX",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "christophe-sao-jose",
     "name": "Christophe Sao Jose",
     "club": "TEAM 94 CYCLING",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "christophe-salgueiro",
     "name": "Christophe Salgueiro",
     "club": "US MAULE CYCLISME",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "arnaud-ihuellou",
     "name": "Arnaud Ihuellou",
     "club": "VC GARENNOIS",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "frederic-menard",
     "name": "Frédéric Menard",
     "club": "US MAULE CYCLISME",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "julien-billot",
     "name": "Julien Billot",
     "club": "TEAM CHATOU CYCLISME",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "lennart-de-rycke",
     "name": "Lennart De Rycke",
     "club": "PARIS CYCLISTE OLYMPIQUE",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "antoine-bonifazio",
     "name": "Antoine Bonifazio",
     "club": "PARIS CYCLISTE OLYMPIQUE",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "alexandre-karayannis",
     "name": "Alexandre Karayannis",
     "club": "TEAM CHATOU CYCLISME",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "enzo-rochette",
     "name": "Enzo Rochette",
     "club": "AS BRETEUILCYCLISME",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "roberto-vieira",
     "name": "Roberto Vieira",
     "club": "VC MONTIGNY BRETONNEUX",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "franck-perigois",
     "name": "Franck Perigois",
     "club": "TEAM BIKE CYCLISTE SAINT PRIX",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "titouan-landie",
     "name": "Titouan Landie",
     "club": "AV THIAIS",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "louis-stephan",
     "name": "Louis Stephan",
     "club": "AV THIAIS",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "dimitry-florella",
     "name": "Dimitry Florella",
     "club": "VC CHATENAY MALABRY",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "vincent-pereira-martins",
     "name": "Vincent Pereira Martins",
     "club": "ES STAINS-CYCLISME",
-    "category": "Access 2"
+    "category": "Access 2",
+    "gender": "H"
   },
   {
     "id": "david-clynckemaillie",
     "name": "David Clynckemaillie",
     "club": "US MAULE CYCLISME",
-    "category": "Access 2"
+    "category": "Access 2",
+    "gender": "H"
   },
   {
     "id": "bastien-billot",
     "name": "Bastien Billot",
     "club": "VC SAVIGNY SUR ORGE",
-    "category": "Access 2"
+    "category": "Access 2",
+    "gender": "H"
   },
   {
     "id": "alexandre-buchert",
     "name": "Alexandre Buchert",
     "club": "VC MERUVIEN",
-    "category": "Access 2"
+    "category": "Access 2",
+    "gender": "H"
   },
   {
     "id": "nicolas-sergeant",
     "name": "Nicolas Sergeant",
     "club": "LA FEUILLIE CYCLISTE",
-    "category": "Access 2"
+    "category": "Access 2",
+    "gender": "H"
   },
   {
     "id": "gregory-weselaqui",
     "name": "Grégory Weselaqui",
     "club": "AS CHELLES",
-    "category": "Access 2"
+    "category": "Access 2",
+    "gender": "H"
   },
   {
     "id": "marc-boscheron",
     "name": "Marc Boscheron",
     "club": "KRONOS ACADEMY PARIS SACLAY",
-    "category": "Access 2"
+    "category": "Access 2",
+    "gender": "H"
   },
   {
     "id": "julien-lejeune",
     "name": "Julien Lejeune",
     "club": "LA PÉ DALE FERTOISE",
-    "category": "Access 2"
+    "category": "Access 2",
+    "gender": "H"
   },
   {
     "id": "ilie-semeret",
     "name": "Ilie Semeret",
     "club": "US MAULE CYCLISME",
-    "category": "Access 2"
+    "category": "Access 2",
+    "gender": "H"
   },
   {
     "id": "flavien-legeay",
     "name": "Flavien Legeay",
     "club": "VELO CLUB ARPAJON",
-    "category": "Access 2"
+    "category": "Access 2",
+    "gender": "H"
   },
   {
     "id": "flavien-carcaud",
     "name": "Flavien Carcaud",
     "club": "PEDALE COMBS LA VILLAISE",
-    "category": "Access 2"
+    "category": "Access 2",
+    "gender": "H"
   },
   {
     "id": "robert-liberto",
     "name": "Robert Liberto",
     "club": "TEAM CHATOU CYCLISME",
-    "category": "Access 2"
+    "category": "Access 2",
+    "gender": "H"
   },
   {
     "id": "pascal-richer",
     "name": "Pascal Richer",
     "club": "VELO CLUB ARPAJON",
-    "category": "Access 2"
+    "category": "Access 2",
+    "gender": "H"
   },
   {
     "id": "rodolphe-quentier",
     "name": "Rodolphe Quentier",
     "club": "AS HERBLAY",
-    "category": "Access 2"
+    "category": "Access 2",
+    "gender": "H"
   },
   {
     "id": "remy-quignon",
     "name": "Remy Quignon",
     "club": "TEAM PELTRAX - CSD",
-    "category": "Access 2"
+    "category": "Access 2",
+    "gender": "H"
   },
   {
     "id": "maxime-granthil",
     "name": "Maxime Granthil",
     "club": "ANTONY BERNY CYCLISTE",
-    "category": "Access 2"
+    "category": "Access 2",
+    "gender": "H"
   },
   {
     "id": "pierre-selin",
     "name": "Pierre Selin",
     "club": "WATT CYCLING CLUB",
-    "category": "Access 2"
+    "category": "Access 2",
+    "gender": "H"
   },
   {
     "id": "xavier-rochette",
     "name": "Xavier Rochette",
     "club": "",
-    "category": "Access 2"
+    "category": "Access 2",
+    "gender": "H"
   },
   {
     "id": "clara-le-gros",
     "name": "Clara Le Gros",
     "club": "WATT CYCLING CLUB",
-    "category": "Open 3"
+    "category": "Open 3",
+    "gender": "F"
   },
   {
     "id": "stephane-loth",
     "name": "Stephane Loth",
     "club": "TEAM BIKE CYCLISTE SAINT PRIX",
-    "category": "Access 2"
+    "category": "Access 2",
+    "gender": "H"
   },
   {
     "id": "victor-dos-santos",
     "name": "Victor Dos Santos",
     "club": "AS HERBLAY",
-    "category": "Access 2"
+    "category": "Access 2",
+    "gender": "H"
   },
   {
     "id": "thierry-gonard",
     "name": "Thierry Gonard",
     "club": "PARIS CYCLISTE OLYMPIQUE",
-    "category": "Access 2"
+    "category": "Access 2",
+    "gender": "H"
   },
   {
     "id": "clement-simon",
     "name": "Clément Simon",
     "club": "PEDALE COMBS LA VILLAISE",
-    "category": "Access 2"
+    "category": "Access 2",
+    "gender": "H"
   },
   {
     "id": "thomas-jiang",
     "name": "Thomas Jiang",
     "club": "0",
-    "category": "Access 2"
+    "category": "Access 2",
+    "gender": "H"
   },
   {
     "id": "jacques-castel",
     "name": "Jacques Castel",
     "club": "PARISIS A.C. 95",
-    "category": "Access 2"
+    "category": "Access 2",
+    "gender": "H"
   },
   {
     "id": "frederic-authouart",
     "name": "Frédéric Authouart",
     "club": "VAL D'OISE CYCLISTE",
-    "category": "Access 2"
+    "category": "Access 2",
+    "gender": "H"
   },
   {
     "id": "sebastien-cahagniet",
     "name": "Sébastien Cahagniet",
     "club": "AV THIAIS",
-    "category": "Access 2"
+    "category": "Access 2",
+    "gender": "H"
   },
   {
     "id": "fabien-boisson",
     "name": "Fabien Boisson",
     "club": "CYCLO-CROSS UNITED",
-    "category": "Access 2"
+    "category": "Access 2",
+    "gender": "H"
   },
   {
     "id": "nicolas-dumas",
     "name": "Nicolas Dumas",
     "club": "US EZANVILLE ECOUEN",
-    "category": "Access 2"
+    "category": "Access 2",
+    "gender": "H"
   },
   {
     "id": "jean-paul-nascimento",
     "name": "Jean Paul Nascimento",
     "club": "AS MEUDON CYCLOSPORT COMPETITION",
-    "category": "Access 2"
+    "category": "Access 2",
+    "gender": "H"
   },
   {
     "id": "rocco-romeo",
     "name": "Rocco Romeo",
     "club": "ANET VELO CLUB",
-    "category": "Access 2"
+    "category": "Access 2",
+    "gender": "H"
   },
   {
     "id": "romuald-landry",
     "name": "Romuald Landry",
     "club": "US MAULE CYCLISME",
-    "category": "Access 2"
+    "category": "Access 2",
+    "gender": "H"
   },
   {
     "id": "fabrice-maitre",
     "name": "Fabrice Maitre",
     "club": "EC VELIZY 78",
-    "category": "Access 2"
+    "category": "Access 2",
+    "gender": "H"
   },
   {
     "id": "agathe-michel",
     "name": "Agathe Michel",
     "club": "VC MONTIGNY BRETONNEUX",
-    "category": "Open 3"
+    "category": "Open 3",
+    "gender": "F"
   },
   {
     "id": "didier-duval",
     "name": "Didier Duval",
     "club": "US MAULE CYCLISME",
-    "category": "Access 2"
+    "category": "Access 2",
+    "gender": "H"
   },
   {
     "id": "romain-goguelat",
     "name": "Romain Goguelat",
     "club": "AS CORBEIL ESSONNES",
-    "category": "Access 2"
+    "category": "Access 2",
+    "gender": "H"
   },
   {
     "id": "mai-bridier",
     "name": "Maï Bridier",
     "club": "A VC MONTIGNY BRETONNEUX",
-    "category": "Open 1"
+    "category": "Open 1",
+    "gender": "F"
   },
   {
     "id": "franck-barraud",
     "name": "Franck Barraud",
     "club": "AC VAL D'OISE",
-    "category": "Access 2"
+    "category": "Access 2",
+    "gender": "H"
   },
   {
     "id": "nicolas-roty",
     "name": "Nicolas Roty",
     "club": "A. C. B. B.",
-    "category": "Access 2"
+    "category": "Access 2",
+    "gender": "H"
   },
   {
     "id": "henri-rabot",
     "name": "Henri Rabot",
     "club": "COURBEVOIE SPORTS CYCLISME",
-    "category": "Access 2"
+    "category": "Access 2",
+    "gender": "H"
   },
   {
     "id": "cyril-rochefort",
     "name": "Cyril Rochefort",
     "club": "VC MONTIGNY BRETONNEUX",
-    "category": "Access 2"
+    "category": "Access 2",
+    "gender": "H"
   },
   {
     "id": "emmanuel-poisson",
     "name": "Emmanuel Poisson",
     "club": "EC MONTGERON VIGNEUX",
-    "category": "Access 2"
+    "category": "Access 2",
+    "gender": "H"
   },
   {
     "id": "alexis-boucot",
     "name": "Alexis Boucot",
     "club": "0",
-    "category": "Access 2"
+    "category": "Access 2",
+    "gender": "H"
   },
   {
     "id": "luc-chapelle",
     "name": "Luc Chapelle",
     "club": "EC VERNOUILLET V. T.",
-    "category": "Access 2"
+    "category": "Access 2",
+    "gender": "H"
   },
   {
     "id": "alexis-paquet",
     "name": "Alexis Paquet",
     "club": "AS HERBLAY",
-    "category": "Access 2"
+    "category": "Access 2",
+    "gender": "H"
   },
   {
     "id": "herve-lachouque",
     "name": "Hervé Lachouque",
     "club": "VC GARENNOIS",
-    "category": "Access 2"
+    "category": "Access 2",
+    "gender": "H"
   },
   {
     "id": "stephane-cruveiller",
     "name": "Stephane Cruveiller",
     "club": "EC MONTGERON VIGNEUX",
-    "category": "Access 2"
+    "category": "Access 2",
+    "gender": "H"
   },
   {
     "id": "gaylord-legeay",
     "name": "Gaylord Legeay",
     "club": "VELO CLUB ARPAJON",
-    "category": "Access 2"
+    "category": "Access 2",
+    "gender": "H"
   },
   {
     "id": "william-naquin",
     "name": "William Naquin",
     "club": "AVENIR CYCLISTE DE LARDY",
-    "category": "Access 2"
+    "category": "Access 2",
+    "gender": "H"
   },
   {
     "id": "gilles-heraud",
     "name": "Gilles Heraud",
     "club": "CSM PUTEAUX",
-    "category": "Access 2"
+    "category": "Access 2",
+    "gender": "H"
   },
   {
     "id": "christophe-papin",
     "name": "Christophe Papin",
     "club": "USM GAGNY",
-    "category": "Access 2"
+    "category": "Access 2",
+    "gender": "H"
   },
   {
     "id": "gilles-sanchez",
     "name": "Gilles Sanchez",
     "club": "PARISIS A.C. 95",
-    "category": "Access 2"
+    "category": "Access 2",
+    "gender": "H"
   },
   {
     "id": "victor-decouard",
     "name": "Victor Decouard",
     "club": "VC GARENNOIS",
-    "category": "Access 2"
+    "category": "Access 2",
+    "gender": "H"
   },
   {
     "id": "kevin-mignonneau",
     "name": "Kevin Mignonneau",
     "club": "A. C. B. B.",
-    "category": "Access 2"
+    "category": "Access 2",
+    "gender": "H"
   },
   {
     "id": "yann-marchet",
     "name": "Yann Marchet",
     "club": "AUMANCE TRONCAIS CYCLISME",
-    "category": "Access 2"
+    "category": "Access 2",
+    "gender": "H"
   },
   {
     "id": "frederic-blin",
     "name": "Frederic Blin",
     "club": "AS MEUDON CYCLOSPORT COMPETITION",
-    "category": "Access 2"
+    "category": "Access 2",
+    "gender": "H"
   },
   {
     "id": "vincent-resse",
     "name": "Vincent Resse",
     "club": "VELO CLUB HEUDREVILLAIS",
-    "category": "Access 2"
+    "category": "Access 2",
+    "gender": "H"
   },
   {
     "id": "jonathan-mahe",
     "name": "Jonathan Mahe",
     "club": "AS MEUDON CYCLOSPORT COMPETITION",
-    "category": "Access 2"
+    "category": "Access 2",
+    "gender": "H"
   },
   {
     "id": "frederic-mignon",
     "name": "Frédéric Mignon",
     "club": "CSM PUTEAUX",
-    "category": "Access 2"
+    "category": "Access 2",
+    "gender": "H"
   },
   {
     "id": "guillaume-mouchard",
     "name": "Guillaume Mouchard",
     "club": "0",
-    "category": "Access 2"
+    "category": "Access 2",
+    "gender": "H"
   },
   {
     "id": "patrick-ve-truye",
     "name": "Patrick Vé Truye",
     "club": "LO GRIFFON MEYZEU",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "H"
   },
   {
     "id": "olivier-casse",
     "name": "Olivier Casse",
     "club": "EC SARTROUVILLE",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "H"
   },
   {
     "id": "sebastien-espargilhe",
     "name": "Sebastien Espargilhe",
     "club": "AV THIAIS",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "H"
   },
   {
     "id": "christophe-coelho",
     "name": "Christophe Coelho",
     "club": "CC IGNY PALAISEAU 91",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "H"
   },
   {
     "id": "nicolas-poignant",
     "name": "Nicolas Poignant",
     "club": "SC GRETZ TOURNAN",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "H"
   },
   {
     "id": "mark-maizonnasse",
     "name": "Mark Maizonnasse",
     "club": "AS MEUDON CYCLOSPORT COMPETITION",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "H"
   },
   {
     "id": "jerome-dazat",
     "name": "Jerome Dazat",
     "club": "ARGENTEUIL VAL DE SEINE 95",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "H"
   },
   {
     "id": "anthony-geffroy",
     "name": "Anthony Geffroy",
     "club": "AS MEUDON CYCLOSPORT COMPETITION",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "H"
   },
   {
     "id": "michel-rochefort",
     "name": "Michel Rochefort",
     "club": "VC MONTIGNY BRETONNEUX",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "H"
   },
   {
     "id": "franck-cita",
     "name": "Franck Cita",
     "club": "TROPIKANA",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "H"
   },
   {
     "id": "jose-pereira-da-costa",
     "name": "José Pereira Da Costa",
     "club": "AV THIAIS",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "H"
   },
   {
     "id": "julien-guillaume",
     "name": "Julien Guillaume",
     "club": "SC GRETZ TOURNAN",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "H"
   },
   {
     "id": "teddy-glaine",
     "name": "Teddy Glaine",
     "club": "AS HERBLAY",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "H"
   },
   {
     "id": "loic-anelka",
     "name": "Loic Anelka",
     "club": "PARIS CYCLISTE OLYMPIQUE",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "H"
   },
   {
     "id": "philippe-seguin",
     "name": "Philippe Seguin",
     "club": "USM GAGNY",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "H"
   },
   {
     "id": "tomasz-jeger",
     "name": "Tomasz Jeger",
     "club": "USM GAGNY",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "H"
   },
   {
     "id": "olivier-boy",
     "name": "Olivier Boy",
     "club": "VC VINCENNES",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "H"
   },
   {
     "id": "marc-barville",
     "name": "Marc Barville",
     "club": "AV THIAIS",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "H"
   },
   {
     "id": "yves-le-toriellec",
     "name": "Yves Le Toriellec",
     "club": "SE PAVILLONNAIS",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "H"
   },
   {
     "id": "stanislas-reglade",
     "name": "Stanislas Reglade",
     "club": "PARIS CYCLISTE OLYMPIQUE",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "H"
   },
   {
     "id": "laurent-bouviale",
     "name": "Laurent Bouviale",
     "club": "AV THIAIS",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "H"
   },
   {
     "id": "michel-gavelle",
     "name": "Michel Gavelle",
     "club": "SE PAVILLONNAIS",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "H"
   },
   {
     "id": "francois-marec",
     "name": "François Marec",
     "club": "CC IGNY PALAISEAU 91",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "H"
   },
   {
     "id": "estelle-kocica",
     "name": "Estelle Kocica",
     "club": "TEAM CYCLISTES ECHAPPEE 77",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "F"
   },
   {
     "id": "gwenael-guegan",
     "name": "Gwénael Guegan",
     "club": "MILLAN'CYCLISME",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "H"
   },
   {
     "id": "christophe-laplace",
     "name": "Christophe Laplace",
     "club": "VC MUREAUX",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "H"
   },
   {
     "id": "david-prunier",
     "name": "David Prunier",
     "club": "CMOM TEAM CYCLISTE MORANGIS",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "H"
   },
   {
     "id": "pascal-guitton",
     "name": "Pascal Guitton",
     "club": "CLUB CYCLISTE BAILLET EN FRANCE",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "H"
   },
   {
     "id": "gianni-belli",
     "name": "Gianni Belli",
     "club": "AV THIAIS",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "H"
   },
   {
     "id": "gilles-daugan",
     "name": "Gilles Daugan",
     "club": "EC SARTROUVILLE",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "H"
   },
   {
     "id": "jean-claude-senegas",
     "name": "Jean Claude Senegas",
     "club": "VC VINCENNES",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "H"
   },
   {
     "id": "laurent-martorell",
     "name": "Laurent Martorell",
     "club": "USM GAGNY",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "H"
   },
   {
     "id": "nicolas-middernacht",
     "name": "Nicolas Middernacht",
     "club": "VC SAVIGNY SUR ORGE",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "H"
   },
   {
     "id": "regis-letourneur",
     "name": "Régis Letourneur",
     "club": "COURBEVOIE SPORTS CYCLISME",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "H"
   },
   {
     "id": "cedric-oliveira",
     "name": "Cédric Oliveira",
     "club": "AS HERBLAY",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "H"
   },
   {
     "id": "nicolas-delestre",
     "name": "Nicolas Delestre",
     "club": "EC SARTROUVILLE",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "H"
   },
   {
     "id": "olivier-picquot",
     "name": "Olivier Picquot",
     "club": "CSM PUTEAUX",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "H"
   },
   {
     "id": "fabrice-millet",
     "name": "Fabrice Millet",
     "club": "VC BONDY",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "H"
   },
   {
     "id": "dino-belli",
     "name": "Dino Belli",
     "club": "AV THIAIS",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "H"
   },
   {
     "id": "cedric-fournier",
     "name": "Cédric Fournier",
     "club": "DREUX CYCLO CLUB",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "H"
   },
   {
     "id": "christophe-asse",
     "name": "Christophe Asse",
     "club": "DREUX CYCLO CLUB",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "H"
   },
   {
     "id": "mickael-thoumelin",
     "name": "Mickaël Thoumelin",
     "club": "USM GAGNY",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "H"
   },
   {
     "id": "stephane-digard",
     "name": "Stéphane Digard",
     "club": "AS HERBLAY",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "franck-moreau",
     "name": "Franck Moreau",
     "club": "CSM PUTEAUX",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "sebastien-russo",
     "name": "Sébastien Russo",
     "club": "PARISIS A.C. 95",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "patrick-pivain",
     "name": "Patrick Pivain",
     "club": "EC VELIZY 78",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "frederic-nidercorne",
     "name": "Frédéric Nidercorne",
     "club": "V.C.C. BITERROIS",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "christophe-fournier",
     "name": "Christophe Fournier",
     "club": "EC SERQUIGNY",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "denis-robin",
     "name": "Denis Robin",
     "club": "US MAULE CYCLISME",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "jose-civallero",
     "name": "José Civallero",
     "club": "TEAM ALL CYCLES MEAUX",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "xavier-denis",
     "name": "Xavier Denis",
     "club": "CSM PUTEAUX",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "bruno-toigo",
     "name": "Bruno Toigo",
     "club": "AC VAL D'OISE",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "eric-linder",
     "name": "Eric Linder",
     "club": "AC VAL D'OISE",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "didier-maire",
     "name": "Didier Maire",
     "club": "CMOM TEAM CYCLISTE MORANGIS",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "willy-jacquet",
     "name": "Willy Jacquet",
     "club": "US MAULE CYCLISME",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "didier-le-foll",
     "name": "Didier Le Foll",
     "club": "EC OSNY PONTOISE",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "romain-chesnel",
     "name": "Romain Chesnel",
     "club": "US MAULE CYCLISME",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "sebastien-viossanges",
     "name": "Sébastien Viossanges",
     "club": "KRONOS ACADEMY PARIS SACLAY",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "eric-morvan",
     "name": "Eric Morvan",
     "club": "COURBEVOIE SPORTS CYCLISME",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "christian-penin",
     "name": "Christian Penin",
     "club": "ES LIVAROT",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "francois-xavier-rault",
     "name": "Francois Xavier Rault",
     "club": "KRONOS ACADEMY PARIS SACLAY",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "frederic-lema",
     "name": "Frédéric Lema",
     "club": "US EZANVILLE ECOUEN",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "david-geenen",
     "name": "David Geenen",
     "club": "US EZANVILLE ECOUEN",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "gilbert-lhuissier",
     "name": "Gilbert Lhuissier",
     "club": "CSM PUTEAUX",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "bertrand-houanard",
     "name": "Bertrand Houanard",
     "club": "COURBEVOIE SPORTS CYCLISME",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "jerome-bouteiller",
     "name": "Jérôme Bouteiller",
     "club": "EC SARTROUVILLE",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "frederic-martin",
     "name": "Frédéric Martin",
     "club": "AV THIAIS",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "francois-divo",
     "name": "François Divo",
     "club": "USM GAGNY",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "michel-boutin",
     "name": "Michel Boutin",
     "club": "PARIS CYCLISTE OLYMPIQUE",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "alain-ragot",
     "name": "Alain Ragot",
     "club": "CMOM TEAM CYCLISTE MORANGIS",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "xavier-gagneur",
     "name": "Xavier Gagneur",
     "club": "CLAMART CYCLISME 92",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "pascal-arnoux",
     "name": "Pascal Arnoux",
     "club": "A. SOISY ENGHIEN LA BARRE",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "jean-loup-gleize",
     "name": "Jean Loup Gleize",
     "club": "AC VAL D'OISE",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "jean-luc-prets",
     "name": "Jean Luc Prets",
     "club": "EC VELIZY 78",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "daniel-dupouy",
     "name": "Daniel Dupouy",
     "club": "ES STAINS-CYCLISME",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "vincent-laude",
     "name": "Vincent Laude",
     "club": "AV THIAIS",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "olivier-cornil",
     "name": "Olivier Cornil",
     "club": "EC SARTROUVILLE",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "eric-de-wangen",
     "name": "Eric De Wangen",
     "club": "ENTENTE GISORSIENNE CYCLISME",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "laurent-gaultier",
     "name": "Laurent Gaultier",
     "club": "USM GAGNY",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "regis-kaulanjan-checkmodine",
     "name": "Regis Kaulanjan Checkmodine",
     "club": "ES STAINS-CYCLISME",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "jean-marie-herisson",
     "name": "Jean Marie Herisson",
     "club": "PARISIS A.C. 95",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "sebastien-pavoni",
     "name": "Sébastien Pavoni",
     "club": "AV THIAIS",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "rene-hubert",
     "name": "René Hubert",
     "club": "US EZANVILLE ECOUEN",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "dominique-pougin",
     "name": "Dominique Pougin",
     "club": "ENTENTE CYCLISTE AULNAY DRANCY 93",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "maghaly-fournier",
     "name": "Maghaly Fournier",
     "club": "EC SERQUIGNY",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "F"
   },
   {
     "id": "bruno-stocchi",
     "name": "Bruno Stocchi",
     "club": "CLUB CYCLISTE BAILLET EN FRANCE",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "eric-carrey",
     "name": "Eric Carrey",
     "club": "AV THIAIS",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "didier-bartau",
     "name": "Didier Bartau",
     "club": "US RIS ORANGIS",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "alain-rose",
     "name": "Alain Rose",
     "club": "AIRPORT A.O.C. WISSOUS",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "frederic-faulcon",
     "name": "Frédéric Faulcon",
     "club": "KRONOS ACADEMY PARIS SACLAY",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "denis-soumarmon",
     "name": "Denis Soumarmon",
     "club": "AS CHELLES",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "sylvain-bragantini",
     "name": "Sylvain Bragantini",
     "club": "SC GRETZ TOURNAN",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "christian-mahe",
     "name": "Christian Mahe",
     "club": "VC MONTIGNY BRETONNEUX",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "franck-le-meur",
     "name": "Franck Le Meur",
     "club": "VC MONTIGNY BRETONNEUX",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "sebastien-duteau",
     "name": "Sébastien Duteau",
     "club": "ES STAINS-CYCLISME",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "francois-grimbert",
     "name": "François Grimbert",
     "club": "AV THIAIS",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "patrick-payrat",
     "name": "Patrick Payrat",
     "club": "PARISIS A.C. 95",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "didier-allirol",
     "name": "Didier Allirol",
     "club": "COURBEVOIE SPORTS CYCLISME",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "jacques-dubreuil",
     "name": "Jacques Dubreuil",
     "club": "PARIS CYCLISTE OLYMPIQUE",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "jean-marc-mallo",
     "name": "Jean Marc Mallo",
     "club": "LE MEE SPORTS",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "virginie-martin",
     "name": "Virginie Martin",
     "club": "KRONOS ACADEMY PARIS SACLAY",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "F"
   },
   {
     "id": "lilou-ledeme",
     "name": "Lilou Ledeme",
     "club": "KRONOS ACADEMY PARIS SACLAY",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "F"
   },
   {
     "id": "antton-landois-waliszewski",
     "name": "Antton Landois Waliszewski",
     "club": "TEAM CYCLISTE LINAS MONTLHERY",
-    "category": "Open 2"
+    "category": "Open 2",
+    "gender": "H"
   },
   {
     "id": "yan-rolland",
     "name": "Yan Rolland",
     "club": "GUIDON PROVINOIS",
-    "category": "Open 2"
+    "category": "Open 2",
+    "gender": "H"
   },
   {
     "id": "paul-luez",
     "name": "Paul Luez",
     "club": "A. C. B. B.",
-    "category": "Open 2"
+    "category": "Open 2",
+    "gender": "H"
   },
   {
     "id": "gervais-castres",
     "name": "Gervais Castres",
     "club": "ENTENTE CYCLISTE AULNAY DRANCY 93",
-    "category": "Open 2"
+    "category": "Open 2",
+    "gender": "H"
   },
   {
     "id": "gregory-fors",
     "name": "Gregory Fors",
     "club": "PARIS CYCLISTE OLYMPIQUE",
-    "category": "Open 2"
+    "category": "Open 2",
+    "gender": "H"
   },
   {
     "id": "enzo-panor",
     "name": "Enzo Panor",
     "club": "CLAMART CYCLISME 92",
-    "category": "Open 2"
+    "category": "Open 2",
+    "gender": "H"
   },
   {
     "id": "pierre-mavier",
     "name": "Pierre Mavier",
     "club": "GUIDON PROVINOIS",
-    "category": "Open 2"
+    "category": "Open 2",
+    "gender": "H"
   },
   {
     "id": "axel-bansard",
     "name": "Axel Bansard",
     "club": "TEAM ALL CYCLES MEAUX",
-    "category": "Open 2"
+    "category": "Open 2",
+    "gender": "H"
   },
   {
     "id": "clovis-rottement",
     "name": "Clovis Rottement",
     "club": "TEAM ALL CYCLES MEAUX",
-    "category": "Open 2"
+    "category": "Open 2",
+    "gender": "H"
   },
   {
     "id": "benjamin-verrier",
     "name": "Benjamin Verrier",
     "club": "WATT CYCLING CLUB",
-    "category": "Open 2"
+    "category": "Open 2",
+    "gender": "H"
   },
   {
     "id": "pierre-yves-quere",
     "name": "Pierre Yves Quere",
     "club": "U. COSNOISE SPORTIVE",
-    "category": "Open 2"
+    "category": "Open 2",
+    "gender": "H"
   },
   {
     "id": "david-remond",
     "name": "David Remond",
     "club": "TEAM ALL CYCLES MEAUX",
-    "category": "Open 3"
+    "category": "Open 3",
+    "gender": "H"
   },
   {
     "id": "baptiste-larcher",
     "name": "Baptiste Larcher",
     "club": "A. C. B. B.",
-    "category": "Open 2"
+    "category": "Open 2",
+    "gender": "H"
   },
   {
     "id": "matheo-coolsaet",
     "name": "Mathéo Coolsaet",
     "club": "PARISIS A.C. 95",
-    "category": "Open 2"
+    "category": "Open 2",
+    "gender": "H"
   },
   {
     "id": "mathys-bacq",
     "name": "Mathys Bacq",
     "club": "U. COSNOISE SPORTIVE",
-    "category": "Open 2"
+    "category": "Open 2",
+    "gender": "H"
   },
   {
     "id": "timote-graziani",
     "name": "Timoté Graziani",
     "club": "TEAM ALL CYCLES MEAUX",
-    "category": "Open 2"
+    "category": "Open 2",
+    "gender": "H"
   },
   {
     "id": "esteban-louvry",
     "name": "Esteban Louvry",
     "club": "MOYON PERCY VELO CLUB",
-    "category": "Open 2"
+    "category": "Open 2",
+    "gender": "H"
   },
   {
     "id": "maxime-belair",
     "name": "Maxime Belair",
     "club": "VC FONTAINEBLEAU AVON",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "martin-douhet",
     "name": "Martin Douhet",
     "club": "PARIS CYCLISTE OLYMPIQUE",
-    "category": "Open 3"
+    "category": "Open 3",
+    "gender": "H"
   },
   {
     "id": "martin-lavercier",
     "name": "Martin Lavercier",
     "club": "WATT CYCLING CLUB",
-    "category": "Open 3"
+    "category": "Open 3",
+    "gender": "H"
   },
   {
     "id": "emmanuel-bertoldi",
     "name": "Emmanuel Bertoldi",
     "club": "ENTENTE CYCLISTE AULNAY DRANCY 93",
-    "category": "Open 3"
+    "category": "Open 3",
+    "gender": "H"
   },
   {
     "id": "richard-laporte",
     "name": "Richard Laporte",
     "club": "VAL D'OISE CYCLISTE",
-    "category": "Open 3"
+    "category": "Open 3",
+    "gender": "H"
   },
   {
     "id": "ethan-cassart",
     "name": "Ethan Cassart",
     "club": "CLAMART CYCLISME 92",
-    "category": "Open 3"
+    "category": "Open 3",
+    "gender": "H"
   },
   {
     "id": "cedric-llorca",
     "name": "Cédric Llorca",
     "club": "VC FONTAINEBLEAU AVON",
-    "category": "Open 2"
+    "category": "Open 2",
+    "gender": "H"
   },
   {
     "id": "mathis-duseaux",
     "name": "Mathis Duseaux",
     "club": "GUIDON PROVINOIS",
-    "category": "Open 2"
+    "category": "Open 2",
+    "gender": "H"
   },
   {
     "id": "timothe-michel",
     "name": "Timothé Michel",
     "club": "WATT CYCLING CLUB",
-    "category": "Open 3"
+    "category": "Open 3",
+    "gender": "H"
   },
   {
     "id": "bastien-de-vido",
     "name": "Bastien De Vido",
     "club": "GUIDON PROVINOIS",
-    "category": "Open 2"
+    "category": "Open 2",
+    "gender": "H"
   },
   {
     "id": "thibaut-madorre",
     "name": "Thibaut Madorre",
     "club": "GUIDON PROVINOIS",
-    "category": "Open 3"
+    "category": "Open 3",
+    "gender": "H"
   },
   {
     "id": "vincent-loschi",
     "name": "Vincent Loschi",
     "club": "AV THIAIS",
-    "category": "Open 3"
+    "category": "Open 3",
+    "gender": "H"
   },
   {
     "id": "romain-bassement",
     "name": "Romain Bassement",
     "club": "USSA PAVILLY BARENTIN",
-    "category": "Open 2"
+    "category": "Open 2",
+    "gender": "H"
   },
   {
     "id": "tinui-renault",
     "name": "Tinui Renault",
     "club": "SUD OISE CYCLISME",
-    "category": "Open 3"
+    "category": "Open 3",
+    "gender": "H"
   },
   {
     "id": "louis-foyer",
     "name": "Louis Foyer",
     "club": "WATT CYCLING CLUB",
-    "category": "Open 2"
+    "category": "Open 2",
+    "gender": "H"
   },
   {
     "id": "romain-bertrand",
     "name": "Romain Bertrand",
     "club": "TEAM ALL CYCLES MEAUX",
-    "category": "Open 3"
+    "category": "Open 3",
+    "gender": "H"
   },
   {
     "id": "emilien-mellot",
     "name": "Emilien Mellot",
     "club": "U. COSNOISE SPORTIVE",
-    "category": "Open 2"
+    "category": "Open 2",
+    "gender": "H"
   },
   {
     "id": "antoine-capelle",
     "name": "Antoine Capelle",
     "club": "U.V.AUBE",
-    "category": "Open 2"
+    "category": "Open 2",
+    "gender": "H"
   },
   {
     "id": "domenico-tarditi",
     "name": "Domenico Tarditi",
     "club": "PARIS CYCLISTE OLYMPIQUE",
-    "category": "Open 3"
+    "category": "Open 3",
+    "gender": "H"
   },
   {
     "id": "thomas-paradela",
     "name": "Thomas Paradela",
     "club": "AV THIAIS",
-    "category": "Open 3"
+    "category": "Open 3",
+    "gender": "H"
   },
   {
     "id": "olivier-ilongo-gomez",
     "name": "Olivier Ilongo Gomez",
     "club": "ESPOIR DU SUD",
-    "category": "Open 3"
+    "category": "Open 3",
+    "gender": "H"
   },
   {
     "id": "baptiste-de-grammont",
     "name": "Baptiste De Grammont",
     "club": "AVENIR CYCLISTE DE LARDY",
-    "category": "Open 3"
+    "category": "Open 3",
+    "gender": "H"
   },
   {
     "id": "mathis-saussois-ghazani",
     "name": "Mathis Saussois Ghazani",
     "club": "TEAM CYCLISTE LINAS MONTLHERY",
-    "category": "Open 2"
+    "category": "Open 2",
+    "gender": "H"
   },
   {
     "id": "lucas-marineau",
     "name": "Lucas Marineau",
     "club": "GUIDON PROVINOIS",
-    "category": "Open 3"
+    "category": "Open 3",
+    "gender": "H"
   },
   {
     "id": "daniel-kefer",
     "name": "Daniel Kefer",
     "club": "WATT CYCLING CLUB",
-    "category": "Open 3"
+    "category": "Open 3",
+    "gender": "H"
   },
   {
     "id": "julien-durand",
     "name": "Julien Durand",
     "club": "S.C.OLYMPIQUE DE DIJON",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "pierrick-jamot",
     "name": "Pierrick Jamot",
     "club": "AC BAS-BERRY",
-    "category": "Open 3"
+    "category": "Open 3",
+    "gender": "H"
   },
   {
     "id": "gabin-montet",
     "name": "Gabin Montet",
     "club": "A. C. B. B.",
-    "category": "Open 3"
+    "category": "Open 3",
+    "gender": "H"
   },
   {
     "id": "maxence-mion",
     "name": "Maxence Mion",
     "club": "LA FEUILLIE CYCLISTE",
-    "category": "Open 2"
+    "category": "Open 2",
+    "gender": "H"
   },
   {
     "id": "louis-devaux",
     "name": "Louis Devaux",
     "club": "CLAMART CYCLISME 92",
-    "category": "Open 3"
+    "category": "Open 3",
+    "gender": "H"
   },
   {
     "id": "melvin-landerneau",
     "name": "Melvin Landerneau",
     "club": "VELO CLUB DU FRANÇ OIS",
-    "category": "Open 3"
+    "category": "Open 3",
+    "gender": "H"
   },
   {
     "id": "corentin-torzewski",
     "name": "Corentin Torzewski",
     "club": "CL BARLIN",
-    "category": "Open 3"
+    "category": "Open 3",
+    "gender": "H"
   },
   {
     "id": "benjamin-chaillou",
     "name": "Benjamin Chaillou",
     "club": "VC FONTAINEBLEAU AVON",
-    "category": "Open 3"
+    "category": "Open 3",
+    "gender": "H"
   },
   {
     "id": "killian-moutou",
     "name": "Killian Moutou",
     "club": "A. C. B. B.",
-    "category": "Open 3"
+    "category": "Open 3",
+    "gender": "H"
   },
   {
     "id": "jeremy-martignon",
     "name": "Jérémy Martignon",
     "club": "LA PÉ DALE FERTOISE",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "ivan-dimitrijevic",
     "name": "Ivan Dimitrijevic",
     "club": "TEAM CYCLISTE LINAS MONTLHERY",
-    "category": "Open 2"
+    "category": "Open 2",
+    "gender": "H"
   },
   {
     "id": "mathieu-baglan",
     "name": "Mathieu Baglan",
     "club": "VELO CLUB DU SENONAIS",
-    "category": "Open 2"
+    "category": "Open 2",
+    "gender": "H"
   },
   {
     "id": "florian-menard",
     "name": "Florian Menard",
     "club": "VS HYEROIS",
-    "category": "Open 2"
+    "category": "Open 2",
+    "gender": "H"
   },
   {
     "id": "timothe-dissaux",
     "name": "Timothé Dissaux",
     "club": "PARISIS A.C. 95",
-    "category": "Open 3"
+    "category": "Open 3",
+    "gender": "H"
   },
   {
     "id": "maxandre-contault",
     "name": "Maxandre Contault",
     "club": "EC MONTGERON VIGNEUX",
-    "category": "Open 3"
+    "category": "Open 3",
+    "gender": "H"
   },
   {
     "id": "remi-duponq",
     "name": "Rémi Duponq",
     "club": "CLAMART CYCLISME 92",
-    "category": "Open 3"
+    "category": "Open 3",
+    "gender": "H"
   },
   {
     "id": "maxime-fleury-careto",
     "name": "Maxime Fleury Careto",
     "club": "GUIDON PROVINOIS",
-    "category": "Open 2"
+    "category": "Open 2",
+    "gender": "H"
   },
   {
     "id": "thomas-delacour",
     "name": "Thomas Delacour",
     "club": "EC MONTGERON VIGNEUX",
-    "category": "Open 3"
+    "category": "Open 3",
+    "gender": "H"
   },
   {
     "id": "ethan-le-lamer",
     "name": "Ethan Le Lamer",
     "club": "VC PITHIVIERS",
-    "category": "Open 3"
+    "category": "Open 3",
+    "gender": "H"
   },
   {
     "id": "romain-pecome",
     "name": "Romain Pecome",
     "club": "EC MONTGERON VIGNEUX",
-    "category": "Open 3"
+    "category": "Open 3",
+    "gender": "H"
   },
   {
     "id": "yann-raoult",
     "name": "Yann Raoult",
     "club": "LA FEUILLIE CYCLISTE",
-    "category": "Open 2"
+    "category": "Open 2",
+    "gender": "H"
   },
   {
     "id": "eric-misson",
     "name": "Eric Misson",
     "club": "CC PONTHIERRY PRINGY",
-    "category": "Open 3"
+    "category": "Open 3",
+    "gender": "H"
   },
   {
     "id": "augustin-mesnard",
     "name": "Augustin Mesnard",
     "club": "CLAMART CYCLISME 92",
-    "category": "Open 3"
+    "category": "Open 3",
+    "gender": "H"
   },
   {
     "id": "joachim-kanji-nanji",
     "name": "Joachim Kanji Nanji",
     "club": "ANTONY BERNY CYCLISTE",
-    "category": "Open 3"
+    "category": "Open 3",
+    "gender": "H"
   },
   {
     "id": "quentin-parade",
     "name": "Quentin Parade",
     "club": "UC GIEN SPORT",
-    "category": "Open 2"
+    "category": "Open 2",
+    "gender": "H"
   },
   {
     "id": "colin-ponthonne",
     "name": "Colin Ponthonne",
     "club": "REBRECHIEN LOIRET CYCLISME",
-    "category": "Open 3"
+    "category": "Open 3",
+    "gender": "H"
   },
   {
     "id": "rafael-russo",
     "name": "Rafael Russo",
     "club": "PARISIS A.C. 95",
-    "category": "Open 3"
+    "category": "Open 3",
+    "gender": "H"
   },
   {
     "id": "pierre-ricci",
     "name": "Pierre Ricci",
     "club": "PARISIS A.C. 95",
-    "category": "Open 2"
+    "category": "Open 2",
+    "gender": "H"
   },
   {
     "id": "cedric-herledan",
     "name": "Cédric Herledan",
     "club": "PEDALE COMBS LA VILLAISE",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "gautier-diedler",
     "name": "Gautier Diedler",
     "club": "VC FONTAINEBLEAU AVON",
-    "category": "Open 3"
+    "category": "Open 3",
+    "gender": "H"
   },
   {
     "id": "thibault-gaudillat",
     "name": "Thibault Gaudillat",
     "club": "ST DENIS HOTEL CYCLISME",
-    "category": "Open 3"
+    "category": "Open 3",
+    "gender": "H"
   },
   {
     "id": "eric-crapard",
     "name": "Eric Crapard",
     "club": "VC FONTAINEBLEAU AVON",
-    "category": "Open 3"
+    "category": "Open 3",
+    "gender": "H"
   },
   {
     "id": "tom-bourdier",
     "name": "Tom Bourdier",
     "club": "U. COSNOISE SPORTIVE",
-    "category": "Open 2"
+    "category": "Open 2",
+    "gender": "H"
   },
   {
     "id": "romain-bona",
     "name": "Romain Bona",
     "club": "U.V.C.A TROYES",
-    "category": "Open 3"
+    "category": "Open 3",
+    "gender": "H"
   },
   {
     "id": "emeric-raufflet",
     "name": "Emeric Raufflet",
     "club": "TEAM ALL CYCLES MEAUX",
-    "category": "Open 2"
+    "category": "Open 2",
+    "gender": "H"
   },
   {
     "id": "florian-cappoen",
     "name": "Florian Cappoen",
     "club": "SUD DE L'EURE CYCLISME - STADE VERNOLIEN",
-    "category": "Open 2"
+    "category": "Open 2",
+    "gender": "H"
   },
   {
     "id": "bastien-vuillaume",
     "name": "Bastien Vuillaume",
     "club": "CLAMART CYCLISME 92",
-    "category": "Open 2"
+    "category": "Open 2",
+    "gender": "H"
   },
   {
     "id": "vincent-martins",
     "name": "Vincent Martins",
     "club": "OLYMPIQUE C.V.O.",
-    "category": "Open 3"
+    "category": "Open 3",
+    "gender": "H"
   },
   {
     "id": "eyvan-besche",
     "name": "Eyvan Besche",
     "club": "CLAMART CYCLISME 92",
-    "category": "Open 3"
+    "category": "Open 3",
+    "gender": "H"
   },
   {
     "id": "vincent-mouquet",
     "name": "Vincent Mouquet",
     "club": "U. COSNOISE SPORTIVE",
-    "category": "Open 2"
+    "category": "Open 2",
+    "gender": "H"
   },
   {
     "id": "wilfrid-noyon",
     "name": "Wilfrid Noyon",
     "club": "ESPOIR DU SUD",
-    "category": "Open 3"
+    "category": "Open 3",
+    "gender": "H"
   },
   {
     "id": "giovanny-fragnoli",
     "name": "Giovanny Fragnoli",
     "club": "VC MONTIGNY BRETONNEUX",
-    "category": "Open 3"
+    "category": "Open 3",
+    "gender": "H"
   },
   {
     "id": "alexandre-demandrille",
     "name": "Alexandre Demandrille",
     "club": "ES GERVAIS LILAS",
-    "category": "Open 3"
+    "category": "Open 3",
+    "gender": "H"
   },
   {
     "id": "noe-richard",
     "name": "Noé Richard",
     "club": "ST DENIS HOTEL CYCLISME",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "ferdinand-castelnau",
     "name": "Ferdinand Castelnau",
     "club": "CLAMART CYCLISME 92",
-    "category": "Open 3"
+    "category": "Open 3",
+    "gender": "H"
   },
   {
     "id": "olivier-baud",
     "name": "Olivier Baud",
     "club": "A. C. B. B.",
-    "category": "Open 2"
+    "category": "Open 2",
+    "gender": "H"
   },
   {
     "id": "raphael-bednarz-dubois",
     "name": "Raphaël Bednarz Dubois",
     "club": "TEAM CYCLISTE LINAS MONTLHERY",
-    "category": "Open 3"
+    "category": "Open 3",
+    "gender": "H"
   },
   {
     "id": "olivier-nari",
     "name": "Olivier Nari",
     "club": "EC MONTGERON VIGNEUX",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "gaspard-degreve",
     "name": "Gaspard Degreve",
     "club": "AV THIAIS",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "louis-fuhrmann",
     "name": "Louis Fuhrmann",
     "club": "CLUB CYCLISTE ST-LOUISIEN",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "arsene-ducret-contactsis",
     "name": "Arsène Ducret Contactsis",
     "club": "PARIS CYCLISTE OLYMPIQUE",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "patrick-bottone",
     "name": "Patrick Bottone",
     "club": "AS CORBEIL ESSONNES",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "theo-frebout",
     "name": "Théo Frebout",
     "club": "UC JOUE LES TOURS",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "lorenzo-dubusset-giuliani",
     "name": "Lorenzo Dubusset Giuliani",
     "club": "TEAM ALL CYCLES MEAUX",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "jean-pierre-carreira",
     "name": "Jean Pierre Carreira",
     "club": "B.C. NOISY LE GRAND",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "fabien-sardenne",
     "name": "Fabien Sardenne",
     "club": "SC GRETZ TOURNAN",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "sebastien-siblet",
     "name": "Sébastien Siblet",
     "club": "TEAM CYCLISTES ECHAPPEE 77",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "raphael-guillot",
     "name": "Raphaël Guillot",
     "club": "PARIS CYCLISTE OLYMPIQUE",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "ludovic-rapinat",
     "name": "Ludovic Rapinat",
     "club": "LAGNY PONTCARRE CYC.",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "thibaud-marton",
     "name": "Thibaud Marton",
     "club": "CSM PUTEAUX",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "nicolas-neves",
     "name": "Nicolas Neves",
     "club": "UC QUIMPERLOISE",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "tristan-luguet",
     "name": "Tristan Luguet",
     "club": "TEAM CYCLISTES ECHAPPEE 77",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "antoine-barbe-almori",
     "name": "Antoine Barbe Almori",
     "club": "PARIS CYCLISTE OLYMPIQUE",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "tifany-goupy-soret",
     "name": "Tifany Goupy Soret",
     "club": "VELO CLUB DU SENONAIS",
-    "category": "Access 2"
+    "category": "Access 2",
+    "gender": "F"
   },
   {
     "id": "alexandre-delorme",
     "name": "Alexandre Delorme",
     "club": "LAGNY PONTCARRE CYC.",
-    "category": "Access 2"
+    "category": "Access 2",
+    "gender": "H"
   },
   {
     "id": "nicolas-vinet",
     "name": "Nicolas Vinet",
     "club": "TEAM ALL CYCLES MEAUX",
-    "category": "Access 2"
+    "category": "Access 2",
+    "gender": "H"
   },
   {
     "id": "philippe-corvaisier",
     "name": "Philippe Corvaisier",
     "club": "VC SULPICIEN",
-    "category": "Access 2"
+    "category": "Access 2",
+    "gender": "H"
   },
   {
     "id": "remco-benbouaziz",
     "name": "Remco Benbouaziz",
     "club": "AS CORBEIL ESSONNES",
-    "category": "Access 2"
+    "category": "Access 2",
+    "gender": "H"
   },
   {
     "id": "cyril-clery",
     "name": "Cyril Clery",
     "club": "TEAM ALL CYCLES MEAUX",
-    "category": "Access 2"
+    "category": "Access 2",
+    "gender": "H"
   },
   {
     "id": "gabin-hervagault",
     "name": "Gabin Hervagault",
     "club": "ST DENIS HOTEL CYCLISME",
-    "category": "Access 2"
+    "category": "Access 2",
+    "gender": "H"
   },
   {
     "id": "sebastien-blary",
     "name": "Sébastien Blary",
     "club": "VC FONTAINEBLEAU AVON",
-    "category": "Access 2"
+    "category": "Access 2",
+    "gender": "H"
   },
   {
     "id": "bruno-joubert",
     "name": "Bruno Joubert",
     "club": "VC SULPICIEN",
-    "category": "Access 2"
+    "category": "Access 2",
+    "gender": "H"
   },
   {
     "id": "nelia-sahraoui",
     "name": "Nelia Sahraoui",
     "club": "US CRETEIL",
-    "category": "Access 2"
+    "category": "Access 2",
+    "gender": "F"
   },
   {
     "id": "alexandre-pinon",
     "name": "Alexandre Pinon",
     "club": "USM GAGNY",
-    "category": "Access 2"
+    "category": "Access 2",
+    "gender": "H"
   },
   {
     "id": "yannick-marous",
     "name": "Yannick Marous",
     "club": "AS CORBEIL ESSONNES",
-    "category": "Access 2"
+    "category": "Access 2",
+    "gender": "H"
   },
   {
     "id": "fabien-rommens",
     "name": "Fabien Rommens",
     "club": "VELO CLUB ARPAJON",
-    "category": "Access 2"
+    "category": "Access 2",
+    "gender": "H"
   },
   {
     "id": "joycel-montero-fabelo",
     "name": "Joycel Montero Fabelo",
     "club": "VC VINCENNES",
-    "category": "Access 2"
+    "category": "Access 2",
+    "gender": "H"
   },
   {
     "id": "joel-geromegnace",
     "name": "Joel Geromegnace",
     "club": "PEDALE COMBS LA VILLAISE",
-    "category": "Access 2"
+    "category": "Access 2",
+    "gender": "H"
   },
   {
     "id": "freddy-boire",
     "name": "Freddy Boire",
     "club": "ES STAINS-CYCLISME",
-    "category": "Access 2"
+    "category": "Access 2",
+    "gender": "H"
   },
   {
     "id": "arnaud-oreac",
     "name": "Arnaud Oreac",
     "club": "VC SAVIGNY SUR ORGE",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "H"
   },
   {
     "id": "eric-lemey",
     "name": "Eric Lemey",
     "club": "TEAM CYCLISTE BUSSY",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "H"
   },
   {
     "id": "patrice-lenoir",
     "name": "Patrice Lenoir",
     "club": "MELUN CYCL. ORGANISATION",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "H"
   },
   {
     "id": "laurent-roussel",
     "name": "Laurent Roussel",
     "club": "TEAM BIKE CYCLISTE SAINT PRIX",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "H"
   },
   {
     "id": "dominique-mezzatesta",
     "name": "Dominique Mezzatesta",
     "club": "TEAM CYCLISTE EN DANSEUSE",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "H"
   },
   {
     "id": "charles-maxime-defromont",
     "name": "Charles Maxime Defromont",
     "club": "CLUB CYCLISTE YONNE NORD",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "H"
   },
   {
     "id": "nicolas-finou",
     "name": "Nicolas Finou",
     "club": "TEAM HBS CYCLING",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "H"
   },
   {
     "id": "christophe-thery",
     "name": "Christophe Thery",
     "club": "TEAM PELTRAX - CSD",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "H"
   },
   {
     "id": "jean-pierre-hornn",
     "name": "Jean Pierre Hornn",
     "club": "LA PÉ DALE FERTOISE",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "H"
   },
   {
     "id": "gregory-bonfand",
     "name": "Grégory Bonfand",
     "club": "VC SAVIGNY SUR ORGE",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "H"
   },
   {
     "id": "brice-annaval",
     "name": "Brice Annaval",
     "club": "US NEMOURS ST PIERRE",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "H"
   },
   {
     "id": "fabien-rousselin",
     "name": "Fabien Rousselin",
     "club": "TEAM ALL CYCLES MEAUX",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "H"
   },
   {
     "id": "jonathan-courbet",
     "name": "Jonathan Courbet",
     "club": "SC GRETZ TOURNAN",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "H"
   },
   {
     "id": "charles-dupire",
     "name": "Charles Dupire",
     "club": "AS CORBEIL ESSONNES",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "H"
   },
   {
     "id": "lionel-boulven",
     "name": "Lionel Boulven",
     "club": "PEDALE COMBS LA VILLAISE",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "H"
   },
   {
     "id": "marine-guy",
     "name": "Marine Guy",
     "club": "WATT CYCLING CLUB",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "F"
   },
   {
     "id": "raphael-morel-biron",
     "name": "Raphaël Morel Biron",
     "club": "MELUN CYCL. ORGANISATION",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "H"
   },
   {
     "id": "jean-philippe-meret",
     "name": "Jean Philippe Meret",
     "club": "MELUN CYCL. ORGANISATION",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "H"
   },
   {
     "id": "thierry-duval",
     "name": "Thierry Duval",
     "club": "VC BROU",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "H"
   },
   {
     "id": "vitor-da-costa-leite",
     "name": "Vitor Da Costa Leite",
     "club": "AS CORBEIL ESSONNES",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "olivier-belair",
     "name": "Olivier Belair",
     "club": "VELO CLUB DU SENONAIS",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "eric-ropert",
     "name": "Eric Ropert",
     "club": "PARISIS A.C. 95",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "christophe-gay",
     "name": "Christophe Gay",
     "club": "TEAM CYCLISTE EN DANSEUSE",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "luc-varanges",
     "name": "Luc Varanges",
     "club": "EC MONTGERON VIGNEUX",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "henri-lepagnez",
     "name": "Henri Lepagnez",
     "club": "TEAM CYCLISTE EN DANSEUSE",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "alain-dubusset",
     "name": "Alain Dubusset",
     "club": "TEAM ALL CYCLES MEAUX",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "omer-jacky-doranges",
     "name": "Omer Jacky Doranges",
     "club": "TROPIKANA",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "pascal-doisneau",
     "name": "Pascal Doisneau",
     "club": "AIRPORT A.O.C. WISSOUS",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "franck-seurot",
     "name": "Franck Seurot",
     "club": "VC FONTAINEBLEAU AVON",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "frederic-thibault",
     "name": "Frédéric Thibault",
     "club": "TEAM CYCLISTE EN DANSEUSE",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "cecilia-amorini",
     "name": "Cecilia Amorini",
     "club": "CC PONTHIERRY PRINGY",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "F"
   },
   {
     "id": "thierry-reine",
     "name": "Thierry Reine",
     "club": "TEAM PELTRAX - CSD",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "olivier-vuillemet",
     "name": "Olivier Vuillemet",
     "club": "SC GRETZ TOURNAN",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "jean-michel-marie",
     "name": "Jean Michel Marie",
     "club": "SE PAVILLONNAIS",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "pascal-saulnier",
     "name": "Pascal Saulnier",
     "club": "AIRPORT A.O.C. WISSOUS",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "didier-fabre",
     "name": "Didier Fabre",
     "club": "VC FONTAINEBLEAU AVON",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "andre-michaeli",
     "name": "Andre Michaeli",
     "club": "VC BROU",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "philippe-torres",
     "name": "Philippe Torres",
     "club": "AS PUISEAUX",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "guy-albert-boubouille",
     "name": "Guy Albert Boubouille",
     "club": "TROPIKANA",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "philippe-martinez",
     "name": "Philippe Martinez",
     "club": "CC PONTHIERRY PRINGY",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "jose-chanteur",
     "name": "José Chanteur",
     "club": "AV THIAIS",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "andre-giroux",
     "name": "André Giroux",
     "club": "CM AUBERVILLIERS 93",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "julie-baclet",
     "name": "Julie Baclet",
     "club": "TEAM CYCLISTES ECHAPPEE 77",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "F"
   },
   {
     "id": "patrice-truchet",
     "name": "Patrice Truchet",
     "club": "TEAM HBS CYCLING",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "lucas-de-salvo",
     "name": "Lucas De Salvo",
     "club": "B.C. NOISY LE GRAND",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "jean-demoulin",
     "name": "Jean Demoulin",
     "club": "TEAM CHATOU CYCLISME",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "alexandre-auffray",
     "name": "Alexandre Auffray",
     "club": "US BOIS SAINT-DENIS",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "sebastien-marion",
     "name": "Sébastien Marion",
     "club": "TEAM ALL CYCLES MEAUX",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "yanis-legrand",
     "name": "Yanis Legrand",
     "club": "ES PERSANAISE",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "kilian-clavier",
     "name": "Kilian Clavier",
     "club": "CM AUBERVILLIERS 93",
-    "category": "Access 1"
+    "category": "Access 1",
+    "gender": "H"
   },
   {
     "id": "thomas-goix",
     "name": "Thomas Goix",
     "club": "EC CHATEAU THIERRY",
-    "category": "Access 2"
+    "category": "Access 2",
+    "gender": "H"
   },
   {
     "id": "clement-declercq",
     "name": "Clément Declercq",
     "club": "USM VILLEPARISIS",
-    "category": "Access 2"
+    "category": "Access 2",
+    "gender": "H"
   },
   {
     "id": "fabien-delande",
     "name": "Fabien Delande",
     "club": "US EZANVILLE ECOUEN",
-    "category": "Access 2"
+    "category": "Access 2",
+    "gender": "H"
   },
   {
     "id": "jerome-boudot",
     "name": "Jérôme Boudot",
     "club": "LA PÉ DALE FERTOISE",
-    "category": "Access 2"
+    "category": "Access 2",
+    "gender": "H"
   },
   {
     "id": "yuri-rodrigues-caze",
     "name": "Yuri Rodrigues Caze",
     "club": "AS MEUDON CYCLOSPORT COMPETITION",
-    "category": "Access 2"
+    "category": "Access 2",
+    "gender": "H"
   },
   {
     "id": "yoan-kervoelen",
     "name": "Yoan Kervoelen",
     "club": "TEAM ALL CYCLES MEAUX",
-    "category": "Access 2"
+    "category": "Access 2",
+    "gender": "H"
   },
   {
     "id": "ken-suire",
     "name": "Ken Suire",
     "club": "VC SAINTAIS",
-    "category": "Access 2"
+    "category": "Access 2",
+    "gender": "H"
   },
   {
     "id": "leo-plomion",
     "name": "Léo Plomion",
     "club": "PARIS CYCLISTE OLYMPIQUE",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "H"
   },
   {
     "id": "stephane-henrio",
     "name": "Stéphane Henrio",
     "club": "US EZANVILLE ECOUEN",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "H"
   },
   {
     "id": "thomas-dewaele",
     "name": "Thomas Dewaele",
     "club": "LAGNY PONTCARRE CYC.",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "H"
   },
   {
     "id": "laurent-louvet",
     "name": "Laurent Louvet",
     "club": "USM VILLEPARISIS",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "H"
   },
   {
     "id": "eric-lesne",
     "name": "Eric Lesne",
     "club": "LA PÉ DALE FERTOISE",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "H"
   },
   {
     "id": "jean-marc-gabriel",
     "name": "Jean Marc Gabriel",
     "club": "SC GRETZ TOURNAN",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "H"
   },
   {
     "id": "frederick-legeay",
     "name": "Frédérick Legeay",
     "club": "SC GRETZ TOURNAN",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "H"
   },
   {
     "id": "franck-ferbours",
     "name": "Franck Ferbours",
     "club": "CLUB CYCLISTE BAILLET EN FRANCE",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "H"
   },
   {
     "id": "eric-tauveron",
     "name": "Eric Tauveron",
     "club": "LAGNY PONTCARRE CYC.",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "H"
   },
   {
     "id": "david-andre",
     "name": "David Andre",
     "club": "USM VILLEPARISIS",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "H"
   },
   {
     "id": "frederic-gimnetti",
     "name": "Frederic Gimnetti",
     "club": "EC VELIZY 78",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "H"
   },
   {
     "id": "margot-boulet",
     "name": "Margot Boulet",
     "club": "GUIDON PROVINOIS",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "F"
   },
   {
     "id": "salomon-villeret",
     "name": "Salomon Villeret",
     "club": "USM VILLEPARISIS",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "H"
   },
   {
     "id": "jean-francois-ousteau",
     "name": "Jean Francois Ousteau",
     "club": "LA PÉ DALE FERTOISE",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "H"
   },
   {
     "id": "gilles-garel",
     "name": "Gilles Garel",
     "club": "USM GAGNY",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "pascal-costantini",
     "name": "Pascal Costantini",
     "club": "TEAM CYCLISTE BUSSY",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "vincent-gilardini",
     "name": "Vincent Gilardini",
     "club": "VC VINCENNES",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "thierry-busato",
     "name": "Thierry Busato",
     "club": "LA PÉ DALE FERTOISE",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "philippe-clavier",
     "name": "Philippe Clavier",
     "club": "SE PAVILLONNAIS",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "philippe-harlee",
     "name": "Philippe Harlee",
     "club": "SC GRETZ TOURNAN",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "andre-grados",
     "name": "André Grados",
     "club": "U.V.AUBE",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "alain-crouzilles",
     "name": "Alain Crouzilles",
     "club": "SE PAVILLONNAIS",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "bruno-piriou",
     "name": "Bruno Piriou",
     "club": "PARISIS A.C. 95",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "sylvie-pich",
     "name": "Sylvie Pich",
     "club": "TEAM ALL CYCLES MEAUX",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "F"
   },
   {
     "id": "leonides-hernandez",
     "name": "Leonides Hernandez",
     "club": "CC COULOMMIERS",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "angel-vazquez",
     "name": "Angel Vazquez",
     "club": "SE PAVILLONNAIS",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "jean-paul-travaille",
     "name": "Jean Paul Travaille",
     "club": "SE PAVILLONNAIS",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "arnaud-denis",
     "name": "Arnaud Denis",
     "club": "USM VILLEPARISIS",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "lalie-meunier-joris",
     "name": "Lalie Meunier Joris",
     "club": "TEAM ALL CYCLES MEAUX",
-    "category": "Access 3"
+    "category": "Access 3",
+    "gender": "F"
   },
   {
     "id": "patrick-mondamert",
     "name": "Patrick Mondamert",
     "club": "CC COULOMMIERS",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   },
   {
     "id": "jean-luc-richard",
     "name": "Jean Luc Richard",
     "club": "COURBEVOIE SPORTS CYCLISME",
-    "category": "Access 4"
+    "category": "Access 4",
+    "gender": "H"
   }
 ]
