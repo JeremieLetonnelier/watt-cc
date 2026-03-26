@@ -33,7 +33,26 @@ export default function StravaWidget({
     );
   }
 
-  const stravaUrl = `https://www.strava.com/routes/${routeId}`;
+  const getEmbedUrl = (id: string) => {
+    // Handle full URLs if provided instead of just IDs
+    const routeMatch = id.match(/routes\/(\d+)/);
+    const activityMatch = id.match(/activities\/(\d+)/);
+    
+    if (routeMatch) return `https://www.strava.com/routes/${routeMatch[1]}/embed`;
+    if (activityMatch) return `https://www.strava.com/activities/${activityMatch[1]}/embed`;
+    
+    return `https://www.strava.com/routes/${id.trim()}/embed`;
+  };
+
+  const getStravaUrl = (id: string) => {
+    const routeMatch = id.match(/routes\/(\d+)/);
+    const activityMatch = id.match(/activities\/(\d+)/);
+    
+    if (routeMatch) return `https://www.strava.com/routes/${routeMatch[1]}`;
+    if (activityMatch) return `https://www.strava.com/activities/${activityMatch[1]}`;
+    
+    return `https://www.strava.com/routes/${id.trim()}`;
+  };
 
   return (
     <motion.div
@@ -51,7 +70,7 @@ export default function StravaWidget({
           <span className="text-white font-semibold">{title}</span>
         </div>
         <a
-          href={stravaUrl}
+          href={getStravaUrl(routeId)}
           target="_blank"
           rel="noopener noreferrer"
           className="flex items-center gap-1.5 text-[#FC4C02] hover:text-[#FC4C02]/80 transition-colors text-sm font-medium"
@@ -62,14 +81,24 @@ export default function StravaWidget({
       </div>
 
       {/* Strava Embed */}
-      <div className="relative w-full" style={{ paddingBottom: '56.25%' }}>
+      <div className="relative w-full group" style={{ paddingBottom: '56.25%' }}>
         <iframe
-          src={`https://www.strava.com/routes/${routeId}/embed`}
+          src={getEmbedUrl(routeId)}
           className="absolute inset-0 w-full h-full"
           frameBorder="0"
           scrolling="no"
           allowFullScreen
         />
+        
+        {/* Help Tip - only visible when needed or as a subtle hint */}
+        <div className="absolute inset-0 flex items-center justify-center pointer-events-none opacity-0 group-hover:opacity-100 transition-opacity">
+          <div className="bg-black/80 backdrop-blur-md p-4 rounded-xl border border-white/10 text-center max-w-[80%] pointer-events-auto">
+            <p className="text-xs text-gray-300">
+              Si la carte ne s'affiche pas (Refused to connect), 
+              vérifiez que le parcours est bien configuré sur <span className="text-white font-bold">Tout le monde</span> dans Strava.
+            </p>
+          </div>
+        </div>
       </div>
     </motion.div>
   );
