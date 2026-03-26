@@ -2,6 +2,7 @@
 
 import { motion } from 'motion/react';
 import { ExternalLink, Map } from 'lucide-react';
+import Script from 'next/script';
 
 interface StravaWidgetProps {
   routeId: string;
@@ -33,7 +34,19 @@ export default function StravaWidget({
     );
   }
 
-  const stravaUrl = `https://www.strava.com/routes/${routeId}`;
+  const getEmbedData = (id: string) => {
+    const routeMatch = id.match(/routes\/(\d+)/);
+    const activityMatch = id.match(/activities\/(\d+)/);
+    
+    if (routeMatch) return { id: routeMatch[1], type: 'route' };
+    if (activityMatch) return { id: activityMatch[1], type: 'activity' };
+    
+    // Default to route if it's just a numeric ID
+    return { id: id.trim(), type: 'route' };
+  };
+
+  const { id: cleanId, type: embedType } = getEmbedData(routeId);
+  const stravaUrl = `https://www.strava.com/${embedType === 'route' ? 'routes' : 'activities'}/${cleanId}`;
 
   return (
     <motion.div
@@ -42,6 +55,8 @@ export default function StravaWidget({
       viewport={{ once: true }}
       className="bg-white/5 border border-white/10 rounded-2xl overflow-hidden backdrop-blur-sm"
     >
+      <Script src="https://strava-embeds.com/embed.js" strategy="afterInteractive" />
+
       {/* Header */}
       <div className="flex items-center justify-between px-6 py-4 border-b border-white/10">
         <div className="flex items-center gap-3">
@@ -61,15 +76,22 @@ export default function StravaWidget({
         </a>
       </div>
 
-      {/* Strava Embed */}
-      <div className="relative w-full" style={{ paddingBottom: '56.25%' }}>
-        <iframe
-          src={`https://www.strava.com/routes/${routeId}/embed`}
-          className="absolute inset-0 w-full h-full"
-          frameBorder="0"
-          scrolling="no"
-          allowFullScreen
+      {/* Strava Embed Container */}
+      <div className="relative w-full bg-white/5 min-h-[420px]">
+        <div 
+          className="strava-embed-placeholder" 
+          data-embed-type={embedType} 
+          data-embed-id={cleanId} 
+          data-style="standard"
+          data-from-embed="true"
         />
+        
+        {/* Help Tip */}
+        <div className="absolute top-2 right-2 z-10 opacity-0 group-hover:opacity-100 transition-opacity">
+          <div className="bg-black/80 backdrop-blur-md px-3 py-1.5 rounded-lg border border-white/10 text-[10px] text-gray-400">
+            Route non affichée ? Vérifiez la visibilité "Tout le monde".
+          </div>
+        </div>
       </div>
     </motion.div>
   );
