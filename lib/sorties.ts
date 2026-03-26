@@ -212,7 +212,7 @@ export async function fetchSortieConfig(): Promise<SortieConfig> {
 
 // ─── Fetch Weather (Open-Meteo) ───────────────────────────────────────────────
 
-export async function fetchWeather(lat: number, lon: number): Promise<WeatherDay | null> {
+export async function fetchWeather(lat: number, lon: number, targetDate?: string): Promise<WeatherDay | null> {
   const url = `https://api.open-meteo.com/v1/forecast?latitude=${lat}&longitude=${lon}&daily=temperature_2m_max,temperature_2m_min,weathercode&timezone=Europe%2FParis&forecast_days=7`;
 
   try {
@@ -225,17 +225,35 @@ export async function fetchWeather(lat: number, lon: number): Promise<WeatherDay
     const tempMin: number[] = json.daily.temperature_2m_min;
     const codes: number[] = json.daily.weathercode;
 
-    // Find next Sunday (day 0)
+    // If targetDate is provided, look for that specific day. 
+    // Otherwise, find the next Sunday.
     const today = new Date();
+    today.setHours(0, 0, 0, 0);
+
     for (let i = 0; i < dates.length; i++) {
       const d = new Date(dates[i]);
-      if (d.getDay() === 0 && d >= today) {
-        return {
-          date: dates[i],
-          tempMax: Math.round(tempMax[i]),
-          tempMin: Math.round(tempMin[i]),
-          weatherCode: codes[i],
-        };
+      d.setHours(0, 0, 0, 0);
+
+      if (targetDate) {
+        const target = new Date(targetDate);
+        target.setHours(0, 0, 0, 0);
+        if (d.getTime() === target.getTime()) {
+          return {
+            date: dates[i],
+            tempMax: Math.round(tempMax[i]),
+            tempMin: Math.round(tempMin[i]),
+            weatherCode: codes[i],
+          };
+        }
+      } else {
+        if (d.getDay() === 0 && d >= today) {
+          return {
+            date: dates[i],
+            tempMax: Math.round(tempMax[i]),
+            tempMin: Math.round(tempMin[i]),
+            weatherCode: codes[i],
+          };
+        }
       }
     }
     return null;

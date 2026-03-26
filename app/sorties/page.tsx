@@ -57,7 +57,7 @@ export default async function SortiesPage() {
   ]);
 
   const location = LOCATIONS[config.lieu] ?? LOCATIONS[''];
-  const weather = await fetchWeather(location.lat, location.lon);
+  const weather = await fetchWeather(location.lat, location.lon, config.date);
 
   const routeIds: Record<string, string> = {
     stravaDebutants: config.stravaDebutants,
