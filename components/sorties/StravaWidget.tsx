@@ -35,6 +35,7 @@ export default function StravaWidget({
   }
 
   const getEmbedData = (id: string) => {
+    // Keep it robust to match IDs from URLs (routes or activities)
     const routeMatch = id.match(/routes\/(\d+)/);
     const activityMatch = id.match(/activities\/(\d+)/);
     
@@ -53,7 +54,7 @@ export default function StravaWidget({
       initial={{ opacity: 0, y: 20 }}
       whileInView={{ opacity: 1, y: 0 }}
       viewport={{ once: true }}
-      className="bg-white/5 border border-white/10 rounded-2xl overflow-hidden backdrop-blur-sm"
+      className="bg-white/5 border border-white/10 rounded-2xl overflow-hidden backdrop-blur-sm group"
     >
       <Script src="https://strava-embeds.com/embed.js" strategy="afterInteractive" />
 
@@ -76,7 +77,7 @@ export default function StravaWidget({
         </a>
       </div>
 
-      {/* Strava Embed Container */}
+      {/* Strava Embed Container (The placeholder for embed.js) */}
       <div className="relative w-full bg-white/5 min-h-[420px]">
         <div 
           className="strava-embed-placeholder" 
@@ -86,7 +87,7 @@ export default function StravaWidget({
           data-from-embed="true"
         />
         
-        {/* Help Tip */}
+        {/* Help Tip Overlay */}
         <div className="absolute top-2 right-2 z-10 opacity-0 group-hover:opacity-100 transition-opacity">
           <div className="bg-black/80 backdrop-blur-md px-3 py-1.5 rounded-lg border border-white/10 text-[10px] text-gray-400">
             Route non affichée ? Vérifiez la visibilité "Tout le monde".
