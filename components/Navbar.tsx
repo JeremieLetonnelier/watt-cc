@@ -3,7 +3,7 @@
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
 import { motion } from 'motion/react';
-import { Trophy, Home, Flag, Menu, X } from 'lucide-react';
+import { Trophy, Home, Flag, Menu, X, Sun } from 'lucide-react';
 import { useState } from 'react';
 
 export default function Navbar() {
@@ -14,6 +14,7 @@ export default function Navbar() {
     { name: 'Accueil', path: '/', icon: Home },
     { name: 'Classement FFC', path: '/ffc', icon: Trophy },
     { name: 'Résultats GFNY', path: '/gfny', icon: Flag },
+    { name: 'Sorties', path: '/sorties', icon: Sun },
   ];
 
   return (
