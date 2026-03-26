@@ -14,6 +14,10 @@ export const metadata = {
   description: 'Tracés Strava, inscriptions et météo pour les sorties club du dimanche.',
 };
 
+// Fetch live data on every request — never statically generated at build time
+export const dynamic = 'force-dynamic';
+
+
 const STRAVA_GROUPS = [
   {
     key: 'debutants' as const,
