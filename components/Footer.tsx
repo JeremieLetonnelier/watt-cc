@@ -17,9 +17,9 @@ export default function Footer() {
               <Trophy className="w-4 h-4" />
               Classement FFC
             </Link>
-            <Link href="/gfny" className="hover:text-white transition-colors flex items-center gap-2">
+            <Link href="/cyclosportives" className="hover:text-white transition-colors flex items-center gap-2">
               <Flag className="w-4 h-4" />
-              Résultats GFNY
+              Cyclosportives
             </Link>
           </div>
           

@@ -33,7 +33,7 @@ export default function Hero() {
           </div>
 
           <p className="max-w-2xl mx-auto text-lg md:text-xl text-gray-300 font-medium">
-            Le classement officiel des coureurs du club WATT.CC sur les courses FFC (CIF) et les cyclosportives GFNY.
+            Le classement officiel des coureurs du club WATT.CC sur les courses FFC (CIF) et le calendrier des Cyclosportives.
           </p>
 
           <div className="flex flex-col sm:flex-row items-center justify-center gap-4 pt-8">
@@ -46,13 +46,13 @@ export default function Hero() {
                 Classement FFC <ArrowRight className="w-5 h-5" />
               </motion.button>
             </Link>
-            <Link href="/gfny">
+            <Link href="/cyclosportives">
               <motion.button
                 whileHover={{ scale: 1.05 }}
                 whileTap={{ scale: 0.95 }}
                 className="px-8 py-4 bg-white/10 backdrop-blur-md border border-white/20 text-white font-bold rounded-full hover:bg-white/20 transition-colors flex items-center gap-2 uppercase tracking-wide"
               >
-                Résultats GFNY
+                Cyclosportives
               </motion.button>
             </Link>
           </div>
