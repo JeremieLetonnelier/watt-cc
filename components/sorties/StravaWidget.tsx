@@ -59,12 +59,9 @@ export default function StravaWidget({
       <Script src="https://strava-embeds.com/embed.js" strategy="afterInteractive" />
 
       {/* Header */}
-      <div className="flex items-center justify-between px-6 py-4 border-b border-white/10">
-        <div className="flex items-center gap-3">
-          <div className={`inline-flex items-center gap-1.5 px-3 py-1 rounded-full text-xs font-bold uppercase tracking-widest border ${groupColor}`}>
-            {groupLabel}
-          </div>
-          <span className="text-white font-semibold">{title}</span>
+      <div className="flex items-center justify-between px-6 py-5 border-b border-white/10">
+        <div className={`inline-flex items-center gap-1.5 px-3 py-1 rounded-full text-xs font-bold uppercase tracking-widest border ${groupColor}`}>
+          {groupLabel}
         </div>
         <a
           href={stravaUrl}
@@ -73,7 +70,7 @@ export default function StravaWidget({
           className="flex items-center gap-1.5 text-[#FC4C02] hover:text-[#FC4C02]/80 transition-colors text-sm font-medium"
         >
           <ExternalLink className="w-4 h-4" />
-          Strava
+          <span>Voir sur Strava</span>
         </a>
       </div>
 
