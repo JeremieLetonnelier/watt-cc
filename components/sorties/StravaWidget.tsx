@@ -2,6 +2,7 @@
 
 import { motion } from 'motion/react';
 import { ExternalLink, Map } from 'lucide-react';
+import Script from 'next/script';
 
 interface StravaWidgetProps {
   routeId: string;
@@ -33,22 +34,34 @@ export default function StravaWidget({
     );
   }
 
-  const stravaUrl = `https://www.strava.com/routes/${routeId}`;
+  const getEmbedData = (id: string) => {
+    // Keep it robust to match IDs from URLs (routes or activities)
+    const routeMatch = id.match(/routes\/(\d+)/);
+    const activityMatch = id.match(/activities\/(\d+)/);
+    
+    if (routeMatch) return { id: routeMatch[1], type: 'route' };
+    if (activityMatch) return { id: activityMatch[1], type: 'activity' };
+    
+    // Default to route if it's just a numeric ID
+    return { id: id.trim(), type: 'route' };
+  };
+
+  const { id: cleanId, type: embedType } = getEmbedData(routeId);
+  const stravaUrl = `https://www.strava.com/${embedType === 'route' ? 'routes' : 'activities'}/${cleanId}`;
 
   return (
     <motion.div
       initial={{ opacity: 0, y: 20 }}
       whileInView={{ opacity: 1, y: 0 }}
       viewport={{ once: true }}
-      className="bg-white/5 border border-white/10 rounded-2xl overflow-hidden backdrop-blur-sm"
+      className="bg-white/5 border border-white/10 rounded-2xl overflow-hidden backdrop-blur-sm group"
     >
+      <Script src="https://strava-embeds.com/embed.js" strategy="afterInteractive" />
+
       {/* Header */}
-      <div className="flex items-center justify-between px-6 py-4 border-b border-white/10">
-        <div className="flex items-center gap-3">
-          <div className={`inline-flex items-center gap-1.5 px-3 py-1 rounded-full text-xs font-bold uppercase tracking-widest border ${groupColor}`}>
-            {groupLabel}
-          </div>
-          <span className="text-white font-semibold">{title}</span>
+      <div className="flex items-center justify-between px-6 py-5 border-b border-white/10">
+        <div className={`inline-flex items-center gap-1.5 px-3 py-1 rounded-full text-xs font-bold uppercase tracking-widest border ${groupColor}`}>
+          {groupLabel}
         </div>
         <a
           href={stravaUrl}
@@ -57,19 +70,31 @@ export default function StravaWidget({
           className="flex items-center gap-1.5 text-[#FC4C02] hover:text-[#FC4C02]/80 transition-colors text-sm font-medium"
         >
           <ExternalLink className="w-4 h-4" />
-          Strava
+          <span>Voir sur Strava</span>
         </a>
       </div>
 
-      {/* Strava Embed */}
-      <div className="relative w-full" style={{ paddingBottom: '56.25%' }}>
-        <iframe
-          src={`https://www.strava.com/routes/${routeId}/embed`}
-          className="absolute inset-0 w-full h-full"
-          frameBorder="0"
-          scrolling="no"
-          allowFullScreen
+      {/* Strava Embed Container (The placeholder for embed.js) */}
+      <div className="relative w-full bg-[#121212] min-h-[450px] flex items-center justify-center">
+        <div 
+          className="strava-embed-placeholder w-full" 
+          data-embed-type={embedType} 
+          data-embed-id={cleanId} 
+          data-style="dark"
+          data-from-embed="true"
         />
+        
+        {/* Skeleton/Loading State */}
+        <div className="absolute inset-0 flex items-center justify-center -z-10 bg-[#121212]">
+          <div className="w-8 h-8 border-2 border-[#FC4C02]/20 border-t-[#FC4C02] rounded-full animate-spin" />
+        </div>
+        
+        {/* Help Tip Overlay */}
+        <div className="absolute top-2 right-2 z-10 opacity-0 group-hover:opacity-100 transition-opacity">
+          <div className="bg-black/80 backdrop-blur-md px-3 py-1.5 rounded-lg border border-white/10 text-[10px] text-gray-400">
+            Route non affichée ? Vérifiez la visibilité "Tout le monde".
+          </div>
+        </div>
       </div>
     </motion.div>
   );

@@ -86,10 +86,33 @@ function normalizeGroup(raw: string): GroupKey | null {
   return GROUP_MAP[raw.toLowerCase().trim()] ?? null;
 }
 
+// ─── Simple CSV parser (handles quoted fields with commas inside) ─────────────
+
+function parseCSVLine(line: string): string[] {
+  const result: string[] = [];
+  let current = '';
+  let inQuotes = false;
+
+  for (let i = 0; i < line.length; i++) {
+    const ch = line[i];
+    if (ch === '"') {
+      inQuotes = !inQuotes;
+    } else if (ch === ',' && !inQuotes) {
+      result.push(current.trim());
+      current = '';
+    } else {
+      current += ch;
+    }
+  }
+  result.push(current.trim());
+  return result;
+}
+
 // ─── Fetch Registrations (Tally sheet) ───────────────────────────────────────
 
 export async function fetchRegistrations(): Promise<Registrations> {
-  const sheetId = process.env.NEXT_PUBLIC_TALLY_SHEET_ID;
+  // Server-only env var — no NEXT_PUBLIC_ prefix needed
+  const sheetId = process.env.TALLY_SHEET_ID;
 
   const empty: Registrations = {
     debutants: { oui: 0, peutEtre: 0, total: 0 },
@@ -99,22 +122,26 @@ export async function fetchRegistrations(): Promise<Registrations> {
   };
 
   if (!sheetId) {
-    console.warn('[sorties] NEXT_PUBLIC_TALLY_SHEET_ID is not set — skipping registrations fetch');
+    console.warn('[sorties] TALLY_SHEET_ID is not set — skipping registrations fetch');
     return empty;
   }
 
   const url = `https://docs.google.com/spreadsheets/d/${sheetId}/export?format=csv&gid=0`;
 
   try {
-    const res = await fetch(url, { next: { revalidate: 300 } });
-    if (!res.ok) return empty;
+    const res = await fetch(url, { cache: 'no-store' });
+    if (!res.ok) {
+      console.error(`[sorties] Tally sheet fetch failed: ${res.status} ${res.statusText}`);
+      return empty;
+    }
 
     const text = await res.text();
-    const lines = text.split('\n').slice(1); // skip header
+    const lines = text.split(/\r?\n/).slice(1); // skip header, handle \r\n
 
     for (const line of lines) {
+      if (!line.trim()) continue;
       // CSV columns: SubmissionID, RespondentID, SubmittedAt, Nom, Statut, Groupe
-      const cols = line.split(',');
+      const cols = parseCSVLine(line);
       const statut = (cols[4] ?? '').trim();
       const groupe = (cols[5] ?? '').trim();
 
@@ -131,8 +158,8 @@ export async function fetchRegistrations(): Promise<Registrations> {
         empty[key].total++;
       }
     }
-  } catch {
-    // silent fail – return empty counts
+  } catch (err) {
+    console.error('[sorties] Error fetching registrations:', err);
   }
 
   return empty;
@@ -141,9 +168,9 @@ export async function fetchRegistrations(): Promise<Registrations> {
 // ─── Fetch Sortie Config (personal sheet) ────────────────────────────────────
 
 export async function fetchSortieConfig(): Promise<SortieConfig> {
-  const sheetId = process.env.NEXT_PUBLIC_CONFIG_SHEET_ID;
+  const sheetId = process.env.CONFIG_SHEET_ID;
   if (!sheetId) {
-    console.warn('[sorties] NEXT_PUBLIC_CONFIG_SHEET_ID is not set — returning empty config');
+    console.warn('[sorties] CONFIG_SHEET_ID is not set — returning empty config');
     return { date: '', lieu: '', stravaDebutants: '', stravaIntermediaires: '', stravaConfirmes: '' };
   }
 
@@ -158,15 +185,18 @@ export async function fetchSortieConfig(): Promise<SortieConfig> {
   };
 
   try {
-    const res = await fetch(url, { next: { revalidate: 300 } });
-    if (!res.ok) return defaultConfig;
+    const res = await fetch(url, { cache: 'no-store' });
+    if (!res.ok) {
+      console.error(`[sorties] Config sheet fetch failed: ${res.status} ${res.statusText}`);
+      return defaultConfig;
+    }
 
     const text = await res.text();
     // CSV: date,lieu,strava_debutants,strava_intermediaires,strava_confirmes
-    const lines = text.split('\n').filter(Boolean);
+    const lines = text.split(/\r?\n/).filter(Boolean);
     if (lines.length < 2) return defaultConfig;
 
-    const data = lines[lines.length - 1].split(','); // take last row
+    const data = parseCSVLine(lines[lines.length - 1]); // take last data row
     return {
       date: data[0]?.trim() ?? '',
       lieu: (data[1]?.trim() as SortieConfig['lieu']) ?? '',
@@ -174,14 +204,15 @@ export async function fetchSortieConfig(): Promise<SortieConfig> {
       stravaIntermediaires: data[3]?.trim() ?? '',
       stravaConfirmes: data[4]?.trim() ?? '',
     };
-  } catch {
+  } catch (err) {
+    console.error('[sorties] Error fetching config:', err);
     return defaultConfig;
   }
 }
 
 // ─── Fetch Weather (Open-Meteo) ───────────────────────────────────────────────
 
-export async function fetchWeather(lat: number, lon: number): Promise<WeatherDay | null> {
+export async function fetchWeather(lat: number, lon: number, targetDate?: string): Promise<WeatherDay | null> {
   const url = `https://api.open-meteo.com/v1/forecast?latitude=${lat}&longitude=${lon}&daily=temperature_2m_max,temperature_2m_min,weathercode&timezone=Europe%2FParis&forecast_days=7`;
 
   try {
@@ -194,17 +225,35 @@ export async function fetchWeather(lat: number, lon: number): Promise<WeatherDay
     const tempMin: number[] = json.daily.temperature_2m_min;
     const codes: number[] = json.daily.weathercode;
 
-    // Find next Sunday (day 0)
+    // If targetDate is provided, look for that specific day. 
+    // Otherwise, find the next Sunday.
     const today = new Date();
+    today.setHours(0, 0, 0, 0);
+
     for (let i = 0; i < dates.length; i++) {
       const d = new Date(dates[i]);
-      if (d.getDay() === 0 && d >= today) {
-        return {
-          date: dates[i],
-          tempMax: Math.round(tempMax[i]),
-          tempMin: Math.round(tempMin[i]),
-          weatherCode: codes[i],
-        };
+      d.setHours(0, 0, 0, 0);
+
+      if (targetDate) {
+        const target = new Date(targetDate);
+        target.setHours(0, 0, 0, 0);
+        if (d.getTime() === target.getTime()) {
+          return {
+            date: dates[i],
+            tempMax: Math.round(tempMax[i]),
+            tempMin: Math.round(tempMin[i]),
+            weatherCode: codes[i],
+          };
+        }
+      } else {
+        if (d.getDay() === 0 && d >= today) {
+          return {
+            date: dates[i],
+            tempMax: Math.round(tempMax[i]),
+            tempMin: Math.round(tempMin[i]),
+            weatherCode: codes[i],
+          };
+        }
       }
     }
     return null;
