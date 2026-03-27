@@ -78,16 +78,16 @@ export default async function SortiesPage() {
               <Sun className="w-4 h-4" />
               Sortie Club
             </div>
-            <h1 className="text-5xl md:text-7xl font-black text-white uppercase tracking-tight leading-none mb-4">
+            <h1 className="text-4xl sm:text-6xl md:text-7xl font-black text-white uppercase tracking-tight leading-tight sm:leading-none mb-4 break-words px-2">
               Sortie du{' '}
-              <span className="text-transparent bg-clip-text bg-gradient-to-r from-[#4a00e0] to-[#ff007f]">
+              <span className="text-transparent bg-clip-text bg-gradient-to-r from-[#4a00e0] to-[#ff007f] block sm:inline">
                 Dimanche
               </span>
             </h1>
             {formattedDate ? (
-              <div className="flex items-center justify-center gap-2 text-gray-300 text-lg capitalize">
-                <Calendar className="w-5 h-5 text-[#ff007f]" />
-                {formattedDate}
+              <div className="flex flex-wrap items-center justify-center gap-2 text-gray-300 text-sm sm:text-lg capitalize px-4">
+                <Calendar className="w-4 h-4 sm:w-5 h-5 text-[#ff007f] shrink-0" />
+                <span>{formattedDate}</span>
               </div>
             ) : (
               <p className="text-gray-500">Aucune sortie configurée pour le moment</p>

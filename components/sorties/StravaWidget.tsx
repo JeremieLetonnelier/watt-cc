@@ -78,14 +78,19 @@ export default function StravaWidget({
       </div>
 
       {/* Strava Embed Container (The placeholder for embed.js) */}
-      <div className="relative w-full bg-white/5 min-h-[420px]">
+      <div className="relative w-full bg-[#121212] min-h-[450px] flex items-center justify-center">
         <div 
-          className="strava-embed-placeholder" 
+          className="strava-embed-placeholder w-full" 
           data-embed-type={embedType} 
           data-embed-id={cleanId} 
-          data-style="standard"
+          data-style="dark"
           data-from-embed="true"
         />
+        
+        {/* Skeleton/Loading State */}
+        <div className="absolute inset-0 flex items-center justify-center -z-10 bg-[#121212]">
+          <div className="w-8 h-8 border-2 border-[#FC4C02]/20 border-t-[#FC4C02] rounded-full animate-spin" />
+        </div>
         
         {/* Help Tip Overlay */}
         <div className="absolute top-2 right-2 z-10 opacity-0 group-hover:opacity-100 transition-opacity">
