@@ -1,0 +1,82 @@
+[
+  {
+    "name": "GFNY Cannes",
+    "date": "2026-04-12",
+    "location": "Cannes",
+    "link": "https://cannes.gfny.com",
+    "distances": [
+      "115.7km",
+      "59.0km"
+    ],
+    "participantsCount": 1500,
+    "difficulty": "3",
+    "popularity": 3,
+    "distanceFromParis": "900km",
+    "transportAccess": true,
+    "wattParticipated": false
+  },
+  {
+    "name": "GFNY Villard de Lans",
+    "date": "2026-05-24",
+    "location": "Villard-de-Lans",
+    "link": "https://villarddelans.gfny.com",
+    "distances": [
+      "163.4km",
+      "69.6km"
+    ],
+    "participantsCount": 1500,
+    "difficulty": "4",
+    "popularity": 3,
+    "distanceFromParis": "600km",
+    "transportAccess": false,
+    "wattParticipated": false
+  },
+  {
+    "name": "GFNY Lourdes Tourmalet",
+    "date": "2026-06-14",
+    "location": "Lourdes",
+    "link": "https://lourdes.gfny.com",
+    "distances": [
+      "157.0km",
+      "99.0km"
+    ],
+    "participantsCount": 1500,
+    "difficulty": "5",
+    "popularity": 3,
+    "distanceFromParis": "800km",
+    "transportAccess": true,
+    "wattParticipated": false
+  },
+  {
+    "name": "GFNY La Vaujany Alpe d'Huez",
+    "date": "2026-06-21",
+    "location": "Vaujany",
+    "link": "https://lavaujany.gfny.com",
+    "distances": [
+      "150.6km",
+      "59.7km"
+    ],
+    "participantsCount": 1500,
+    "difficulty": "5",
+    "popularity": 3,
+    "distanceFromParis": "605km",
+    "transportAccess": false,
+    "wattParticipated": false
+  },
+  {
+    "name": "GFNY Grand Ballon",
+    "date": "2026-07-12",
+    "location": "Thann",
+    "link": "https://grandballon.gfny.com",
+    "distances": [
+      "145.8km",
+      "70.2km"
+    ],
+    "participantsCount": 1500,
+    "difficulty": "5",
+    "popularity": 3,
+    "distanceFromParis": "470km",
+    "transportAccess": true,
+    "wattParticipated": false
+  }
+]

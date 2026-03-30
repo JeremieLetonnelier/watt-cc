@@ -28,7 +28,7 @@ export default function GFNYResults() {
             Résultats <span className="text-transparent bg-clip-text bg-gradient-to-r from-green-400 to-emerald-600">GFNY</span>
           </h2>
           <p className="mt-4 text-gray-400 max-w-2xl mx-auto text-lg">
-            Les performances de nos coureurs sur le circuit mondial GFNY.
+            Les performances de nos coureuses et coureurs sur le circuit des GFNY.
           </p>
         </div>
 

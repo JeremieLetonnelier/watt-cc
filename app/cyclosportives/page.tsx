@@ -24,7 +24,7 @@ export default function CyclosportivesHub() {
           className="mb-16 text-center"
         >
           <h1 className="text-5xl md:text-7xl font-black text-white uppercase tracking-tighter mb-4">
-            Nos <span className="text-transparent bg-clip-text bg-gradient-to-r from-[#ff007f] to-[#4a00e0]">Cyclosportives</span>
+            Les <span className="text-transparent bg-clip-text bg-gradient-to-r from-[#ff007f] to-[#4a00e0]">Cyclosportives</span>
           </h1>
           <p className="text-xl text-gray-400 max-w-2xl mx-auto font-medium">
             Découvrez le calendrier des épreuves incontournables, les tracés légendaires et les résultats de la team WATT.CC.

@@ -7,7 +7,8 @@
     "build": "next build",
     "start": "next start",
     "lint": "eslint .",
-    "clean": "next clean"
+    "clean": "next clean",
+    "fetch:gfny": "python3 scripts/fetch_gfny.py"
   },
   "dependencies": {
     "@google/genai": "^1.17.0",
