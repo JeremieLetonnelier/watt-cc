@@ -1,0 +1,59 @@
+[
+  {
+    "name": "L'Étape du Tour de France",
+    "date": "2026-07-06",
+    "distances": ["138km"],
+    "price": "140€",
+    "participantsCount": 16000,
+    "difficulty": "5",
+    "popularity": 5,
+    "location": "Albertville",
+    "distanceFromParis": "600km",
+    "transportAccess": true,
+    "wattParticipated": true,
+    "lastYearResults": "/cyclosportives/etape-du-tour",
+    "link": "https://www.letapedutourdefrance.com"
+  },
+  {
+    "name": "Lille - Hardelot",
+    "date": "2026-05-24",
+    "distances": ["160km"],
+    "price": "35€",
+    "participantsCount": 8000,
+    "difficulty": "2",
+    "popularity": 4,
+    "location": "Lille",
+    "distanceFromParis": "220km",
+    "transportAccess": true,
+    "wattParticipated": false,
+    "link": "https://www.lille-hardelot.com"
+  },
+  {
+    "name": "Les 3 Ballons",
+    "date": "2026-06-06",
+    "distances": ["213km", "133km", "93km"],
+    "price": "85€",
+    "participantsCount": 4000,
+    "difficulty": "5",
+    "popularity": 4,
+    "location": "Ronchamp",
+    "distanceFromParis": "400km",
+    "transportAccess": false,
+    "wattParticipated": false,
+    "link": "https://les3ballons.com"
+  },
+  {
+    "name": "Marmotte Granfondo Alpes",
+    "date": "2026-06-28",
+    "distances": ["177km"],
+    "price": "120€",
+    "participantsCount": 7500,
+    "difficulty": "5",
+    "popularity": 5,
+    "location": "Bourg d'Oisans",
+    "distanceFromParis": "620km",
+    "transportAccess": false,
+    "wattParticipated": false,
+    "link": "https://marmotte.sportcommunication.info"
+  }
+]

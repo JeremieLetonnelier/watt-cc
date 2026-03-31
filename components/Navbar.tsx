@@ -13,7 +13,7 @@ export default function Navbar() {
   const navItems = [
     { name: 'Accueil', path: '/', icon: Home },
     { name: 'Classement FFC', path: '/ffc', icon: Trophy },
-    { name: 'Résultats GFNY', path: '/gfny', icon: Flag },
+    { name: 'Cyclosportives', path: '/cyclosportives', icon: Flag },
     { name: 'Sorties', path: '/sorties', icon: Sun },
   ];
 
