@@ -15,21 +15,6 @@
     "link": "https://www.letapedutourdefrance.com"
   },
   {
-    "name": "GFNY Mont Ventoux",
-    "date": "2026-06-14",
-    "distances": ["130km", "75km"],
-    "price": "95€",
-    "participantsCount": 2000,
-    "difficulty": "4",
-    "popularity": 4,
-    "location": "Vaison-la-Romaine",
-    "distanceFromParis": "700km",
-    "transportAccess": false,
-    "wattParticipated": true,
-    "lastYearResults": "/cyclosportives/gfny",
-    "link": "/cyclosportives/gfny"
-  },
-  {
     "name": "Lille - Hardelot",
     "date": "2026-05-24",
     "distances": ["160km"],
