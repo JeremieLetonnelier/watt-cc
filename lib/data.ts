@@ -51,6 +51,7 @@ export interface RaceResult {
   challengePoints?: number;
   promotionPoints?: number;
   gender?: string;
+  category?: string;
 }
 
 export const WATT_CLUB_NAME = "WATT CYCLING CLUB";
@@ -99,9 +100,11 @@ export const gfnyResults: RaceResult[] = [
 export const calculateTotalPoints = (
   riderId: string,
   results: RaceResult[],
+  riderCategory?: string
 ) => {
   return results
     .filter((r) => r.riderId === riderId)
+    .filter((r) => !r.category || r.category === "Not known category" || !riderCategory || r.category === riderCategory)
     .reduce((total, r) => total + r.points, 0);
 };
 
@@ -128,9 +131,23 @@ export const getLeaderboard = (
     filteredRiders = filteredRiders.filter((r) => r.gender === filterGender);
   }
 
+  // Create a fast lookup map for rider categories
+  const riderCategoryMap = new Map<string, string>();
+  for (const rider of riders) {
+    riderCategoryMap.set(rider.id, rider.category);
+  }
+
   // Pre-calculate points and wins per rider to avoid O(N*M) nested loops
   const riderStats = new Map<string, { points: number; promotionPoints: number; wins: number }>();
   for (const res of results) {
+    const currentCategory = riderCategoryMap.get(res.riderId);
+    
+    // Only count points/wins if the result's category matches the rider's CURRENT category,
+    // or if the result's category is unknown
+    if (res.category && res.category !== "Not known category" && currentCategory && res.category !== currentCategory) {
+      continue;
+    }
+
     const stats = riderStats.get(res.riderId) || { points: 0, promotionPoints: 0, wins: 0 };
     stats.points += typeof res.challengePoints === "number" ? res.challengePoints : (res.points || 0);
     stats.promotionPoints += typeof res.promotionPoints === "number" ? res.promotionPoints : 0;
@@ -163,8 +180,10 @@ export const getLeaderboard = (
   });
 };
 
-export const calculateTotalWins = (riderId: string, results: RaceResult[]) => {
+export const calculateTotalWins = (riderId: string, results: RaceResult[], riderCategory?: string) => {
   if (!results || !Array.isArray(results)) return 0;
-  return results.filter((r) => r.riderId === riderId && r.positionGender === 1)
+  return results
+    .filter((r) => r.riderId === riderId && r.positionGender === 1)
+    .filter((r) => !r.category || r.category === "Not known category" || !riderCategory || r.category === riderCategory)
     .length;
 };
