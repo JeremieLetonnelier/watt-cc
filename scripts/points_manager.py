@@ -84,6 +84,7 @@ class PointsManager:
                     rankings_by_category[r.get("category", "Access 1")].append(r)
                 
                 for cat_name, cat_results in rankings_by_category.items():
+                    cat_total_starters = next((r["totalStarters"] for r in cat_results if r.get("totalStarters")), len(cat_results))
                     pos_dict = collections.defaultdict(list)
                     for r in cat_results:
                         pos = r.get("position", 999)
@@ -94,12 +95,12 @@ class PointsManager:
                         # Challenge points Ex-Aequo Average
                         total_cp = sum(self.challenge_points_system.get(pos + i, 0) for i in range(num_tied))
                         avg_cp = (total_cp / num_tied) if num_tied else 0
-                        if total_starters < 31:
+                        if cat_total_starters < 31:
                             avg_cp /= 2.0
                             
                         # Promotion Base point (No average)
                         base_pp = self.promotion_points_system.get(pos, 0)
-                        if total_starters <= 10:
+                        if cat_total_starters <= 10:
                             base_pp = 0
                             
                         for r in tied_results:
