@@ -5808,5 +5808,19 @@
     "club": "COURBEVOIE SPORTS CYCLISME",
     "category": "Access 4",
     "gender": "H"
+  },
+  {
+    "id": "camille-fischbach",
+    "name": "Camille Fischbach",
+    "club": "PEDALE COMBS LA VILLAISE",
+    "category": "Access 3",
+    "gender": "H"
+  },
+  {
+    "id": "fabrice-perchet",
+    "name": "Fabrice Perchet",
+    "club": "EC DU HOUDANAIS",
+    "category": "Access 3",
+    "gender": "H"
   }
 ]
