@@ -92,7 +92,7 @@ export default function StravaWidget({
         {/* Help Tip Overlay */}
         <div className="absolute top-2 right-2 z-10 opacity-0 group-hover:opacity-100 transition-opacity">
           <div className="bg-black/80 backdrop-blur-md px-3 py-1.5 rounded-lg border border-white/10 text-[10px] text-gray-400">
-            Route non affichée ? Vérifiez la visibilité "Tout le monde".
+            Route non affichée ? Vérifiez la visibilité &quot;Tout le monde&quot;.
           </div>
         </div>
       </div>

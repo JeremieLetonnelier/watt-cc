@@ -196,17 +196,75 @@ export async function fetchSortieConfig(): Promise<SortieConfig> {
     const lines = text.split(/\r?\n/).filter(Boolean);
     if (lines.length < 2) return defaultConfig;
 
-    const data = parseCSVLine(lines[lines.length - 1]); // take last data row
-    return {
-      date: data[0]?.trim() ?? '',
-      lieu: (data[1]?.trim() as SortieConfig['lieu']) ?? '',
-      stravaDebutants: data[2]?.trim() ?? '',
-      stravaIntermediaires: data[3]?.trim() ?? '',
-      stravaConfirmes: data[4]?.trim() ?? '',
-    };
+    const sorties: SortieConfig[] = [];
+    for (let i = 1; i < lines.length; i++) {
+        const data = parseCSVLine(lines[i]);
+        const date = data[0]?.trim() ?? '';
+        if (!date) continue; // skip empty rows
+        
+        sorties.push({
+            date,
+            lieu: (data[1]?.trim() as SortieConfig['lieu']) ?? '',
+            stravaDebutants: data[2]?.trim() ?? '',
+            stravaIntermediaires: data[3]?.trim() ?? '',
+            stravaConfirmes: data[4]?.trim() ?? '',
+        });
+    }
+
+    if (sorties.length === 0) return defaultConfig;
+
+    // Trier pour avoir la date la plus récente en premier
+    sorties.sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
+
+    // On retourne la sortie la plus récente
+    return sorties[0];
   } catch (err) {
     console.error('[sorties] Error fetching config:', err);
     return defaultConfig;
+  }
+}
+
+export async function fetchAllSorties(): Promise<SortieConfig[]> {
+  const sheetId = process.env.CONFIG_SHEET_ID;
+  if (!sheetId) {
+    console.warn('[sorties] CONFIG_SHEET_ID is not set — returning empty history');
+    return [];
+  }
+
+  const url = `https://docs.google.com/spreadsheets/d/${sheetId}/export?format=csv&gid=0`;
+
+  try {
+    const res = await fetch(url, { next: { revalidate: 3600 } });
+    if (!res.ok) {
+      console.error(`[sorties] Config sheet fetch failed: ${res.status} ${res.statusText}`);
+      return [];
+    }
+
+    const text = await res.text();
+    const lines = text.split(/\r?\n/).filter(Boolean);
+    if (lines.length < 2) return [];
+
+    const sorties: SortieConfig[] = [];
+    // Start at index 1 to skip header
+    for (let i = 1; i < lines.length; i++) {
+      const data = parseCSVLine(lines[i]);
+      const date = data[0]?.trim() ?? '';
+      if (!date) continue; // skip empty rows
+
+      sorties.push({
+        date,
+        lieu: (data[1]?.trim() as SortieConfig['lieu']) ?? '',
+        stravaDebutants: data[2]?.trim() ?? '',
+        stravaIntermediaires: data[3]?.trim() ?? '',
+        stravaConfirmes: data[4]?.trim() ?? '',
+      });
+    }
+
+    // Trier de la plus récente à la plus ancienne de manière robuste
+    return sorties.sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
+  } catch (err) {
+    console.error('[sorties] Error fetching all configs:', err);
+    return [];
   }
 }
 

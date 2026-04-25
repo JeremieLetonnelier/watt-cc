@@ -3,7 +3,7 @@
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
 import { motion } from 'motion/react';
-import { Trophy, Home, Flag, Menu, X, Sun } from 'lucide-react';
+import { Trophy, Home, Flag, Menu, X, Sun, Map as MapIcon } from 'lucide-react';
 import { useState } from 'react';
 
 export default function Navbar() {
@@ -12,9 +12,10 @@ export default function Navbar() {
 
   const navItems = [
     { name: 'Accueil', path: '/', icon: Home },
+    { name: 'Maps', path: '/maps', icon: MapIcon },
+    { name: 'Sorties', path: '/sorties', icon: Sun },
     { name: 'Classement FFC', path: '/ffc', icon: Trophy },
     { name: 'Cyclosportives', path: '/cyclosportives', icon: Flag },
-    { name: 'Sorties', path: '/sorties', icon: Sun },
   ];
 
   return (
