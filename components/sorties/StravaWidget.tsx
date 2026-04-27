@@ -3,6 +3,7 @@
 import { motion } from 'motion/react';
 import { ExternalLink, Map } from 'lucide-react';
 import Script from 'next/script';
+import { useEffect } from 'react';
 
 interface StravaWidgetProps {
   routeId: string;
@@ -49,6 +50,20 @@ export default function StravaWidget({
   const { id: cleanId, type: embedType } = getEmbedData(routeId);
   const stravaUrl = `https://www.strava.com/${embedType === 'route' ? 'routes' : 'activities'}/${cleanId}`;
 
+  useEffect(() => {
+    // Si le script Strava est déjà chargé globalement, on force le nettoyage et le rendu du nouveau placeholder
+    const timer = setTimeout(() => {
+      if (typeof window !== 'undefined' && (window as any).__STRAVA_EMBED_BOOTSTRAP__) {
+        try {
+          (window as any).__STRAVA_EMBED_BOOTSTRAP__();
+        } catch (err) {
+          console.error("Strava embed retry error:", err);
+        }
+      }
+    }, 100);
+    return () => clearTimeout(timer);
+  }, [cleanId]);
+
   return (
     <motion.div
       initial={{ opacity: 0, y: 20 }}
@@ -56,7 +71,15 @@ export default function StravaWidget({
       viewport={{ once: true }}
       className="bg-white/5 border border-white/10 rounded-2xl overflow-hidden backdrop-blur-sm group"
     >
-      <Script src="https://strava-embeds.com/embed.js" strategy="afterInteractive" />
+      <Script 
+        src="https://strava-embeds.com/embed.js" 
+        strategy="lazyOnload"
+        onReady={() => {
+          if (typeof window !== 'undefined' && (window as any).__STRAVA_EMBED_BOOTSTRAP__) {
+             (window as any).__STRAVA_EMBED_BOOTSTRAP__();
+          }
+        }}
+      />
 
       {/* Header */}
       <div className="flex items-center justify-between px-6 py-5 border-b border-white/10">
