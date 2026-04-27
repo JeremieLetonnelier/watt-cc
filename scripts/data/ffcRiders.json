@@ -6268,7 +6268,7 @@
     "id": "florian-malesys",
     "name": "Florian Malesys",
     "club": "TEAM CYCLISTE EN DANSEUSE",
-    "category": "Access 3",
+    "category": "Access 2",
     "gender": "H"
   },
   {
@@ -6849,6 +6849,202 @@
     "id": "eustache-var",
     "name": "Eustache Var",
     "club": "AV THIAIS",
+    "category": "Access 4",
+    "gender": "H"
+  },
+  {
+    "id": "flavien-marec",
+    "name": "Flavien Marec",
+    "club": "PARIS CYCLISTE OLYMPIQUE",
+    "category": "Open 1",
+    "gender": "H"
+  },
+  {
+    "id": "noah-bleteau",
+    "name": "Noah Bleteau",
+    "club": "TEAM ALL CYCLES MEAUX",
+    "category": "Open 1",
+    "gender": "H"
+  },
+  {
+    "id": "remi-maroux",
+    "name": "Rémi Maroux",
+    "club": "RAYON D'ARGENT",
+    "category": "Open 1",
+    "gender": "H"
+  },
+  {
+    "id": "damon-boizet",
+    "name": "Damon Boizet",
+    "club": "TEAM ALL CYCLES MEAUX",
+    "category": "Open 1",
+    "gender": "H"
+  },
+  {
+    "id": "jordan-talobre",
+    "name": "Jordan Talobre",
+    "club": "TEAM ALL CYCLES MEAUX",
+    "category": "Open 1",
+    "gender": "H"
+  },
+  {
+    "id": "louka-quintana",
+    "name": "Louka Quintana",
+    "club": "PARISIS A.C. 95",
+    "category": "Open 1",
+    "gender": "H"
+  },
+  {
+    "id": "romeo-brodeau",
+    "name": "Roméo Brodeau",
+    "club": "ASPTT NANCY",
+    "category": "Open 1",
+    "gender": "H"
+  },
+  {
+    "id": "lucas-demoulin",
+    "name": "Lucas Demoulin",
+    "club": "PARIS CYCLISTE OLYMPIQUE",
+    "category": "Open 3",
+    "gender": "H"
+  },
+  {
+    "id": "axel-rebouillat",
+    "name": "Axel Rebouillat",
+    "club": "U.V.AUBE",
+    "category": "Open 1",
+    "gender": "H"
+  },
+  {
+    "id": "alexis-doucet",
+    "name": "Alexis Doucet",
+    "club": "PARIS CYCLISTE OLYMPIQUE",
+    "category": "Open 1",
+    "gender": "H"
+  },
+  {
+    "id": "romain-rubarbe",
+    "name": "Romain Rubarbe",
+    "club": "EC VELIZY 78",
+    "category": "Access 2",
+    "gender": "H"
+  },
+  {
+    "id": "ferdinand-colin",
+    "name": "Ferdinand Colin",
+    "club": "PARIS CYCLISTE OLYMPIQUE",
+    "category": "Access 1",
+    "gender": "H"
+  },
+  {
+    "id": "nathan-dauphin",
+    "name": "Nathan Dauphin",
+    "club": "VC MONTIGNY BRETONNEUX",
+    "category": "Access 1",
+    "gender": "H"
+  },
+  {
+    "id": "erwan-despeignes",
+    "name": "Erwan Despeignes",
+    "club": "VAL DE LOIRE VELO",
+    "category": "Access 1",
+    "gender": "H"
+  },
+  {
+    "id": "jean-francois-tatard",
+    "name": "Jean François Tatard",
+    "club": "TEAM BIKE CYCLISTE SAINT PRIX",
+    "category": "Access 2",
+    "gender": "H"
+  },
+  {
+    "id": "matthieu-plusquellec",
+    "name": "Matthieu Plusquellec",
+    "club": "B.C. NOISY LE GRAND",
+    "category": "Access 1",
+    "gender": "H"
+  },
+  {
+    "id": "aurelien-rivard",
+    "name": "Aurelien Rivard",
+    "club": "TEAM ALL CYCLES MEAUX",
+    "category": "Access 1",
+    "gender": "H"
+  },
+  {
+    "id": "colin-coignard",
+    "name": "Colin Coignard",
+    "club": "A. C. B. B.",
+    "category": "Access 1",
+    "gender": "H"
+  },
+  {
+    "id": "alex-vovard",
+    "name": "Alex Vovard",
+    "club": "ARGENTEUIL VAL DE SEINE 95",
+    "category": "Access 1",
+    "gender": "H"
+  },
+  {
+    "id": "nicolas-levert",
+    "name": "Nicolas Levert",
+    "club": "AS CORBEIL ESSONNES",
+    "category": "Access 2",
+    "gender": "H"
+  },
+  {
+    "id": "jerome-maestrini",
+    "name": "Jérôme Maestrini",
+    "club": "ES STAINS-CYCLISME",
+    "category": "Access 2",
+    "gender": "H"
+  },
+  {
+    "id": "franck-lacaine",
+    "name": "Franck Lacaine",
+    "club": "CLUB CYCLISTE BAILLET EN FRANCE",
+    "category": "Access 3",
+    "gender": "H"
+  },
+  {
+    "id": "florian-bourgeois",
+    "name": "Florian Bourgeois",
+    "club": "US BOIS SAINT-DENIS",
+    "category": "Access 3",
+    "gender": "H"
+  },
+  {
+    "id": "fabien-piedeloup",
+    "name": "Fabien Piedeloup",
+    "club": "LICENCE INDIVIDUELLE",
+    "category": "Access 3",
+    "gender": "H"
+  },
+  {
+    "id": "hubert-gattet",
+    "name": "Hubert Gattet",
+    "club": "B.C. NOISY LE GRAND",
+    "category": "Access 3",
+    "gender": "H"
+  },
+  {
+    "id": "loic-melchior",
+    "name": "Loïc Melchior",
+    "club": "TEAM ALL CYCLES MEAUX",
+    "category": "Access 3",
+    "gender": "H"
+  },
+  {
+    "id": "thibaut-riviere",
+    "name": "Thibaut Riviere",
+    "club": "CYCLO-CROSS UNITED",
+    "category": "Access 3",
+    "gender": "H"
+  },
+  {
+    "id": "sylvain-lelu",
+    "name": "Sylvain Lelu",
+    "club": "COURBEVOIE SPORTS CYCLISME",
     "category": "Access 4",
     "gender": "H"
   }
