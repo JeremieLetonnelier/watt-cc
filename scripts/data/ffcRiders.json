@@ -5890,7 +5890,7 @@
     "id": "matthis-anton",
     "name": "Matthis Anton",
     "club": "US RIS ORANGIS",
-    "category": "Access 1",
+    "category": "Open 3",
     "gender": "H"
   },
   {
@@ -8851,6 +8851,258 @@
     "id": "jose-de-almeida",
     "name": "José De Almeida",
     "club": "GUIDON PROVINOIS",
+    "category": "Access 4",
+    "gender": "H"
+  },
+  {
+    "id": "nicolas-leluc",
+    "name": "Nicolas Leluc",
+    "club": "CSM CLAMART",
+    "category": "Open 3",
+    "gender": "H"
+  },
+  {
+    "id": "kevin-lorenzo",
+    "name": "Kévin Lorenzo",
+    "club": "COURBEVOIE SPORTS CYCLISME",
+    "category": "Open 2",
+    "gender": "H"
+  },
+  {
+    "id": "pierre-sablonniere",
+    "name": "Pierre Sablonniere",
+    "club": "PARIS CYCLISTE OLYMPIQUE",
+    "category": "Open 2",
+    "gender": "H"
+  },
+  {
+    "id": "simon-de-gryse",
+    "name": "Simon De Gryse",
+    "club": "C'CHARTRES CYCLISME",
+    "category": "Open 2",
+    "gender": "H"
+  },
+  {
+    "id": "thomas-cabrelli",
+    "name": "Thomas Cabrelli",
+    "club": "TEAM PODIOCOM JANZE",
+    "category": "Open 2",
+    "gender": "H"
+  },
+  {
+    "id": "erevan-carre",
+    "name": "Erévan Carre",
+    "club": "COMPIEGNE SPORTS CYCLISTES",
+    "category": "Open 3",
+    "gender": "H"
+  },
+  {
+    "id": "ronan-saint-denis",
+    "name": "Ronan Saint Denis",
+    "club": "OFF ROAD CYCLISTE D'EPONE",
+    "category": "Open 2",
+    "gender": "H"
+  },
+  {
+    "id": "alexis-doussot",
+    "name": "Alexis Doussot",
+    "club": "PARISIS A.C. 95",
+    "category": "Open 2",
+    "gender": "H"
+  },
+  {
+    "id": "antoine-saint-paul",
+    "name": "Antoine Saint Paul",
+    "club": "VELO CLUB ARPAJON",
+    "category": "Open 3",
+    "gender": "H"
+  },
+  {
+    "id": "gaetan-antheaume",
+    "name": "Gaëtan Antheaume",
+    "club": "VC MONTIGNY BRETONNEUX",
+    "category": "Open 3",
+    "gender": "H"
+  },
+  {
+    "id": "mathis-weil",
+    "name": "Mathis Weil",
+    "club": "OFF ROAD CYCLISTE D'EPONE",
+    "category": "Open 2",
+    "gender": "H"
+  },
+  {
+    "id": "medrick-lolia",
+    "name": "Médrick Lolia",
+    "club": "A. CYCL. & DE LA VERDURE DE P/BOURG",
+    "category": "Open 2",
+    "gender": "H"
+  },
+  {
+    "id": "yanis-landemaine",
+    "name": "Yanis Landemaine",
+    "club": "AV THIAIS",
+    "category": "Open 3",
+    "gender": "H"
+  },
+  {
+    "id": "maxime-charron",
+    "name": "Maxime Charron",
+    "club": "VELO CLUB ARPAJON",
+    "category": "Open 2",
+    "gender": "H"
+  },
+  {
+    "id": "alexis-garet-leconte",
+    "name": "Alexis Garet Leconte",
+    "club": "EC MONTGERON VIGNEUX",
+    "category": "Open 3",
+    "gender": "H"
+  },
+  {
+    "id": "dorian-mortecrette",
+    "name": "Dorian Mortecrette",
+    "club": "CC FORMERIE",
+    "category": "Open 3",
+    "gender": "H"
+  },
+  {
+    "id": "mathis-simon-lavalley",
+    "name": "Mathis Simon Lavalley",
+    "club": "EC MONTGERON VIGNEUX",
+    "category": "Open 3",
+    "gender": "H"
+  },
+  {
+    "id": "christopher-piry",
+    "name": "Christopher Piry",
+    "club": "GUIDON PROVINOIS",
+    "category": "Open 2",
+    "gender": "H"
+  },
+  {
+    "id": "noan-charpentier",
+    "name": "Noan Charpentier",
+    "club": "OFF ROAD CYCLISTE D'EPONE",
+    "category": "Open 2",
+    "gender": "H"
+  },
+  {
+    "id": "eliott-charbit",
+    "name": "Eliott Charbit",
+    "club": "EC MONTGERON VIGNEUX",
+    "category": "Open 2",
+    "gender": "H"
+  },
+  {
+    "id": "loic-poumarat",
+    "name": "Loïc Poumarat",
+    "club": "US RIS ORANGIS",
+    "category": "Access 1",
+    "gender": "H"
+  },
+  {
+    "id": "sylvain-waltisperger",
+    "name": "Sylvain Waltisperger",
+    "club": "US RIS ORANGIS",
+    "category": "Access 1",
+    "gender": "H"
+  },
+  {
+    "id": "arthur-de-faria",
+    "name": "Arthur De Faria",
+    "club": "VC VILLEJUST",
+    "category": "Access 1",
+    "gender": "H"
+  },
+  {
+    "id": "maxime-maillet",
+    "name": "Maxime Maillet",
+    "club": "AVENIR CYCLISTE DE LARDY",
+    "category": "Access 1",
+    "gender": "H"
+  },
+  {
+    "id": "quentin-bouhey",
+    "name": "Quentin Bouhey",
+    "club": "EC MONTGERON VIGNEUX",
+    "category": "Access 2",
+    "gender": "H"
+  },
+  {
+    "id": "frederic-vacosait",
+    "name": "Frédéric Vacosait",
+    "club": "COMPIEGNE SPORTS CYCLISTES",
+    "category": "Access 3",
+    "gender": "H"
+  },
+  {
+    "id": "marc-stanord",
+    "name": "Marc Stanord",
+    "club": "US RIS ORANGIS",
+    "category": "Access 3",
+    "gender": "H"
+  },
+  {
+    "id": "georges-fevrier",
+    "name": "Georges Fevrier",
+    "club": "AVENIR CYCLISTE DE LARDY",
+    "category": "Access 3",
+    "gender": "H"
+  },
+  {
+    "id": "corantin-froger",
+    "name": "Corantin Froger",
+    "club": "CC BRAQUET ABBATIEN",
+    "category": "Access 3",
+    "gender": "H"
+  },
+  {
+    "id": "quentin-mauvieux",
+    "name": "Quentin Mauvieux",
+    "club": "UV NEUBOURG",
+    "category": "Access 3",
+    "gender": "H"
+  },
+  {
+    "id": "gerard-baudoin",
+    "name": "Gérard Baudoin",
+    "club": "CC BRAQUET ABBATIEN",
+    "category": "Access 4",
+    "gender": "H"
+  },
+  {
+    "id": "thierry-barbier",
+    "name": "Thierry Barbier",
+    "club": "C'CHARTRES CYCLISME",
+    "category": "Access 4",
+    "gender": "H"
+  },
+  {
+    "id": "laurent-becker",
+    "name": "Laurent Becker",
+    "club": "CC IGNY PALAISEAU 91",
+    "category": "Access 4",
+    "gender": "H"
+  },
+  {
+    "id": "bernard-jezequel",
+    "name": "Bernard Jezequel",
+    "club": "TEAM CHATOU CYCLISME",
+    "category": "Access 4",
+    "gender": "H"
+  },
+  {
+    "id": "jean-philippe-minotte",
+    "name": "Jean Philippe Minotte",
+    "club": "EC MORSANG SUR ORGE",
+    "category": "Access 4",
+    "gender": "H"
+  },
+  {
+    "id": "philippe-dewilde",
+    "name": "Philippe Dewilde",
+    "club": "AS CORBEIL ESSONNES",
     "category": "Access 4",
     "gender": "H"
   }
