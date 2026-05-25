@@ -59,7 +59,7 @@
     "id": "gregory-ortiz",
     "name": "Grégory Ortiz",
     "club": "GUIDON PROVINOIS",
-    "category": "Access 1",
+    "category": "Open 2",
     "gender": "H"
   },
   {
@@ -9103,6 +9103,104 @@
     "id": "philippe-dewilde",
     "name": "Philippe Dewilde",
     "club": "AS CORBEIL ESSONNES",
+    "category": "Access 4",
+    "gender": "H"
+  },
+  {
+    "id": "bastien-ameline",
+    "name": "Bastien Ameline",
+    "club": "PARIS CYCLISTE OLYMPIQUE",
+    "category": "Open 3",
+    "gender": "H"
+  },
+  {
+    "id": "sebastien-blanchet",
+    "name": "Sébastien Blanchet",
+    "club": "VC SAVIGNY SUR ORGE",
+    "category": "Open 3",
+    "gender": "H"
+  },
+  {
+    "id": "kilian-chenavard",
+    "name": "Kilian Chenavard",
+    "club": "VC SAVIGNY SUR ORGE",
+    "category": "Open 3",
+    "gender": "H"
+  },
+  {
+    "id": "baptiste-delhomme",
+    "name": "Baptiste Delhomme",
+    "club": "BLV CYCLING CLUB",
+    "category": "Open 3",
+    "gender": "H"
+  },
+  {
+    "id": "pierre-inizan",
+    "name": "Pierre Inizan",
+    "club": "VELO CLUB ARPAJON",
+    "category": "Open 3",
+    "gender": "H"
+  },
+  {
+    "id": "sacha-hardouin",
+    "name": "Sacha Hardouin",
+    "club": "EC MORSANG SUR ORGE",
+    "category": "Open 3",
+    "gender": "H"
+  },
+  {
+    "id": "leo-taillandier",
+    "name": "Léo Taillandier",
+    "club": "VCC LES MARENNES",
+    "category": "Access 1",
+    "gender": "H"
+  },
+  {
+    "id": "louis-cuquemelle",
+    "name": "Louis Cuquemelle",
+    "club": "MELUN CYCL. ORGANISATION",
+    "category": "Access 1",
+    "gender": "H"
+  },
+  {
+    "id": "alexis-leveder",
+    "name": "Alexis Leveder",
+    "club": "EC CHATEAU THIERRY",
+    "category": "Access 1",
+    "gender": "H"
+  },
+  {
+    "id": "josselin-maillet",
+    "name": "Josselin Maillet",
+    "club": "LICENCE INDIVIDUELLE",
+    "category": "Access 2",
+    "gender": "H"
+  },
+  {
+    "id": "baptiste-alejandro",
+    "name": "Baptiste Alejandro",
+    "club": "B.C. NOISY LE GRAND",
+    "category": "Access 2",
+    "gender": "H"
+  },
+  {
+    "id": "theo-chantreuil",
+    "name": "Théo Chantreuil",
+    "club": "CSM PUTEAUX",
+    "category": "Access 2",
+    "gender": "H"
+  },
+  {
+    "id": "philippe-jumet",
+    "name": "Philippe Jumet",
+    "club": "EC LAGNY PLESSIS",
+    "category": "Access 4",
+    "gender": "H"
+  },
+  {
+    "id": "jean-vigne",
+    "name": "Jean Vigne",
+    "club": "CHARLES VC BROU",
     "category": "Access 4",
     "gender": "H"
   }
