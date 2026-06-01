@@ -1340,7 +1340,7 @@
     "id": "louis-pesant",
     "name": "Louis Pesant",
     "club": "EC VERNOUILLET V. T.",
-    "category": "Access 1",
+    "category": "Open 3",
     "gender": "H"
   },
   {
@@ -5652,7 +5652,7 @@
     "id": "eric-lesne",
     "name": "Eric Lesne",
     "club": "LA PÉ DALE FERTOISE",
-    "category": "Access 3",
+    "category": "Access 2",
     "gender": "H"
   },
   {
@@ -10827,5 +10827,264 @@
     "club": "PARIS CYCLISTE OLYMPIQUE",
     "category": "Access 1",
     "gender": "H"
+  },
+  {
+    "id": "baptiste-tardieu",
+    "name": "Baptiste Tardieu",
+    "club": "ENTENTE CYCLISTE DE L'ARBRESLE",
+    "category": "Access 1",
+    "gender": "H"
+  },
+  {
+    "id": "olivier-gianolio",
+    "name": "Olivier Gianolio",
+    "club": "US MAULE CYCLISME",
+    "category": "Access 1",
+    "gender": "H"
+  },
+  {
+    "id": "vincent-malesys",
+    "name": "Vincent Malesys",
+    "club": "TEAM CYCLISTE EN DANSEUSE",
+    "category": "Access 2",
+    "gender": "H"
+  },
+  {
+    "id": "maxence-david",
+    "name": "Maxence David",
+    "club": "SUD DE L'EURE CYCLISME - STADE VERNOLIEN",
+    "category": "Access 1",
+    "gender": "H"
+  },
+  {
+    "id": "stephane-gilabert",
+    "name": "Stéphane Gilabert",
+    "club": "AS HERBLAY",
+    "category": "Access 2",
+    "gender": "H"
+  },
+  {
+    "id": "kylian-bienvenu",
+    "name": "Kylian Bienvenu",
+    "club": "VC MONTIGNY BRETONNEUX",
+    "category": "Access 1",
+    "gender": "H"
+  },
+  {
+    "id": "baptiste-foulon",
+    "name": "Baptiste Foulon",
+    "club": "AC VAL D'OISE",
+    "category": "Access 3",
+    "gender": "H"
+  },
+  {
+    "id": "walter-mattioda",
+    "name": "Walter Mattioda",
+    "club": "US EZANVILLE ECOUEN",
+    "category": "Access 3",
+    "gender": "H"
+  },
+  {
+    "id": "patrick-demuynck",
+    "name": "Patrick Demuynck",
+    "club": "ES PERSANAISE",
+    "category": "Access 4",
+    "gender": "H"
+  },
+  {
+    "id": "frederic-lafargue",
+    "name": "Frédéric Lafargue",
+    "club": "CLUB CYCLISTE BAILLET EN FRANCE",
+    "category": "Access 3",
+    "gender": "H"
+  },
+  {
+    "id": "vincent-villair",
+    "name": "Vincent Villair",
+    "club": "USM GAGNY",
+    "category": "Access 1",
+    "gender": "H"
+  },
+  {
+    "id": "jeremy-turpin",
+    "name": "Jeremy Turpin",
+    "club": "GUIDON PROVINOIS",
+    "category": "Access 1",
+    "gender": "H"
+  },
+  {
+    "id": "thierry-haultcoeur",
+    "name": "Thierry Haultcoeur",
+    "club": "VC TOUCY",
+    "category": "Access 1",
+    "gender": "H"
+  },
+  {
+    "id": "adrien-sellier",
+    "name": "Adrien Sellier",
+    "club": "EC MONTGERON VIGNEUX",
+    "category": "Access 1",
+    "gender": "H"
+  },
+  {
+    "id": "patrick-mocquery",
+    "name": "Patrick Mocquery",
+    "club": "TC SAVINIEN",
+    "category": "Access 4",
+    "gender": "H"
+  },
+  {
+    "id": "jean-louis-villars",
+    "name": "Jean Louis Villars",
+    "club": "EC DU HOUDANAIS",
+    "category": "Access 4",
+    "gender": "H"
+  },
+  {
+    "id": "aurore-pernollet",
+    "name": "Aurore Pernollet",
+    "club": "VC MORTEAU MONTBENOIT",
+    "category": "Not known category",
+    "gender": "F"
+  },
+  {
+    "id": "oceane-gauthey",
+    "name": "Océane Gauthey",
+    "club": "VC MORTEAU MONTBENOIT",
+    "category": "Not known category",
+    "gender": "F"
+  },
+  {
+    "id": "charlotte-bouhier",
+    "name": "Charlotte Bouhier",
+    "club": "VC MORTEAU MONTBENOIT",
+    "category": "Not known category",
+    "gender": "F"
+  },
+  {
+    "id": "lise-klaes",
+    "name": "Lise Klaes",
+    "club": "U.V.C.A TROYES",
+    "category": "Open 2",
+    "gender": "F"
+  },
+  {
+    "id": "romane-chesneau",
+    "name": "Romane Chesneau",
+    "club": "VC ELANCOURT ST QUENTIN EN YVELINES TEAM VOUSSERT",
+    "category": "Open 2",
+    "gender": "F"
+  },
+  {
+    "id": "caroline-mahe",
+    "name": "Caroline Mahe",
+    "club": "SPRINTER CLUB VEXINOIS",
+    "category": "Open 3",
+    "gender": "F"
+  },
+  {
+    "id": "salomee-lambert",
+    "name": "Salomée Lambert",
+    "club": "VC MORTEAU MONTBENOIT",
+    "category": "Open 1",
+    "gender": "F"
+  },
+  {
+    "id": "ambre-le-royer",
+    "name": "Ambre Le Royer",
+    "club": "UC ALENCON DAMIGNY",
+    "category": "Open 3",
+    "gender": "F"
+  },
+  {
+    "id": "lea-lemoine",
+    "name": "Léa Lemoine",
+    "club": "VC CONTROIS",
+    "category": "Open 1",
+    "gender": "F"
+  },
+  {
+    "id": "laura-silande",
+    "name": "Laura Silande",
+    "club": "VC ELANCOURT ST QUENTIN EN YVELINES TEAM VOUSSERT",
+    "category": "Open 3",
+    "gender": "F"
+  },
+  {
+    "id": "sarah-andre",
+    "name": "Sarah André",
+    "club": "VC MORTEAU MONTBENOIT",
+    "category": "Open 1",
+    "gender": "F"
+  },
+  {
+    "id": "laura-semon",
+    "name": "Laura Semon",
+    "club": "VC MORTEAU MONTBENOIT",
+    "category": "Not known category",
+    "gender": "F"
+  },
+  {
+    "id": "zora-ravn",
+    "name": "Zora Ravn",
+    "club": "VC MORTEAU MONTBENOIT",
+    "category": "Open 1",
+    "gender": "F"
+  },
+  {
+    "id": "elisa-duchemin",
+    "name": "Elisa Duchemin",
+    "club": "ESM GONFREVILLE L'ORCHER",
+    "category": "Open 1",
+    "gender": "F"
+  },
+  {
+    "id": "zelie-diebolt",
+    "name": "Zélie Diebolt",
+    "club": "VC ELANCOURT ST QUENTIN EN YVELINES TEAM VOUSSERT",
+    "category": "Open 3",
+    "gender": "F"
+  },
+  {
+    "id": "margaux-gresse",
+    "name": "Margaux Gresse",
+    "club": "SPRINTEUR CLUB FEMININ",
+    "category": "Open 2",
+    "gender": "F"
+  },
+  {
+    "id": "lenka-remond",
+    "name": "Lenka Rémond",
+    "club": "VC ELANCOURT ST QUENTIN EN YVELINES TEAM VOUSSERT",
+    "category": "Open 3",
+    "gender": "F"
+  },
+  {
+    "id": "alizee-beaulieu",
+    "name": "Alizée Beaulieu",
+    "club": "C'CHARTRES CYCLISME",
+    "category": "Open 2",
+    "gender": "F"
+  },
+  {
+    "id": "martina-zagar",
+    "name": "Martina Zagar",
+    "club": "A. C. B. B.",
+    "category": "Open 3",
+    "gender": "F"
+  },
+  {
+    "id": "victoria-rigo",
+    "name": "Victoria Rigo",
+    "club": "VC ELANCOURT ST QUENTIN EN YVELINES TEAM VOUSSERT",
+    "category": "Open 2",
+    "gender": "F"
+  },
+  {
+    "id": "ariane-fleury",
+    "name": "Ariane Fleury",
+    "club": "AC SOTTEVILLE",
+    "category": "Access 4",
+    "gender": "F"
   }
 ]
