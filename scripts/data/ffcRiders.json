@@ -4231,7 +4231,7 @@
     "id": "xavier-denis",
     "name": "Xavier Denis",
     "club": "CSM PUTEAUX",
-    "category": "Access 4",
+    "category": "Access 3",
     "gender": "H"
   },
   {
@@ -8858,7 +8858,7 @@
     "id": "nicolas-leluc",
     "name": "Nicolas Leluc",
     "club": "CSM CLAMART",
-    "category": "Open 3",
+    "category": "Open 1",
     "gender": "H"
   },
   {
@@ -11757,6 +11757,125 @@
     "name": "Arthur Cardeiro",
     "club": "ASELB",
     "category": "Access 1",
+    "gender": "H"
+  },
+  {
+    "id": "florian-malaussena",
+    "name": "Florian Malaussena",
+    "club": "U.C. CULOZ/BELLEY",
+    "category": "Access 1",
+    "gender": "H"
+  },
+  {
+    "id": "raphael-lemoine",
+    "name": "Raphaël Lemoine",
+    "club": "PARIS CYCLISTE OLYMPIQUE",
+    "category": "Access 1",
+    "gender": "H"
+  },
+  {
+    "id": "vassily-laffineur",
+    "name": "Vassily Laffineur",
+    "club": "PARIS CYCLISTE OLYMPIQUE",
+    "category": "Access 1",
+    "gender": "H"
+  },
+  {
+    "id": "adrien-herbert",
+    "name": "Adrien Herbert",
+    "club": "",
+    "category": "Access 2",
+    "gender": "H"
+  },
+  {
+    "id": "maxime-autin",
+    "name": "Maxime Autin",
+    "club": "C'CHARTRES CYCLISME",
+    "category": "Open 2",
+    "gender": "H"
+  },
+  {
+    "id": "florian-linval",
+    "name": "Florian Linval",
+    "club": "ARGENTEUIL VAL DE SEINE 95",
+    "category": "Open 2",
+    "gender": "H"
+  },
+  {
+    "id": "aurelien-callewaert",
+    "name": "Aurélien Callewaert",
+    "club": "VC SAULCEEN ELBEUF LES T.V.O",
+    "category": "Open 3",
+    "gender": "H"
+  },
+  {
+    "id": "warry-sow",
+    "name": "Warry Sow",
+    "club": "CSM PUTEAUX",
+    "category": "Open 3",
+    "gender": "H"
+  },
+  {
+    "id": "pierre-louis-bourguet",
+    "name": "Pierre Louis Bourguet",
+    "club": "ANTONY BERNY CYCLISTE",
+    "category": "Open 3",
+    "gender": "H"
+  },
+  {
+    "id": "gabriel-lapert",
+    "name": "Gabriel Lapert",
+    "club": "EC VELIZY 78",
+    "category": "Access 1",
+    "gender": "H"
+  },
+  {
+    "id": "simon-tison",
+    "name": "Simon Tison",
+    "club": "TEAM PROGRESS",
+    "category": "Access 1",
+    "gender": "H"
+  },
+  {
+    "id": "gwenaelle-tirel",
+    "name": "Gwenaelle Tirel",
+    "club": "SPRINTEUR CLUB FEMININ",
+    "category": "Open 1",
+    "gender": "F"
+  },
+  {
+    "id": "noel-roussange",
+    "name": "Noël Roussange",
+    "club": "VELO CLUB ARPAJON",
+    "category": "Access 3",
+    "gender": "H"
+  },
+  {
+    "id": "jimmy-benoist",
+    "name": "Jimmy Benoist",
+    "club": "EC LAGNY PLESSIS",
+    "category": "Access 3",
+    "gender": "H"
+  },
+  {
+    "id": "alexandre-dubois",
+    "name": "Alexandre Dubois",
+    "club": "GUIDON CHALETTOIS",
+    "category": "Access 4",
+    "gender": "H"
+  },
+  {
+    "id": "frederic-maquaire",
+    "name": "Frédéric Maquaire",
+    "club": "COMPIEGNE SPORTS CYCLISTES",
+    "category": "Access 4",
+    "gender": "H"
+  },
+  {
+    "id": "cedric-olivera",
+    "name": "Cedric Olivera",
+    "club": "AS HERBLAY",
+    "category": "Access 4",
     "gender": "H"
   }
 ]
