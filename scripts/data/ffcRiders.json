@@ -11877,5 +11877,33 @@
     "club": "AS HERBLAY",
     "category": "Access 4",
     "gender": "H"
+  },
+  {
+    "id": "mathieu-da-cruz-elias",
+    "name": "Mathieu Da Cruz Elias",
+    "club": "US DOMNT CYCLISME",
+    "category": "Open 3",
+    "gender": "H"
+  },
+  {
+    "id": "jules-sechey",
+    "name": "Jules Sechey",
+    "club": "PARIS CYCLISTE OLYMPIQUE",
+    "category": "Open 3",
+    "gender": "H"
+  },
+  {
+    "id": "cyrille-bonnand",
+    "name": "Cyrille Bonnand",
+    "club": "VC TROUVILLE DEAUVILLE",
+    "category": "Open 3",
+    "gender": "H"
+  },
+  {
+    "id": "gabin-minet",
+    "name": "Gabin Minet",
+    "club": "PEDALE COMBS LA VILLAISE",
+    "category": "Access 1",
+    "gender": "H"
   }
 ]
