@@ -325,7 +325,7 @@
     "id": "romain-sautrau",
     "name": "Romain Sautrau",
     "club": "PARIS CYCLISTE OLYMPIQUE",
-    "category": "Access 2",
+    "category": "Access 1",
     "gender": "H"
   },
   {
@@ -11904,6 +11904,83 @@
     "name": "Gabin Minet",
     "club": "PEDALE COMBS LA VILLAISE",
     "category": "Access 1",
+    "gender": "H"
+  },
+  {
+    "id": "gregoire-colliere",
+    "name": "Grégoire Colliere",
+    "club": "CLAMART CYCLISME 92",
+    "category": "Open 3",
+    "gender": "H"
+  },
+  {
+    "id": "jules-pillon",
+    "name": "Jules Pillon",
+    "club": "TEAM CYCLISTE EN DANSEUSE",
+    "category": "Open 3",
+    "gender": "H"
+  },
+  {
+    "id": "stephane-lohyer",
+    "name": "Stéphane Lohyer",
+    "club": "B.C. NOISY LE GRAND",
+    "category": "Access 1",
+    "gender": "H"
+  },
+  {
+    "id": "gregory-noel",
+    "name": "Grégory Noel",
+    "club": "PARISIS A.C. 95",
+    "category": "Access 2",
+    "gender": "H"
+  },
+  {
+    "id": "jhonny-alberto-montoya-restrepo",
+    "name": "Jhonny Alberto Montoya Restrepo",
+    "club": "B.C. NOISY LE GRAND",
+    "category": "Access 3",
+    "gender": "H"
+  },
+  {
+    "id": "raphael-martinez",
+    "name": "Raphaël Martinez",
+    "club": "VC BONDY",
+    "category": "Access 3",
+    "gender": "H"
+  },
+  {
+    "id": "james-billiottet",
+    "name": "James Billiottet",
+    "club": "CC IGNY PALAISEAU 91",
+    "category": "Access 3",
+    "gender": "H"
+  },
+  {
+    "id": "jean-claude-duroz",
+    "name": "Jean Claude Duroz",
+    "club": "",
+    "category": "Access 4",
+    "gender": "H"
+  },
+  {
+    "id": "christophe-touzot",
+    "name": "Christophe Touzot",
+    "club": "VC ELANCOURT ST QUENTIN EN YVELINES TEAM VOUSSERT",
+    "category": "Access 4",
+    "gender": "H"
+  },
+  {
+    "id": "vinvent-elize",
+    "name": "Vinvent Elize",
+    "club": "TEAM CYCLISTE EN DANSEUSE",
+    "category": "Access 4",
+    "gender": "H"
+  },
+  {
+    "id": "christophe-billot-moiner",
+    "name": "Christophe Billot Moiner",
+    "club": "US MAULE",
+    "category": "Access 4",
     "gender": "H"
   }
 ]
