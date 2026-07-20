@@ -878,7 +878,7 @@
     "id": "carlos-machado-oliveira",
     "name": "Carlos Machado Oliveira",
     "club": "ENTENTE CYCLISTE AULNAY DRANCY 93",
-    "category": "Access 4",
+    "category": "Access 3",
     "gender": "H"
   },
   {
@@ -11980,6 +11980,104 @@
     "id": "christophe-billot-moiner",
     "name": "Christophe Billot Moiner",
     "club": "US MAULE",
+    "category": "Access 4",
+    "gender": "H"
+  },
+  {
+    "id": "pierre-dolatabadi",
+    "name": "Pierre Dolatabadi",
+    "club": "AS MEUDON CYCLOSPORT COMPETITION",
+    "category": "Access 1",
+    "gender": "H"
+  },
+  {
+    "id": "pierre-antoine-le-goff",
+    "name": "Pierre Antoine Le Goff",
+    "club": "UC GIEN SPORT",
+    "category": "Access 1",
+    "gender": "H"
+  },
+  {
+    "id": "antoine-ribour",
+    "name": "Antoine Ribour",
+    "club": "AS CORBEIL ESSONNES",
+    "category": "Access 1",
+    "gender": "H"
+  },
+  {
+    "id": "timothee-sailly",
+    "name": "Timothée Sailly",
+    "club": "AVENIR CYCLISTE DE LARDY",
+    "category": "Access 1",
+    "gender": "H"
+  },
+  {
+    "id": "adrien-licence-herbert",
+    "name": "Adrien Licence Herbert",
+    "club": "INDIVIDUELLE",
+    "category": "Access 2",
+    "gender": "H"
+  },
+  {
+    "id": "loic-menager",
+    "name": "Loïc Menager",
+    "club": "AC ORSAY",
+    "category": "Access 3",
+    "gender": "H"
+  },
+  {
+    "id": "cyril-mordelet",
+    "name": "Cyril Mordelet",
+    "club": "AS CORBEIL ESSONNES",
+    "category": "Access 3",
+    "gender": "H"
+  },
+  {
+    "id": "pascal-neron",
+    "name": "Pascal Neron",
+    "club": "GUIDON CHALETTOIS",
+    "category": "Access 3",
+    "gender": "H"
+  },
+  {
+    "id": "arnaud-vernier",
+    "name": "Arnaud Vernier",
+    "club": "CC PONTHIERRY PRINGY",
+    "category": "Access 3",
+    "gender": "H"
+  },
+  {
+    "id": "christian-joseph-negoce",
+    "name": "Christian Joseph Negoce",
+    "club": "TROPIKANA",
+    "category": "Access 3",
+    "gender": "H"
+  },
+  {
+    "id": "stephane-benkemoun",
+    "name": "Stéphane Benkemoun",
+    "club": "LICENCE INDIVIDUELLE",
+    "category": "Access 4",
+    "gender": "H"
+  },
+  {
+    "id": "daniel-cadet",
+    "name": "Daniel Cadet",
+    "club": "SQUADRA REGO'SSPORT CYCLISME",
+    "category": "Access 4",
+    "gender": "H"
+  },
+  {
+    "id": "philippe-espirt",
+    "name": "Philippe Espirt",
+    "club": "GUIDON CHALETTOIS",
+    "category": "Access 4",
+    "gender": "H"
+  },
+  {
+    "id": "christophe-billot-mornet",
+    "name": "Christophe Billot Mornet",
+    "club": "US MAULE CYCLISME",
     "category": "Access 4",
     "gender": "H"
   }
