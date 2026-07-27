@@ -339,7 +339,7 @@
     "id": "joel-naturel",
     "name": "Joël Naturel",
     "club": "VC FONTAINEBLEAU AVON",
-    "category": "Access 1",
+    "category": "Open 3",
     "gender": "H"
   },
   {
@@ -787,7 +787,7 @@
     "id": "pascal-costantini",
     "name": "Pascal Costantini",
     "club": "TEAM CYCLISTE BUSSY",
-    "category": "Access 4",
+    "category": "Access 3",
     "gender": "H"
   },
   {
@@ -12078,6 +12078,125 @@
     "id": "christophe-billot-mornet",
     "name": "Christophe Billot Mornet",
     "club": "US MAULE CYCLISME",
+    "category": "Access 4",
+    "gender": "H"
+  },
+  {
+    "id": "axel-licence-jordan",
+    "name": "Axel Licence Jordan",
+    "club": "INDIVIDUELLE",
+    "category": "Access 1",
+    "gender": "H"
+  },
+  {
+    "id": "bryan-sarrey",
+    "name": "Bryan Sarrey",
+    "club": "VC FONTAINEBLEAU AVON",
+    "category": "Access 2",
+    "gender": "H"
+  },
+  {
+    "id": "arnaud-beaudin",
+    "name": "Arnaud Beaudin",
+    "club": "UC GIEN SPORT",
+    "category": "Access 2",
+    "gender": "H"
+  },
+  {
+    "id": "gatien-titre-polly",
+    "name": "Gatien Titre Polly",
+    "club": "TEMPORAIRE",
+    "category": "Access 2",
+    "gender": "H"
+  },
+  {
+    "id": "thierry-usel",
+    "name": "Thierry Usel",
+    "club": "CC COULOMIERS",
+    "category": "Access 3",
+    "gender": "H"
+  },
+  {
+    "id": "manuel-ferreira",
+    "name": "Manuel Ferreira",
+    "club": "CC COULOMMIERS",
+    "category": "Access 3",
+    "gender": "H"
+  },
+  {
+    "id": "christophe-vilbrod",
+    "name": "Christophe Vilbrod",
+    "club": "USM MONTARGIS",
+    "category": "Access 4",
+    "gender": "H"
+  },
+  {
+    "id": "patrick-jully",
+    "name": "Patrick Jully",
+    "club": "VC SULPICIEN",
+    "category": "Access 4",
+    "gender": "H"
+  },
+  {
+    "id": "marion-licence-jaume",
+    "name": "Marion Licence Jaume",
+    "club": "INDIVIDUELLE",
+    "category": "Access 3",
+    "gender": "F"
+  },
+  {
+    "id": "denis-licence-frere",
+    "name": "Denis Licence Frere",
+    "club": "INDIVIDUELLE",
+    "category": "Access 4",
+    "gender": "H"
+  },
+  {
+    "id": "jean-jacques-zucco",
+    "name": "Jean Jacques Zucco",
+    "club": "VC SAINT-MAMMES",
+    "category": "Access 4",
+    "gender": "H"
+  },
+  {
+    "id": "cyraniadolphe-marcel",
+    "name": "Cyraniadolphe Marcel",
+    "club": "TROPIKANA",
+    "category": "Access 4",
+    "gender": "H"
+  },
+  {
+    "id": "joel-autissier",
+    "name": "Joel Autissier",
+    "club": "AIRPORT AOC WISSOUS",
+    "category": "Access 4",
+    "gender": "H"
+  },
+  {
+    "id": "thierry-mercier",
+    "name": "Thierry Mercier",
+    "club": "TEAM ALL CYCLES MEAUX",
+    "category": "Access 4",
+    "gender": "H"
+  },
+  {
+    "id": "michel-bournonville",
+    "name": "Michel Bournonville",
+    "club": "COURBEVOIE SPORTS CYCLISME",
+    "category": "Access 4",
+    "gender": "H"
+  },
+  {
+    "id": "jean-michel-wysocka",
+    "name": "Jean Michel Wysocka",
+    "club": "PEDALE COMBS LA VILLAISE",
+    "category": "Access 4",
+    "gender": "H"
+  },
+  {
+    "id": "daniel-tardiveau",
+    "name": "Daniel Tardiveau",
+    "club": "VC SAINT-MAMMES",
     "category": "Access 4",
     "gender": "H"
   }
