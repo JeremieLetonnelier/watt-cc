@@ -86783,9 +86783,9 @@
     "positionGender": 7,
     "category": "Access 3",
     "gender": "H",
-    "challengePoints": 14.0,
+    "challengePoints": 13.5,
     "promotionPoints": 0,
-    "points": 14.0,
+    "points": 13.5,
     "isWin": false,
     "isUpgradeVictory": false
   },
@@ -88241,6 +88241,21 @@
     "challengePoints": 0.0,
     "promotionPoints": 0,
     "points": 0.0,
+    "isWin": false,
+    "isUpgradeVictory": false
+  },
+  {
+    "id": "echouboulains---access-1-2-3-4-(4-departs-separes)-2026-07-26-thierry-van-vetteren",
+    "raceName": "Echouboulains - ACCESS 1-2-3-4 (4 départs séparés)",
+    "date": "2026-07-26",
+    "riderId": "thierry-van-vetteren",
+    "position": 7,
+    "positionGender": 7,
+    "category": "Access 3",
+    "gender": "H",
+    "challengePoints": 13.5,
+    "promotionPoints": 0,
+    "points": 13.5,
     "isWin": false,
     "isUpgradeVictory": false
   }
