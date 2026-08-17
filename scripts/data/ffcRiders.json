@@ -8487,7 +8487,7 @@
     "id": "stephane-mrozinski",
     "name": "Stephane Mrozinski",
     "club": "CYCLO 51",
-    "category": "Access 4",
+    "category": "Access 3",
     "gender": "H"
   },
   {
@@ -12198,6 +12198,132 @@
     "name": "Daniel Tardiveau",
     "club": "VC SAINT-MAMMES",
     "category": "Access 4",
+    "gender": "H"
+  },
+  {
+    "id": "jules-titre-bariou",
+    "name": "Jules Titre Bariou",
+    "club": "TEMPORAIRE",
+    "category": "Access 1",
+    "gender": "H"
+  },
+  {
+    "id": "jules-bariou",
+    "name": "Jules Bariou",
+    "club": "LICENCE INDIVIDUELLE",
+    "category": "Access 1",
+    "gender": "H"
+  },
+  {
+    "id": "ugo-dubrulle",
+    "name": "Ugo Dubrulle",
+    "club": "VC ROUEN 76",
+    "category": "Access 1",
+    "gender": "H"
+  },
+  {
+    "id": "antonin-vildy",
+    "name": "Antonin Vildy",
+    "club": "UC GIEN SPORT",
+    "category": "Access 1",
+    "gender": "H"
+  },
+  {
+    "id": "jeremie-fleury",
+    "name": "Jérémie Fleury",
+    "club": "TEAM PROGRESS",
+    "category": "Access 2",
+    "gender": "H"
+  },
+  {
+    "id": "julio-oliveira",
+    "name": "Julio Oliveira",
+    "club": "PEDALE COMBS LA VILLAISE",
+    "category": "Access 4",
+    "gender": "H"
+  },
+  {
+    "id": "jean-philippe-machin",
+    "name": "Jean Philippe Machin",
+    "club": "VC SAINT-MAMMES",
+    "category": "Access 4",
+    "gender": "H"
+  },
+  {
+    "id": "yves-licence-lamouche",
+    "name": "Yves Licence Lamouche",
+    "club": "INDIVIDUELLE",
+    "category": "Access 4",
+    "gender": "H"
+  },
+  {
+    "id": "noe-levarlet",
+    "name": "Noé Levarlet",
+    "club": "SUD OISE CYCLISME",
+    "category": "Open 3",
+    "gender": "H"
+  },
+  {
+    "id": "jonathan-martel",
+    "name": "Jonathan Martel",
+    "club": "SUD OISE CYCLISME",
+    "category": "Open 3",
+    "gender": "H"
+  },
+  {
+    "id": "lancelot-pencole",
+    "name": "Lancelot Pencole",
+    "club": "CD EURE",
+    "category": "Open 2",
+    "gender": "H"
+  },
+  {
+    "id": "clovis-dhondt",
+    "name": "Clovis Dhondt",
+    "club": "CD SEINE-MARITIME",
+    "category": "Open 2",
+    "gender": "H"
+  },
+  {
+    "id": "justin-genty",
+    "name": "Justin Genty",
+    "club": "CD SEINE-MARITIME",
+    "category": "Open 3",
+    "gender": "H"
+  },
+  {
+    "id": "ambroise-poujet",
+    "name": "Ambroise Poujet",
+    "club": "VC MONTIGNY BRETONNEUX",
+    "category": "Open 3",
+    "gender": "H"
+  },
+  {
+    "id": "evann-salomon",
+    "name": "Evann Salomon",
+    "club": "CHAMBERY C. COMPETITION",
+    "category": "Open 3",
+    "gender": "H"
+  },
+  {
+    "id": "lilian-gressard",
+    "name": "Lilian Gressard",
+    "club": "VELO SPORT MACONNAIS",
+    "category": "Open 2",
+    "gender": "H"
+  },
+  {
+    "id": "antje-valkeneers",
+    "name": "Antje Valkeneers",
+    "club": "CARBONBIKE GIORDANA SOFRE BY GEN Z",
+    "category": "Not known category",
+    "gender": "H"
+  },
+  {
+    "id": "fiona-mertens",
+    "name": "Fiona Mertens",
+    "club": "CARBONBIKE GIORDANA SOFRE BY GEN Z",
+    "category": "Not known category",
     "gender": "H"
   }
 ]
