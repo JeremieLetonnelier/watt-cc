@@ -12325,5 +12325,47 @@
     "club": "CARBONBIKE GIORDANA SOFRE BY GEN Z",
     "category": "Not known category",
     "gender": "H"
+  },
+  {
+    "id": "axel-sager",
+    "name": "Axel Sager",
+    "club": "AC MARINES",
+    "category": "Access 1",
+    "gender": "H"
+  },
+  {
+    "id": "jules-barrou",
+    "name": "Jules Barrou",
+    "club": "TITRE TEMPORAIRE",
+    "category": "Access 1",
+    "gender": "H"
+  },
+  {
+    "id": "gael-poumarat",
+    "name": "Gaël Poumarat",
+    "club": "US RIS ORANGIS",
+    "category": "Access 1",
+    "gender": "H"
+  },
+  {
+    "id": "stephane-mathieu",
+    "name": "Stéphane Mathieu",
+    "club": "USM VILLEPARISIS",
+    "category": "Access 3",
+    "gender": "H"
+  },
+  {
+    "id": "bernard-holleville",
+    "name": "Bernard Holleville",
+    "club": "US BOIS SAINT-DENIS",
+    "category": "Access 3",
+    "gender": "H"
+  },
+  {
+    "id": "olivier-lesage",
+    "name": "Olivier Lesage",
+    "club": "RO MARIGNANE",
+    "category": "Access 4",
+    "gender": "H"
   }
 ]
