@@ -52,7 +52,7 @@
     "id": "corentin-khatir",
     "name": "Corentin Khatir",
     "club": "ENTENTE CYCLISTE AULNAY DRANCY 93",
-    "category": "Access 1",
+    "category": "Open 3",
     "gender": "H"
   },
   {
@@ -542,7 +542,7 @@
     "id": "romain-hymonnet",
     "name": "Romain Hymonnet",
     "club": "VC FONTAINEBLEAU AVON",
-    "category": "Access 3",
+    "category": "Access 2",
     "gender": "H"
   },
   {
@@ -12365,6 +12365,97 @@
     "id": "olivier-lesage",
     "name": "Olivier Lesage",
     "club": "RO MARIGNANE",
+    "category": "Access 4",
+    "gender": "H"
+  },
+  {
+    "id": "remi-marcoux",
+    "name": "Rémi Marcoux",
+    "club": "RAYON D'ARGENT",
+    "category": "Open 1",
+    "gender": "H"
+  },
+  {
+    "id": "thomas-lefranc",
+    "name": "Thomas Lefranc",
+    "club": "TEAM AVESNOIS",
+    "category": "Open 2",
+    "gender": "H"
+  },
+  {
+    "id": "remi-rouquette",
+    "name": "Rémi Rouquette",
+    "club": "ANTONY BERNY CYCLISTE",
+    "category": "Open 2",
+    "gender": "H"
+  },
+  {
+    "id": "jerome-tersiguel",
+    "name": "Jérôme Tersiguel",
+    "club": "EC MONTGERON VIGNEUX",
+    "category": "Access 1",
+    "gender": "H"
+  },
+  {
+    "id": "adam-jami",
+    "name": "Adam Jami",
+    "club": "JS FERTE GAUCHER",
+    "category": "Access 1",
+    "gender": "H"
+  },
+  {
+    "id": "martin-salles",
+    "name": "Martin Salles",
+    "club": "TEAM CHATOU CYCLISME",
+    "category": "Open 3",
+    "gender": "H"
+  },
+  {
+    "id": "kevin-deboes",
+    "name": "Kévin Deboes",
+    "club": "US MAULE CYCLISME",
+    "category": "Open 3",
+    "gender": "H"
+  },
+  {
+    "id": "guy-dauphin",
+    "name": "Guy Dauphin",
+    "club": "VC MONTIGNY BRETONNEUX",
+    "category": "Access 2",
+    "gender": "H"
+  },
+  {
+    "id": "leo-laurichesse",
+    "name": "Léo Laurichesse",
+    "club": "CLAMART CYCLISME 92",
+    "category": "Open 3",
+    "gender": "H"
+  },
+  {
+    "id": "florent-guerin",
+    "name": "Florent Guerin",
+    "club": "CLAMART CYCLISME 92",
+    "category": "Access 1",
+    "gender": "H"
+  },
+  {
+    "id": "aurelien-magnien",
+    "name": "Aurélien Magnien",
+    "club": "VC MONTIGNY BRETONNEUX",
+    "category": "Access 3",
+    "gender": "H"
+  },
+  {
+    "id": "jean-christophe-landemaine",
+    "name": "Jean Christophe Landemaine",
+    "club": "AV THIAIS",
+    "category": "Access 4",
+    "gender": "H"
+  },
+  {
+    "id": "jacques-david",
+    "name": "Jacques David",
+    "club": "A. C. B. B.",
     "category": "Access 4",
     "gender": "H"
   }
