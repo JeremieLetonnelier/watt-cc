@@ -12458,5 +12458,117 @@
     "club": "A. C. B. B.",
     "category": "Access 4",
     "gender": "H"
+  },
+  {
+    "id": "alban-delhoulme",
+    "name": "Alban Delhoulme",
+    "club": "VAL D'OISE CYCLISME",
+    "category": "Access 1",
+    "gender": "H"
+  },
+  {
+    "id": "albin-falleau",
+    "name": "Albin Falleau",
+    "club": "EC VELIZY 78",
+    "category": "Access 1",
+    "gender": "H"
+  },
+  {
+    "id": "ebtissam-zayed-ahmed",
+    "name": "Ebtissam Zayed Ahmed",
+    "club": "SPRINTEUR CLUB FEMININ",
+    "category": "Not known category",
+    "gender": "F"
+  },
+  {
+    "id": "frederic-massart",
+    "name": "Frédéric Massart",
+    "club": "VC GARENNOIS",
+    "category": "Access 1",
+    "gender": "H"
+  },
+  {
+    "id": "cassidy-slokett",
+    "name": "Cassidy Slokett",
+    "club": "AV THIAIS",
+    "category": "Access 3",
+    "gender": "F"
+  },
+  {
+    "id": "pierre-julien-passe-decouverte-pavard",
+    "name": "Pierre Julien Passe Découverte Pavard",
+    "club": "",
+    "category": "Access 1",
+    "gender": "H"
+  },
+  {
+    "id": "swan-spreux",
+    "name": "Swan Spreux",
+    "club": "PARIS CYCLISTE OLYMPIQUE",
+    "category": "Access 1",
+    "gender": "H"
+  },
+  {
+    "id": "clement-rocco",
+    "name": "Clément Rocco",
+    "club": "JS FERTE GAUCHER",
+    "category": "Access 2",
+    "gender": "H"
+  },
+  {
+    "id": "olivier-dejamme",
+    "name": "Olivier Dejamme",
+    "club": "TEAM CYCLISTE BUSSY",
+    "category": "Access 3",
+    "gender": "H"
+  },
+  {
+    "id": "christophe-mugnier",
+    "name": "Christophe Mugnier",
+    "club": "US EZANVILLE ECOUEN",
+    "category": "Access 3",
+    "gender": "H"
+  },
+  {
+    "id": "jose-palmeirao",
+    "name": "José Palmeirão",
+    "club": "TEAM CYCLISTES ECHAPPEE 77",
+    "category": "Access 4",
+    "gender": "H"
+  },
+  {
+    "id": "cyrielle-bourguignon",
+    "name": "Cyrielle Bourguignon",
+    "club": "TEAM CYCLISTE EN DANSEUSE",
+    "category": "Access 3",
+    "gender": "F"
+  },
+  {
+    "id": "pascal-cerrada",
+    "name": "Pascal Cerrada",
+    "club": "CC COULOMMIERS",
+    "category": "Access 4",
+    "gender": "H"
+  },
+  {
+    "id": "marc-theuret",
+    "name": "Marc Theuret",
+    "club": "VELO CLUB DE VENANSAULT",
+    "category": "Access 4",
+    "gender": "H"
+  },
+  {
+    "id": "franck-guyot",
+    "name": "Franck Guyot",
+    "club": "LE MEE SPORTS",
+    "category": "Access 4",
+    "gender": "H"
+  },
+  {
+    "id": "arnaud-dehorgne",
+    "name": "Arnaud Dehorgne",
+    "club": "TEAM CYCLISTE EN DANSEUSE",
+    "category": "Access 4",
+    "gender": "H"
   }
 ]
