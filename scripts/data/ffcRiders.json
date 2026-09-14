@@ -12570,5 +12570,89 @@
     "club": "TEAM CYCLISTE EN DANSEUSE",
     "category": "Access 4",
     "gender": "H"
+  },
+  {
+    "id": "yannis-neqal",
+    "name": "Yannis Neqal",
+    "club": "GPC ANGEVIN",
+    "category": "Access 1",
+    "gender": "H"
+  },
+  {
+    "id": "olivier-peuvrier",
+    "name": "Olivier Peuvrier",
+    "club": "EC VELIZY 78",
+    "category": "Access 2",
+    "gender": "H"
+  },
+  {
+    "id": "j-francois",
+    "name": "J Francois",
+    "club": "NOEL ARGONN 700",
+    "category": "Access 3",
+    "gender": "H"
+  },
+  {
+    "id": "fabien-ppiedeloup",
+    "name": "Fabien Ppiedeloup",
+    "club": "INDIVIDUELLE",
+    "category": "Access 3",
+    "gender": "H"
+  },
+  {
+    "id": "stephane-pasolini",
+    "name": "Stéphane Pasolini",
+    "club": "TEAM ALL CYCLES MEAUX",
+    "category": "Access 3",
+    "gender": "H"
+  },
+  {
+    "id": "jean-bellouin",
+    "name": "Jean Bellouin",
+    "club": "MICHEL CC VALLEE DE AISNE",
+    "category": "Access 4",
+    "gender": "H"
+  },
+  {
+    "id": "jean-fdurel",
+    "name": "Jean Fdurel",
+    "club": "CLAUDE INDIVIDUELLE",
+    "category": "Access 4",
+    "gender": "H"
+  },
+  {
+    "id": "eric-arena",
+    "name": "Eric Arena",
+    "club": "INDIVIDUELLE",
+    "category": "Access 4",
+    "gender": "H"
+  },
+  {
+    "id": "christophe-daudet",
+    "name": "Christophe Daudet",
+    "club": "AS CHELLES",
+    "category": "Access 4",
+    "gender": "H"
+  },
+  {
+    "id": "claude-le-fur",
+    "name": "Claude Le Fur",
+    "club": "TEAM CYCLISTE EN DANSEUSE",
+    "category": "Access 4",
+    "gender": "H"
+  },
+  {
+    "id": "jean-corcy",
+    "name": "Jean Corcy",
+    "club": "MARC CC VILLENEUCE ST GERMAIN",
+    "category": "Access 4",
+    "gender": "H"
+  },
+  {
+    "id": "bernard-bertin-jean",
+    "name": "Bernard Bertin Jean",
+    "club": "TROPIKANA",
+    "category": "Access 4",
+    "gender": "H"
   }
 ]
