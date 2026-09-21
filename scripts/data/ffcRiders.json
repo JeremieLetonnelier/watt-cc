@@ -1683,7 +1683,7 @@
     "id": "laurent-roussel",
     "name": "Laurent Roussel",
     "club": "TEAM BIKE CYCLISTE SAINT PRIX",
-    "category": "Access 3",
+    "category": "Access 2",
     "gender": "H"
   },
   {
@@ -6933,7 +6933,7 @@
     "id": "ferdinand-colin",
     "name": "Ferdinand Colin",
     "club": "PARIS CYCLISTE OLYMPIQUE",
-    "category": "Access 1",
+    "category": "Open 3",
     "gender": "H"
   },
   {
@@ -12653,6 +12653,118 @@
     "name": "Bernard Bertin Jean",
     "club": "TROPIKANA",
     "category": "Access 4",
+    "gender": "H"
+  },
+  {
+    "id": "sandrine-bideau",
+    "name": "Sandrine Bideau",
+    "club": "AS CORBEIL ESSONNES",
+    "category": "Access 3",
+    "gender": "F"
+  },
+  {
+    "id": "sarah-gaillard",
+    "name": "Sarah Gaillard",
+    "club": "US MAULE CYCLISME",
+    "category": "Access 3",
+    "gender": "F"
+  },
+  {
+    "id": "amelie-wolff",
+    "name": "Amélie Wolff",
+    "club": "AS CORBEIL ESSONNES",
+    "category": "Access 3",
+    "gender": "F"
+  },
+  {
+    "id": "ysaline-jean",
+    "name": "Ysaline Jean",
+    "club": "SPRINTEUR CLUB FEMININ",
+    "category": "Open 3",
+    "gender": "F"
+  },
+  {
+    "id": "hortense-rigaud",
+    "name": "Hortense Rigaud",
+    "club": "US MAULE CYCLISME",
+    "category": "Access 3",
+    "gender": "F"
+  },
+  {
+    "id": "raphael-poisson",
+    "name": "Raphaël Poisson",
+    "club": "EC MONTGERON VIGNEUX",
+    "category": "Open 2",
+    "gender": "H"
+  },
+  {
+    "id": "gabriel-genter",
+    "name": "Gabriel Genter",
+    "club": "PARIS CYCLISTE OLYMPIQUE",
+    "category": "Open 1",
+    "gender": "H"
+  },
+  {
+    "id": "emeric-choisy",
+    "name": "Emeric Choisy",
+    "club": "PARISIS A.C. 95",
+    "category": "Access 2",
+    "gender": "H"
+  },
+  {
+    "id": "jeremy-holvoet",
+    "name": "Jérémy Holvoet",
+    "club": "TEAM HBS CYCLING",
+    "category": "Access 1",
+    "gender": "H"
+  },
+  {
+    "id": "robin-tressel",
+    "name": "Robin Tressel",
+    "club": "US MAULE CYCLISME",
+    "category": "Access 1",
+    "gender": "H"
+  },
+  {
+    "id": "laurent-bortolot",
+    "name": "Laurent Bortolot",
+    "club": "US MAULE CYCLISME",
+    "category": "Access 2",
+    "gender": "H"
+  },
+  {
+    "id": "yoann-marechal",
+    "name": "Yoann Marechal",
+    "club": "TEAM HBS CYCLING",
+    "category": "Access 2",
+    "gender": "H"
+  },
+  {
+    "id": "gilles-anizan",
+    "name": "Gilles Anizan",
+    "club": "EC MONTGERON VIGNEUX",
+    "category": "Access 2",
+    "gender": "H"
+  },
+  {
+    "id": "gael-le-merrer",
+    "name": "Gaël Le Merrer",
+    "club": "A. SOISY ENGHIEN LA BARRE",
+    "category": "Access 3",
+    "gender": "H"
+  },
+  {
+    "id": "sylvain-kurnikowski",
+    "name": "Sylvain Kurnikowski",
+    "club": "LAGNY PONTCARRE CYC.",
+    "category": "Access 3",
+    "gender": "H"
+  },
+  {
+    "id": "sebastien-watremez",
+    "name": "Sébastien Watremez",
+    "club": "LAGNY PONTCARRE CYC.",
+    "category": "Access 3",
     "gender": "H"
   }
 ]
