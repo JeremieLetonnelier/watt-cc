@@ -1655,7 +1655,7 @@
     "id": "sebastien-espargilhe",
     "name": "Sebastien Espargilhe",
     "club": "AV THIAIS",
-    "category": "Access 3",
+    "category": "Access 2",
     "gender": "H"
   },
   {
@@ -4182,7 +4182,7 @@
     "id": "stephane-digard",
     "name": "Stéphane Digard",
     "club": "AS HERBLAY",
-    "category": "Access 4",
+    "category": "Access 3",
     "gender": "H"
   },
   {
@@ -12765,6 +12765,174 @@
     "name": "Sébastien Watremez",
     "club": "LAGNY PONTCARRE CYC.",
     "category": "Access 3",
+    "gender": "H"
+  },
+  {
+    "id": "ludovic-bideau",
+    "name": "Ludovic Bideau",
+    "club": "VCU SCHWENHEIM",
+    "category": "Not known category",
+    "gender": "H"
+  },
+  {
+    "id": "noe-roulot",
+    "name": "Noé Roulot",
+    "club": "C'CHARTRES CYCLISME",
+    "category": "Not known category",
+    "gender": "H"
+  },
+  {
+    "id": "raphael-tricot",
+    "name": "Raphaël Tricot",
+    "club": "GUIDON CHALETTOIS",
+    "category": "Open 1",
+    "gender": "H"
+  },
+  {
+    "id": "yacine-chalel",
+    "name": "Yacine Chalel",
+    "club": "OLYMPIQUE C.V.O.",
+    "category": "Not known category",
+    "gender": "H"
+  },
+  {
+    "id": "loic-chopier",
+    "name": "Loïc Chopier",
+    "club": "ENTENTE CYCLISTE QUEVILLAISE",
+    "category": "Open 1",
+    "gender": "H"
+  },
+  {
+    "id": "benjamin-couppey",
+    "name": "Benjamin Couppey",
+    "club": "ENTENTE CYCLISTE QUEVILLAISE",
+    "category": "Open 1",
+    "gender": "H"
+  },
+  {
+    "id": "julien-dujardin",
+    "name": "Julien Dujardin",
+    "club": "ENTENTE CYCLISTE QUEVILLAISE",
+    "category": "Open 1",
+    "gender": "H"
+  },
+  {
+    "id": "sylvain-augis",
+    "name": "Sylvain Augis",
+    "club": "VC LUCEEN",
+    "category": "Open 1",
+    "gender": "H"
+  },
+  {
+    "id": "guillaume-donnet",
+    "name": "Guillaume Donnet",
+    "club": "USSA PAVILLY BARENTIN",
+    "category": "Open 1",
+    "gender": "H"
+  },
+  {
+    "id": "gabin-becq",
+    "name": "Gabin Becq",
+    "club": "USSA PAVILLY BARENTIN",
+    "category": "Open 1",
+    "gender": "H"
+  },
+  {
+    "id": "jean-julien-olivry",
+    "name": "Jean Julien Olivry",
+    "club": "VC EVREUX",
+    "category": "Access 2",
+    "gender": "H"
+  },
+  {
+    "id": "remy-renou",
+    "name": "Remy Renou",
+    "club": "EC ENTRAMMES PARNE FORCE",
+    "category": "Access 1",
+    "gender": "H"
+  },
+  {
+    "id": "adriien-herbet",
+    "name": "Adriien Herbet",
+    "club": "INDIVIDUEL",
+    "category": "Access 3",
+    "gender": "H"
+  },
+  {
+    "id": "bruno-mattioda",
+    "name": "Bruno Mattioda",
+    "club": "INDIVIDUEL",
+    "category": "Access 3",
+    "gender": "H"
+  },
+  {
+    "id": "frederic-le-frere",
+    "name": "Frédéric Le Frere",
+    "club": "TEAM ALL CYCLES MEAUX",
+    "category": "Access 3",
+    "gender": "H"
+  },
+  {
+    "id": "stephane-derrien",
+    "name": "Stephane Derrien",
+    "club": "VELO CLUB DE CONLIE",
+    "category": "Access 3",
+    "gender": "H"
+  },
+  {
+    "id": "anthony-diou",
+    "name": "Anthony Diou",
+    "club": "VC BONDY",
+    "category": "Access 3",
+    "gender": "H"
+  },
+  {
+    "id": "laurent-senegas",
+    "name": "Laurent Senegas",
+    "club": "VC VINCENNES",
+    "category": "Access 3",
+    "gender": "H"
+  },
+  {
+    "id": "julien-perna",
+    "name": "Julien Perna",
+    "club": "AV THIAIS",
+    "category": "Access 4",
+    "gender": "H"
+  },
+  {
+    "id": "charly-valleran",
+    "name": "Charly Valleran",
+    "club": "USSA PAVILLY BARENTIN",
+    "category": "Open 1",
+    "gender": "H"
+  },
+  {
+    "id": "gabin-bonne",
+    "name": "Gabin Bonne",
+    "club": "USSA PAVILLY BARENTIN",
+    "category": "Open 3",
+    "gender": "H"
+  },
+  {
+    "id": "thibaut-fargeas",
+    "name": "Thibaut Fargeas",
+    "club": "CC NOGENT / OISE",
+    "category": "Open 1",
+    "gender": "H"
+  },
+  {
+    "id": "guillaume-lavefve",
+    "name": "Guillaume Lavefve",
+    "club": "VELO SPORT METZ METROPOLE",
+    "category": "Open 2",
+    "gender": "H"
+  },
+  {
+    "id": "karim-filali",
+    "name": "Karim Filali",
+    "club": "USM GAGNY",
+    "category": "Access 1",
     "gender": "H"
   }
 ]
